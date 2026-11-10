@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Is+it+Thinking+or+Cheating+Detecting+Implicit+Reward+Hacking+by+Measuring+Reasoning+Effort%22+OR+ti%3A%22It+s+All+Just+Vectorization+einx+a+Universal+Notation+for+Tensor+Operations%22+OR+ti%3A%22LLM+DNA+Tracing+Model+Evolution+via+Functional+Representations%22+OR+ti%3A%22LLM+Fingerprinting+via+Semantically+Conditioned+Watermarks%22+OR+ti%3A%22Latent+Fourier+Transform%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Is+it+Thinking+or+Cheating+Detecting+Implicit+Reward+Hacking+by+Measuring+Reasoning+Effort%22+OR+ti%3A%22It+s+All+Just+Vectorization+einx+a+Universal+Notation+for+Tensor+Operations%22+OR+ti%3A%22LLM+DNA+Tracing+Model+Evolution+via+Functional+Representations%22+OR+ti%3A%22LLM+Fingerprinting+via+Semantically+Conditioned+Watermarks%22+OR+ti%3A%22Latent+Fourier+Transform%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:18.593697+00:00",
+  "bytes": 10113,
+  "sha256": "7693a7a183d739f695fe29ba1fa3a75d2a4b7b8d399073ed73dc437d87a239ac",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-2b26455bde7a5182c305.gz"
+}

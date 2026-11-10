@@ -1,0 +1,10 @@
+{
+  "url": "https://media.nips.cc/Conferences/ICML2017/ICML-2017-Conference-Book.pdf",
+  "final_url": "https://media.nips.cc/Conferences/ICML2017/ICML-2017-Conference-Book.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:46.490153+00:00",
+  "bytes": 4050134,
+  "sha256": "6dca510dd1544b9be1ae1ba2ed571829b95bb425246aba4ce80bd2a32a89d088",
+  "content_type": "application/pdf",
+  "cache_path": "sources/raw/icml-2017-book.gz"
+}

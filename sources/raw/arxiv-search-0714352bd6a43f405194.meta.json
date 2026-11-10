@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Rethinking+Architecture+Selection+in+Differentiable+NAS%22+OR+ti%3A%22Rethinking+Attention+with+Performers%22+OR+ti%3A%22Rethinking+the+Role+of+Gradient+based+Attribution+Methods+for+Model+Interpretability%22+OR+ti%3A%22SMiRL+Surprise+Minimizing+Reinforcement+Learning+in+Unstable+Environments%22+OR+ti%3A%22Scalable+Learning+and+MAP+Inference+for+Nonsymmetric+Determinantal+Point+Processes%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Rethinking+Architecture+Selection+in+Differentiable+NAS%22+OR+ti%3A%22Rethinking+Attention+with+Performers%22+OR+ti%3A%22Rethinking+the+Role+of+Gradient+based+Attribution+Methods+for+Model+Interpretability%22+OR+ti%3A%22SMiRL+Surprise+Minimizing+Reinforcement+Learning+in+Unstable+Environments%22+OR+ti%3A%22Scalable+Learning+and+MAP+Inference+for+Nonsymmetric+Determinantal+Point+Processes%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:20.280154+00:00",
+  "bytes": 14416,
+  "sha256": "64ca63509b3cb55d52c32bd6d3601f093e7426a3c74f830bffe64c2f037a7f18",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-0714352bd6a43f405194.gz"
+}

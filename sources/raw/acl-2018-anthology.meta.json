@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/P18.xml",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/P18.xml",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:52.765859+00:00",
+  "bytes": 676559,
+  "sha256": "2dd7ad0328b391bd4ed91854ecc8899d9d26afd3439c8e5fcc756a0adf4ab8ba",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/acl-2018-anthology.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://icml.cc/virtual/2019/events/poster?layout=mini",
+  "final_url": "https://icml.cc/virtual/2019/papers.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:40:08.970972+00:00",
+  "bytes": 129093,
+  "sha256": "ee0b22cec574a57595645ddf086a7a704c8f68be90c51601e4eb837a0ddb7a96",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/icml-2019-posterlist.gz"
+}

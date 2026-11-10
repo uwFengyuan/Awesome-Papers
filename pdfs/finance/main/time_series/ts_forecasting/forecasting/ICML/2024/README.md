@@ -1,0 +1,15 @@
+# pdfs/finance/main/time_series/ts_forecasting/forecasting/ICML/2024
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2024 | ICML | main | [A decoder-only foundation model for time-series forecasting](https://icml.cc/virtual/2024/poster/33288) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2024_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2024-33288__A_decoder_only_foundation_model_for_time_series_forecasting.pdf) |
+| 2024 | ICML | main | [An Analysis of Linear Time Series Forecasting Models](https://icml.cc/virtual/2024/poster/32697) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2024_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2024-32697__An_Analysis_of_Linear_Time_Series_Forecasting_Models.pdf) |
+| 2024 | ICML | main | [CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://icml.cc/virtual/2024/poster/35137) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2024_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2024-35137__CATS_Enhancing_Multivariate_Time_Series_Forecasting_by_Constructing_Auxiliary_Time_Series_as_Exogeno.pdf) |
+| 2024 | ICML | main | [Loss Shaping Constraints for Long-Term Time Series Forecasting](https://icml.cc/virtual/2024/poster/34815) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2024_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2024-34815__Loss_Shaping_Constraints_for_Long_Term_Time_Series_Forecasting.pdf) |
+| 2024 | ICML | main | [SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention](https://icml.cc/virtual/2024/oral/35563) | [Long] [Main] [Oral] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2024_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D%5BFinance%5D__icml-2024-35563__SAMformer_Unlocking_the_Potential_of_Transformers_in_Time_Series_Forecasting_with_Sharpness_Aware_Mi.pdf) |
+| 2024 | ICML | main | [SIN: Selective and Interpretable Normalization for Long-Term Time Series Forecasting](https://icml.cc/virtual/2024/poster/33594) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2024_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2024-33594__SIN_Selective_and_Interpretable_Normalization_for_Long_Term_Time_Series_Forecasting.pdf) |
+| 2024 | ICML | main | [Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning](https://icml.cc/virtual/2024/poster/34011) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2024_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2024-34011__Time_Series_Forecasting_for_Out_of_Distribution_Generalization_Using_Invariant_Learning.pdf) |

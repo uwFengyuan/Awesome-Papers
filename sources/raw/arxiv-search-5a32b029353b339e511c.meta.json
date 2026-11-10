@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Exact+Functional+ANOVA+Decomposition+for+Categorical+Inputs+Models%22+OR+ti%3A%22Expressivity+Efficiency+Tradeoffs+for+Hybrid+Sequence+Models%22+OR+ti%3A%22FLIP2+Expanding+Protein+Fitness+Landscape+Benchmarks+for+Real+World+Machine+Learning+Applications%22+OR+ti%3A%22Faster+Activation+Functions+at+the+Edge+for+Post+Training+Speedups%22+OR+ti%3A%22FlashSinkhorn+IO+Aware+Entropic+Optimal+Transport+on+GPU%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Exact+Functional+ANOVA+Decomposition+for+Categorical+Inputs+Models%22+OR+ti%3A%22Expressivity+Efficiency+Tradeoffs+for+Hybrid+Sequence+Models%22+OR+ti%3A%22FLIP2+Expanding+Protein+Fitness+Landscape+Benchmarks+for+Real+World+Machine+Learning+Applications%22+OR+ti%3A%22Faster+Activation+Functions+at+the+Edge+for+Post+Training+Speedups%22+OR+ti%3A%22FlashSinkhorn+IO+Aware+Entropic+Optimal+Transport+on+GPU%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:45.287560+00:00",
+  "bytes": 8310,
+  "sha256": "75f69a632022ec7b3023983be086fa621c996bb23251c199a7c1f04f7a930b8a",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5a32b029353b339e511c.gz"
+}

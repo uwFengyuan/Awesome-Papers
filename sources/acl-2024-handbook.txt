@@ -1,0 +1,559 @@
+ACL Handbook
+ACL Local Chairs
+July 7, 2024
+2
+Chapter 1
+Message from the Local Chairs
+On behalf of NECTEC and AIAT, it is our great honor to host ACL 2024
+here in Bangkok, Thailand after a long story. In 2019, we submitted our bid
+for Bangkok to host ACL 2021. When we learned that our bid was successful,
+we were so delighted, excited, and ready to be a welcoming host. Neverthe-
+less, the global COVID lockdown in 2020 and 2021 made it impossible to
+accommodate all of you at the venue, and it was converted to be 100% on-
+line. Now four years have passed since the unfortunate interruption, we are
+able to meet face-to-face here in Bangkok, Thailand. We would also like to
+accommodate many of you online and make it a convenient platform for you.
+ACL is a great opportunity to welcome global friends and colleagues in
+NLP, machine learning, and AI. Here in Thailand and the ASEAN region, we
+emphasize the adoption and application of AI as well as to leverage research,
+development, and innovation of AI. With our rich language and cultural
+diversity, NLP, particularly LLMs, has become one of the key success factors
+for the regional AI industry. We believe it is appropriate that ACL is being
+held in our country for the first time. We are looking forward to making this
+event an open area for initiating technical discussions, making new friends,
+and establishing new collaborations in the area and worldwide.
+We are of course grateful to everyone who submitted a paper; whether
+your work was selected for a presentation or not, if no one had submitted, we
+wouldn’t have had a conference. For those of you whose work was selected for
+presentation, many thanks for coming to Bangkok, or for presenting online.
+Along the way, we have been helped greatly by the General ChairClaire
+Gardent, and byJennifer Rachford and others from the ACL executive team,
+to whom we are extremely thankful. However, by far the biggest thanks
+3
+4 CHAPTER 1. MESSAGE FROM THE LOCAL CHAIRS
+are due to Jon Dorsey and his team for their professional support of the
+conference. You will have met them at registration, and they are available
+throughout the event to ensure your needs are met. We could not have
+made a better choice of PCO to assist us with all the requirements involved
+in hosting the best-regarded conference in our area. This has been a true
+partnership that has made this journey an enjoyable one.
+Bangkok is famous for our hospitality, low-priced flavorful foods, and
+popular tourist destinations in the area. You will also find Thai smiles ev-
+erywhere you go, and we are happy to give you a hand when you need help. I
+wish this will be one of your fondest trips for ACL and other conferences, too.
+Finally, we really hope that you all enjoy the conference, that you benefit
+from the excellent program that has been assembled, and that you go away
+from here having made new friends. We are fortunate indeed that many of
+our very best friends are in the computational linguistics community, and we
+will try our very best to meet as many of you as possible during the event.
+Thepchai Supnithi
+NECTEC, Thailand,
+and AIAT Thailand
+Thanaruk Theeranumkong
+SIIT, Thammasat University Thailand
+and AIAT Thailand
+Prachya Boonkwan
+NECTEC Thailand
+Local Chairs, ACL 2024
+Chapter 2
+Meal Info
+Breakfast: Breakfast is not provided, but it may be included in the room
+rates and served at the restaurant of the hotel you have checked in, depend-
+ing on your reservation type.
+* Break: Coffee, tea, pastry, and biscuits are provided late morning and
+midafternoon.
+* Lunch: Lunch boxes will be served for the Tutorial, Main Conference,
+and Workshop Days at the Convention Centre area on the 22nd floor. Please
+check the Convention Centre maps for locations.
+Dinner: Dinner is not provided, but there are plenty of cafes, restaurants
+anddepartmentstoresaround. The“Phenix”project, theworld’sfoodwhole-
+sale hub with the largest food lounge in Pratunam, is recommended.
+** Welcome Reception:Light canapés, cocktails, and a drink ticket will
+be provided on Sunday Evening, August 11, 2024, at the Welcome Recep-
+tion. It will be held on the 22nd floor atCentara Grand and Bangkok
+Convention Centre at CentralWorld.
+The Welcome Reception ticket is included as part of the Full Conference
+Registration and can be added on for Guests, Tutorial, Workshop and Ex-
+hibitors to attend at the Registration Solutions Desk or through your Yes
+Events registration login.No admission without an entry ticket.
+** Social Event: International Buffet Dinner and a drink ticket will be
+5
+6 CHAPTER 2. MEAL INFO
+provided on Tuesday Evening, August 13, 2024, at the Social Event Gala
+Dinner (Social Gala). It will be held atBerkeley Hotel Pratunam.
+The Social Event ticket is included as part of the Full Conference Regis-
+tration and can be added on for Guests, Tutorial, Workshop and Exhibitors
+to attend at the Registration Solutions Desk or through your Yes Events
+registration login. No admission without an entry ticket.
+Please note the following:
+* Denotes Tutorial/Main Conference/Workshop Days
+** Denotes Main Conference Days
+Chapter 3
+Social Events
+WelcomeReception—Sunday, August11, 2024
+Venue: Centara Grand and Bangkok Convention Centre at Central-
+World (on the 22nd floor)
+Time: 18:30 – 21:00
+One entry ticket will be included with each full conference registration.
+To get admission into the event you will need to have your name badge on
+your person as the QR code that is located on your badge is how the ACL
+Staff member(s) Scan and account for admission(s). No name badge, no en-
+trance. Social Event tickets can be added on for Guests, Tutorial, Workshop
+and Exhibitors to attend at the Registration Solutions Desk or through your
+Yes Events registration login.
+Location: Convention Centre on the 22nd floor at Centara Grand and
+Bangkok Convention Centre at CentralWorld
+Directions: From the registration area, the convention centre area is on the
+left-hand side.
+Schedule:
+• 18:30 – 21:00:Light canapés, cocktails, and a drink ticket
+7
+8 CHAPTER 3. SOCIAL EVENTS
+SocialEventDinner—Tuesday, August13, 2024
+Venue: Berkeley Hotel Pratunam
+Time: 18:30 – 22:00
+We have planned the following Social Event Gala Dinner (Social Gala)
+for ACL 2024. Please follow ACL’S Code of Conduct while attending these
+events.
+One entry ticket will be included with each full conference registration.
+To get admission into the event you will need to have your name badge on
+your person as the QR code that is located on your badge is how the ACL
+Staff member(s) Scan and account for admission(s). No name badge, no
+entrance. The Social Event ticket can be added on for Guests, Tutorial,
+Workshop and Exhibitors to attend at the Registration Solutions Desk or
+through your Yes Events registration login.
+Location: Mayfair Grand Ballroom at Berkeley Hotel Pratunam.
+Directions: From the Convention Centre on the 22nd floor of Centara
+Grand and Bangkok Convention Centre at CentralWorld , take the elevator
+down to the 1st floor. Proceed along the R Walk skybridge until its end.
+Cross Ratchadamri Road to the east and Petchburi Road to the north at
+Pratunam Intersection. Continue east along the Palladium World Shopping
+Centre until the end of the mall, where you will find the entrance to Berkeley
+Hotel Pratunam. The distance from Centara Grand and Bangkok Conven-
+tion Centre at CentralWorld is 600 m. The map for the Social Event Gala
+Dinner (Social Gala) is available at the conference registration.
+Schedule:
+• 18:30 – 19:00:Registration
+• 19:00–22:00: InternationalBuffetDinner: Eachattendeewillreceive
+the complimentary drink ticket upon admission into the Social Event.
+• 20:30 – 21:30:Entertainment: Thai traditional dance will be show-
+cased. Also, the presentation of any impressive events during the con-
+ference will be displayed after the performance.
+Chapter 4
+Venue Map
+Centara Grand and Bangkok Convention Cen-
+tre at CentralWorld (on the 22nd floor)
+Location: Located in the heart of Bangkok,Centara Grand and Bangkok
+Convention Centre at CentralWorld is easily accessible by car and via the
+BTS SkyTrain, Chidlom and Siam BTS Skytrain stations are connected to
+the hotel via skywalk. Also, this five-star hotel connects to Central World
+Department Store, the largest lifestyle shopping and dining destination in
+Bangkok, and it is 0.19 mi (0.3 km) from Siam Paragon and 1.24 mi (2 km)
+from Jim Thomson House. Suvarnabhumi Airport is approximately 45 min-
+utes away under normal traﬀic conditions.
+Rooms: The uptown city-centre hotel has 505 newly renovated luxury
+rooms, including 36 suites. Each room boasts a specially designed bed, indi-
+vidually controlled air-conditioning, a bathroom with large tub and shower.
+WiFi high-speed internet, flat-screen smart TVs, in-house music, direct in-
+ternationaltelephonedialling, well-stockedminibar/refrigeratorandpersonal
+in-room safety box, which is big enough to fit a standard sized laptop, are
+provided. Thailand power adapters operate on a 220V supply voltage and
+50Hz.
+Amenities: For leisure time, the hotel offers the award-winning spa, a
+Finnish sauna, steam baths, steam rooms, outdoor terrace Jacuzzis, an out-
+door swimming pool with poolside bar, and a fitness centre, tennis courts.
+9
+10 CHAPTER 4. VENUE MAP
+Dining: Enjoy various flavours of the world on the 54th-55th floor of the
+hotel: international flavours from traditional Thai to contemporary Italian
+at Ventisi, Spanish and Mediterranean classics at UNO MAS, modern Euro-
+pean cuisine at Red Sky Restaurant, creative cocktails and light bites at Red
+Sky Bar, champagne, freshly shucked oysters, and premium bites at CRU
+Champagne Bar, and handcrafted chocolates and decadent cognac cocktails
+at Cocoa XO. Casually, the hotel has the modern lifestyle retreat, Mill&Co,
+serving bakery and refreshments, and the elegant lobby lounge, Tea&Tipple,
+serving sweets, treats and tea. Moreover, the hotel also offers in-room dining
+service with local Thai and international cuisines day and night.
+Business Amenities: The Bangkok Convention Centre at CentralWorld
+was awarded the Best Meeting and Convention Hotel 2022. It accommodates
+eventsfrom10to6,000attendees, andprovidesthepillar-lessconventionhall,
+the elegant World Ballroom, Lotus suites, and executive boardrooms. The
+pillar-less convention hall with over 5,000 seats measures 1,291 sqm for the
+large pre-function areas, and an additional 385 sqm when combined with the
+spacious open atrium of the convention centre’s lobby. The elegant World
+Ballroom, measuring 706 sqm, provides state-of-the-art facilities, soundproof
+wall partitions, large projection screens, and professional audio-video equip-
+ment and lighting systems. Lotus suites are available in sizes ranging from
+58 - 412 sqm and accommodating from 10 - 400 guests with full audio-video
+equipment and natural lighting in some rooms. The executive boardrooms
+are also provided with capacity for 18 to 50 people. Moreover, book direct
+benefits are provided: best rate guarantee, 10% off food and drinks during a
+stay, and early check-in or late check-out.
+Spoken Languages: English, Thai.
+Onsite Payments:Mastercard, Visa, AMEX (American Express), WeChat
+Pay, UnionPay.
+Chapter 5
+Local Guide
+Conference Venue
+Centara Grand and Bangkok Convention Centre at CentralWorld is the ideal
+venue for international and regional conventions, conferences, exhibitions,
+seminars, social events and concerts. Its integrated system provides state-
+of-the-art facilities, supported by a dedicated team of experienced staff. The
+convenient location, combined with the superb surroundings of shopping and
+entertainment options, creates the perfect environment for meetings and con-
+ventions.
+The Bangkok Convention Centre at CentralWorld is the biggest conven-
+tion venue in the central business district of Bangkok accommodating events
+from 10 to 6,000 attendees. From Suvarnabhumi Airport, it is approximately
+45 minutes away under normal traﬀic conditions.
+In case of during operation hours of CentralWorld (10:00 - 22:00), you
+can go toCentara Grand and Bangkok Convention Centre at CentralWorld
+by the following way.
+1. Enter CentralWorld through the Shake Shack entrance and head to-
+wards Zone B (landmarks: Starbucks and Comma &nd).
+2. Continue walking to Zone D (landmark: Hugs Thai), and then exit the
+mall through the back exit and turn right.
+3. You will find the entrance toCentara Grand and Bangkok Convention
+Centre at CentralWorld.
+11
+12 CHAPTER 5. LOCAL GUIDE
+In case of outside operation hours of CentralWorld (before 10:00 and
+after 22:00), you can go toCentara Grand and Bangkok Convention Centre
+at CentralWorld by the following way.
+1. At the end of the R Walk skybridge, you reach CentralWorld.
+2. Walk along the mall side with the Ganesha Shrine exit until the end
+of the mall.
+3. Turn left and you will find the entrance toCentara Grand and Bangkok
+Convention Centre at CentralWorld .
+We look forward to welcoming the Association for Computational Lin-
+guistics Conference delegates to the hotel designed to resemble a flowering
+lotus with a theme incorporating life’s four elements — earth, air, fire, and
+water — in the city of angels, Bangkok!
+Accommodations
+Host Hotel: Centara Grand and Bangkok Convention
+Centre at CentralWorld
+The hotel is a five-star hotel located in the heart of Bangkok. It features 505
+luxury rooms, including 36 suites and 9 World Executive Club floors. Each
+room is equipped with individually controlled air conditioning, a spacious
+bathroom with a large tub and shower, and elegant furnishings, including
+specially designed beds. The rooms are technologically advanced with user-
+friendly control panels for lighting and other functions, as well as amenities
+such as high-speed Wi-Fi, flat-screen smart TVs, in-house music, and direct
+international telephone dialing. Additionally, the rooms are furnished with a
+well-stocked minibar/refrigerator and a personal in-room safety box capable
+of accommodating a standard-sized laptop.
+Berkeley Hotel Pratunam
+The hotel, established in 2013, is centrally located on Ratchaprarop Road in
+Bangkok’s Pratunam area. It offers a luxurious and modern ambiance known
+as “A Touch of Elegance.” As a 5-star hotel, it provides a cozy and elegant
+environment with a wealth of amenities. Its prime location offers easy access
+13
+to popular shopping areas and convenient public transportation, making it
+ideal for both leisure and business travelers seeking a rewarding experience
+in Bangkok.
+The distance toCentara Grand and Bangkok Convention Centre at Cen-
+tralWorld is 600 m. You can go there by walking west along the Palladium
+World Shopping Centre to Pratunam Intersection, crossing Petchburi Road
+to the south and Ratchadamri Road to the west, and then walking along the
+R Walk skybridge until its end. Finally, you will reach CentralWorld.
+Moxy Bangkok Ratchaprasong
+The hotel, the first Moxy Hotel in Thailand and the largest in Asia Pa-
+cific, is centrally located near Chit Lom BTS station, offering easy access
+to shopping, dining, and iconic attractions. With 504 stylish rooms, a top-
+notch gym, and a vibrant Moxy Bar and Restaurant, guests can join the
+lively events right in the lobby. The hotel caters to both work and leisure
+with a Library and Plug-In area for productivity and play. Moxy Bangkok
+Ratchaprasong combines smartly designed rooms, stylish communal spaces,
+and a lively dining and cocktails scene, promising a rejuvenating stay im-
+mersed in the heart of Bangkok’s excitement.
+The distance toCentara Grand and Bangkok Convention Centre at Cen-
+tralWorld is 600 m. You can go there by taking the glass elevator from the
+lobby (9th floor) to M floor, crossing the R Walk skybridge to CentralWorld.
+Arnoma Grand Bangkok
+Located in Bangkok’s Central Business area, Arnoma Grand Bangkok is sur-
+rounded by prestigious business addresses. It is conveniently opposite Cen-
+tralworld, offering access to 400 shops and restaurants, and near renowned
+designer malls in Asia. The hotel is also close to the BTS Skytrain, providing
+quick transportation across Bangkok.
+The distance toCentara Grand and Bangkok Convention Centre at Cen-
+tralWorld is 700 m. You can go there by crossing the R Walk skybridge in
+front of the hotel to CentralWorld.
+14 CHAPTER 5. LOCAL GUIDE
+Centre Point Pratunam Hotel
+The hotel, located on Petchburi Road near Pratunam Market, offers easy
+access to major shopping hubs like Siam Paragon and MBK. It also provides
+proximity to diverse dining options and a fully-equipped fitness center. In-
+room internet services are available, and guests can enjoy additional ameni-
+ties such as meeting rooms, a saltwater swimming pool, jacuzzi, sauna, and
+kid’s room. The hotel maintains a strict smoke-free policy throughout, al-
+lowing smoking only in designated outdoor areas like the lobby, ensuring a
+pleasant stay for all guests.
+The distance toCentara Grand and Bangkok Convention Centre at Cen-
+tralWorld is 950 m. You can go there by walking south to go down the
+side street of Soi Petchburi 15, turning left, crossing the pedestrian suspen-
+sion bridge to the platinum Fashion Mall, walking along Petchburi Road to
+Pratunam Intersection, and then walking along the R Walk skybridge until
+its end. Finally, you will reach CentralWorld.
+Chapter 6
+About Bangkok
+The Kingdom of Thailand’s capital Bangkok, also known by the locals as
+“Krung Thep Maha Nakhon” (translated to “city of angels” in Thai lan-
+guage), stands ready to welcome ACL 2024.
+Bangkok has extensive expertise in playing host to countless interna-
+tional gatherings, with smart city development, accommodating infrastruc-
+ture, world-class congress facilities, a wide variety of accommodations, and
+gracious Thai hospitality.
+For many years, the city has been the most visited city in the world. The
+dynamism of its society’s evolution, tourist attractions, and modernisation
+is built upon the foundations of a strong cultural identity and historical
+heritage. Bangkok has truly become a World City.
+Languages
+Thai is considered the oﬀicial language of Thailand; however, English is
+widely spoken throughout the country.
+Safety
+Bangkok is considered a generally safe place to visit, but like visiting any
+major city, be aware of your surroundings. Use good judgment. Don’t draw
+attention to yourself, be aware of scams, know emergency numbers (listed
+below), keep digital copies of important documents (passport), drink respon-
+sibly, travel with friends or colleagues, trust your instincts!
+15
+16 CHAPTER 6. ABOUT BANGKOK
+Climate
+The climate is tropical, typically warm and humid throughout the year. The
+monsoon season runs from May until October. The average temperature is
+about 30°C/86°F. August is considered one of the wettest months of the sea-
+son with both light spells and heavy downpours. If you plan on sightseeing,
+you may want to pack a light-weight rain jacket.
+Clothing
+Plan on packing light, breathable summer clothing. Moisture-wicking mate-
+rial is a sensible choice. While dress codes are liberal, attire in Thailand is
+modest and consideration should be given not to offend the sensibilities of
+others. Swimwear should be worn only on beaches or at swimming pools.
+Visiting shopping malls and other attractions, tourists should wear clothing
+that is not too tight or revealing.
+Currency & Living Cost
+The currency used is the ‘Thai Baht’ written as THB. Smaller change is
+knownas“Satang”, where100Satanggoesinto1Baht. ThaiBahtnotesstart
+from 20 THB and go up to 1000 THB, whereas the coins have denominations
+of 25 Satang, 50 Satang, 1 THB, 2 THB, 5 THB and 10 THB.
+Water
+The tap water in Bangkok in general is safe to drink. But locally bottled
+waterisgenerallyservedinhotelsandrestaurantsandthedemandforbottled
+water is increasing.
+17
+In case of an Emergency
+Emergency Services Tel No.
+Ambulance 1669
+Fire 199
+Government 1111
+Police 191
+Popular Destinations
+Explore the myriad options of things to do and places to visit while you are
+in Bangkok via the page by the Tourism Authority of Thailand below.
+https://www.tourismthailand.org/Destinations/Provinces/Bangkok/219
+Wat Phra Kaew and The Grand Palace
+TheGrandPalaceinBangkok, Thailand, isahistoriccomplexthathasserved
+as a significant symbol of the Thai Royal Family since the city’s founding by
+King Rama I. It used to be the residence of King Rama I to King Rama V.
+Today, the Royal Family resides at Chitralada Palace, and the Grand Palace
+is used mainly for ceremonial functions and hosting state and foreign digni-
+taries. It is divided into two main zones, namely the Temple of the Emerald
+Buddha or Wat Phra Kaew and the royal residence. The residence has three
+areas: the Outer Court, Middle Court, and Inner Court. The Outer Court
+has state oﬀices. The Middle Court hosts major royal ceremonies like coro-
+nations, featuring important buildings like Phra Maha Monthien and Chakri
+Maha Prasat. The Inner Court historically served as living quarters for fe-
+male members of the royal family.
+For more information:
+https://www.tourismthailand.org/Attraction/the-grand-palace
+18 CHAPTER 6. ABOUT BANGKOK
+Jim Thompson House Museum and Jim Thompson Art
+Center
+Jim Thompson House Museum is the Bangkok home and Asian art collection
+of the late James H.W. Thompson, also known as the “Thai Silk King”.
+Located in the center of Bangkok, Soi Kasemsan 2, Rama 1 Road, it opens
+every day from 10:00 AM to 5:00 PM with the last guided tour at 5:00
+PM. When visiting the main house, customers are not allowed to enter the
+house without a guide. The museum provides guides in five languages: Thai,
+English, French, Chinese, and Japanese. The entrance fees are that:
+• ฿200 for adults
+• ฿100 for children between 10 - 21 years old (ID required)
+• Free entry for children under 10 years of age when accompanied by an
+adult, Thai Buddhist monks, Press, tourist guides, and tour leaders
+(identity card required)
+Moreover, the Jim Thompson Art Center is situated in the same com-
+pound as Jim Thompson House Museum. The Art Center organizes exhibi-
+tions, conductseducationalprograms, producespublicationsandcollaborates
+with local and international cultural institutions.
+Jim Thompson House Museum and Jim Thompson Art Center are con-
+veniently reached by car, taxi, tuk tuk, and the BTS Sky Train (3-min walk
+from National Stadium station exit no.1).
+For more information:
+https://jimthompsonhouse.org/
+WatPhraChetuphonWimonmangkalaramRatchaworama-
+hawihan or “Wat Pho”
+WatPhraChetuphonWimonmangkalaramRatchaworamahawihan, alsoknown
+as Wat Pho, is a historic and prestigious temple located next to the Grand
+Palace on Maha Rat Road in Bangkok, Thailand. It is a revered royal temple
+dedicated to the study of Buddhist teachings, and this is the temple of the
+reign of King Rama I the Great. During the reign of King Rama III, Wat
+Pho, renowned as Thailand’s first university, was expanded and adorned
+19
+with inscriptions of academic texts from various fields, aiming to promote
+knowledge among the populace. In addition, one of its main attractions is a
+large reclining Buddha image of early Bangkok Period, in brick and stucco,
+lacquered and gilded, measuring 46 meters long and 15 meters high, and
+featuring 108 auspicious images on its feet. Open daily from 08:30 to 19:30.
+The admission fee is 300 THB.
+For more information:
+https://www.watpho.com
+Wat Arun Ratchawararam Ratchawaramahawihan or
+“Wat Arun”
+Wat Arun Ratchawararam Ratchawaramahawihan, known as the Temple of
+Dawn, is a famous Buddhist temple in Bangkok, Thailand, situated on the
+west bank of the Chao Phraya River in the Bangkok Yai district. The tem-
+ple derives its name from the Hindu god Aruna, who represents the rising
+sun’s radiance. Wat Arun is well-known as one of Thailand’s most important
+landmarks, especially beautiful in the morning when sunlight reflects off its
+surfaces. Originally established during the Ayutthaya period and formerly
+known as Wat Chaeng, it became a royal temple during the reign of King
+Rama II. The temple underwent significant renovations and was given its
+current name, Wat Arun Ratchawararam. In the reign of King Rama III,
+there was a construction of a prominent large pagoda standing 82 meters
+tall and 234 meters wide. It was completed in the reign of King Rama IV
+the Great, and the temple’s name was changed to Wat Arun Ratchawararam
+like it is still called today. The temple is open daily from 08:00 to 18:00 and
+charges an entrance fee of 100 THB.
+For more information:
+Tel. +66-(0)-2-891-2185 or
+https://www.tourismthailand.org/Attraction/phraprang-wat-arun-ratchawararam-ratchawora-mahawi
+ICONSIAM
+ICONSIAM is a major project in Thailand aimed at showcasing Thai culture
+and prosperity to the world. It’s backed by a partnership of three successful
+20 CHAPTER 6. ABOUT BANGKOK
+Thai companies who have invested a total of 55 billion baht. Located along
+the Chao Phraya River in Bangkok, ICONSIAM is set to become a land-
+mark development, featuring an advanced transportation system connecting
+land, rail, and water routes. This initiative aims to improve traﬀic and ur-
+ban planning, while also transforming the Chao Phraya River into a global
+attraction. ICONSIAM’s goal is to highlight Bangkok’s significance as a top
+tourist destination and a prime location for business and living. Open daily
+from 10:00 to 22:00.
+For more information:
+https://iconsiam.com/en
+Siam Paragon
+Siam Paragon is Thailand’s largest and most famous shopping and entertain-
+ment center, attracting millions of local and international visitors every year.
+It opened in 2005 during an economic crisis with a record investment of USD
+460 million, which boosted confidence in Thailand’s economy. Siam Paragon
+is renowned for its wide range of shops, entertainment options, and dining ex-
+periences, offering a unique and immersive environment. It’s a joint venture
+between Siam Piwat and the Mall Group, and remains a favorite shopping
+destination for both Thai and international shoppers, consistently achieving
+strong sales and growth year after year. Open daily from 10:00 to 22:00.
+For more information:
+https://www.siamparagon.co.th/
+EM DISTRICT
+EM District, Bangkok’s premier shopping and entertainment hub, is located
+in the heart of Asia’s most vibrant city. EM District features three amaz-
+ing malls connected to the BTS Phrom Phong station by walkways. Start
+your journey at EMPORIUM, home to top luxury brands and a fantastic
+department store. Then, explore EMQUARTIER for trendy street fashion,
+high-tech gadgets, and a wide variety of dining options. Don’t miss EM-
+SPHERE, Bangkok’s first ‘Sleepless Metropolis,’ where you can visit Ikea’s
+largest city store, enjoy concerts at UOB Live arena, and experience over 50
+21
+bars and clubs in the EM Wonder zone. Take advantage of tourist promo-
+tions, tax refunds, and special services like lounges and hotel deliveries with
+bilingual staff. Whether you’re shopping, dining, or enjoying entertainment,
+EM District offers it all—where the world comes together.
+For more information:
+https://emdistrict.com/home/
+ExperienceCentralWorld: theTrendiestShop-
+ping Complex in Bangkok
+The CentralWorld shopping complex is one of the most distinctive land-
+marks in the centre of the Bangkok metropolis. The complex is a one-stop
+mega shopping centre covering an expansive 550,000 m2 of shopping mall and
+830,000 m2 of complex which offers an exciting mix of shopping and lifestyle.
+The complex has over 500 stores, 100 restaurants, 15 cinemas, jewelry and
+watch zones, and Central Food Hall. It is also one of the most extensive food
+retailers in Thailand. The shopping complex is a convenient destination for
+visitors to taste the spectrum of Asian cultures and traditions, while finding
+unique, affordable gifts and home décor from all over Asia. The complex is
+centrally located at the Ratchaprasong intersection (Ratchadamri and Rama
+I Roads) and connected by sky-bridge to the Chidlom and Siam BTS Sky
+Train stations. The front of the complex has a very large activity square
+used for the staging of major events, from Bangkok’s largest New Year’s
+countdown party to concerts and televised sporting events.
+Travel
+Airports
+Bangkokhastwoairports—BKKandDMKareuniquefacilitiesincompletely
+different parts of towns, separated by dozens of traﬀic-filled kilometers, which
+will take you an hour (minimum) to traverse.
+• BKK - Suvarnabhumi Airport (31.9 km to Centara Grand Hotel)
+22 CHAPTER 6. ABOUT BANGKOK
+• DMK - Don Mueang International Airport (23.5 km to Centara Grand
+Hotel)
+Airlines
+The vast majority of international airlines that fly to Thailand only fly to
+Suvarnabhumi. Don Mueang, on the other hand, is primarily served by low-
+cost airlines, and only by airlines that are either Thai or are based within
+Southeast Asia. As a general rule, if you are flying from North America,
+New Zealand or Europe to Thailand, you will arrive at or depart from BKK.
+From Australia, there is the remote possibility that you may connect through
+Kuala Lumpur or Singapore on a low-cost airline and arrive at DMK.
+Parking
+Complimentary for overnight guests & Conf. Attendees
+Getting around in Bangkok
+Bangkok bus, MRT, BTS - All in one Guide
+Transit Bangkok is the most comprehensive guide to Bangkok public trans-
+portation. Bangkok bus, MRT (Bangkok Metro), BTS Sky Trains, boats -
+Chao Phraya Express and Khlong, are collected in one guide. Find informa-
+tion about fares, operating hours, download a Bangkok bus map and view
+listings. Use Transit Bangkok’s route planner to find the optimal route to
+your destination.
+More Information:
+https://www.transitbangkok.com/
+The BTS SkyTrain
+The BTS SkyTrain runs through all important downtown districts and major
+transport hubs in Bangkok, from Khu Khot to Kheha (Sukhumvit Line) and
+National Stadium to Bang Wa (Silom Line). Zooming above Bangkok’s traf-
+fic at a steady speed, and with connecting points to the MRT Underground,
+23
+Chao Phraya Express Boats and two land transport terminals at Victory
+Monument and Mo Chit, it’s the best way to get around.
+More Information:
+https://www.bts.co.th/eng/
+Download the application THE SKYTRAINs here.
+MRT
+The MRT, Bangkok’s subway consists of four lines: Blue Line (from Lak Song
+to Tha Phra), Purple Line (from Khlong Bang Phai to Tao Poon), Yellow
+Line (from Lat Phrao to Samrong), and Pink Line (from Nonthaburi Civic
+Center to Min Buri). Tickets are bought in the form of tokens from ma-
+chines at the stations. The subway is connected to the BTS (the sky trains)
+at Asok, Mo Chit, Sala Daeng and Bang Wa stations, and also Bangkok bus
+at many connecting points.
+More Information:
+https://www.mrta.co.th/en/mrt-chaloem-ratchamongkhon
+Airport Rail Link (ARL)
+Bangkok Airport Rail Link is a commuter rail line connecting Suvarnab-
+humi Airport to Phaya Thai (BTS) station via Makkasan Station (MRT
+Phetchaburi). The Airport Rail link operates daily from 06:00 to 24:00, with
+commuter City Line trains departing every 10 minutes during peak hours
+(06:00-09:00 and 16:00-20:00) and 15 minutes off peak and weekends. It has
+8 stations: Suvarnabhumi Airport, Lad Krabang, Ban Thap Chang, Hua
+Mark, Ramkhamhaeng, Makkasan (City Air Terminal – interchange with
+24 CHAPTER 6. ABOUT BANGKOK
+MRT Blue Line (Phetchaburi Station)), Ratchaprarop, and Phayathai (in-
+terchange with BTS Sukhumvit Line (Phayathai Station)). Standard fare
+for the City Line is between 15–45 baht depending on distance.
+More Information:
+https://www.bangkokairportonline.com/bangkok-airport-rail-link/
+BTS, MRT, and ARL Map
+
+25
+Grab Taxi
+Grab Taxi is a smartphone-based taxi booking and dispatching service. Only
+20 baht booking fee plus more with your meter cost.
+More Information:
+https://www.grab.com/th/en/taxi/

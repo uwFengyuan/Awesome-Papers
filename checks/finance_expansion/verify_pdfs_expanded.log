@@ -1,0 +1,33 @@
+Verified PDF files 500 / 9349
+Verified PDF files 1000 / 9349
+Verified PDF files 1500 / 9349
+Verified PDF files 2000 / 9349
+Verified PDF files 2500 / 9349
+Verified PDF files 3000 / 9349
+Verified PDF files 3500 / 9349
+Verified PDF files 4000 / 9349
+Verified PDF files 4500 / 9349
+Verified PDF files 5000 / 9349
+Verified PDF files 5500 / 9349
+Verified PDF files 6000 / 9349
+Verified PDF files 6500 / 9349
+Verified PDF files 7000 / 9349
+Verified PDF files 7500 / 9349
+Verified PDF files 8000 / 9349
+Verified PDF files 8500 / 9349
+Verified PDF files 9000 / 9349
+{
+  "catalog_rows": 9600,
+  "unique_ids": 9600,
+  "unique_local_pdf_files": 9349,
+  "file_integrity_failures": 0,
+  "title_checks": {
+    "exact_normalized": 9157,
+    "word_match": 179,
+    "manual_review": 13
+  },
+  "finance_rows": 1178,
+  "track_values": [
+    "main"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AlphaBench+Benchmarking+Large+Language+Models+in+Formulaic+Alpha+Factor+Mining%22+OR+ti%3A%22AlphaSAGE+Structure+Aware+Alpha+Mining+via+GFlowNets+for+Robust+Exploration%22+OR+ti%3A%22Analytica+Soft+Propositional+Reasoning+for+Robust+and+Scalable+LLM+Driven+Analysis%22+OR+ti%3A%22CTBench+Cryptocurrency+Time+Series+Generation+Benchmark%22+OR+ti%3A%22Deep+FlexQP+Accelerated+Nonlinear+Programming+via+Deep+Unfolding%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AlphaBench+Benchmarking+Large+Language+Models+in+Formulaic+Alpha+Factor+Mining%22+OR+ti%3A%22AlphaSAGE+Structure+Aware+Alpha+Mining+via+GFlowNets+for+Robust+Exploration%22+OR+ti%3A%22Analytica+Soft+Propositional+Reasoning+for+Robust+and+Scalable+LLM+Driven+Analysis%22+OR+ti%3A%22CTBench+Cryptocurrency+Time+Series+Generation+Benchmark%22+OR+ti%3A%22Deep+FlexQP+Accelerated+Nonlinear+Programming+via+Deep+Unfolding%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:12:59.094506+00:00",
+  "bytes": 12404,
+  "sha256": "bdf69f4ba9fc6cb885a5724c7abd77975872d0b74fcf40c12eacff5d510a00a7",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-0540f40d3189a7dab382.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Interpreting+CLIP+s+Image+Representation+via+Text+Based+Decomposition%22+OR+ti%3A%22Is+ImageNet+worth+1+video+Learning+strong+image+encoders+from+1+long+unlabelled%22+OR+ti%3A%22Knowledge+Card+Filling+LLMs+Knowledge+Gaps+with+Plug+in+Specialized+Language+Models%22+OR+ti%3A%22LEGO+Prover+Neural+Theorem+Proving+with+Growing+Libraries%22+OR+ti%3A%22LLMCarbon+Modeling+the+End+to+End+Carbon+Footprint+of+Large+Language+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Interpreting+CLIP+s+Image+Representation+via+Text+Based+Decomposition%22+OR+ti%3A%22Is+ImageNet+worth+1+video+Learning+strong+image+encoders+from+1+long+unlabelled%22+OR+ti%3A%22Knowledge+Card+Filling+LLMs+Knowledge+Gaps+with+Plug+in+Specialized+Language+Models%22+OR+ti%3A%22LEGO+Prover+Neural+Theorem+Proving+with+Growing+Libraries%22+OR+ti%3A%22LLMCarbon+Modeling+the+End+to+End+Carbon+Footprint+of+Large+Language+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:46.320297+00:00",
+  "bytes": 11916,
+  "sha256": "ad5d8a2fe9a8e70ebff5ff6bea9c278ccf3ec2f8792b8249f842f5072ddebbca",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-aafc4d11405f6c02d4d3.gz"
+}

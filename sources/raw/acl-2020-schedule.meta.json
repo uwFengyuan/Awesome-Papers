@@ -1,0 +1,10 @@
+{
+  "url": "https://2020.aclweb.org/schedule/",
+  "final_url": "https://2020.aclweb.org/schedule/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:45.921227+00:00",
+  "bytes": 16963,
+  "sha256": "a2e83a702113df8edf2364fa846cbb20122a4edbdcf7052418813da10399641c",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2020-schedule.gz"
+}

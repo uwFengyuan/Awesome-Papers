@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Towards+Nonlinear+Disentanglement+in+Natural+Data+with+Temporal+Sparse+Coding%22+OR+ti%3A%22VCNet+and+Functional+Targeted+Regularization+For+Learning+Causal+Effects+of+Continuous+Treatments%22+OR+ti%3A%22What+Matters+for+On+Policy+Deep+Actor+Critic+Methods+A+Large+Scale+Study%22+OR+ti%3A%22When+Do+Curricula+Work%22+OR+ti%3A%22Why+Are+Convolutional+Nets+More+Sample+Efficient+than+Fully+Connected+Nets%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Towards+Nonlinear+Disentanglement+in+Natural+Data+with+Temporal+Sparse+Coding%22+OR+ti%3A%22VCNet+and+Functional+Targeted+Regularization+For+Learning+Causal+Effects+of+Continuous+Treatments%22+OR+ti%3A%22What+Matters+for+On+Policy+Deep+Actor+Critic+Methods+A+Large+Scale+Study%22+OR+ti%3A%22When+Do+Curricula+Work%22+OR+ti%3A%22Why+Are+Convolutional+Nets+More+Sample+Efficient+than+Fully+Connected+Nets%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:26.413137+00:00",
+  "bytes": 13429,
+  "sha256": "c23eeb8e4a1973e37f837e96ccf647ab43274bc957760fac83fcd1b4553e5b18",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-8f569cea269642e69843.gz"
+}

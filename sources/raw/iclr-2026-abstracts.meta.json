@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/static/virtual/data/iclr-2026-abstracts.json",
+  "final_url": "https://iclr.cc/static/virtual/data/iclr-2026-abstracts.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:46:21.228298+00:00",
+  "bytes": 8118594,
+  "sha256": "2272dfefab54bb8de3736d43dcab3925be4db2c35fe2b75b59fbf90563844c41",
+  "content_type": "application/json",
+  "cache_path": "sources/raw/iclr-2026-abstracts.gz"
+}

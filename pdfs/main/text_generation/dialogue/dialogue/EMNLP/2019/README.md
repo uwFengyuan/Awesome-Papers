@@ -1,0 +1,14 @@
+# pdfs/main/text_generation/dialogue/dialogue/EMNLP/2019
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2019 | EMNLP | main | [Build it Break it Fix it for Dialogue Safety: Robustness from Adversarial Human Attack](https://aclanthology.org/D19-1461/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1461__Build_it_Break_it_Fix_it_for_Dialogue_Safety_Robustness_from_Adversarial_Human_Attack.pdf) |
+| 2019 | EMNLP | main | [DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation](https://aclanthology.org/D19-1015/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1015__DialogueGCN_A_Graph_Convolutional_Neural_Network_for_Emotion_Recognition_in_Conversation.pdf) |
+| 2019 | EMNLP | main | [Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever](https://aclanthology.org/D19-1013/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1013__Entity_Consistent_End_to_end_Task_Oriented_Dialogue_System_with_KB_Retriever.pdf) |
+| 2019 | EMNLP | main | [GECOR: An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue](https://aclanthology.org/D19-1462/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1462__GECOR_An_End_to_End_Generative_Ellipsis_and_Co_reference_Resolution_Model_for_Task_Oriented_Dialogue.pdf) |
+| 2019 | EMNLP | main | [Guided Dialog Policy Learning: Reward Estimation for Multi-Domain Task-Oriented Dialog](https://aclanthology.org/D19-1010/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1010__Guided_Dialog_Policy_Learning_Reward_Estimation_for_Multi_Domain_Task_Oriented_Dialog.pdf) |
+| 2019 | EMNLP | main | [Using Customer Service Dialogues for Satisfaction Analysis with Context-Assisted Multiple Instance Learning](https://aclanthology.org/D19-1019/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1019__Using_Customer_Service_Dialogues_for_Satisfaction_Analysis_with_Context_Assisted_Multiple_Instance_L.pdf) |

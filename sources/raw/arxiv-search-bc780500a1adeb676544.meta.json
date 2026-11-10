@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Equal+Improvability+A+New+Fairness+Notion+Considering+the+Long+term+Impact%22+OR+ti%3A%22FairGBM+Gradient+Boosting+with+Fairness+Constraints%22+OR+ti%3A%22Probabilistically+Robust+Recourse+Navigating+the+Trade+offs+between+Costs+and+Robustness+in+Algorithmic%22+OR+ti%3A%22Timing+is+Everything+Learning+to+Act+Selectively+with+Costly+Actions+and+Budgetary+Constraints%22+OR+ti%3A%22New+Insight+of+Variance+reduce+in+Zero+Order+Hard+Thresholding+Mitigating+Gradient+Error%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Equal+Improvability+A+New+Fairness+Notion+Considering+the+Long+term+Impact%22+OR+ti%3A%22FairGBM+Gradient+Boosting+with+Fairness+Constraints%22+OR+ti%3A%22Probabilistically+Robust+Recourse+Navigating+the+Trade+offs+between+Costs+and+Robustness+in+Algorithmic%22+OR+ti%3A%22Timing+is+Everything+Learning+to+Act+Selectively+with+Costly+Actions+and+Budgetary+Constraints%22+OR+ti%3A%22New+Insight+of+Variance+reduce+in+Zero+Order+Hard+Thresholding+Mitigating+Gradient+Error%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:01.366402+00:00",
+  "bytes": 15362,
+  "sha256": "56835fdaed441738bf3618126c30053fcbea41665a7970dfd83ee92038563c22",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-bc780500a1adeb676544.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Lottery+Prior+Randomized+Neural+Compression+for+Zero+Shot+Inverse+Problems%22+OR+ti%3A%22MV+FGAD+Towards+Efficient+and+Effective+Federated+Graph+Anomaly+Detection+via+Multi+view%22+OR+ti%3A%22Markov+Chain+Monte+Carlo+without+Evaluating+the+Target+an+Auxiliary+Variable+Approach%22+OR+ti%3A%22Maximum+Likelihood+Reinforcement+Learning%22+OR+ti%3A%22Measuring+Agents+in+Production%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Lottery+Prior+Randomized+Neural+Compression+for+Zero+Shot+Inverse+Problems%22+OR+ti%3A%22MV+FGAD+Towards+Efficient+and+Effective+Federated+Graph+Anomaly+Detection+via+Multi+view%22+OR+ti%3A%22Markov+Chain+Monte+Carlo+without+Evaluating+the+Target+an+Auxiliary+Variable+Approach%22+OR+ti%3A%22Maximum+Likelihood+Reinforcement+Learning%22+OR+ti%3A%22Measuring+Agents+in+Production%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:06.603371+00:00",
+  "bytes": 11809,
+  "sha256": "c73bd69a5d9d580e7f9feee0e34696e92d1963b0d3bb3f9d01fd9ffd19f6368f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-a090686e4701045fa4ba.gz"
+}

@@ -1,0 +1,20 @@
+{
+  "reference_repository": "/home/qi/aiagent/Awesome-AI4Finance-Papers",
+  "sources": [
+    {
+      "track": "main",
+      "path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/finance_catalog.jsonl",
+      "bytes": 9123121,
+      "sha256": "94795f2dce92913b83620fcda88553a2078edb4fcab5caf894cf276b5cb64f57",
+      "records": 1308
+    },
+    {
+      "track": "findings",
+      "path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/findings/finance_catalog.jsonl",
+      "bytes": 1453147,
+      "sha256": "3e39062b0c8149b2e020b042bef946fdb4858a3e55c8ef4b013cc4d565c4edcc",
+      "records": 186
+    }
+  ],
+  "local_before_commit": "b3b4ddf44f477dca45c4df700f5d6c2976621851"
+}

@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+openpyxl
+pypdf
+PyYAML
+pyarrow

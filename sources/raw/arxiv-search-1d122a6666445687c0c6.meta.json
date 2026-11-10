@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+to+Solve+Differential+Equation+Constrained+Optimization+Problems%22+OR+ti%3A%22Model+Risk+sensitive+Offline+Reinforcement+Learning%22+OR+ti%3A%22Adaptive+Mamba+Neural+Operators%22+OR+ti%3A%22FutureX+An+Advanced+Live+Benchmark+for+LLM+Agents+in+Future+Prediction%22+OR+ti%3A%22GradPruner+Gradient+guided+Layer+Pruning+Enabling+Efficient+Fine+Tuning+and+Inference+for+LLMs%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+to+Solve+Differential+Equation+Constrained+Optimization+Problems%22+OR+ti%3A%22Model+Risk+sensitive+Offline+Reinforcement+Learning%22+OR+ti%3A%22Adaptive+Mamba+Neural+Operators%22+OR+ti%3A%22FutureX+An+Advanced+Live+Benchmark+for+LLM+Agents+in+Future+Prediction%22+OR+ti%3A%22GradPruner+Gradient+guided+Layer+Pruning+Enabling+Efficient+Fine+Tuning+and+Inference+for+LLMs%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:09.192124+00:00",
+  "bytes": 11884,
+  "sha256": "b9be7260874fea00bcafc0728aa7778b3e2a7d68a6c1f675f5f710f9ee212754",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-1d122a6666445687c0c6.gz"
+}

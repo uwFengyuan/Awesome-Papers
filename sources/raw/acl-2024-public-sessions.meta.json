@@ -1,0 +1,9 @@
+{
+  "url": "https://app.underline.io/api/v1/thin_event_sessions?filter[event_id]=466&filter[listed_in_schedule]=true&include=tags&page[size]=500&page[number]=1",
+  "http_status": 200,
+  "bytes": 47189,
+  "sha256": "b0ac6b9ddb589fee19b823c2bff4061bcfc7fb1217de4b3b9effb320f4b4e68e",
+  "content_type": "application/vnd.api+json; charset=utf-8",
+  "cache_path": "sources/raw/acl-2024-public-sessions.gz",
+  "retrieved_at_utc": "2026-11-01T13:24:39.772865+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "selected": 10967,
+  "venues": {
+    "AAAI": 1758,
+    "ACL": 2287,
+    "EMNLP": 2206,
+    "ICLR": 936,
+    "ICML": 2875,
+    "NeurIPS": 905
+  },
+  "tracks": {
+    "main": 10739,
+    "findings": 187,
+    "datasets_benchmarks": 30,
+    "evaluations": 11
+  },
+  "finance": 1497,
+  "aaai": 1758,
+  "excluded_or_pending": {
+    "short_paper": 302,
+    "paper_length_unverified": 260
+  },
+  "findings_candidates": 207,
+  "findings_finance": 187
+}

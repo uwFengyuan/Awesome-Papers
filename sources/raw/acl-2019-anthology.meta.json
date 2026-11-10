@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/P19.xml",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/P19.xml",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:52.790324+00:00",
+  "bytes": 1208459,
+  "sha256": "96218e56875235601fb59b4c2c2339f702b949a3e6385d87e687c849036e8d32",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/acl-2019-anthology.gz"
+}

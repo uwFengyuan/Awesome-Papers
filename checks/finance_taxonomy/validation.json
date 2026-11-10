@@ -1,0 +1,14 @@
+{
+  "finance_papers": 1178,
+  "topics": 23,
+  "subtopics": 74,
+  "methods": 15,
+  "original_finance_ids_and_scope_preserved": true,
+  "primary_topic_counts_sum": 1178,
+  "every_primary_topic_and_subtopic_valid": true,
+  "every_topic_has_classification_evidence": true,
+  "csv_and_excel_topic_memberships_match": true,
+  "reviewed_ambiguity_checks_passed": true,
+  "financial_pdfs": 1128,
+  "manual_overrides": 44
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Co+Mixup+Saliency+Guided+Joint+Mixup+with+Supermodular+Diversity%22+OR+ti%3A%22Complex+Query+Answering+with+Neural+Link+Predictors%22+OR+ti%3A%22Contrastive+Explanations+for+Reinforcement+Learning+via+Embedded+Self+Predictions%22+OR+ti%3A%22Coupled+Oscillatory+Recurrent+Neural+Network+coRNN+An+accurate+and+gradient+stable+architecture+for%22+OR+ti%3A%22Dataset+Condensation+with+Gradient+Matching%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Co+Mixup+Saliency+Guided+Joint+Mixup+with+Supermodular+Diversity%22+OR+ti%3A%22Complex+Query+Answering+with+Neural+Link+Predictors%22+OR+ti%3A%22Contrastive+Explanations+for+Reinforcement+Learning+via+Embedded+Self+Predictions%22+OR+ti%3A%22Coupled+Oscillatory+Recurrent+Neural+Network+coRNN+An+accurate+and+gradient+stable+architecture+for%22+OR+ti%3A%22Dataset+Condensation+with+Gradient+Matching%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:55.623470+00:00",
+  "bytes": 11653,
+  "sha256": "9a8e560585dd602b28dd66ad65af2b7d9fb3bb91dce78fe97a98f4d51411fa6c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-6ec806f17d03cf6afb6e.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://aaai.org/2026-main-track-presentations/",
+  "final_url": "https://aaai.org/wp-content/uploads/2026/01/Main-track-oral-talks.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-10T02:48:08.591044+00:00",
+  "bytes": 1269749,
+  "sha256": "fff26c3df8260c211dd6eb4fa1c4fcdaa5d2faf489d224808407be1a96a99248",
+  "content_type": "application/pdf",
+  "cache_path": "sources/raw/aaai-2026-oral-program.gz"
+}

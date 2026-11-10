@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AlphaEdit+Null+Space+Constrained+Model+Editing+for+Language+Models%22+OR+ti%3A%22Learning+Dynamics+of+LLM+Finetuning%22+OR+ti%3A%22Safety+Alignment+Should+be+Made+More+Than+Just+a+Few+Tokens+Deep%22+OR+ti%3A%22LLMs+Get+Lost+In+Multi+Turn+Conversation%22+OR+ti%3A%22The+Polar+Express+Optimal+Matrix+Sign+Methods+and+their+Application+to+the+Muon%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AlphaEdit+Null+Space+Constrained+Model+Editing+for+Language+Models%22+OR+ti%3A%22Learning+Dynamics+of+LLM+Finetuning%22+OR+ti%3A%22Safety+Alignment+Should+be+Made+More+Than+Just+a+Few+Tokens+Deep%22+OR+ti%3A%22LLMs+Get+Lost+In+Multi+Turn+Conversation%22+OR+ti%3A%22The+Polar+Express+Optimal+Matrix+Sign+Methods+and+their+Application+to+the+Muon%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:08.872210+00:00",
+  "bytes": 10749,
+  "sha256": "0dbe6522c8fa0847e780bfd796f685840fd65f8ce4dbf39418934f98e4303895",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-35a7256ee8345cc0de83.gz"
+}

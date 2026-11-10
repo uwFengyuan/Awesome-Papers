@@ -1,0 +1,10 @@
+{
+  "url": "https://2025.aclweb.org/program/",
+  "final_url": "https://2025.aclweb.org/program/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:42.100560+00:00",
+  "bytes": 32901,
+  "sha256": "49af87bb6e7966561bd9b275cc55a92cc3397b035aaf71972e4cafb1ee401c5b",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2025-program.gz"
+}

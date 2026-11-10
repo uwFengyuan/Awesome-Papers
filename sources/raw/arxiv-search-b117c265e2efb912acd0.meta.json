@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Limits+to+scalable+evaluation+at+the+frontier+LLM+as+judge+won+t+beat%22+OR+ti%3A%22Linear+Representations+of+Political+Perspective+Emerge+in+Large+Language+Models%22+OR+ti%3A%22LoRA+Done+RITE+Robust+Invariant+Transformation+Equilibration+for+LoRA+Optimization%22+OR+ti%3A%22Loopy+Taming+Audio+Driven+Portrait+Avatar+with+Long+Term+Motion+Dependency%22+OR+ti%3A%22MAP+Multi+Human+Value+Alignment+Palette%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Limits+to+scalable+evaluation+at+the+frontier+LLM+as+judge+won+t+beat%22+OR+ti%3A%22Linear+Representations+of+Political+Perspective+Emerge+in+Large+Language+Models%22+OR+ti%3A%22LoRA+Done+RITE+Robust+Invariant+Transformation+Equilibration+for+LoRA+Optimization%22+OR+ti%3A%22Loopy+Taming+Audio+Driven+Portrait+Avatar+with+Long+Term+Motion+Dependency%22+OR+ti%3A%22MAP+Multi+Human+Value+Alignment+Palette%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:36.616825+00:00",
+  "bytes": 11761,
+  "sha256": "919631ee998e45934ec8045b7586e04a0cdda8f55bd0423fa558506713e0a971",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b117c265e2efb912acd0.gz"
+}

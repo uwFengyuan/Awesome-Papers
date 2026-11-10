@@ -1,0 +1,180 @@
+[
+  {
+    "retained_id": "icml-2017-612",
+    "merged_id": "icml-2017-pmlr-bernstein17a",
+    "program_title": "Differentially Private Learning of Graphical Models using CGMs",
+    "final_pmlr_title": "Differentially Private Learning of Undirected Graphical Models Using Collective Graphical Models",
+    "program_authors": [
+      "Garrett Bernstein",
+      "Ryan McKenna",
+      "Tao Sun",
+      "Daniel Sheldon",
+      "Michael Hay",
+      "Gerome Miklau"
+    ],
+    "pmlr_authors": [
+      "Garrett Bernstein",
+      " Ryan McKenna",
+      " Tao Sun",
+      " Daniel Sheldon",
+      " Michael Hay",
+      " Gerome Miklau"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v70/bernstein17a.html",
+    "verification": "title change; author lists manually cross-checked"
+  },
+  {
+    "retained_id": "icml-2017-462",
+    "merged_id": "icml-2017-pmlr-simsekli17a",
+    "program_title": "Fractional Langevin Monte Carlo: Exploring Levy Driven Stochastic Differential Equations for MCMC",
+    "final_pmlr_title": "Fractional Langevin Monte Carlo: Exploring Levy Driven Stochastic Differential Equations for Markov Chain Monte Carlo",
+    "program_authors": [
+      "Umut Simsekli"
+    ],
+    "pmlr_authors": [
+      "Umut Şimşekli"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v70/simsekli17a.html",
+    "verification": "title change; author lists manually cross-checked"
+  },
+  {
+    "retained_id": "icml-2017-740",
+    "merged_id": "icml-2017-pmlr-vorontsov17a",
+    "program_title": "On orthogonality and learning RNNs with long term dependencies",
+    "final_pmlr_title": "On orthogonality and learning recurrent networks with long term dependencies",
+    "program_authors": [
+      "Eugene Vorontsov",
+      "Chiheb Trabelsi",
+      "Christopher Pal",
+      "Samuel Kadoury"
+    ],
+    "pmlr_authors": [
+      "Eugene Vorontsov",
+      " Chiheb Trabelsi",
+      " Samuel Kadoury",
+      " Chris Pal"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v70/vorontsov17a.html",
+    "verification": "title change; author lists manually cross-checked"
+  },
+  {
+    "retained_id": "icml-2017-565",
+    "merged_id": "icml-2017-pmlr-gonzalez17a",
+    "program_title": "Preferential Bayesian Optmization",
+    "final_pmlr_title": "Preferential Bayesian Optimization",
+    "program_authors": [
+      "Javier González",
+      "Zhenwen Dai",
+      "Andreas Damianou",
+      "Neil Lawrence"
+    ],
+    "pmlr_authors": [
+      "Javier González",
+      " Zhenwen Dai",
+      " Andreas Damianou",
+      " Neil D. Lawrence"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v70/gonzalez17a.html",
+    "verification": "title change; author lists manually cross-checked"
+  },
+  {
+    "retained_id": "icml-2017-826",
+    "merged_id": "icml-2017-pmlr-nagamine17a",
+    "program_title": "Visualizing and Understanding Multilayer Perceptron Models: A Case Study in Speech Processing",
+    "final_pmlr_title": "Understanding the Representation and Computation of Multilayer Perceptrons: A Case Study in Speech Recognition",
+    "program_authors": [
+      "Tasha Nagamine",
+      "Nima Mesgarani"
+    ],
+    "pmlr_authors": [
+      "Tasha Nagamine",
+      " Nima Mesgarani"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v70/nagamine17a.html",
+    "verification": "title change; author lists manually cross-checked"
+  },
+  {
+    "retained_id": "icml-2018-2362",
+    "merged_id": "icml-2018-pmlr-wang18i",
+    "program_title": "Distilling the Posterior in Bayesian Neural Networks",
+    "final_pmlr_title": "Adversarial Distillation of Bayesian Neural Network Posteriors",
+    "program_authors": [
+      "Kuan-Chieh Wang",
+      "Paul Vicol",
+      "James Lucas",
+      "Li Gu",
+      "Roger Grosse",
+      "Richard Zemel"
+    ],
+    "pmlr_authors": [
+      "Kuan-Chieh Wang",
+      " Paul Vicol",
+      " James Lucas",
+      " Li Gu",
+      " Roger Grosse",
+      " Richard Zemel"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v80/wang18i.html",
+    "verification": "title change; author lists manually cross-checked"
+  },
+  {
+    "retained_id": "icml-2018-2109",
+    "merged_id": "icml-2018-pmlr-kasai18a",
+    "program_title": "Riemannian Stochastic Recursive Gradient Algorithm with Retraction and Vector Transport and Its Convergence Analysis",
+    "final_pmlr_title": "Riemannian Stochastic Recursive Gradient Algorithm",
+    "program_authors": [
+      "Hiroyuki Kasai",
+      "Hiroyuki Sato",
+      "Bamdev Mishra"
+    ],
+    "pmlr_authors": [
+      "Hiroyuki Kasai",
+      " Hiroyuki Sato",
+      " Bamdev Mishra"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v80/kasai18a.html",
+    "verification": "title change; author lists manually cross-checked"
+  },
+  {
+    "retained_id": "icml-2019-3817",
+    "merged_id": "icml-2019-pmlr-mahloujifar19a",
+    "program_title": "Data Poisoning Attacks in Multi-Party Learning",
+    "final_pmlr_title": "Universal Multi-Party Poisoning Attacks",
+    "program_authors": [
+      "Saeed Mahloujifar",
+      "Mohammad Mahmoody",
+      "Ameer Mohammed"
+    ],
+    "pmlr_authors": [
+      "Saeed Mahloujifar",
+      " Mohammad Mahmoody",
+      " Ameer Mohammed"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v97/mahloujifar19a.html",
+    "verification": "title change; author lists manually cross-checked"
+  },
+  {
+    "retained_id": "icml-2019-4227",
+    "merged_id": "icml-2019-pmlr-romoff19a",
+    "program_title": "Separable value functions across time-scales",
+    "final_pmlr_title": "Separating value functions across time-scales",
+    "program_authors": [
+      "Joshua Romoff",
+      "Peter Henderson",
+      "Ahmed Touati",
+      "Yann Ollivier",
+      "Joelle Pineau",
+      "Emma Brunskill"
+    ],
+    "pmlr_authors": [
+      "Joshua Romoff",
+      " Peter Henderson",
+      " Ahmed Touati",
+      " Emma Brunskill",
+      " Joelle Pineau",
+      " Yann Ollivier"
+    ],
+    "primary_source": "https://proceedings.mlr.press/v97/romoff19a.html",
+    "verification": "title change; author lists manually cross-checked"
+  }
+]

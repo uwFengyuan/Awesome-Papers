@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Latent+Particle+World+Models+Self+supervised+Object+centric+Stochastic+Dynamics+Modeling%22+OR+ti%3A%22Latent+Speech+Text+Transformer%22+OR+ti%3A%22Learning+to+See+Before+Seeing+Demystifying+LLM+Visual+Priors+from+Language+Pre+training%22+OR+ti%3A%22Learning+to+Segment+for+Vehicle+Routing+Problems%22+OR+ti%3A%22Learning+with+Dual+level+Noisy+Correspondence+for+Multi+modal+Entity+Alignment%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Latent+Particle+World+Models+Self+supervised+Object+centric+Stochastic+Dynamics+Modeling%22+OR+ti%3A%22Latent+Speech+Text+Transformer%22+OR+ti%3A%22Learning+to+See+Before+Seeing+Demystifying+LLM+Visual+Priors+from+Language+Pre+training%22+OR+ti%3A%22Learning+to+Segment+for+Vehicle+Routing+Problems%22+OR+ti%3A%22Learning+with+Dual+level+Noisy+Correspondence+for+Multi+modal+Entity+Alignment%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:22.004199+00:00",
+  "bytes": 14655,
+  "sha256": "f1e2d1ae510717cdee07d44a856378ef098bff5c8b0d4f6c760052cd9bf8ba87",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b6353970442451368105.gz"
+}

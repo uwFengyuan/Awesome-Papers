@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SWE+bench+Can+Language+Models+Resolve+Real+world+Github+Issues%22+OR+ti%3A%22Self+Alignment+with+Instruction+Backtranslation%22+OR+ti%3A%22Self+RAG+Learning+to+Retrieve+Generate+and+Critique+through+Self+Reflection%22+OR+ti%3A%22Small+scale+proxies+for+large+scale+Transformer+training+instabilities%22+OR+ti%3A%22Statistically+Optimal+K+means+Clustering+via+Nonnegative+Low+rank+Semidefinite+Programming%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SWE+bench+Can+Language+Models+Resolve+Real+world+Github+Issues%22+OR+ti%3A%22Self+Alignment+with+Instruction+Backtranslation%22+OR+ti%3A%22Self+RAG+Learning+to+Retrieve+Generate+and+Critique+through+Self+Reflection%22+OR+ti%3A%22Small+scale+proxies+for+large+scale+Transformer+training+instabilities%22+OR+ti%3A%22Statistically+Optimal+K+means+Clustering+via+Nonnegative+Low+rank+Semidefinite+Programming%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:12.110520+00:00",
+  "bytes": 13819,
+  "sha256": "7a9deb35bdef97d2544acb7e9624b4b210cbd82565526d67cd74392829f53740",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-470f34353a25bb5a6a50.gz"
+}

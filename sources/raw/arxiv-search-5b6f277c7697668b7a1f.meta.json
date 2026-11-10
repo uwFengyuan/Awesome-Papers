@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Deep+Batch+Active+Learning+by+Diverse+Uncertain+Gradient+Lower+Bounds%22+OR+ti%3A%22Differentiable+Reasoning+over+a+Virtual+Knowledge+Base%22+OR+ti%3A%22Fast+Task+Inference+with+Variational+Intrinsic+Successor+Features%22+OR+ti%3A%22Federated+Learning+with+Matched+Averaging%22+OR+ti%3A%22GenDICE+Generalized+Offline+Estimation+of+Stationary+Values%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Deep+Batch+Active+Learning+by+Diverse+Uncertain+Gradient+Lower+Bounds%22+OR+ti%3A%22Differentiable+Reasoning+over+a+Virtual+Knowledge+Base%22+OR+ti%3A%22Fast+Task+Inference+with+Variational+Intrinsic+Successor+Features%22+OR+ti%3A%22Federated+Learning+with+Matched+Averaging%22+OR+ti%3A%22GenDICE+Generalized+Offline+Estimation+of+Stationary+Values%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:19.606104+00:00",
+  "bytes": 11697,
+  "sha256": "1d8b22a58bd5660965f815885fa6067bdb443ef102fb9e76819696a9e38c9271",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5b6f277c7697668b7a1f.gz"
+}

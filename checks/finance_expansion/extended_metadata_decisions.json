@@ -1,0 +1,104 @@
+{
+  "decisions": {
+    "2026.acl-long.1234": {
+      "scope": "application",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "Paired with Gemini-2.5-Pro, DocLens achieves state-of-the-art performance on MMLongBench-Doc and FinRAGBench-V, surpassing even human experts.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 3
+    },
+    "D18-1476": {
+      "scope": "core",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "We demonstrate its capabilities on an information extraction task from invoices and show that it significantly outperforms approaches based on sequential text or document images.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 5
+    },
+    "2025.emnlp-main.1028": {
+      "scope": "core",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "We propose the first multilingual dataset, ML-Promise, which includes English, French, Chinese, Japanese, and Korean, aimed at facilitating in-depth verification of promises, particularly in the context of Environmental, Social, and Governance (ESG) reports. / Given the growing emphasis on corporate environmental contributions, this dataset addresses the challenge of evaluating corporate promises, especially in light of practices like greenwashing.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 9
+    },
+    "2026.emnlp-main.226": {
+      "scope": "application",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "It contains 812 samples across two complementary subsets: OCR1.0, covering documents, scene text, receipts, handwriting, and mathematical content, and OCR2.0, focusing on charts, geometry diagrams, and tables.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 10
+    },
+    "2026.emnlp-main.802": {
+      "scope": "core",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "Detecting whether corporate sustainability disclosures truly satisfy reporting standards is essential for greenwashing-aware ESG auditing, yet existing resources rarely evaluate whether disclosures sufficiently satisfy framework metrics. / MM-COMPLIANCE provides a benchmark for developing framework-aware models to support rigorous ESG compliance auditing and long-term commitment tracing.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 11
+    },
+    "2026.emnlp-main.1408": {
+      "scope": "application",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "Extensive experiments on benchmarks such as Wiki-VISA, FinRAGBench-V, and MMLongBench-Doc demonstrate that MCite-RL effectively achieves the joint optimization of citation precision and answer quality.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 13
+    },
+    "2026.emnlp-main.2493": {
+      "scope": "application",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "Vast-horizon, repetitive workflows are common in daily routines, e.g., processing expense reports from a stack of receipts, organising a collection of PDF annotations into structured notes, and are tedious for humans, with execution length scaling with the volume of data to process.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 14
+    },
+    "iclr-2026-nOcy5NvNI1": {
+      "scope": "application",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "Our analysis shows that ECHO (1) discovers creative and complex tasks absent from existing benchmarks, such as re-rendering product labels across languages or generating receipts with specified totals, (2) more clearly distinguishes state-of-the-art models from alternatives, and (3) surfaces community feedback that we use to inform the design of metrics for model quality (e.g., measuring observed shifts in color, identity, and structure).",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 22
+    },
+    "neurips-2025-bjoHB7IN6b": {
+      "scope": "application",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "This dataset includes test samples spanning identity cards, invoices, and prescriptions, with simulated real-world degradations and pixel-level annotations for OCR reliability.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 27
+    },
+    "neurips-2026-juI26tTO3o": {
+      "scope": "application",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "Experiments on ConFiQA, RAGTruth, and FinLLM-Eval show that BALTO achieves the highest faithfulness across all six model--benchmark settings and consistently outperforms existing post-training baselines in Q-Score, demonstrating a stronger faithfulness--informativeness trade-off.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 29
+    },
+    "neurips-2026-YcWFCquBYo": {
+      "scope": "application",
+      "evidence_type": "title_abstract_financial_task_or_data",
+      "evidence_excerpt": "LLM agents excel when environments are mostly static and their required information fits in a model’s context window, but they struggle with IT enterprise diagnostic tasks—such as incident management, IT vulnerability analysis, and FinOps anomaly explanation—where operators iteratively mine massive observability data over a curated resource graph to identify the origins that explain observed symptoms, enabling correct remediation.",
+      "relevance_zh": "研究财务文档、企业 ESG 披露，或在金融评测与财务业务流程上开展验证。",
+      "review_basis": "Reviewed official main-paper title and abstract, independent of presentation type.",
+      "frozen_queue": "extended_metadata_queue.json",
+      "frozen_queue_index": 30
+    }
+  },
+  "queue_sha256": "dfbff3d1688407773aa187fa9d22fb0a0c3c0749b1e8e4481f645f5d44c73113"
+}

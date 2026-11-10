@@ -1,0 +1,10 @@
+{
+  "url": "https://icml.cc/virtual/2022/awards_detail",
+  "final_url": "https://icml.cc/virtual/2022/awards_detail",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:48:04.118050+00:00",
+  "bytes": 130779,
+  "sha256": "86c993174dfbf91d7c84bdb128c4c86dbb78f71b08715d04307f07bed99b467e",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/icml-2022-awarddetail.gz"
+}

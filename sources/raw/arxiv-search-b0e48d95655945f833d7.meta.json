@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Gaia2+Benchmarking+LLM+Agents+on+Dynamic+and+Asynchronous+Environments%22+OR+ti%3A%22Gaussian+certified+unlearning+in+high+dimensions+A+hypothesis+testing+approach%22+OR+ti%3A%22Generating+metamers+of+human+scene+understanding%22+OR+ti%3A%22Generative+Human+Geometry+Distribution%22+OR+ti%3A%22Generative+Universal+Verifier+as+Multimodal+Meta+Reasoner%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Gaia2+Benchmarking+LLM+Agents+on+Dynamic+and+Asynchronous+Environments%22+OR+ti%3A%22Gaussian+certified+unlearning+in+high+dimensions+A+hypothesis+testing+approach%22+OR+ti%3A%22Generating+metamers+of+human+scene+understanding%22+OR+ti%3A%22Generative+Human+Geometry+Distribution%22+OR+ti%3A%22Generative+Universal+Verifier+as+Multimodal+Meta+Reasoner%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:52.533770+00:00",
+  "bytes": 15432,
+  "sha256": "00cfef82dcc11039b1d56091241f8a603980f32dcd888695871ce8f2836b07a2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b0e48d95655945f833d7.gz"
+}

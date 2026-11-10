@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SANA+Efficient+High+Resolution+Text+to+Image+Synthesis+with+Linear+Diffusion+Transformers%22+OR+ti%3A%22SD+LoRA+Scalable+Decoupled+Low+Rank+Adaptation+for+Class+Incremental+Learning%22+OR+ti%3A%22STAR+Synthesis+of+Tailored+Architectures%22+OR+ti%3A%22Scaling+In+the+Wild+Training+for+Diffusion+based+Illumination+Harmonization+and+Editing+by%22+OR+ti%3A%22Scaling+LLM+Test+Time+Compute+Optimally+Can+be+More+Effective+than+Scaling+Parameters%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SANA+Efficient+High+Resolution+Text+to+Image+Synthesis+with+Linear+Diffusion+Transformers%22+OR+ti%3A%22SD+LoRA+Scalable+Decoupled+Low+Rank+Adaptation+for+Class+Incremental+Learning%22+OR+ti%3A%22STAR+Synthesis+of+Tailored+Architectures%22+OR+ti%3A%22Scaling+In+the+Wild+Training+for+Diffusion+based+Illumination+Harmonization+and+Editing+by%22+OR+ti%3A%22Scaling+LLM+Test+Time+Compute+Optimally+Can+be+More+Effective+than+Scaling+Parameters%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:18.841716+00:00",
+  "bytes": 6209,
+  "sha256": "4ec1a68df9eda15bee63dad525903cb892cf32d37dbc848b2047df9b4fa2473e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-63b74b9a7e77048cea38.gz"
+}

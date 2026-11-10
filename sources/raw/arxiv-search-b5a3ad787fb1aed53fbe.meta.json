@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Predictive+Inverse+Dynamics+Models+are+Scalable+Learners+for+Robotic+Manipulation%22+OR+ti%3A%22Prioritized+Generative+Replay%22+OR+ti%3A%22Probabilistic+Learning+to+Defer+Handling+Missing+Expert+Annotations+and+Controlling+Workload+Distribution%22+OR+ti%3A%22Problem+Parameter+Free+Federated+Learning%22+OR+ti%3A%22Progressive+Compression+with+Universally+Quantized+Diffusion+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Predictive+Inverse+Dynamics+Models+are+Scalable+Learners+for+Robotic+Manipulation%22+OR+ti%3A%22Prioritized+Generative+Replay%22+OR+ti%3A%22Probabilistic+Learning+to+Defer+Handling+Missing+Expert+Annotations+and+Controlling+Workload+Distribution%22+OR+ti%3A%22Problem+Parameter+Free+Federated+Learning%22+OR+ti%3A%22Progressive+Compression+with+Universally+Quantized+Diffusion+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:01.783266+00:00",
+  "bytes": 8352,
+  "sha256": "5437925395dd2b79465586aef0707024f0733e3d755feb9af194ec74f528a218",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b5a3ad787fb1aed53fbe.gz"
+}

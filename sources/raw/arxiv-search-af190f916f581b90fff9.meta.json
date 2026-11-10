@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Meta+Learning+Update+Rules+for+Unsupervised+Representation+Learning%22+OR+ti%3A%22On+Random+Deep+Weight+Tied+Autoencoders+Exact+Asymptotic+Analysis+Phase+Transitions+and+Implications%22+OR+ti%3A%22Pay+Less+Attention+with+Lightweight+and+Dynamic+Convolutions%22+OR+ti%3A%22Slalom+Fast+Verifiable+and+Private+Execution+of+Neural+Networks+in+Trusted+Hardware%22+OR+ti%3A%22Temporal+Difference+Variational+Auto+Encoder%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Meta+Learning+Update+Rules+for+Unsupervised+Representation+Learning%22+OR+ti%3A%22On+Random+Deep+Weight+Tied+Autoencoders+Exact+Asymptotic+Analysis+Phase+Transitions+and+Implications%22+OR+ti%3A%22Pay+Less+Attention+with+Lightweight+and+Dynamic+Convolutions%22+OR+ti%3A%22Slalom+Fast+Verifiable+and+Private+Execution+of+Neural+Networks+in+Trusted+Hardware%22+OR+ti%3A%22Temporal+Difference+Variational+Auto+Encoder%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:49.426140+00:00",
+  "bytes": 9603,
+  "sha256": "174434e0925b6aca6230e49feb3ae2d8d802df3ff6f6d04160e33fca8ed129c2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-af190f916f581b90fff9.gz"
+}

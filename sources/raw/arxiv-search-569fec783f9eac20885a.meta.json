@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22PlotCraft+Pushing+the+Limits+of+LLMs+for+Complex+and+Interactive+Data+Visualization%22+OR+ti%3A%22Privasis+Synthesizing+the+Largest+Public+Private+Dataset+from+Scratch%22+OR+ti%3A%22Scam2Prompt+A+Scalable+Framework+for+Auditing+Malicious+Scam+Endpoints+in+Production+LLMs%22+OR+ti%3A%22AceSearcher+Bootstrapping+Reasoning+and+Search+for+LLMs+via+Reinforced+Self+Play%22+OR+ti%3A%22AutoData+A+Multi+Agent+System+for+Open+Web+Data+Collection%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22PlotCraft+Pushing+the+Limits+of+LLMs+for+Complex+and+Interactive+Data+Visualization%22+OR+ti%3A%22Privasis+Synthesizing+the+Largest+Public+Private+Dataset+from+Scratch%22+OR+ti%3A%22Scam2Prompt+A+Scalable+Framework+for+Auditing+Malicious+Scam+Endpoints+in+Production+LLMs%22+OR+ti%3A%22AceSearcher+Bootstrapping+Reasoning+and+Search+for+LLMs+via+Reinforced+Self+Play%22+OR+ti%3A%22AutoData+A+Multi+Agent+System+for+Open+Web+Data+Collection%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:21.534289+00:00",
+  "bytes": 15564,
+  "sha256": "8a2655256a110d936adf73bd7b41e443cdf500061ab4fc9c3aa4779149c435a1",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-569fec783f9eac20885a.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Large+Language+Models+Can+Be+Strong+Differentially+Private+Learners%22+OR+ti%3A%22MIDI+DDSP+Detailed+Control+of+Musical+Performance+via+Hierarchical+Modeling%22+OR+ti%3A%22Meta+Learning+with+Fewer+Tasks+through+Task+Interpolation%22+OR+ti%3A%22Minibatch+vs+Local+SGD+with+Shuffling+Tight+Convergence+Bounds+and+Beyond%22+OR+ti%3A%22Natural+Language+Descriptions+of+Deep+Features%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Large+Language+Models+Can+Be+Strong+Differentially+Private+Learners%22+OR+ti%3A%22MIDI+DDSP+Detailed+Control+of+Musical+Performance+via+Hierarchical+Modeling%22+OR+ti%3A%22Meta+Learning+with+Fewer+Tasks+through+Task+Interpolation%22+OR+ti%3A%22Minibatch+vs+Local+SGD+with+Shuffling+Tight+Convergence+Bounds+and+Beyond%22+OR+ti%3A%22Natural+Language+Descriptions+of+Deep+Features%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:44.201055+00:00",
+  "bytes": 10775,
+  "sha256": "fc56d1eb86a7826d4e2cb200e313660701adbe212f573f894d60c0a9af1775f6",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-04ea9f07f2be53b26f17.gz"
+}

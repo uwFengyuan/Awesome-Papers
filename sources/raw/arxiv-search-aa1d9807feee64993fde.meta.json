@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Progressive+Growing+of+GANs+for+Improved+Quality+Stability+and+Variation%22+OR+ti%3A%22Spectral+Normalization+for+Generative+Adversarial+Networks%22+OR+ti%3A%22Spherical+CNNs%22+OR+ti%3A%22Synthetic+and+Natural+Noise+Both+Break+Neural+Machine+Translation%22+OR+ti%3A%22Training+and+Inference+with+Integers+in+Deep+Neural+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Progressive+Growing+of+GANs+for+Improved+Quality+Stability+and+Variation%22+OR+ti%3A%22Spectral+Normalization+for+Generative+Adversarial+Networks%22+OR+ti%3A%22Spherical+CNNs%22+OR+ti%3A%22Synthetic+and+Natural+Noise+Both+Break+Neural+Machine+Translation%22+OR+ti%3A%22Training+and+Inference+with+Integers+in+Deep+Neural+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:36.743110+00:00",
+  "bytes": 47737,
+  "sha256": "77cf2bb748d72eea48475ae70d570641095229a80d2290f233f79c5fba997362",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-aa1d9807feee64993fde.gz"
+}

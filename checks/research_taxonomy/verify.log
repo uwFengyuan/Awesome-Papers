@@ -1,0 +1,15 @@
+{
+  "papers": 9600,
+  "nonfinance_papers": 8422,
+  "finance_papers": 1178,
+  "topics": 42,
+  "subtopics": 141,
+  "manual_metadata_reviews": 207,
+  "pending_finer_review": 0,
+  "catalog_ids_awards_oral_finance_and_pdf_records_preserved": true,
+  "primary_topic_count_sum": 9600,
+  "all_topic_evidence_and_subtopic_relations_valid": true,
+  "topic_csv_and_workbook_memberships_verified": true,
+  "local_links_verified": 26675,
+  "semantic_boundary_checks_passed": true
+}

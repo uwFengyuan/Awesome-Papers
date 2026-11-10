@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/jbingel/emnlp2017-handbook/master/data/papers/proceedings/cdrom/program.html",
+  "final_url": "https://raw.githubusercontent.com/jbingel/emnlp2017-handbook/master/data/papers/proceedings/cdrom/program.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.696896+00:00",
+  "bytes": 98466,
+  "sha256": "db2c54396efefd9af2a70ade939aa6b1d4e8afb0eb7a75e00310e34999928c14",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2017-schedule.gz"
+}

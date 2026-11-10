@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22From+Similarity+to+Vulnerability+Key+Collision+Attack+on+LLM+Semantic+Caching%22+OR+ti%3A%22From+Token+to+Token+Pair+Efficient+Prompt+Compression+for+Large+Language+Models+in%22+OR+ti%3A%22Global+Merger+Arbitrage+Forecasting+with+Language+Models%22+OR+ti%3A%22Identifiable+Markov+Switching+Models+with+Instantaneous+Effects+and+Exponential+Families%22+OR+ti%3A%22Joint+Embedding+Predictive+Learning+of+Latent+Market+States+in+U+S+Equities%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22From+Similarity+to+Vulnerability+Key+Collision+Attack+on+LLM+Semantic+Caching%22+OR+ti%3A%22From+Token+to+Token+Pair+Efficient+Prompt+Compression+for+Large+Language+Models+in%22+OR+ti%3A%22Global+Merger+Arbitrage+Forecasting+with+Language+Models%22+OR+ti%3A%22Identifiable+Markov+Switching+Models+with+Instantaneous+Effects+and+Exponential+Families%22+OR+ti%3A%22Joint+Embedding+Predictive+Learning+of+Latent+Market+States+in+U+S+Equities%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:22.911520+00:00",
+  "bytes": 11129,
+  "sha256": "3076f313e267abb47f93cae43fcc31686a63f8a5bb8ebf9a1c0283145c31343e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f58d131cdf1d62b6a978.gz"
+}

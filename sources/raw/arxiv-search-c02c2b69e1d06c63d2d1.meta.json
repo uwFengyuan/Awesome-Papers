@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Query+Lower+Bounds+for+Diffusion+Sampling%22+OR+ti%3A%22Releasing+Anchors+from+Cross+View+Correspondence+Probabilistic+Multi+View+Anchor+Graph+Clustering%22+OR+ti%3A%22Representation+Fr+chet+Loss+for+Visual+Generation%22+OR+ti%3A%22Resilience+Matters+for+Embodied+Agents+System+New+Metrics+Systematic+Evaluation+and+Optimization%22+OR+ti%3A%22SAM+3D+Animal+Promptable+Animal+3D+Reconstruction+from+Images+in+the+Wild%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Query+Lower+Bounds+for+Diffusion+Sampling%22+OR+ti%3A%22Releasing+Anchors+from+Cross+View+Correspondence+Probabilistic+Multi+View+Anchor+Graph+Clustering%22+OR+ti%3A%22Representation+Fr+chet+Loss+for+Visual+Generation%22+OR+ti%3A%22Resilience+Matters+for+Embodied+Agents+System+New+Metrics+Systematic+Evaluation+and+Optimization%22+OR+ti%3A%22SAM+3D+Animal+Promptable+Animal+3D+Reconstruction+from+Images+in+the+Wild%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:28:08.860935+00:00",
+  "bytes": 8558,
+  "sha256": "143a2dc8e46c35c6b850ede4f38618a86b0b45dd339888f65d600bd3f06304a0",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c02c2b69e1d06c63d2d1.gz"
+}

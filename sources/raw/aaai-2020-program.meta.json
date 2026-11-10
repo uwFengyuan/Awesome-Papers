@@ -1,0 +1,10 @@
+{
+  "url": "https://aaai.org/wp-content/uploads/2023/01/AAAI20-ProgramWeb.pdf",
+  "final_url": "https://aaai.org/wp-content/uploads/2023/01/AAAI20-ProgramWeb.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-10T02:46:51.585878+00:00",
+  "bytes": 1212056,
+  "sha256": "7e3282fdd7fbf516d9550911f8d676de74463414bb274c58b21799a6e06731ad",
+  "content_type": "application/pdf",
+  "cache_path": "sources/raw/aaai-2020-program.gz"
+}

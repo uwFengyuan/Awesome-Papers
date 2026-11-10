@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Filtered+Conformal+Ellipsoids+for+Graph+Native+Time+Series%22+OR+ti%3A%22Fisher+R1+Training+LLM+Agents+for+Reliable+Hypothesis+Testing%22+OR+ti%3A%22Fractional+State+Space+Transition+for+Long+Sequence+Modeling%22+OR+ti%3A%22Free+Decompression+with+Algebraic+Spectral+Curves%22+OR+ti%3A%22From+Average+Sensitivity+to+Small+Loss+Regret+Bounds+under+Random+Order+Model%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Filtered+Conformal+Ellipsoids+for+Graph+Native+Time+Series%22+OR+ti%3A%22Fisher+R1+Training+LLM+Agents+for+Reliable+Hypothesis+Testing%22+OR+ti%3A%22Fractional+State+Space+Transition+for+Long+Sequence+Modeling%22+OR+ti%3A%22Free+Decompression+with+Algebraic+Spectral+Curves%22+OR+ti%3A%22From+Average+Sensitivity+to+Small+Loss+Regret+Bounds+under+Random+Order+Model%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:44.450716+00:00",
+  "bytes": 13159,
+  "sha256": "cf95d1d3d0a80942477e6464f9f26dac55ae3f30b931a9db10d98cb3526053a4",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-af8adc9580d0388a0b6b.gz"
+}

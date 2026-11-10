@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2022.findings.xml",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2022.findings.xml",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-10T02:46:49.380012+00:00",
+  "bytes": 2361722,
+  "sha256": "4a2d394e2a93c269eca17e1fbf565382aa4eb6c4b703189585530da15ac7617b",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/findings-2022-anthology.gz"
+}

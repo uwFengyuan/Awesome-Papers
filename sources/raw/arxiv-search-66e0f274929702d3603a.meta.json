@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SANA+Video+Efficient+Video+Generation+with+Block+Linear+Diffusion+Transformer%22+OR+ti%3A%22SWINGARENA+Adversarial+Programming+Arena+for+Long+context+GitHub+Issue+Solving%22+OR+ti%3A%22SafeDPO+A+Simple+Approach+to+Direct+Preference+Optimization+with+Enhanced+Safety%22+OR+ti%3A%22ScaleCUA+Scaling+Open+Source+Computer+Use+Agents+with+Cross+Platform+Data%22+OR+ti%3A%22Scaling+Atomistic+Protein+Binder+Design+with+Generative+Pretraining+and+Test+Time+Compute%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SANA+Video+Efficient+Video+Generation+with+Block+Linear+Diffusion+Transformer%22+OR+ti%3A%22SWINGARENA+Adversarial+Programming+Arena+for+Long+context+GitHub+Issue+Solving%22+OR+ti%3A%22SafeDPO+A+Simple+Approach+to+Direct+Preference+Optimization+with+Enhanced+Safety%22+OR+ti%3A%22ScaleCUA+Scaling+Open+Source+Computer+Use+Agents+with+Cross+Platform+Data%22+OR+ti%3A%22Scaling+Atomistic+Protein+Binder+Design+with+Generative+Pretraining+and+Test+Time+Compute%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:07.939717+00:00",
+  "bytes": 14393,
+  "sha256": "08b6d23fec5fc4b4c7cdf6277318d31c0f6dc25de6673d33c207b847489d108c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-66e0f274929702d3603a.gz"
+}

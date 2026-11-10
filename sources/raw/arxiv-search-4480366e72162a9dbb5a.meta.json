@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Exploratory+Causal+Inference+in+SAEnce%22+OR+ti%3A%22Exploratory+Diffusion+Model+for+Unsupervised+Reinforcement+Learning%22+OR+ti%3A%22Exploring+Synthesizable+Chemical+Space+with+Iterative+Pathway+Refinements%22+OR+ti%3A%22Extending+Sequence+Length+is+Not+All+You+Need+Effective+Integration+of+Multimodal+Signals%22+OR+ti%3A%22FALCON+Few+step+Accurate+Likelihoods+for+Continuous+Flows%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Exploratory+Causal+Inference+in+SAEnce%22+OR+ti%3A%22Exploratory+Diffusion+Model+for+Unsupervised+Reinforcement+Learning%22+OR+ti%3A%22Exploring+Synthesizable+Chemical+Space+with+Iterative+Pathway+Refinements%22+OR+ti%3A%22Extending+Sequence+Length+is+Not+All+You+Need+Effective+Integration+of+Multimodal+Signals%22+OR+ti%3A%22FALCON+Few+step+Accurate+Likelihoods+for+Continuous+Flows%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:42.347418+00:00",
+  "bytes": 13117,
+  "sha256": "359fe576678122dd07c691d37593967de7b2bc32a56b6a96c5d515405ed615f7",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4480366e72162a9dbb5a.gz"
+}

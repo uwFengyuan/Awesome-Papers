@@ -1,0 +1,10 @@
+{
+  "url": "https://2023.aclweb.org/program/best_papers/",
+  "final_url": "https://2023.aclweb.org/program/best_papers/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:42.025773+00:00",
+  "bytes": 30935,
+  "sha256": "d43a31b6d68acfbca6d05344908d056a1ecae8fd7545d3f0be502525b3edc405",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2023-bestpapers.gz"
+}

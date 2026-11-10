@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Vision+Based+Manipulators+Need+to+Also+See+from+Their+Hands%22+OR+ti%3A%22Weighted+Training+for+Cross+Task+Learning%22+OR+ti%3A%22iLQR+VAE+control+based+learning+of+input+driven+dynamics+with+applications+to+neural%22+OR+ti%3A%223D+generation+on+ImageNet%22+OR+ti%3A%22A+Call+to+Reflect+on+Evaluation+Practices+for+Failure+Detection+in+Image+Classification%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Vision+Based+Manipulators+Need+to+Also+See+from+Their+Hands%22+OR+ti%3A%22Weighted+Training+for+Cross+Task+Learning%22+OR+ti%3A%22iLQR+VAE+control+based+learning+of+input+driven+dynamics+with+applications+to+neural%22+OR+ti%3A%223D+generation+on+ImageNet%22+OR+ti%3A%22A+Call+to+Reflect+on+Evaluation+Practices+for+Failure+Detection+in+Image+Classification%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:24.481912+00:00",
+  "bytes": 11070,
+  "sha256": "6d7793ba8575c803a66a14240de66bcf1f7dedd44ec4b1a2977a0bddedcf4165",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-ca1366da44647b9c44b0.gz"
+}

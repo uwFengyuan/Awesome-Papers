@@ -1,0 +1,53 @@
+{
+  "finance_rows": 1178,
+  "finance_pdf_records": 1128,
+  "finance_missing_pdfs": 50,
+  "financial_time_series": 291,
+  "workbook_data_rows": {
+    "catalog.xlsx": {
+      "All Papers": 9600,
+      "Research Topics": 42,
+      "Research Subtopics": 141,
+      "Other Papers": 8422,
+      "AI for Finance": 1178,
+      "Coverage": 50,
+      "Missing PDFs": 251
+    },
+    "finance_catalog.xlsx": {
+      "Confirmed Finance": 1178,
+      "Topics": 23,
+      "Subtopics": 74,
+      "Methods": 15,
+      "Alpha Mining": 6,
+      "Time Series": 291,
+      "Asset Pricing": 7,
+      "Derivatives": 12,
+      "Portfolio": 74,
+      "Trading": 61,
+      "Market Prediction": 76,
+      "Credit and Risk": 238,
+      "Insurance": 17,
+      "Fraud and AML": 47,
+      "Financial NLP": 91,
+      "Financial QA": 84,
+      "Financial IR and RAG": 109,
+      "Document AI": 56,
+      "Financial Agents": 46,
+      "Macro and Economics": 25,
+      "Corporate and Accounting": 43,
+      "ESG": 19,
+      "Banking": 48,
+      "Blockchain": 33,
+      "Safety and Compliance": 69,
+      "Models and Benchmarks": 91,
+      "Other Finance": 8,
+      "By Venue and Year": 50,
+      "Missing PDFs": 50
+    }
+  },
+  "local_markdown_links_checked": 45750,
+  "broken_local_links": [],
+  "sources_checked": 844,
+  "source_problems": [],
+  "all_finance_ids_verified_in_main_universe": true
+}

@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "id": "2021.emnlp-main.165",
+      "expected": "not automatically admitted as long",
+      "passed": true,
+      "result": {
+        "id": "2021.emnlp-main.165"
+      }
+    },
+    {
+      "id": "2021.emnlp-main.557",
+      "expected": "not automatically admitted as long",
+      "passed": true,
+      "result": {
+        "id": "2021.emnlp-main.557"
+      }
+    },
+    {
+      "id": "2023.findings-acl.219",
+      "expected": "not automatically admitted as long",
+      "passed": true,
+      "result": {
+        "id": "2023.findings-acl.219"
+      }
+    },
+    {
+      "id": "2023.findings-emnlp.138",
+      "expected": "not automatically admitted as long",
+      "passed": true,
+      "result": {
+        "id": "2023.findings-emnlp.138"
+      }
+    },
+    {
+      "id": "2023.findings-emnlp.434",
+      "expected": "not automatically admitted as long",
+      "passed": true,
+      "result": {
+        "id": "2023.findings-emnlp.434"
+      }
+    },
+    {
+      "id": "2026.findings-emnlp.1767",
+      "expected": "not automatically admitted as long",
+      "passed": true,
+      "result": {
+        "id": "2026.findings-emnlp.1767"
+      }
+    },
+    {
+      "id": "2026.findings-emnlp.2448",
+      "expected": "not automatically admitted as long",
+      "passed": true,
+      "result": {
+        "id": "2026.findings-emnlp.2448"
+      }
+    }
+  ]
+}

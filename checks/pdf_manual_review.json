@@ -1,0 +1,145 @@
+[
+  {
+    "id": "P19-1082",
+    "path": "pdfs/ACL/2019/P19-1082__Coupling_Retrieval_and_Meta_Learning_for_Context_Dependent_Semantic_Parsing.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 1048914,
+    "sha256": "dc6f882442ce919dd7143e15a0dc0d88e48cd6d6510da370bbbdccc2e8147f69",
+    "status": "file_verified",
+    "title_word_coverage": 0.0,
+    "first_page_excerpt": "0123456789 59 46\u000e\u000f9 \u0010\u00119 6567\u00121\n0169\u0013\u0010\u00149396\u000e96 \u00159\u0016 65\u0017\u0018 \u0019567\n\n\u0014\u001c \u001a \u001b21\u001c\u001d\u001e\u00142\u001a2\u001f 67\u001e! 6\u001426\u001e\u000f567\"#12\u001e6\u000e$56%56\u001c\n&'()*'++,+-./0//123+4560(7)*8(1*(9)61:/0;<(1=18>(7<80?@\nA6/1B2+1BC(?D/E+7/0+7?+-F8B./0/G1/,?<8</12H7+*(<<81B9A6/1BI'+69H@J@3'81/\nK8*7+<+-0J(<(/7*'G<8/9F(8L81B93'81/\nMNOPQRSTUVWXYZW[[\\RW]TUVWX^_[R[O_`QO_a]\nMQObV]NZ]V]QOV]ZUW]NcdPO^TUWaeP[Pfb_aPU\ngh\u0019 \u0017\n\n*+2(B(1(7/08+1/</1(k/45,(957+B7/44(7<6<6;\n,,?2+1+0j780(*+2(<-7+4<*7/0*'810'(7(/,\ni10'8<5/5(79j(57(<(10/1/557+/*'0+81*+7; /\n7,2@o'(10'(?j780(/58(*(+-*+2(81/5/7;\n5+7/0(7(078(>(22/0/5+810</<<655+7081B(>8; j+\n0\n8\n*\n6\n,/7(1>87+14(1090'(?0?58*/,,?,(>(7/B(5/<0\n2(1*(-+7*+10(k0;2(5(12(10<(4/108*5/7<81B9 (k5(\n(1*(+1j78081B+77(/281B*+2(<810'(<848;\n<6*'/<B(1(7/081B<+67*(*+2(*+12808+1(2+1 ,/7<8708\n6/08+1/</B682/1*(@K(/1j'8,(92/0/5+810<\n0'(*,/<<(1>87+"
+  },
+  {
+    "id": "2026.acl-long.163",
+    "path": "pdfs/ACL/2026/2026.acl-long.163__A_Comprehensive_Survey_of_Process_Reward_Models_Data_Generation_Model_Construction_and_Usage.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 1161914,
+    "sha256": "d6fd92213c429a834067643a0b437364257b32771e3206f05c803977f4ae2d28",
+    "status": "file_verified",
+    "title_word_coverage": 0.6,
+    "first_page_excerpt": "A Survey of Process Reward Models: From Outcome Signals to Process\nSupervisions for Large Language Models\nCongmin Zheng* 1 , Jiachen Zhu∗1 , Zhuoying Ou∗1 , Yuxiang Chen2 ,\nKangning Zhang1 ,Rong Shan1 Zeyu Zheng3 , Mengyue Yang4 ,\nJianghao Lin1† , Yong Yu1 , Weinan Zhang1†\n1\nShanghai Jiao Tong University, 2 University College London,\n3\nCarnegie Mellon University, 4 University of Bristol\n{desp.zcm,gebro13,zoeouzy23,linjianghao,wnzhang}@sjtu.edu.cn,\nAbstract\nAlthough Large Language Models (LLMs)\nexhibit advanced reasoning ability, conventional alignment remains largely dominated by\noutcome reward models (ORMs) that judge\nonly final answers. Process Reward Models\n(PRMs) address this gap by evaluating and\nguiding reasoning at the step or trajectory level.\nThis survey provides a systematic over"
+  },
+  {
+    "id": "2026.acl-long.879",
+    "path": "pdfs/ACL/2026/2026.acl-long.879__Double_Breaking_the_Acceleration_Limit_via_Double_Retrieval_Speculative_Parallelism.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 11468765,
+    "sha256": "7a39038a0682d7c342c4ee688411a7b73e39d42832916321fa62bd4b8deb073d",
+    "status": "file_verified",
+    "title_word_coverage": 0.0,
+    "first_page_excerpt": "19242\nProceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 19242–19263\nJuly 2-7, 2026 ©2026 Association for Computational Linguistics\n\n\f"
+  },
+  {
+    "id": "2026.acl-long.696",
+    "path": "pdfs/ACL/2026/2026.acl-long.696__Robertha_Eigenspectrum_Regularized_Attention_for_Robust_Natural_Language_Understanding.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 40512029,
+    "sha256": "d04bde4f44d7820ea7d5c50bfae51115efb5779b54e7b015ebbc2fa81acd7d38",
+    "status": "file_verified",
+    "title_word_coverage": 0.0,
+    "first_page_excerpt": "15229\nProceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 15229–15264\nJuly 2-7, 2026 ©2026 Association for Computational Linguistics\n\n\f"
+  },
+  {
+    "id": "D18-1506",
+    "path": "pdfs/EMNLP/2018/D18-1506__A_Co_Attention_Neural_Network_Model_for_Emotion_Cause_Analysis_with_Emotional_Context_Awareness.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 3498586,
+    "sha256": "a34f6189c5ba6c53bb26549e64553d369b12346c462b57e0d38ab3fbad1e32ca",
+    "status": "file_verified",
+    "title_word_coverage": 0.0,
+    "first_page_excerpt": "4752\nProceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 4752–4757\nBrussels, Belgium, October 31 - November 4, 2018. c 2018 Association for Computational Linguistics\n\n\f"
+  },
+  {
+    "id": "2021.emnlp-main.818",
+    "path": "pdfs/EMNLP/2021/2021.emnlp-main.818__Visually_Grounded_Reasoning_across_Languages_and_Cultures.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 17509152,
+    "sha256": "4a31d16efe49f42d6221640fc8b2358128c82195225dfaba9df950173fc0350f",
+    "status": "file_verified",
+    "title_word_coverage": 0.0,
+    "first_page_excerpt": "pCcn\u001dIIw ;aRnN030 `3\u001dcRNCN< \u001d,aRcc H\u001dN<n\u001d<3c \u001dN0 +nIjna3c\n7\u001dN<wn HCn∗,D 2L\u001dNn3I3 #n<IC\u001da3IIR∗,C 20R\u001da0R K\u001daC\u001d TRNjC@,N\nbCq\u001d `300w@,N MC<3I +RIIC3aD /3cLRN0 2IICRjjC\nD\nmNCq3acCjw R8 +\u001dL$aC0<3 C mNCq3acCjw R8 +RU3N@\u001d<3N\n@\nKCI\u001d Ģ [n3$3, \u001cajC~,C\u001dI BNj3IIC<3N,3 BNcjCjnj3 N K,;CII mNCq3acCjw\n\n\u001c$cja\u001d,j\ni@3 03cC<N R8 sC03cUa3\u001d0 qCcCRNA\u001dN0AI\u001dN<n\u001d<3\n0\u001dj\u001dc3jc \u001dN0 Ua3Aja\u001dCN30 3N,R03ac 0Ca3,jIw \u001d0RUjc.\nRa 0a\u001dsc CNcUCa\u001djCRN 8aRL. j@3 ,RN,3Ujc \u001dN0 CLA\n\u001d<3c R8 BL\u001d<3M3jY r@CI3 RN3 ,\u001dN @\u001da0Iw Rq3a3cA\njCL\u001dj3 @Rs Ln,@ j@Cc $3N,@L\u001daG ,RNjaC$nj30 jR\nUaR<a3cc CN ,RLUnj3a qCcCRN. Cj Cc LRcjIw 03aCq30\n8aRL I3uC,\u001dI 0\u001dj\u001d$\u001dc3c \u001dN0 CL\u001d<3 \\n3aC3c CN 2NA\n<ICc@. a3cnIjCN< CN cRna,3 L\u001dj3aC\u001dI sCj@ \u001d MRaj@\n\u001cL3aC,\u001dN Ra r3cj3aN 2naRU3\u001dN $C\u001dcY i@3a3A\n8Ra3. s3 03qCc3 \u001d N3s UaRjR,RI jR ,RNcjan,j \u001dN\nBL\u001d<3M3jAcjwI3 @C3a\u001da,@w a3Ua3"
+  },
+  {
+    "id": "icml-2019-4183",
+    "path": "pdfs/ICML/2019/icml-2019-4183__Blended_Conditonal_Gradients.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 2228171,
+    "sha256": "0b9ecd991e50f3af2d417895639f091af91347cabe4d1438049e8463f37d3765",
+    "status": "file_verified",
+    "title_word_coverage": 0.667,
+    "first_page_excerpt": "Blended Conditional Gradients:\nThe Unconditioning of Conditional Gradients\n\nGábor Braun 1 Sebastian Pokutta 1 Dan Tu 1 Stephen Wright 2\n\nAbstract\nWe present a blended conditional gradient approach for minimizing a smooth convex function\nover a polytope P , combining the Frank–Wolfe\nalgorithm (also called conditional gradient) with\ngradient-based steps, different from away steps\nand pairwise steps, but still achieving linear convergence for strongly convex functions, along\nwith good practical performance. Our approach\nretains all favorable properties of conditional gradient algorithms, notably avoidance of projections\nonto P and maintenance of iterates as sparse convex combinations of a limited number of extreme\npoints of P . The algorithm is lazy, making use\nof inexpensive inexact solutio"
+  },
+  {
+    "id": "icml-2019-3866",
+    "path": "pdfs/ICML/2019/icml-2019-3866__Competing_Against_Nash_Equilibria_in_Adversarially_Changing_Zero_Sum_Games.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 283933,
+    "sha256": "14661cffeae8dd2186bcf37be0145393bb5802138fbfca7aa9739c3cde98ca0b",
+    "status": "file_verified",
+    "title_word_coverage": 0.778,
+    "first_page_excerpt": "Competing Against Equilibria in Zero-Sum Games with Evolving Payoffs\n\nAdrian Rivera Cardoso 1 Jacob Abernethy 2 He Wang 1 Huan Xu 1\n\nAbstract\nWe study the problem of repeated play in a zerosum game in which the payoff matrix may change,\nin a possibly adversarial fashion, on each round;\nwe call these Online Matrix Games. Finding the\nNash Equilibrium (NE) of a two player zero-sum\ngame is core to many problems in statistics, optimization, and economics, and for a fixed game\nmatrix this can be easily reduced to solving a linear program. But when the payoff matrix evolves\nover time our goal is to find a sequential algorithm that can compete with, in a certain sense,\nthe NE of the long-term-averaged payoff matrix.\nWe design an algorithm with small NE regret–that\nis, we ensure that the long-term "
+  },
+  {
+    "id": "icml-2019-3924",
+    "path": "pdfs/ICML/2019/icml-2019-3924__EDDI_Efficient_Dynamic_Discovery_of_High_Value_Information_with_Partial_VAE.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 4186294,
+    "sha256": "8c73c23288909779ba58cb09a9c09b401e1eabda291acdf00217db45f19a9ee5",
+    "status": "file_verified",
+    "title_word_coverage": 0.0,
+    "first_page_excerpt": "\f"
+  },
+  {
+    "id": "neurips-2018-11742",
+    "path": "pdfs/NeurIPS/2018/neurips-2018-11742__On_Neuronal_Capacity.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 396857,
+    "sha256": "fc339f6d21a0239a6b1971dcbc51bca39a1d7b2cf1b4566b5d3567097c7d0c10",
+    "status": "file_verified",
+    "title_word_coverage": 1.0,
+    "first_page_excerpt": "Neuronal Capacity\n\nPierre Baldi\nDepartment of Computer Science\nUniversity of California, Irvine\nIrvine, CA 92697\npfbaldi@uci.edu\n\nRoman Vershynin\nDepartment of Mathematics\nUniversity of California, Irvine\nIrvine, CA 92697\nrvershyn@uci.edu\n\nAbstract\nWe define the capacity of a learning machine to be the logarithm of the number\n(or volume) of the functions it can implement. We review known results, and\nderive new results, estimating the capacity of several neuronal models: linear and\npolynomial threshold gates, linear and polynomial threshold gates with constrained\nweights (binary weights, positive weights), and ReLU neurons. We also derive some\ncapacity estimates and bounds for fully recurrent networks, as well as feedforward\nnetworks.\n\n1\n\nIntroduction\n\nA basic framework for the study of le"
+  },
+  {
+    "id": "neurips-2019-14120",
+    "path": "pdfs/NeurIPS/2019/neurips-2019-14120__Distribution_oblivious_risk_aware_algorithms_for_multi_armed_bandits_with_unbounded_rewards.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 28794132,
+    "sha256": "f0870519b7e25c8aea9abe785715b9e70aac4c60aa87d4bcac1b90a5214712b9",
+    "status": "file_verified",
+    "title_word_coverage": 0.0,
+    "first_page_excerpt": "\f"
+  },
+  {
+    "id": "neurips-2021-bGfDnD7xo-v",
+    "path": "pdfs/NeurIPS/2021/neurips-2021-bGfDnD7xo-v__Continuized_Accelerations_of_Deterministic_and_Stochastic_Gradient_Descents_and_of_Gossip_Algorithms.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 341931,
+    "sha256": "9b696a80ed05f41518eb591e0536931cbecaca127c461379ce5d955d9849dc4d",
+    "status": "file_verified",
+    "title_word_coverage": 0.75,
+    "first_page_excerpt": "A Continuized View on Nesterov Acceleration for\nStochastic Gradient Descent and Randomized Gossip\n\nMathieu Even1,? , Raphaël Berthier1,? , Francis Bach1 , Nicolas Flammarion2 ,\nPierre Gaillard3 , Hadrien Hendrikx1 , Laurent Massoulié1,4 and Adrien Taylor1\n?\n1\n\nEqual contributions\n\nInria - Département d’informatique de l’ENS, PSL Research University, Paris, France\n2\n\n3\n\nSchool of Computer and Communication Sciences\nEcole Polytechnique Fédérale de Lausanne\n\nUniv. Grenoble Alpes, Inria, CNRS, Grenoble INP, LJK, 38000 Grenoble, France\n4\n\nMSR-Inria Joint Centre\n\nAbstract\nWe introduce the “continuized” Nesterov acceleration, a close variant of Nesterov\nacceleration whose variables are indexed by a continuous time parameter. The\ntwo variables continuously mix following a linear ordinary different"
+  },
+  {
+    "id": "neurips-2022-iBBcRUlOAPR",
+    "path": "pdfs/NeurIPS/2022/neurips-2022-iBBcRUlOAPR__An_empirical_analysis_of_compute_optimal_large_language_model_training.pdf",
+    "exists": true,
+    "title_status": "manual_review",
+    "bytes": 3031304,
+    "sha256": "1e9f9c9d41306b611ee8dc01745fe38bff2ba9400c38ee0dbd6fdf571c20fd25",
+    "status": "file_verified",
+    "title_word_coverage": 0.75,
+    "first_page_excerpt": "Training Compute-Optimal Large Language Models\n\nJordan Hoffmann∗\n\nSebastian Borgeaud∗\n\nTrevor Cai\n\nEliza Rutherford\n\nJohannes Welbl\n\nAidan Clark\n\nGeorge van den Driessche\nKaren Simonyan\n\nArthur Mensch∗\n\nDiego de Las Casas\nTom Hennigan\n\nBogdan Damoc\n\nErich Elsen\n\nLisa Anne Hendricks\n\nEric Noland\nAurelia Guy\n\nOriol Vinyals\n∗\n\nElena Buchatskaya\n\nJack W. Rae\n\nKatie Millican\nSimon Osindero\nLaurent Sifre∗\n\nEqual contributions\n\nDeepMind\n(sborgeaud|amensch|sifre)@deepmind.com\n\nAbstract\nWe investigate the optimal model size and number of tokens for training a Transformer language model under a given compute budget. We find that current large\nlanguage models are significantly undertrained, a consequence of the recent focus\non scaling language models whilst keeping the amount of training data constan"
+  }
+]

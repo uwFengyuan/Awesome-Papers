@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual/2024/awards_detail",
+  "final_url": "https://iclr.cc/virtual/2024/awards_detail",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:42.776942+00:00",
+  "bytes": 83982,
+  "sha256": "49c1112ef4080b0d756acf7cdd782f60dee24de0e5a355825ba73b7f34b20dbd",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/iclr-2024-awardorigin-0.gz"
+}

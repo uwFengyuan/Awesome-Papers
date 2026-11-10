@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22One+for+Two+A+Unified+Framework+for+Imbalanced+Graph+Classification+via+Dynamic+Balanced%22+OR+ti%3A%22Online+Learning+and+Equilibrium+Computation+with+Ranking+Feedback%22+OR+ti%3A%22OpenApps+Simulating+Environment+Variations+to+Measure+UI+Agent+Reliability%22+OR+ti%3A%22OpenThoughts+Data+Recipes+for+Reasoning+Models%22+OR+ti%3A%22Optimal+Sparsity+of+Mixture+of+Experts+Language+Models+for+Reasoning+Tasks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22One+for+Two+A+Unified+Framework+for+Imbalanced+Graph+Classification+via+Dynamic+Balanced%22+OR+ti%3A%22Online+Learning+and+Equilibrium+Computation+with+Ranking+Feedback%22+OR+ti%3A%22OpenApps+Simulating+Environment+Variations+to+Measure+UI+Agent+Reliability%22+OR+ti%3A%22OpenThoughts+Data+Recipes+for+Reasoning+Models%22+OR+ti%3A%22Optimal+Sparsity+of+Mixture+of+Experts+Language+Models+for+Reasoning+Tasks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:45.968292+00:00",
+  "bytes": 14627,
+  "sha256": "c9865abd84c9ee91c7872062f25d8e7be4ed3ddd544e9bf8659e84e6a71e2a19",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-445ddcfec37f6cdfca2c.gz"
+}

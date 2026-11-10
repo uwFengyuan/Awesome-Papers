@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/Mcompetitions/M4-methods/master/Dataset/M4-info.csv",
+  "final_url": "https://raw.githubusercontent.com/Mcompetitions/M4-methods/master/Dataset/M4-info.csv",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:33:45.339516+00:00",
+  "bytes": 4335598,
+  "sha256": "26a75cc9b9f65e351b39b0bdbb7e3464ac837df0baf541ab55abdd2ba1a14c88",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/finance-expansion-m4-info.gz"
+}

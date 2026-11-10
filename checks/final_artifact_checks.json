@@ -1,0 +1,21 @@
+{
+  "All Papers": {
+    "rows": 8994,
+    "columns": 23
+  },
+  "AI for Finance": {
+    "rows": 345,
+    "columns": 23
+  },
+  "Coverage": {
+    "rows": 51,
+    "columns": 13
+  },
+  "Missing PDFs": {
+    "rows": 232,
+    "columns": 23
+  },
+  "pdf_files": 8762,
+  "pdf_bytes": 22045714025,
+  "pdf_GiB": 20.53
+}

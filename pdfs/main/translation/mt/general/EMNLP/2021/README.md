@@ -1,0 +1,15 @@
+# pdfs/main/translation/mt/general/EMNLP/2021
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2021 | EMNLP | main | [Automatic Text Evaluation through the Lens of Wasserstein Barycenters](https://aclanthology.org/2021.emnlp-main.817/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.817__Automatic_Text_Evaluation_through_the_Lens_of_Wasserstein_Barycenters.pdf) |
+| 2021 | EMNLP | main | [BERT, mBERT, or BiBERT? A Study on Contextualized Embeddings for Neural Machine Translation](https://aclanthology.org/2021.emnlp-main.534/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.534__BERT_mBERT_or_BiBERT_A_Study_on_Contextualized_Embeddings_for_Neural_Machine_Translation.pdf) |
+| 2021 | EMNLP | main | [Contrastive Conditioning for Assessing Disambiguation in MT: A Case Study of Distilled Bias](https://aclanthology.org/2021.emnlp-main.803/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.803__Contrastive_Conditioning_for_Assessing_Disambiguation_in_MT_A_Case_Study_of_Distilled_Bias.pdf) |
+| 2021 | EMNLP | main | [Investigating the Helpfulness of Word-Level Quality Estimation for Post-Editing Machine Translation Output](https://aclanthology.org/2021.emnlp-main.799/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.799__Investigating_the_Helpfulness_of_Word_Level_Quality_Estimation_for_Post_Editing_Machine_Translation_.pdf) |
+| 2021 | EMNLP | main | [Learning Kernel-Smoothed Machine Translation with Retrieved Examples](https://aclanthology.org/2021.emnlp-main.579/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.579__Learning_Kernel_Smoothed_Machine_Translation_with_Retrieved_Examples.pdf) |
+| 2021 | EMNLP | main | [Neural Machine Translation Quality and Post-Editing Performance](https://aclanthology.org/2021.emnlp-main.801/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.801__Neural_Machine_Translation_Quality_and_Post_Editing_Performance.pdf) |
+| 2021 | EMNLP | main | [Robust Open-Vocabulary Translation from Visual Text Representations](https://aclanthology.org/2021.emnlp-main.576/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.576__Robust_Open_Vocabulary_Translation_from_Visual_Text_Representations.pdf) |

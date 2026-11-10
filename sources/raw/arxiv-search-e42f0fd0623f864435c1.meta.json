@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Steering+the+Herd+A+Framework+for+LLM+based+Control+of+Social+Learning%22+OR+ti%3A%22Structured+Flow+Autoencoders+Learning+Structured+Probabilistic+Representations+with+Flow+Matching%22+OR+ti%3A%22TD+JEPA+Latent+predictive+Representations+for+Zero+Shot+Reinforcement+Learning%22+OR+ti%3A%22TRACE+Your+Diffusion+Model+is+Secretly+an+Instance+Edge+Detector%22+OR+ti%3A%22TROLL+Trust+Regions+Improve+Reinforcement+Learning+for+Large+Language+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Steering+the+Herd+A+Framework+for+LLM+based+Control+of+Social+Learning%22+OR+ti%3A%22Structured+Flow+Autoencoders+Learning+Structured+Probabilistic+Representations+with+Flow+Matching%22+OR+ti%3A%22TD+JEPA+Latent+predictive+Representations+for+Zero+Shot+Reinforcement+Learning%22+OR+ti%3A%22TRACE+Your+Diffusion+Model+is+Secretly+an+Instance+Edge+Detector%22+OR+ti%3A%22TROLL+Trust+Regions+Improve+Reinforcement+Learning+for+Large+Language+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:24.543140+00:00",
+  "bytes": 11544,
+  "sha256": "587476df016cee4010cc903a7584516ba1030b934d9789302194689141dffb44",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-e42f0fd0623f864435c1.gz"
+}

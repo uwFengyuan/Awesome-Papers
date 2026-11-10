@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Data+Poisoning+Attacks+in+Multi+Party+Learning%22+OR+ti%3A%22Separable+value+functions+across+time+scales%22+OR+ti%3A%222+Bench+Evaluating+Conversational+Agents+in+a+Dual+Control+Environment%22+OR+ti%3A%223ViewSense+Spatial+and+Mental+Perspective+Reasoning+from+Orthographic+Views+in+Vision+Language+Models%22+OR+ti%3A%22A+Causal+Decomposition+Approach+for+Fair+Contextual+Multi+Armed+Bandits%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Data+Poisoning+Attacks+in+Multi+Party+Learning%22+OR+ti%3A%22Separable+value+functions+across+time+scales%22+OR+ti%3A%222+Bench+Evaluating+Conversational+Agents+in+a+Dual+Control+Environment%22+OR+ti%3A%223ViewSense+Spatial+and+Mental+Perspective+Reasoning+from+Orthographic+Views+in+Vision+Language+Models%22+OR+ti%3A%22A+Causal+Decomposition+Approach+for+Fair+Contextual+Multi+Armed+Bandits%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:13.722175+00:00",
+  "bytes": 8831,
+  "sha256": "66bb872e919a1d6993a44695a567f550df9d9354b8b0136806c7b3da153f86ec",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f1885aad5c6354b2fe1b.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Transformers+are+Inherently+Succinct%22+OR+ti%3A%22A+Random+Matrix+Perspective+on+the+Consistency+of+Diffusion+Models%22+OR+ti%3A%22High+accuracy+sampling+for+diffusion+models+and+log+concave+distributions%22+OR+ti%3A%22How+much+can+language+models+memorize%22+OR+ti%3A%22Motion+Attribution+for+Video+Generation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Transformers+are+Inherently+Succinct%22+OR+ti%3A%22A+Random+Matrix+Perspective+on+the+Consistency+of+Diffusion+Models%22+OR+ti%3A%22High+accuracy+sampling+for+diffusion+models+and+log+concave+distributions%22+OR+ti%3A%22How+much+can+language+models+memorize%22+OR+ti%3A%22Motion+Attribution+for+Video+Generation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:11.924593+00:00",
+  "bytes": 7453,
+  "sha256": "8d5fb119d69ab3b6ed0068e38d7a32220776fd9b434719a478d33eb60f77fdc7",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3682b4ada8bccc433f26.gz"
+}

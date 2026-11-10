@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AmbientGAN+Generative+models+from+lossy+measurements%22+OR+ti%3A%22Ask+the+Right+Questions+Active+Question+Reformulation+with+Reinforcement+Learning%22+OR+ti%3A%22Beyond+Word+Importance+Contextual+Decomposition+to+Extract+Interactions+from+LSTMs%22+OR+ti%3A%22Boosting+Dilated+Convolutional+Networks+with+Mixed+Tensor+Decompositions%22+OR+ti%3A%22Breaking+the+Softmax+Bottleneck+A+High+Rank+RNN+Language+Model%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AmbientGAN+Generative+models+from+lossy+measurements%22+OR+ti%3A%22Ask+the+Right+Questions+Active+Question+Reformulation+with+Reinforcement+Learning%22+OR+ti%3A%22Beyond+Word+Importance+Contextual+Decomposition+to+Extract+Interactions+from+LSTMs%22+OR+ti%3A%22Boosting+Dilated+Convolutional+Networks+with+Mixed+Tensor+Decompositions%22+OR+ti%3A%22Breaking+the+Softmax+Bottleneck+A+High+Rank+RNN+Language+Model%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:27.406002+00:00",
+  "bytes": 12569,
+  "sha256": "53bd3642a745de28c5b71914a09afc1a8cd1d988b6b6fd3ac73f5c568a46b05d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b62130e442f0f4bd429d.gz"
+}

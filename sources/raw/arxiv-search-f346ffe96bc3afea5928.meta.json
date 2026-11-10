@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Mixtures+Closest+To+A+Given+Measure+A+Semidefinite+Programming+Approach%22+OR+ti%3A%22Modeling+Hierarchical+Thinking+in+Large+Reasoning+Models%22+OR+ti%3A%22Monitoring+Monitorability%22+OR+ti%3A%22Multimodal+Nested+Learning+for+Decoupled+and+Coordinated+Optimization%22+OR+ti%3A%22MuonSSM+Orthogonalizing+State+Space+Models+for+Sequence+Modeling%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Mixtures+Closest+To+A+Given+Measure+A+Semidefinite+Programming+Approach%22+OR+ti%3A%22Modeling+Hierarchical+Thinking+in+Large+Reasoning+Models%22+OR+ti%3A%22Monitoring+Monitorability%22+OR+ti%3A%22Multimodal+Nested+Learning+for+Decoupled+and+Coordinated+Optimization%22+OR+ti%3A%22MuonSSM+Orthogonalizing+State+Space+Models+for+Sequence+Modeling%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:17.061855+00:00",
+  "bytes": 13818,
+  "sha256": "01cf3e467b99e8ce99f2c78fea57a1cc156b9535dde5680875b5cfc8d06461ad",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f346ffe96bc3afea5928.gz"
+}

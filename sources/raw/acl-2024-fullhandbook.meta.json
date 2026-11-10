@@ -1,0 +1,10 @@
+{
+  "url": "https://aclanthology.org/2024.acl.handbook.pdf",
+  "final_url": "https://aclanthology.org/2024.acl.handbook.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:50:40.173987+00:00",
+  "bytes": 396992,
+  "sha256": "49581bef2b5d06454bfd37b6e4b58cae2cafc7a5fc9fb80c1e92e95ed878a4b6",
+  "content_type": "application/pdf",
+  "cache_path": "sources/raw/acl-2024-fullhandbook.gz"
+}

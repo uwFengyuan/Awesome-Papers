@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+where+and+when+to+reason+in+neuro+symbolic+inference%22+OR+ti%3A%22Mitigating+Gradient+Bias+in+Multi+objective+Learning+A+Provably+Convergent+Approach%22+OR+ti%3A%22Modeling+content+creator+incentives+on+algorithm+curated+platforms%22+OR+ti%3A%22Moving+Forward+by+Moving+Backward+Embedding+Action+Impact+over+Action+Semantics%22+OR+ti%3A%22Multi+Rate+VAE+Train+Once+Get+the+Full+Rate+Distortion+Curve%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+where+and+when+to+reason+in+neuro+symbolic+inference%22+OR+ti%3A%22Mitigating+Gradient+Bias+in+Multi+objective+Learning+A+Provably+Convergent+Approach%22+OR+ti%3A%22Modeling+content+creator+incentives+on+algorithm+curated+platforms%22+OR+ti%3A%22Moving+Forward+by+Moving+Backward+Embedding+Action+Impact+over+Action+Semantics%22+OR+ti%3A%22Multi+Rate+VAE+Train+Once+Get+the+Full+Rate+Distortion+Curve%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:54.848103+00:00",
+  "bytes": 8757,
+  "sha256": "5e5e28b7ea9fb2abf1119b0d31d75de23b0c6d18af3d8714641e3bf552ba89c5",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-17ae8701934d1cfc52d9.gz"
+}

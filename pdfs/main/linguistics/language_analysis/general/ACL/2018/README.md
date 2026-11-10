@@ -1,0 +1,16 @@
+# pdfs/main/linguistics/language_analysis/general/ACL/2018
+
+
+
+Papers / 论文：**8**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2018 | ACL | main | [Comprehensive Supersense Disambiguation of English Prepositions and Possessives](https://aclanthology.org/P18-1018/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1018__Comprehensive_Supersense_Disambiguation_of_English_Prepositions_and_Possessives.pdf) |
+| 2018 | ACL | main | [Joint Reasoning for Temporal and Causal Relations](https://aclanthology.org/P18-1212/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1212__Joint_Reasoning_for_Temporal_and_Causal_Relations.pdf) |
+| 2018 | ACL | main | [Language Generation via DAG Transduction](https://aclanthology.org/P18-1179/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1179__Language_Generation_via_DAG_Transduction.pdf) |
+| 2018 | ACL | main | [Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words](https://aclanthology.org/P18-1017/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1017__Obtaining_Reliable_Human_Ratings_of_Valence_Arousal_and_Dominance_for_20_000_English_Words.pdf) |
+| 2018 | ACL | main | [Prefix Lexicalization of Synchronous CFGs using Synchronous TAG](https://aclanthology.org/P18-1107/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1107__Prefix_Lexicalization_of_Synchronous_CFGs_using_Synchronous_TAG.pdf) |
+| 2018 | ACL | main | [Taylor’s law for Human Linguistic Sequences](https://aclanthology.org/P18-1105/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1105__Taylor_s_law_for_Human_Linguistic_Sequences.pdf) |
+| 2018 | ACL | main | [What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties](https://aclanthology.org/P18-1198/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1198__What_you_can_cram_into_a_single_vector_Probing_sentence_embeddings_for_linguistic_properties.pdf) |
+| 2018 | ACL | main | [Which Melbourne? Augmenting Geocoding with Maps](https://aclanthology.org/P18-1119/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1119__Which_Melbourne_Augmenting_Geocoding_with_Maps.pdf) |

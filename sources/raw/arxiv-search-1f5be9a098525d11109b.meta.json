@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Generalization+in+diffusion+models+arises+from+geometry+adaptive+harmonic+representations%22+OR+ti%3A%22Learning+Interactive+Real+World+Simulators%22+OR+ti%3A%22Never+Train+from+Scratch+Fair+Comparison+of+Long+Sequence+Models+Requires+Data+Driven%22+OR+ti%3A%22Protein+Discovery+with+Discrete+Walk+Jump+Sampling%22+OR+ti%3A%22Vision+Transformers+Need+Registers%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Generalization+in+diffusion+models+arises+from+geometry+adaptive+harmonic+representations%22+OR+ti%3A%22Learning+Interactive+Real+World+Simulators%22+OR+ti%3A%22Never+Train+from+Scratch+Fair+Comparison+of+Long+Sequence+Models+Requires+Data+Driven%22+OR+ti%3A%22Protein+Discovery+with+Discrete+Walk+Jump+Sampling%22+OR+ti%3A%22Vision+Transformers+Need+Registers%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:05.706628+00:00",
+  "bytes": 15688,
+  "sha256": "52b855f22eeda106eb411723b6c8e7332600486cc10c3cd7fce32c4f9781d09e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-1f5be9a098525d11109b.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2024.emnlp.xml",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2024.emnlp.xml",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:53.891791+00:00",
+  "bytes": 3556574,
+  "sha256": "834faebc5e95d94732a6c3d860655ba0f72dd20776535443556694daf2a68958",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2024-anthology.gz"
+}

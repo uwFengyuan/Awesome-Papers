@@ -1,0 +1,14 @@
+# pdfs/main/linguistics/language_analysis/general/EMNLP/2025
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2025 | EMNLP | main | [Formalizing Style in Personal Narratives](https://aclanthology.org/2025.emnlp-main.371/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.371__Formalizing_Style_in_Personal_Narratives.pdf) |
+| 2025 | EMNLP | main | [Frequency & Compositionality in Emergent Communication](https://aclanthology.org/2025.emnlp-main.1387/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.1387__Frequency_Compositionality_in_Emergent_Communication.pdf) |
+| 2025 | EMNLP | main | [Information Integration in Large Language Models is Gated by Linguistic Structural Markers](https://aclanthology.org/2025.emnlp-main.351/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.351__Information_Integration_in_Large_Language_Models_is_Gated_by_Linguistic_Structural_Markers.pdf) |
+| 2025 | EMNLP | main | [NileChat: Towards Linguistically Diverse and Culturally Aware LLMs for Local Communities](https://aclanthology.org/2025.emnlp-main.556/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.556__NileChat_Towards_Linguistically_Diverse_and_Culturally_Aware_LLMs_for_Local_Communities.pdf) |
+| 2025 | EMNLP | main | [Resource-Rational Noisy-Channel Language Processing: Testing the Effect of Algorithmic Constraints on Inferences](https://aclanthology.org/2025.emnlp-main.1207/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.1207__Resource_Rational_Noisy_Channel_Language_Processing_Testing_the_Effect_of_Algorithmic_Constraints_on.pdf) |
+| 2025 | EMNLP | main | [What You Read Isn’t What You Hear: Linguistic Sensitivity in Deepfake Speech Detection](https://aclanthology.org/2025.emnlp-main.794/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Lexical & Linguistic Analysis / 词汇与语言分析 / General / 综合 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.794__What_You_Read_Isn_t_What_You_Hear_Linguistic_Sensitivity_in_Deepfake_Speech_Detection.pdf) |

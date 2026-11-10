@@ -1,0 +1,15 @@
+# Knowing When to Ask: Segment-Level Credit Assignment for LLM Tool Use
+
+NeurIPS 2026 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：On five benchmarks spanning arithmetic, multi-hop factual QA, and numerical reasoning over financial tables, CARL improves exact-match accuracy by 6.7 points at 7B and 10.6 points at 3B over the strongest trajectory-level baseline (Search-R1 PPO), with the largest gain (+8.3 EM at 7B, +9.0 EM at 3B) on Musique, the most compositional multi-hop benchmark.
+
+[Paper](https://openreview.net/forum?id=rzZuYaw8zp)
+
+Classification / 分类：Financial QA & Reasoning / 金融问答与数值推理 → Numerical & Table Reasoning / 数值与表格推理 → General / 综合
+
+## Abstract / 摘要
+
+Humans know when to reach for help e.g. $347 \times 28$ warrants a calculator while $2 + 2$ does not. Language models, by default, do not. Prompt-based approaches can instruct a model when to invoke tools, but this external scaffolding does not teach the model to recognize the boundary of its own knowledge. Reinforcement learning approaches that assign a single outcome reward to the whole trajectory fare no better: trajectory-level credit cannot isolate which tool call in a successful episode actually helped, nor penalize unnecessary calls. We propose \textbf{CARL} (\textbf{C}ompetence-\textbf{A}ware \textbf{R}einforcement \textbf{L}earning), which trains a critic on the model's own rollouts to learn where the model's parametric knowledge suffices and where it needs external help. By decomposing each rollout at natural tool-use boundaries (e.g., code fence delimiters and context block transitions), CARL assigns independent credit to each segment from a single binary outcome, without external judges or step-level annotations, addressing the credit-assignment limitations of trajectory-level methods. As a result, erroneous tool calls, incorrect extractions, and unnecessary calls each receive appropriately signed advantages under a single scheme. We show quantitatively and qualitatively that the trained critic captures the model's domain competence: it separates parametrically solvable from tool-dependent questions with AUC 0.93 at 7B. On five benchmarks spanning arithmetic, multi-hop factual QA, and numerical reasoning over financial tables, CARL improves exact-match accuracy by 6.7 points at 7B and 10.6 points at 3B over the strongest trajectory-level baseline (Search-R1 PPO), with the largest gain (+8.3 EM at 7B, +9.0 EM at 3B) on Musique, the most compositional multi-hop benchmark. Compared to a representative trajectory-level baseline (Search-R1 GRPO), the model issues 56\% fewer tool calls on questions answerable from parametric knowledge while remaining ${\sim}10$ EM points more accurate on those same questions, an emergent consequence of the critic learning where this model's competence ends. Gains are largest at small scale: the 3B model improvement is $1.6\times$ the 7B improvement, suggesting that knowing when to ask for help disproportionately benefits models with smaller parametric memory.

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SMART+Scalable+Multi+Agent+Role+conditioned+Teaming+via+LLM+free+Tree+Search%22+OR+ti%3A%22Scale+Sensitive+Shattering+Learnability+and+Evaluability+at+Optimal+Scale%22+OR+ti%3A%22Self+Programmed+Execution+for+Language+Model+Agents%22+OR+ti%3A%22Shaping+Useful+Noise+Energy+Distributions+Predict+Visual+Pretraining+Quality%22+OR+ti%3A%22Spectral+Energy+Allocation+Enables+Source+Free+Domain+Adaptation+in+Time+Series+Forecasting%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SMART+Scalable+Multi+Agent+Role+conditioned+Teaming+via+LLM+free+Tree+Search%22+OR+ti%3A%22Scale+Sensitive+Shattering+Learnability+and+Evaluability+at+Optimal+Scale%22+OR+ti%3A%22Self+Programmed+Execution+for+Language+Model+Agents%22+OR+ti%3A%22Shaping+Useful+Noise+Energy+Distributions+Predict+Visual+Pretraining+Quality%22+OR+ti%3A%22Spectral+Energy+Allocation+Enables+Source+Free+Domain+Adaptation+in+Time+Series+Forecasting%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:28:12.039731+00:00",
+  "bytes": 6405,
+  "sha256": "cf6812a20fc37c405bb78e846db70be931a25b88a7659496905a8a2e29cde24f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-0222ea9802d5ba9ac4a4.gz"
+}

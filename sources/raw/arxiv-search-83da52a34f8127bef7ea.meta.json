@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Optimistic+Task+Inference+for+Behavior+Foundation+Models%22+OR+ti%3A%22Overcoming+Joint+Intractability+with+Lossless+Hierarchical+Speculative+Decoding%22+OR+ti%3A%22Overparametrization+bends+the+landscape+BBP+transitions+at+initialization+in+simple+Neural+Networks%22+OR+ti%3A%22Overthinking+Reduction+with+Decoupled+Rewards+and+Curriculum+Data+Scheduling%22+OR+ti%3A%22P+GenRM+Personalized+Generative+Reward+Model+with+Test+time+User+based+Scaling%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Optimistic+Task+Inference+for+Behavior+Foundation+Models%22+OR+ti%3A%22Overcoming+Joint+Intractability+with+Lossless+Hierarchical+Speculative+Decoding%22+OR+ti%3A%22Overparametrization+bends+the+landscape+BBP+transitions+at+initialization+in+simple+Neural+Networks%22+OR+ti%3A%22Overthinking+Reduction+with+Decoupled+Rewards+and+Curriculum+Data+Scheduling%22+OR+ti%3A%22P+GenRM+Personalized+Generative+Reward+Model+with+Test+time+User+based+Scaling%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:49.107563+00:00",
+  "bytes": 13698,
+  "sha256": "3307f58f936d25473e3724070b182548d22c01ba82bd17ce3d101d64f50dc49f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-83da52a34f8127bef7ea.gz"
+}

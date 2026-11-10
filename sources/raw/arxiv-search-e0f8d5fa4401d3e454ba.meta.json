@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Large+Language+Models+Develop+Novel+Social+Biases+Through+Adaptive+Exploration%22+OR+ti%3A%22Learning+Human+Robot+Collaboration+via+Heterogeneous+Agent+Lyapunov+Policy+Optimization%22+OR+ti%3A%22Learning+Unmasking+Policies+for+Diffusion+Language+Models%22+OR+ti%3A%22Learning+to+Theorize+the+World+from+Observation%22+OR+ti%3A%22Less+is+Enough+Synthesizing+Diverse+Data+in+LLM+Feature+Space+with+Sparse+Autoencoders%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Large+Language+Models+Develop+Novel+Social+Biases+Through+Adaptive+Exploration%22+OR+ti%3A%22Learning+Human+Robot+Collaboration+via+Heterogeneous+Agent+Lyapunov+Policy+Optimization%22+OR+ti%3A%22Learning+Unmasking+Policies+for+Diffusion+Language+Models%22+OR+ti%3A%22Learning+to+Theorize+the+World+from+Observation%22+OR+ti%3A%22Less+is+Enough+Synthesizing+Diverse+Data+in+LLM+Feature+Space+with+Sparse+Autoencoders%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:03.421312+00:00",
+  "bytes": 12880,
+  "sha256": "603ed4ca07e4e4684bece04358c0ca0a7416a5da09ccef9893afeef82bd8b8dc",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-e0f8d5fa4401d3e454ba.gz"
+}

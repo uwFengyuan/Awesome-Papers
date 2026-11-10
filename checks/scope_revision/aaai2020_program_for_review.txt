@@ -1,0 +1,3471 @@
+AAAI-20 / IAAI-20 / EAAI-20
+
+Conference Program
+New York Hilton Midtown
+New York, New York
+February 7–12, 2020
+
+Thirty-Fourth AAAI Conference on Artificial Intelligence
+Thirty-Second Conference on
+Innovative Applications of Artificial Intelligence
+Tenth Symposium on Educational
+Advances in Artificial Intelligence
+
+Conference Highlights at a Glance
+MORNING
+
+AFTERNOON
+
+EVENING
+
+Tutorial Forum
+Workshops
+AAAI/SIGAI DC
+Undergraduate Consortium
+AIES 2020 Conference
+
+Student Welcome Reception
+
+Tutorial Forum
+Workshops
+AAAI/SIGAI DC
+EAAI Technical Program
+AIES 2020 Conference
+
+AAAI Opening Reception
+
+Lunch with a Fellow
+
+AAAI Turing Award Event
+Fellows Dinner
+Poster / DemoSession 1
+
+Friday, February 7
+Tutorial Forum
+Workshops
+AAAI/SIGAI DC
+Undergraduate Consortium
+AIES 2020 Conference
+
+AIES Opening Reception
+
+Saturday, February 8
+Tutorial Forum
+Workshops
+AAAI/SIGAI DC
+EAAI Award Lecture: desJardins
+AIES 2020 Conference
+
+Sunday, February 9
+AAAI / IAAI Welcome / AAAI Awards
+AAAI Presidential Address: Yolanda Gil
+AAAI Classic Paper Award Talk: Junker
+EAAI Invited Talk: Shapiro/
+Zimmermann-Nieﬁeld
+Exhibits
+
+Senior Member Talks
+IAAI Technical Program
+EAAI Technical Program
+Exhibits
+
+Monday, February 10
+Women’s Mentoring Breakfast
+AAAI Invited Talk: Billard
+IAAI Invited Talk: Cox
+Student Abstract Spotlights
+Sister Conference Track
+Exhibits
+
+Lunch with a Fellow
+AAAI/IAAI Technical Program
+Senior Member Talks
+Sister Conference Track
+Exhibits
+
+IAAI RSE Award Lecture: Kautz
+AAAI-20 Debate
+Poster / Demo Session 2
+
+Lunch with a Fellow
+AAAI Invited Talk: Athey
+IAAI/IAAI Technical Program
+Exhibits / AI Job Fair
+
+AI History Panel
+Poster / Demo Session 3
+Games Night
+
+AAAI Technical Program
+AI in Practice
+
+AI in Practice Networking Event
+
+Tuesday, February 11
+AAAI Conference Awards
+AAAI/IAAI Invited Talk: Song
+AAAI/IAAI Technical Program
+Exhibits
+
+Wednesday, February 12
+AAAI Invited Talk: Russell
+AAAI Community Meeting
+AI in Practice
+
+2 CONFERENCE AT A GLANCE
+
+Contents
+AAAI Community Meeting / 5
+Acknowledgments / 4
+AI History Panel / 7
+
+Sponsoring Organizations
+AAAI gratefully acknowledges the generous contributions of the
+following organizations and individuals to AAAI-20:
+
+AI in Practice / 12
+
+Platinum Sponsors
+
+AI Job Fair / 14, 17
+
+IBM Research
+Sony
+
+AIES 2020 / 13
+Awards / 3–8
+Childcare / 17
+Conference at a Glance / 2
+Diversity and Inclusion / 6
+Doctoral Consortium / 12
+EAAI-20 Program / 13
+Exhibition / 14–17
+Games Night / 14
+IAAI-20 Program / 13
+Invited Talks / Panels / 9–11
+Poster / Demo Sessions / 7
+Registration / 17
+Senior Member, Blue Sky Program / 12
+Social Events / 7
+Special Meetings / 5
+Special Track: AI for Social Impact / 12
+Sponsors / 3
+Student Abstracts / 13
+Student Activities & Outreach / 11-14
+Talk Length Key / 18
+Technical Program Overview / 18–22
+Turing Award Event / 10
+Tutorial Forum / 8
+Undergraduate Consortium / 13
+Women’s Mentoring Breakfast / 14
+Workshop Program / 11
+
+Awards
+AAAI Special Awards and honors will be presented Sunday, February 9, 8:00 – 8:30 AM, in the
+Grand Ballroom on the 3rd floor of the New York
+Hilton Midtown Hotel. AAAI-20 Awards will be
+presented on Tuesday, February 11, 8:00 – 8:30
+AM in the same location.
+
+2020 AAAI Special Awards, Honors
+AAAI Honors and Special Awards will be presented by Subbarao Kambhampati, Awards
+Committee Chair and AAAI Past President,
+Yolanda Gil, AAAI President, and Bart Selman,
+AAAI President-Elect.
+
+2020 AAAI Fellows Recognition
+Each year, the Association for the Advancement
+of Artificial Intelligence recognizes a small num-
+
+Gold Sponsors
+Amazon
+AI Journal
+Beijing Baidu Netcom Science Technology Co., Ltd
+Bloomberg
+Google AI
+Happy Elements
+Superb AI
+
+Silver Sponsor
+Apple
+Elsevier, Ltd
+Tongdun Technology
+
+Bronze Sponsors
+Alegion
+Dataminr
+Facebook
+iMerit
+Jane Street
+Microsoft
+NLMatics
+Openstream
+TheTake.AI
+Two Sigma
+United Technologies Research Center
+USC/ISI
+Verisk Analytics
+Center for Artificial Intelligence Research, University of Tsukuba
+Visa Research
+
+General Sponsors
+ACM/SIGAI
+CRA Computing Community Consortium (CCC)
+David E. Smith
+
+ber of members who have made significant sustained contributions to the field of artificial intelligence, and who have attained unusual distinction in the profession. AAAI is pleased to announce the ten newly elected Fellows for 2020,
+who will be honored during the annual Fellows
+dinner on Sunday, February 9, 2020:
+Yoshua Bengio (Université de Montréal, Canada)
+Cynthia Breazeal (MIT Media Lab, USA)
+William T. Freeman (Massachusetts Institute of
+Technology and Google Research, USA)
+Yann LeCun (New York University, USA)
+Radhika Nagpal (Harvard University, USA)
+
+Natasha Noy (Google, USA)
+Martha Palmer (University of Colorado Boulder,
+USA)
+Dragomir Radev (Yale University, USA)
+Thomas Schiex (Institut National de Recherche
+pour l'Agriculture, l'Alimentation et l'Environnement, France)
+Sylvie Thiébaux (The Australian National University, Australia)
+
+2020 Senior Member Recognition
+AAAI is pleased to announce the newly elected
+2020 AAAI senior members, who are being rec-
+
+CONTENTS / SPONSORS / AWARDS 3
+
+Acknowledgements
+The Association for the Advancement of Artificial Intelligence acknowledges and thanks the following individuals for their generous contributions of time and energy to the successful creation and planning of the Thirty-Fourth AAAI Conference on Artificial Intelligence, the ThirtySecond Conference on Innovative Applications of Artificial Intelligence, and the Tenth Symposium on Educational Advances in Artificial Intelligence. (A complete listing of the AAAI-20 and IAAI-20 Program Committee members will appear on the conference website.)
+AAAI Conference Committee Chair
+
+Presentation Chair
+
+Peter Stone (University of Texas at Austin, USA)
+
+Eugene Freuder (University College Cork, Ireland)
+
+AAAI-20 General Chair
+
+Student Abstract Cochairs
+
+Francesca Rossi (IBM Research, USA)
+
+Bo An (Nanyang Technological University, Singapore)
+Nicola Gatti (Politecnico di Milano | Polimi, Italy)
+
+AAAI-20 Program Cochairs
+Vincent Conitzer (Duke University, USA)
+Fei Sha (Google Research and University of Southern California, USA)
+
+Workflow Chairs
+Haoming Li (Duke University, USA)
+Yury Zemlyanskiy (University of Southern California, USA)
+
+AAAI-20 Special Track on AI for Social Impact Cochairs
+
+Doctoral Consortium Cochairs
+Laura Hiatt (Naval Research Laboratory, USA)
+Shiwali Mohan (PARC, USA)
+
+Undergraduate Consortium Cochairs
+Jim Boerkoel (Harvey Mudd College, USA)
+Mehmet Ergezer (Wentworth Institute of Technology, USA)
+
+Student Activities Cochairs
+
+Fei Fang (Carnegie Mellon University, USA)
+Eric Sodomka (Facebook Research, USA)
+Milind Tambe (Harvard University, USA)
+
+Sriraam Natarajan (University of Texas, Dallas, USA)
+Nathan Sturtevant (University of Alberta, Canada)
+William Yeoh (New Mexico State University, USA)
+
+IAAI-20 Conference Chair and Cochair
+
+K-12 Student Outreach Cochairs
+
+Ruchir Puri (IBM Research, USA)
+Neil Yorke-Smith (TU Delft, Netherlands)
+
+Dave Touretzky (Carnegie Mellon University, USA)
+Christina Gardner-McCune (University of Florida, USA)
+
+EAAI-20 Symposium Cochairs
+
+AI in Practice Chair and Cochair
+
+Nate Derbinsky (Northeastern University, USA)
+Lisa Torrey (St. Lawrence University, USA)
+
+Evgeniy Gabrilovich (Google, USA)
+Ashish Jha (Harvard University, USA)
+
+Senior Member Track Cochairs
+Judy Goldsmith (University of Kentucky, USA)
+Sven Koenig (University of Southern California, USA)
+
+Sister Conference Track Chair
+
+AAAI/ACM SIGAI Job Fair Cochairs
+John Dickerson (University of Maryland, USA)
+Michael Albert (University of Virginia, USA)
+
+Diversity and Inclusion Chair
+
+Thomas Schiex (French National Institute
+for Agricultural Research, INRA, France)
+
+Maria Gini (University of Minnesota, USA)
+
+Demonstrations Cochairs
+
+Fundraising Cochairs
+
+Nicholas Mattei (Tulane University, USA)
+Kartik Talamadupula (IBM, USA)
+
+Barry O’Sullivan (University College Cork, Ireland)
+Pingzhong Tang (Tsinghua University, China)
+
+Tutorial Forum Cochairs
+
+AI History Panel Chair
+
+Pradeep Varakantham (Singapore Management University, Singapore)
+K. Brent Venable (IHMC and Tulane University, USA)
+
+Workshop Program Cochairs
+
+Amy Greenwald (Brown University, USA)
+
+AI Debate Chair
+Kevin Leyton-Brown (University of British Columbia, Canada)
+
+Min-Ling Zhang (Southeast University, China)
+Biplav Srivastava (IBM, USA)
+
+Volunteer Coordinator
+Victor Khaustov (The University of Aizu, Japan)
+
+ognized for their long-term participation in
+AAAI and their distinction in the field of artificial
+intelligence.
+
+Biplav Srivastava (IBM Research, USA)
+
+Yigal Arens (USC Information Sciences Institute,
+USA)
+Wingyan Chung (University of Central Florida, USA)
+Yun Fu (Northeastern University, USA)
+Kobi Gal (Ben-Gurion University Israel and University of Edinburgh, UK)
+Nick Hawes (University of Oxford, UK)
+Lane Hemaspaandra (University of Rochester, USA)
+Balaraman Ravindran (Indian Institute of Technology (IIT) Madras, India)
+Paolo Remagnino (Kingston University, UK)
+
+Fusun Yaman (BBN Technologies, USA)
+
+Pradeep Varakantham (Singapore Management
+University, Singapore)
+Hankz Hankui Zhuo (Sun Yat-Sen University, China)
+
+2020 AAAI Classic Paper Award
+
+QUICKXPLAIN: Preferred Explanations and Relaxations for Over-Constrained Problems
+Ulrich Junker
+
+For developing an influential approach for formalizing and efficiently computing user-preferred failure explanations in over-constrained problems.
+
+The Classic Paper Award Talk, by Ulrich Junker,
+will be held Sunday, February 9, at 9:30 AM in Regent, 2nd floor.
+
+The 2020 AAAI Classic Paper award honors the
+authors of the following paper deemed most in-
+
+2020 Distinguished Service Award
+
+fluential from the Nineteenth National Confer-
+
+Henry Kautz (University of Rochester, USA)
+
+ence on Artificial Intelligence, held in 2004 in
+San Jose, California, USA.
+
+4 AWARDS / ACKNOWLEDGEMENTS / CONFERENCE COMMITTEES
+
+For significant contributions to the field of artificial
+intelligence through sustained service to the Association for the Advancement of Artificial Intelli-
+
+gence and the furtherance of the field as a researcher, mentor and NSF IIS director.
+
+AAAI 2020 Special Posthumous
+Distinguished Service Award
+Alan Schultz (Naval Research Laboratory, USA)
+For significant contributions to the field of artificial
+intelligence through sustained service to the Association for the Advancement of Artificial Intelligence and the furtherance of the field as an organizer, researcher, and mentor.
+
+2020 AAAI/EAAI Outstanding
+Educator Award and Lecture
+The AAAI/EAAI Outstanding Educator Award
+was established to recognize a person (or group
+of people) who has (have) made major contributions to AI education that provide long-lasting
+benefits to the AI community. The 2020 award is
+being presented to Marie desJardins (Simmons
+University, USA) for leading the AI community
+in cultivating and recognizing advances in AI education, sharing pedagogical advances, increasing diversity, and improving K-12 CS teacher
+preparation. This award is jointly sponsored by
+AAAI and the Symposium on Educational Advances in Artificial Intelligence. The lecture will
+be held during EAAI-20 on Saturday, February 8,
+9:05 AM, in Bryant, 2nd floor. (See lecture description on page 9.)
+
+2020 Robert S. Engelmore
+Memorial Award and Lecture
+The Robert S. Engelmore Award is sponsored by
+IAAI-20 and AI Magazine, and will be presented
+by Ruchir Puri and Neil Yorke-Smith, IAAI-20
+Cochairs, and Ashok Goel, editor-in-chief, AI
+Magazine. The award and lecture were established in 2003 to honor Dr. Engelmore's extraordinary service to AAAI, AI Magazine,, and the AI
+applications community, and his contributions
+to applied AI. The 2020 award will be presented
+to Henry Kautz (University of Rochester, USA)
+for outstanding research contributions in the
+area of knowledge representation, data analytics,
+and data mining of social media for public good.
+
+IAAI-20 Deployed
+Applications Awards
+The ten IAAI-20 Deployed Application Awards
+will be announced during the Opening Ceremony on Sunday, February 9 by IAAI-20 Cochairs
+Ruchir Puri and Neil Yorke-Smith. Certificates
+will be presented during paper sessions.
+Accelerating Ranking in E-Commerce Search Engines
+through Contextual Factor Selection
+Anxiang Zeng, Han Yu, Qing Da, Yusen Zan, Chunyan Miao
+
+Automated Conversation Review to Surface Virtual
+Assistant Misunderstandings: Reducing Cost and Increasing Privacy
+Ian Beaver, Abdullah Mueen
+
+Special Meetings
+AAAI Community Meeting / Annual Business Meeting
+AAAI welcomes all conference attendees to the AAAI community meeting, which will also serve
+as the AAAI Annual Business Meeting. Please join us as we explore current initiatives, and help
+chart the future course and objectives of AAAI. The meeting will be held Wednesday, February
+12, 1:00 – 1:50 PM in the Grand Ballroom. Moderator: Yolanda Gil, AAAI President
+
+AAAI Conference Committee Meeting
+The AAAI Conference Committee Meeting will be held Tuesday, February 11, 12:30 – 2:00 PM,
+Lincoln, 4th floor.
+
+AAAI Executive Council Meeting
+The AAAI Executive Council Meeting will be held Saturday, February 8, 9:00 AM – 4:00 PM, New
+York Room, 4th floor. Continental breakfast will be available at 8:30 AM.
+
+AAAI Fellows Recognition Dinner
+The AAAI Fellows Recognition Dinner will be held Sunday, February 9, 7:30 – 10:00 PM, Herb N’
+Kitchen Runway and PDR2, Lobby level.
+
+AAAI Publications Committee Meeting
+The AAAI Publications Committee Meeting will be held Monday, February 11, 12:30 – 2:00 PM,
+Lincoln, 4th floor.
+
+AI Magazine Editorial Board Meeting
+The AI Magazine Editorial Board Meeting will be held Sunday, February 10, 12:30 – 2:00 PM, Lincoln, 4th floor.
+
+JAIR Business Meeting
+The JAIR Business Meeting will be held Tuesday, February 11, 1:15 – 2:00 PM, New York, 4th
+floor.
+
+Clarity: Data-Driven Automatic Assessment of Product Competitiveness
+Sheema Usmani, Mariana Bernagozzi, Yufeng Huang,
+Michelle Morales, Amir Sabet Sarvestani, Biplav Srivastava
+
+Day-Ahead Forecasting of Losses in the Distribution
+Network
+Nisha Dalal, Martin Mølnå, Mette Herrem, Magne
+Røen, Odd Erik Gundersen
+
+Embedding Convolution Neural Network-Based Defect Finder for Deployed Vision Inspector in Manufacturing Company Frontec
+Kyoung Jun Lee, Jun Woo Kwon, Soohong Min,
+Jungho Yoon
+
+FedVision: An Online Visual Object Detection Platform Powered by Federated Learning
+Yang Liu, Anbu Huang, Yun Luo, He Huang, Youzhi
+Liu, Yuanyuan Chen, Lican Feng, Tianjian Chen, Han
+Yu, Qiang Yang
+
+Feedback-Based Self-Learning in Large-Scale Conversational AI Agents
+Pragaash Ponnusamy, Alireza Roshan Ghias, Chenlei
+Guo, Ruhi Sarikaya
+
+How Machine Learning Is Improving U.S. Navy Customer Support
+Michael Powell, Jamison A. Rotz, Kevin D. O'Malley
+
+PIDS: An Intelligent Electric Power Management
+Platform
+Yongqing Zheng, Han Yu, Yuliang Shi, Kun Zhang,
+Shuai Zhen, Lizhen Cui, Cyril Leung, Chunyan Miao
+
+Question Quality Improvement: Deep Question Understanding for Incident Management in Technical
+Support Domain
+Anupama Ray, Csaba Hadhazi, Pooja Aggarwal, Gargi Dasgupta, Amit Paradkar
+
+Understanding Chat Messages for Sticker Recommendation in Messaging Apps
+Abhishek Laddha, Mohamed Hanoosh, Debdoot
+Mukherjee, Parth Patwa, Ankur Narang
+
+AAAI-20 Awards
+The AAAI-20 Awards will be presented by Program Cochairs Vincent Conitzer and Fei Sha.
+AAAI-20 Outstanding Paper Awards
+This year, AAAI's Conference on Artificial Intelligence honors the following four papers, which exemplify high standards in technical contribution
+and exposition by regular and student authors.
+AAAI-20 Outstanding Paper Award
+WinoGrande: An Adversarial Winograd Schema
+Challenge at Scale
+Keisuke Sakaguchi, Ronan Le Bras, Chandra Bhagavatula, Yejin Choi
+
+AAAI-20 Outstanding Student Paper Award
+Fair Division of Mixed Divisible and Indivisible
+Goods
+Xiaohui Bei, Zihao Li, Jinyan Liu, Shengxin Liu, Xinhang Lu
+
+AWARDS / SPECIAL MEETINGS 5
+
+Diversity and Inclusion Programs
+Participation in AI by groups that are underrepresented in computer science is a fraction of what is needed to have an AI workforce that
+reflects the diversity in society. Diversity has many facets, including races, ethnicities, genders, ages, religions, disabilities, sexual orientations, socioeconomic status, and cultural background. AAAI-20 will include several programs specifically designed to address this challenging issue. Please consult Guidebook for any additional programs.
+Workshop on Diversity in AI:
+
+Undergraduate Workshop:
+
+Artificial Intelligence — Diversity,
+Belonging, Equity, and Inclusion:
+Mentoring Students from Underserved
+Populations
+
+AI-Powered Robotics
+
+Friday, February 7
+Concourse E, 2:00 – 5:00 PM
+diverseinai.org/workshops/aidbei/aaai2020
+twitter.com/DiverseInAI
+Organizer: William Hsu (Kansas
+State University)
+Recognizing intrinsic links between students
+from underserved populations, the frequent
+incidence among these students of intersectional identity, and a desire to help their communities, this workshop will consist of presentations and a panel discussion on mentoring
+students from such populations — the challenges and opportunities. The primary objective is to discuss work at the nexus of inclusive
+AI education, education research pertinent to
+AI and underrepresented groups of students,
+and AI for Good as applicable to underserved
+students’ own communities, and to help share
+the word about efforts to serve such students.
+
+AI — Its Purpose & Power.
+Humans — Our Purpose & Power
+Saturday, February 8
+Nassau, 9:00 AM – 2:15 PM
+Organizer: Tara Chklovski (Technovation)
+A hands-on workshop for those of us who are
+new to AI. Technovation, a global technology
+education nonprofit and Cooper Union, will
+host an “Intro to AI” workshop for the broader
+public, and educators. The workshop will introduce the basics of AI and how to identify
+and address meaningful problems, aligned
+with the UN SDGs, using AI-based technologies. The workshop will conclude with realworld insights and strategies from young
+women who have used technology (mobile and
+AI) to address SDGs in their communities. Preregistration required.
+
+Try AI
+Saturday, February 8,
+City College of New York
+sites.google.com/g.harvard.edu/tryai
+Organizers: Elizabeth Bondi (Harvard University), Alexis Stokes (Harvard University), Isha
+Puri (Harvard University), Anika Puri (Horace
+Greeley High School)
+This off-site activity is designed for highschool female students.
+
+Saturday, February 8: Hunter College.
+Sunday, February 9: American Museum of
+Natural History
+bit.do/AAAI20-Outreach
+Organizers David Touretzky (CMU), Roozbeh
+Aliabadi (ReadyAI LLC), Anita Raja (Hunter
+College)
+Activity for undergraduates interested in AI
+and intelligent robots. On Saturday, participants will work in teams using Calypso and the
+Cozmo robot to build demos or games that illustrate how artificial intelligence can improve
+our lives. Then, on Sunday, they will host a
+free, open event where members of the public
+can experience their creations. Preregistration
+required.
+
+Black in AI Lunch
+Sunday, February 9
+Papillon Bistro
+By invitation and preregistration only.
+Chair: Krystal Maughan (University of Vermont)
+Black in AI was formed as a space for sharing
+ideas, collaborating and discussing initiatives
+to increase the presence of Black people in the
+field of Artificial Intelligence.
+
+LatinX in AI Lunch
+Monday, February 10
+Papillon Bistro
+By preregistration only. For reservation information, please see www.latinxinai.org/events.
+Cochairs: Pablo Castro (Google),
+Laura Montoya (Accel.AI)
+
+Women’s Mentoring Breakfast
+Monday, February 10
+Beekman, 7:30 – 8:45 AM
+Organizer: Maria Chang (IBM)
+The gender gap in computer science has been
+well-documented. One way to make our field
+more inclusive toward women is to increase
+the visibility of mid- and advanced-career
+women in our field. The Women’s Mentoring
+Breakfast at AAAI-20 will give women students and early-career researchers the opportunity to meet women leaders in the field. Preregistration required.
+
+DivinAI Hackfest: How Diverse are Top
+Artificial Intelligence Conferences?
+Monday, February 10
+Concourse G, 9:00 AM – 5:00 PM
+divinai.org/hackFestNY20
+Organizers: Ana Freire (Universitat Pompeu
+Fabra, Spain), Emilia Gómez (Joint Research
+Centre, European Commission)
+The AI field is suffering a crisis of diversity,
+meaning that several minorities are underrepresented in the development of AI systems.
+This is particularly reflected in top AI conferences, where the lack of gender and cultural diversity is specially visible. This activity aims to
+raise awareness on this issue by gathering data
+from top conferences and calculating their corresponding diversity index, in terms of gender,
+geographical location and presence of
+academia versus industry.
+
+Promoting Deaf Inclusion and
+Collaboration in Artificial Intelligence
+Tuesday, February 11
+Concourse G, 9:00 AM – 5:00 PM
+Organizers: Prajwal Paudyal, Ayan Banerjee,
+Soukaina Lamrani, and Sandeep Gupta (Arizona State University)
+An activity in which hearing participants of
+AAAI attempt to communicate specific computer science related topics to deaf participants
+using sign language. Hearing participants will
+be given a set of sentences they have to communicate to deaf participants. In order to learn
+the signs needed to communicate them, the activity will include several kiosks with an intelligent sign language tutor application called
+Learn2sign. After practicing the signs needed
+for communicating the sentences, the hearing
+participant will approach one deaf participant
+to practice their newly acquired American Sign
+Language skills and get feedback.
+
+Mid-Career Diversity Tea and Cake
+Tuesday, February 11
+New York, 3:00 – 5:00 PM
+Organizers: Rosina Weber (Drexel University),
+Karen Myers (SRI International Artificial Intelligence Center)
+The meeting will focus on issues pertinent to
+researchers at mid-career levels. It is targeted
+to mid-career members of underrepresented
+communities. Preregistration required.
+
+Outstanding Paper Award,
+Honorable Mention:
+
+Outstanding Student Paper Award,
+Honorable Mention:
+
+Outstanding Paper Award: Special Track on
+AI for Social Impact
+
+A Unifying View on Individual Bounds and Heuristic
+Inaccuracies in Bidirectional Search
+
+Lifelong Learning with a Changing Action Set
+
+A Distributed Multi-Sensor Machine Learning Approach to Earthquake Early Warning
+
+Vidal Alcazar, Pat Riddle, Mike Barley
+
+Yash Chandak, Georgios Theocharous, Chris Nota,
+Philip S. Thomas
+
+6 AWARDS / DIVERSITY AND INCLUSION PROGRAMS
+
+Kevin Fauvel, Daniel Balouek-Thomert, Diego Melgar,
+
+AAAI-20 Social and Special Events
+AI History Panel: Advancing AI by Playing Games
+
+AAAI Opening Reception
+Saturday, February 8, 6:00 PM – 7:30 PM
+Grand Ballroom, 3rd floor
+
+The AAAI-20 Opening Reception will be held in the Grand Ballroom of
+the New York Hilton Midtown Hotel. A variety of heavy hors d’oeuvres
+and one complimentary beverage will be served. A no-host bar will also
+be available. Admittance to the reception is included in the AAAI-20 technical registration. A $125.00 per person fee ($20.00 for children over the
+age of 12) will be charged for guests and other nontechnical conference
+registrants.
+
+AAAI-20 Poster / Demo Sessions
+Sunday, February 9, 7:30 – 9:30 PM
+Monday, February 10, 7:20 – 9:20 PM
+Tuesday, February 11, 6:30 – 8:30 PM
+Americas Hall I/II
+
+Each AAAI-20 poster / demo session will include posters by authors of
+main technical track papers, including all who are presenting poster spotlights as well as those who have made full oral presentations (if they elected to do so). Poster presentations are scheduled on the same evening as
+the oral presentation or spotlight presentation, except for Wednesday
+oral presentations, which will be presented in poster format on Tuesday
+evening. Sunday evening posters will also include International Science
+Fair AAAI award-winning projects, Doctoral Consortium papers, and
+EAAI-20 posters. A total of 25 technical demos and 137 student abstract
+posters will be divided among the three evening sessions. For a listing of
+posters and demos, please see the online technical schedule via Guidebook and the AAAI-20 Poster/Demo Program Guide.
+Poster / Demo sessions will include light suppers and complimentary
+soft drinks. A no-host bar will also be available. Admittance to the reception is included in the AAAI-20 registration. A $125.00 per person fee
+($15.00 for children over the age of 12) will be charged for guests and other nontechnical conference registrants per night.
+
+Pedro Silva, Anthony Simonet, Gabriel Antoniu,
+Alexandru Costan, Véronique Masson, Manish
+Parashar, Ivan Rodero, Alexandre Termier
+
+Outstanding Paper Honorable Mention:
+Special Track on AI for Social Impact
+The Unreasonable Effectiveness of Inverse Reinforcement Learning in Advancing Cancer Research
+John Kalantari, Heidi Nelson, Nicholas Chia
+
+AAAI-20 Blue Sky Idea Awards
+AAAI, in cooperation with the Computing Research Association Computing Community Consortium (CCC), is pleased to present three Blue
+Sky Awards for papers that present ideas and visions that can stimulate the research community
+to pursue new directions, such as new problems,
+new application domains, or new methodologies.
+The recipients of the Blue Sky Idea travel awards,
+sponsored by the CCC, are:
+First Place:
+Philip R. Cohen for Back to the Future for Dialogue
+Research
+
+Tuesday, February 12, 4:45 – 6:15 PM
+Grand Ballroom, 3rd floor
+Moderator: Amy Greenwald (Brown University)
+Panelists: Murray Campbell (IBM), Michael Bowling (University of Alberta),
+Hiroaki Kitano (Sony), David Silver (DeepMind and University College London), and Garry Kasparov (Russian Chess Grandmaster)
+
+Building AI to play games as well as human masters has been a goal of AI
+ever since Arthur Samuel’s seminal checkers program in 1959. Today’s
+game-playing programs have surpassed human performance in substantially harder games, including backgammon, chess, poker, and Go. Still,
+in multi-player games, especially those played by embodied agents such
+as soccer, significant AI challenges remain. This panel will include representatives of efforts to build machines that excel at playing these games,
+discussing the main ingredients of the technology they developed, the
+challenges they encountered, and how the agenda of building expert
+game-playing machines furthers progress on the real-world goals of AI.
+
+AI Debate: Academic AI Research
+in an Age of Industry Labs
+Monday, February 11, 6:15 – 7:15 PM
+Grand Ballroom, 3rd floor
+Moderator: Kevin Leyton-Brown (University of British Columbia, Canada)
+Debaters in this Oxford-style debate will include luminaries from both industry and academia.
+Proposition: Academic AI researchers should focus their attention on research
+problems that are not of immediate interest to industry.
+
+This lighthearted and entertaining debate will examine the broad theme
+of how academic AI researchers should direct their efforts to have the
+most impact now that industry is investing huge amounts into in-house
+research efforts. Teams of two will argue each side as forcefully as they
+can (regardless of more nuanced positions the participants may hold), but
+will then conclude by seeking a middle ground and reflecting on strong
+arguments from the other side. Finally, we’ll hear from the audience.
+
+Second Place:
+Sarit Kraus, Amos Azaria, Jelena Fiosina, Maike
+Greve, Noam Hazon, Lutz Kolbe, Tim-Benjamin
+Lembcke, Jorg P. Muller, Soren Schleibaum, and
+Mark Vollrath for AI for Explaining Decisions in
+Multi-Agent Environments
+Third Place:
+Gerardo Ocampo Diaz and Vincent Ng for Unveiling Hidden Intentions
+
+AAAI-20 Outstanding
+Program Committee Members
+Each year, AAAI recognizes several outstanding
+program committee and senior program committee members. These individuals have gone
+above and beyond the expectations for the role
+showing exceptional judgment, clarity, knowledgeability, and leadership in reaching a consensus decision.
+AAAI-20 Outstanding Senior
+Program Committee Awards
+Anelia Angelova (Google, USA)
+
+Michele Flammini (Gran Sasso Science Institute,
+Italy)
+Zhe Gan (Microsoft, USA)
+Thomas Keller (University of Basel, Switzerland)
+Junyi Jessy Li (University of Texas at Austin, USA)
+Dominik Peters (University of Oxford, UK)
+Daniel Preotiuc-Pietro (University of Pennsylvania, USA)
+Miquel Ramirez (University of Melbourne, Australia)
+Sylvie Thiébaux (The Australian National University, Australia)
+Jenna Wiens (University of Michigan, USA)
+Yair Zick (National Univ. of Singapore, Singapore)
+
+AAAI-20 Outstanding
+Program Committee Awards
+Ingo Pill (TU Graz, Austria)
+Sarath Sreedharan (Arizona State University, USA)
+Sergio Mover (Ecole Polytechnique, France)
+Alexander D'Amour (Google Brain, USA)
+Rodrigo de Salvo Braz (SRI International, USA)
+Chris Harshaw (Yale University, USA)
+Andrzej Kaczmarczyk (TU Berlin, Germany)
+
+AWARDS / SOCIAL AND SPECIAL EVENTS 7
+
+Tutorial Forum
+The AAAI-20 Tutorial Forum is open to all technical registrants for a small fee per tutorial. Half-day tutorials are 4 hours, including breaks;
+quarter-day tutorials are one hour and 45 minutes with no break. Quarter-day tutorials are denoted by a ‘Q’ at the end of the tutorial code.
+Tutorial coffee breaks will be held at 10:15 AM and 3:45 PM outside the designated meeting spaces.
+
+Friday, February 7
+8:30 AM – 12:30 PM
+FA1: AI in Precision Medicine: Towards Knowledge Empowered Intelligence
+over “Small” Data
+Fei Wang
+Beekman, 2nd floor
+FA2: AI Planning for Robotics with ROSPlan
+Michael Cashmore and Daniele Magazzeni
+Sutton Center, 2nd floor
+FA3: Exploration-Exploitation in Reinforcement Learning
+Mohammad Ghavamzadeh, Alessandro Lazaric and Matteo Pirotta
+Sutton North, 2nd floor
+FA4: Graph Neural Networks: Models and Applications
+Yao Ma, Wei Jin, Jiliang Tang, Lingfei Wu and Tengfei Ma
+Sutton South, 2nd floor
+FA5: Recent Directions in Heuristic-Search
+Ariel Felner, Sven Koenig, Nathan Sturtevant and Daniel Harabor
+Regent, 2nd floor
+
+SA3: Recent Advances in Fair Resource Allocation
+Rupert Freeman and Nisarg Shah
+Beekman, 2nd floor
+
+8:30 AM – 10:15 AM
+SA5Q: Guidelines for Human-AI Interaction
+Besmira Nushi, Dan Weld, Saleema Amershi and Adam Adam
+Sutton South, 2nd floor
+
+10:45 AM – 12:30 PM
+SA6Q: Modularizing Natural Language Processing
+Zhengzhong Liu, Zhiting Hu and Eric Xing
+Sutton South, 2nd floor
+
+2:00 PM – 6:00 PM
+SP1: Rigorous Verification and Explanation of ML Models
+Alexey Ignatiev, Joao Marques-Silva, Kuldeep Meel and Nina Narodytska
+Regent, 2nd floor
+
+2:00 PM – 6:00 PM
+
+SP2: Optimization and Learning Approaches to Resource Allocation for Social
+Good
+Sanmay Das, John Dickerson, Duncan McElfresh and Bryan Wilder
+Sutton Center, 2nd floor
+
+FP1: Differential Deep Learning on Graphs and its Applications
+Chengxi Zang and Fei Wang
+Sutton North, 2nd floor
+
+SP3: Representation Learning for Causal Inference
+Sheng Li, Liuyi Yao, Yaliang Li, Jing Gao and Aidong Zhang
+Sutton South, 2nd floor
+
+FP2: New Frontiers of Automated Mechanism Design for Pricing and Auctions
+Maria-Florina Balcan, Tuomas Sandholm and Ellen Vitercik
+Beekman, 2nd floor
+
+SP7: Synthesizing Explainable and Deceptive Behavior in Human-AI Interaction
+Subbarao Kambhampati, Tathagata Chakraborti, Sarath Sreedharan and
+Anagha Kulkarni
+Gibson, 2nd floor
+
+FP3: Probabilistic Circuits: Representations, Inference, Learning and Applications
+Antonio Vergari, YooJung Choi, Robert Peharz, and Guy Van den Broeck
+Sutton Center, 2nd floor
+FP4: Recent Advances in Transferable Representation Learning
+Muhao Chen, Kai-Wei Chang and Dan Roth
+Sutton South, 2nd floor
+FP5: Statistical Machine Learning: Big, Multi-Source and Sparse Data with
+Complex Relations and Dynamics
+Trong Dinh Thac Do, Longbing Cao and Jinjin Guo
+Regent, 2nd floor
+
+Saturday, February 8
+8:30 AM – 12:30 PM
+SA1: Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned (3/4-day extending until 3:45 PM)
+Freddy Lecue, Krishna Gade, Fosca Giannotti, Sahin Geyik, Riccardo Guidotti,
+Krishnaram Kenthapadi, Pasquale Minervini, Varun Mithal and Ankur Taly
+Sutton North, 2nd floor
+
+2:00 PM – 3:45 PM
+SA1: Explainable AI: Foundations, Industrial Applications, Practical Challenges, and Lessons Learned (Part Two)
+Freddy Lecue, Krishna Gade, Fosca Giannotti, Sahin Geyik, Riccardo Guidotti,
+Krishnaram Kenthapadi, Pasquale Minervini, Varun Mithal and Ankur Taly
+Sutton North, 2nd floor
+SP4Q: Multi-Agent Distributed Constrained Optimization
+Ferdinando Fioretto and William Yeoh
+Beekman, 2nd floor
+
+4:15 PM – 6:00 PM
+SP5Q: Creative and Artistic Writing via Text Generation
+Juntao Li and Rui Yan
+Beekman, 2nd floor
+SP6Q: Recent Advances in Machine Teaching: From Machine to Human
+Yao Zhou and Jingrui He
+Sutton North, 2nd floor
+
+SA2: Fairness and Bias in Peer Review and other Sociotechnical Intelligent Systems
+Nihar Shah and Zachary Lipton
+Sutton Center, 2nd floor
+
+Dario Bertero (Hitachi, Ltd., Japan)
+
+Konstantin Mishchenko (King Abdullah University of Science and Technology,
+
+Mahmoud Assran (McGill University / Facebook AI Research, Canada)
+
+Saudi Arabia)
+
+Brais Martínez (Samsung AI Research, USA)
+
+Mak Roberts (Naval Research Laboratory, USA)
+
+8 AWARDS / TUTORIAL FORUM
+
+AAAI-20, IAAI-20, EAAI-20 Invited Presentations
+AAAI-20 and IAAI-20 Invited Presentations will be held in the Grand Ballroom, February 9-12. EAAI-20 Invited Presentations will be held in Bryant,
+2nd floor, February 8-9. Overflow seating for AAAI-20 plenary events in available in the Trianon Ballroom, 3rd floor.
+
+Saturday, February 8
+
+AAAI Presidential Address
+
+9:05 – 9:55 AM
+
+Yolanda Gil (USC Information Sciences Institute, USA)
+
+AAAI/EAAI Outstanding Educator Award Lecture:
+
+8:30 – 9:20 AM
+
+#AIForAll: A 64-Year Perspective on
+AI, Computing, Inclusion, and Diversity
+Marie desJardins (Simmons University, USA)
+As the AI community prepares to celebrate the 2^8
+anniversary of the Dartmouth Summer Research
+Project on Artificial Intelligence that launched AI
+as a field, it is an appropriate time to look back over
+the last 64 years to consider how far we have progressed. This presentation will focus particularly
+on trends in education, diversity, and inclusion in
+AI and in computing more generally. The talk will
+also include recommendations for the field, including an increased emphasis on ethical computing,
+best practices for inclusive classroom and work environments, and how to be an effective ally for underrepresented groups.
+Marie desJardins is the Dean of the College of Organizational, Computational, and Information Sciences at Simmons University in Boston. She was
+previously a professor at the University of Maryland, Baltimore County, where she was a UMBC
+Presidential Teaching Professor, Academic Innovation Fellow, Honors Faculty Fellow, and Associate Dean of UMBC’s College of Engineering and Information Technology. She is a AAAI Fellow, an
+ACM Distinguished Member, and the recipient of
+the A. Richard Newton Educator ABIE Award, the
+UC Berkeley Distinguished Alumni Award in Computer Science, and mentoring awards from CRA-E
+and NCWIT. Dr. desJardins is known for her research in artificial intelligence, her work in expanding access to K-12 computer science education, and her leadership as a mentor, teacher, and
+champion for diversity in computing. While at
+UMBC, she advised 12 Ph.D. students, 26 M.S. students, and over 100 undergraduate researchers.
+
+Yolanda Gil is Director of Knowledge Technologies at the Information Sciences Institute of
+the University of Southern California, and Research Professor in Computer Science and in
+Spatial Sciences. She is also Director of the USC Center for Knowledge-Powered Interdisciplinary Data Science. She received her M.S. and Ph. D. degrees in Computer Science from
+Carnegie Mellon University, with a focus on artificial intelligence. Dr. Gil collaborates with
+scientists in many domains on intelligent, workflows, semantic metadata capture, social
+knowledge collection, computer-mediated collaboration, and automated discovery. Her current focus is on
+using artificial intelligence for environmental resources, integrating climate, hydrology, agriculture, and
+socioeconomic models. She is a Fellow of the Association for Computing Machinery (ACM), and Past Chair
+of its Special Interest Group in Artificial Intelligence. She is also Fellow of the Association for the Advancement of Artificial Intelligence (AAAI), and was elected as its 24th President in 2016.
+
+with problems in human-computer interaction
+alone spanning natural language processing, visual, audible, and tangible interfaces, accessible design, social computing, art-making. Machine
+learning is now being applied in every one of these
+domains. Bruner claimed that “any subject can be
+taught effectively in some intellectually honest
+form to any child at any stage of development.”
+Computing education must take up this call, including offering developmentally-appropriate machine learning education. I will present a vision for
+how this could unfold, share progress on my team’s
+efforts to develop machine learning education for
+youth, and discuss ongoing challenges.
+5:20 – 7:20 PM
+AAAI-20 Special Event
+
+Special ACM Turing 2018 Award
+Winner Event and Panel
+
+Sunday, February 9
+
+Yoshua Bengio (University of Montreal and Mila),
+Geoffrey E. Hinton (Google, The Vector Institute, and
+University of Toronto), Yann LeCun (New York University and Facebook)
+
+8:00 – 8:30 AM
+
+See description on page 10
+
+AAAI-20 / IAAI-20 Welcome and Opening
+Remarks, AAAI Organizational Awards and
+Honors
+8:30 – 9:20 AM
+
+AAAI Presidential Address
+Yolanda Gil (USC Information Sciences Institute,
+USA)
+See description above
+9:40 – 10:30 AM
+EAAI-20 Invited Talk
+
+On Contemporaneous Computing
+Education: ML for K-12R
+Benjamin Shapiro and Abigail ZimmermannNiefield (University of Colorado Boulder, USA)
+Computer science is a field of remarkable breadth,
+
+Monday, February 10
+8:30 – 9:20 AM
+
+Combining Machine Learning
+and Control for Reactive Robots
+Aude Billard (EPFL – Ecole Polytechnique Federale
+de Lausanne, Switzerland)
+Robots have got out of the secure and predictable
+environment of factories and start to face the complexity and unpredictability of our daily environments. To avoid that robots fail lamely at the task
+they are programmed to do, robots now need to
+adapt on the go. I will present techniques from machine learning to allow robots to learn strategies to
+enable them to react rapidly and efficiently to
+changes in the environment, and applications of
+these techniques for rapid and robust manipulation of objects.
+
+11:15 – 12:15 PM
+
+IAAI-20 Invited Talk
+David Cox (MIT-Watson AI Lab, USA)
+David Cox is the IBM Director of the MIT-IBM
+Watson AI Lab, a first of its kind industry-academic collaboration between IBM and MIT, focused on
+fundamental research in artificial intelligence. The
+Lab was founded with a $240m, 10-year commitment from IBM and brings together researchers at
+IBM with faculty at MIT to tackle hard problems at
+the vanguard of AI. Prior to joining IBM, David
+was the John L. Loeb Associate Professor of the
+Natural Sciences and of Engineering and Applied
+Sciences at Harvard University, where he held appointments in Computer Science, the Department
+of Molecular and Cellular Biology and the Center
+for Brain Science. Please see Guidebook for talk description.
+5:20 – 6:10 PM
+IAAI-20 Robert S. Engelmore Memorial Award Lecture:
+
+The Third AI Summer
+Henry Kautz (University of Rochester, USA)
+The first AI summer was based on optimism about
+the power of general power solving, and the second
+on the power of knowledge engineering. Advances
+in machine learning have brought us into the third
+AI summer. This time, however, the stakes are incalculably higher than in the past. The danger is
+not just, as before, that marketplace hype and an
+overly narrow scientific focus will lead to disillusionment and retrenchment; but rather that AI
+now works well enough that it can be used – and is
+already being used – to eliminate human freedom
+and dignity. A dystopian future is not inevitable;
+progress in AI might instead usher in an era of unprecedented prosperity, knowledge, and freedom.
+This talk will explore the scientific, social, and
+geopolitical forces at play in the third AI summer.
+Henry Kautz is currently serving as director for the
+division for Information and Intelligent Systems at
+the National Science Foundation. He is a professor
+of computer science and founding director of the
+Goergen Institute for Data Science at the Universi-
+
+INVITED PRESENTATIONS 9
+
+Special ACM Turing 2018 Award Winner Event and Panel
+Yoshua Bengio (University of Montreal and Mila), Geoffrey E. Hinton (Google, The Vector Institute, and University of Toronto),
+Yann LeCun (New York University and Facebook)
+Sunday, February 9, 5:20 – 7:20 PM, Grand Ballroom
+This special two-hour event will feature individual talks by each speaker, followed by a panel session. ACM named Yoshua Bengio, Geoffrey Hinton, and
+Yann LeCun recipients of the 2018 ACM A.M. Turing Award for conceptual and engineering breakthroughs that have made deep neural networks a critical component of computing. Bengio is Professor at the University of Montreal and Scientific Director at Mila, Quebec’s Artificial Intelligence Institute;
+Hinton is VP and Engineering Fellow of Google, Chief Scientific Adviser of The Vector Institute, and University Professor Emeritus at the University of
+Toronto; and LeCun is Professor at New York University and VP and Chief AI Scientist at Facebook.
+
+Turing Award Winner AAAI Talk
+
+presence and poses of object capsules. The encoder is trained by backpropagating through a decoder, which predicts the pose of each already
+discovered part using a mixture of pose predictions. The parts are discovered directly from an image, in a similar manner, by using a neural encoder, which infers parts and their affine transformations. We learn object- and part-capsules on unlabeled data, and then cluster the vectors of
+presences of object capsules. When told the names of these clusters, we
+achieve state-of-the-art results for unsupervised classification on MNIST.
+
+Deep Learning for AI
+Yoshua Bengio (Mila (Quebec AI Institute)
+Artificial Intelligence (AI) research has been transformed in
+fundamental ways by the development and success of deep
+learning. Whereas symbolic approaches to AI focused on human-provided formal knowledge presented as logical rules
+and facts, much of what humans know is not accessible to
+them consciously and is thus difficult to communicate with
+computers. Machine learning bypasses this problem by allowing the computer to acquire that knowledge from data, observations and interactions
+with an environment. Neural networks and deep learning are machine
+learning methods inspired by the brain in which information is not represented by symbolic statements but instead where concepts have distributed
+representations, patterns of activations of features which can overlap across
+concepts, making it possible to quickly generalize to new concepts. When we
+make it possible to compose modules which process such distributed representations (either recursively or through layers of processing) it is possible
+to represent very rich functions compactly and obtain even better generalization. More recently, deep learning has gone beyond its traditional realm
+of pattern recognition over vectors or images and expanded into many selfsupervised methods and generative models able to capture complex multimodal distributions, into models with attention which can process graphs
+and sets, leading to breakthroughs in speech recognition and synthesis,
+computer vision and machine translation, for example. The talk closes with
+a discussion of current limitations and forward-looking research directions
+towards human-level AI.
+
+Turing Award Winner AAAI Talk
+
+Self-Supervised Learning
+Yann LeCun (Facebook AI Research & New York University)
+Almost all the recent progress in computer perception,
+speech recognition, and NLP has been built around supervised deep learning, in which machines are required to predict human-provided annotations. Today, DL systems are
+at the core of search engines and social network content filtering and retrieval, medical image analysis, driving assistance, and many areas of science. But the best machine learning methods
+still require considerably more data or interaction with the environment
+than human and animal learning. How do we get machines to learn massive amounts of background knowledge about how the world works by observation in a task-independent way, like animals and humans? One
+promising avenue is self-supervised learning (SSL), where the machine
+predicts parts of its input from other parts of its input. SSL has already
+brought about great progress in discrete domains, such as language understanding. The question is how to use SSL for high-dimensional continuous domains such as audio, images and video.
+
+Turing Award Winner AAAI Talk
+
+Stacked Capsule Autoencoders
+Geoffrey Hinton (Google and The Vector Institute)
+An object can be seen as a geometrically organized set of interrelated parts. A system that makes explicit use of these
+geometric relationships to recognize objects should be naturally robust to changes in viewpoint, because the intrinsic
+geometric relationships are viewpoint-invariant. We describe an unsupervised version of capsule networks, in
+which a neural encoder, which looks at all of the parts, is used to infer the
+
+ty of Rochester. He has been a researcher at AT&T
+Bell Labs in Murray Hill, NJ, and a full professor at
+the University of Washington, Seattle. In 2010, he
+was elected President of AAAI, and in 2016 was
+elected Chair of the AAAS Section on Information,
+Computing, and Communication. His interdisciplinary research includes practical algorithms for
+solving worst-case intractable problems in logical
+and probabilistic reasoning; models for inferring
+human behavior from sensor data; pervasive
+healthcare applications of AI; and social media analytics. In 1989 he received the IJCAI Computers
+and Thought Award, which recognizes outstanding
+young scientists in artificial intelligence, and 30
+years later received 2018 ACM-AAAI Allen Newell
+Award for career contributions that have breadth
+within computer science and that bridge computer
+
+science and other disciplines.
+
+8:30 – 9:20 AM
+
+6:15 – 7:15 PM
+
+AAAI-20/IAAI-20 Joint Invited Talk:
+
+AAAI-20 Oxford-Style Debate:
+
+AI and Security: Lessons,
+Challenges and Future Directions
+
+Academic AI Research
+in an Age of Industry Labs
+Moderator: Kevin Leyton-Brown
+(University of British Columbia, Canada)
+See page 7 for details.
+
+Tuesday, February 11
+8:00 – 8:30 AM
+
+AAAI-20 Conference Awards
+Presented by Vincent Conitzer and Fei Zha, Cochairs
+
+10 INVITED PRESENTATIONS / TURING AWARD WINNER EVENT
+
+Dawn Song (University of California, Berkeley, USA)
+Dawn Song is a Professor in the Department of
+Electrical Engineering and Computer Science at
+the University of California, Berkeley. Her research
+interest lies in AI and deep learning, security and
+privacy. She is the recipient of various awards including the MacArthur Fellowship, the Guggenheim Fellowship, the NSF CAREER Award, the Alfred P. Sloan Research Fellowship, the MIT Technology Review TR-35 Award, and Best Paper
+Awards from top conferences in Computer Securi-
+
+Workshop Program
+Friday – Saturday, February 7–8
+
+Registration for a workshop requires a supplemental fee for AAAI-20 technical registrants. Individuals who do not wish to participate in any other
+AAAI-20 programs or events may elect the workshop only registration fee. Coffee breaks will be held at 10:30 AM and 3:30 PM outside the designated
+meeting space. Please consult the website to confirm starting and ending times.
+Friday, February 7, 2020
+8:30 AM – 5:30 PM
+W1: Affective Content Analysis (AffCon
+2020): Interactive Affective Response
+Bryant, 2nd floor
+W5: Artificial Intelligence of Things
+(AIoT)
+Lincoln, 4th floor
+W6: Artificial Intelligence Safety
+(SafeAI)
+Concourse G, Concourse level
+W7: Cloud Intelligence: AI/ML for Efficient and Manageable Cloud Services
+Hudson, 4th floor
+W10: Engineering Dependable and Secure Machine Learning Systems
+Concourse D, Concourse level
+
+W12: Generalization in Planning
+Morgan, 2nd floor
+W13: Health Intelligence
+Gibson, 2nd floor
+W14: Intelligent Process Automation —
+RPA Meets AI
+Concourse C, Concourse level
+W16: Knowledge Discovery from Unstructured Data in Financial Services
+Madison, 2nd floor
+W18: Privacy-Preserving Artificial Intelligence
+Clinton, 2nd floor
+W22: Reproducibility in AI (RAI 2020) –
+Future Direction and Reproducibility
+Challenge
+Midtown, 4th floor
+
+8:30 AM – 5:30 PM
+
+W11: Evaluating Evaluation of AI Systems
+Gramercy East, 2nd floor
+
+W2: Artificial Intelligence for Cyber Security (AICS)
+Concourse C, Concourse level
+
+W15: Interactive and Conversational
+Recommendation Systems (WICRS)
+Clinton, 2nd floor
+
+W3: Artificial Intelligence for Education
+Concourse E, Concourse level
+
+W17: Plan, Activity, and Intent Recognition (PAIR)
+Murray Hill West, 2nd floor
+
+Saturday, February 8, 2020
+
+W4: Artificial Intelligence in Team
+Sports
+Concourse D, Concourse level
+W8: Deep Learning on Graphs: Methodologies and Applications
+Murray Hill East, 2nd floor
+W9: Dialog System Technology Challenge (DSTC8)
+Concourse G, Concourse level
+
+W23: Statistical Relational AI (StarAI)
+Concourse A, Concourse level
+
+Student Welcome Reception
+Sponsored by
+USC/Information Sciences Institute
+Friday, February 7, 6:00 – 7:30 PM,
+Mercury Suite, 3rd floor
+
+All students are welcome at the AAAI-20
+Student Welcome Reception.
+Light refreshments will be served.
+ty and Deep Learning. She is an ACM Fellow and
+an IEEE Fellow. She is ranked the most cited scholar in computer security (AMiner Award). She obtained her Ph.D. degree from UC Berkeley. Prior to
+joining UC Berkeley as a faculty, she was a faculty
+at Carnegie Mellon University from 2002 to 2007.
+She is also a serial entrepreneur and has been
+named on the Female Founder 100 List by Inc. and
+Wired25 List of Innovators. Please see Guidebook
+for talk description.
+3:50 – 4:40 PM
+AAAI-20 Invited Talk:
+
+The Economic Value of Data
+for Targeted Pricing
+Susan Athey (Stanford University, USA)
+This presentation reviews recent research about
+consumer choices in shopping, for example in supermarkets. Historically a large literature in economics and marketing studied consumer choices
+among brands, considering one product category
+at a time. A series of recent papers makes use of advances in computation and techniques from matrix
+factorization to study consumer responses to price
+changes using observational data from consumer
+
+transactions. One question that arises is the value
+of data (for example, the increase in profit from using additional data), comparing the value of different types of data, e.g. more consumers or longer retention for each consumer.
+4:45 – 6:15 PM
+AAAI-20 AI History Panel:
+
+Advancing AI by Playing Games
+See page 7 for details.
+
+Wednesday, February 12
+8:40 – 9:40 AM
+AAAI-20 Invited Talk:
+
+How Not to Destroy the World With AI
+Stuart Russell (Univ. of California, Berkeley, USA)
+Stuart Russell received his B.A. with first-class
+honours in physics from Oxford University in 1982
+and his Ph.D. in computer science from Stanford in
+1986. He then joined the faculty of the University
+of California at Berkeley, where he is Professor
+(and formerly Chair) of Electrical Engineering and
+Computer Sciences, holder of the Smith-Zadeh
+Chair in Engineering, and Director of the Center
+for Human-Compatible AI. He has served as an
+Adjunct Professor of Neurological Surgery at UC
+San Francisco and as Vice-Chair of the World Economic Forum's Council on AI and Robotics. He is a
+recipient of the Presidential Young Investigator
+Award of the National Science Foundation, the IJCAI Computers and Thought Award, the World
+Technology Award (Policy category), the Mitchell
+Prize of the American Statistical Association, the
+Feigenbaum Prize of the Association for the Advancement of Artificial Intelligence, and Outstanding Educator Awards from both ACM and AAAI.
+From 2012 to 2014 he held the Chaire Blaise Pascal
+
+W19: Reasoning and Learning for Human-Machine
+Dialogues
+(DEEPDIAL20)
+Morgan, 2nd floor
+W20: Reasoning for Complex Question
+Answering
+Madison, 2nd floor
+W21: Reinforcement Learning in Games
+Gramercy West, 2nd floor
+
+in Paris, and he has been awarded the Andrew
+Carnegie Fellowship for 2019 to 2021. He is an
+Honorary Fellow of Wadham College, Oxford; Distinguished Fellow of the Stanford Institute for Human-Centered AI; Associate Fellow of the Royal Institute for International Affairs (Chatham House);
+and Fellow of the Association for the Advancement
+of Artificial Intelligence, the Association for Computing Machinery, and the American Association
+for the Advancement of Science. His book Artificial
+Intelligence: A Modern Approach (with Peter
+Norvig) is the standard text in AI. His research
+covers a wide range of topics in artificial intelligence including machine learning, probabilistic
+reasoning, knowledge representation, planning, real-time decision making, multitarget tracking,
+computer vision, computational physiology, and
+philosophical foundations. He also works for the
+United Nations, developing a new global seismic
+monitoring system for the nuclear-test-ban treaty.
+His current concerns include the threat of autonomous weapons and the long-term future of artificial intelligence and its relation to humanity.
+
+Student Activities
+and Outreach
+AAAI is pleased to offer the following student activities designed to enrich the student experience
+at the AAAI conference. For complete information about Student Programs at AAAI-20, please
+see aaai.org/Conferences/AAAI-20/aaai-20-student-activities-overview.
+
+Student Welcome Reception
+See boxed description on this page.
+
+INVITED PRESENTATIONS / WORKSHOP PROGRAM / STUDENT ACTIVITIES AND OUTREACH 11
+
+Special Tracks at AAAI-20
+AAAI-20 Special Track on AI for Social Impact
+Sunday – Monday, February 9-10, Sutton South, 2nd floor
+
+AAAI-20 is pleased to present the Special Track on AI for Social Impact. This track recognizes that high- quality research on social impact
+domains often leads to papers that differ from traditional AAAI submissions along multiple dimensions. These are motivated by the following issues:
+Data collection may be difficult and may require innovative methods and
+validations, for instance to address large scale data gathering in the field,
+eliminate bias and ensure fairness.
+Problem modeling is a time-intensive activity that require significant collaborations with domain experts and needs to balance a variety of tradeoffs in decision making.
+Social impact may be realized through time-consuming field studies that
+typically compare a baseline with the application of novel algorithms in
+the real world, and the experimental design can be challenging and the
+evaluation may be multifaceted.
+
+The goal of this track at AAAI 2020 is to highlight these technical challenges and opportunities and to showcase the social benefits of artificial intelligence. The program includes 25 technical papers in full oral
+presentations. For complete schedule information, please consult the
+online program.
+
+Senior Member Presentations
+Sunday and Monday, February 9 –10, Regent, 2nd floor
+
+The AAAI-20 Senior Member Presentation track comprises two subtracks: Summary Talks: established researchers provide broad talks
+on a well-developed body of research or an important new research
+area; and Blue Sky Talks: authors present ideas and visions that can
+stimulate the research community to pursue new directions, such as
+new problems, new application domains, or new methodologies, that
+are likely to stimulate significant new research. Six summary talks and
+eight Blue Sky talks will be presented (please see the online conference
+schedule for exact times). For more information about the Blue Sky
+Awards, please see page 7.
+
+Sister Conference Track
+Monday, February 10, Nassau, 2nd floor
+
+The AAAI-20 Sister Conference Track is designed to foster communication inside the field of artificial intelligence. The track will present
+exciting recent advances in subareas of artificial intelligence through
+the lens of major sister conferences. Sixteen talks derived from the following conferences will be featured: ICML, ICLR, UAI, AAMAS,
+
+AAAI 2020 Sticker Social Event
+In past years AAAI has hosted a research speed
+dating event to facilitate social interactions at the
+conference. This year, there will not be a single
+social event for this purpose, but participants are
+encouraged to interact throughout the conference. To facilitate this, participants will be provided with stickers and are encouraged to place
+the answer to social questions on their name tag.
+Doing so means that you are open to social interactions with people at the conference that you do
+not know. Find stickers and instructions near the
+registration desk and at the student reception. A
+
+ECML-PKDD, ICAPS, SAT, CP, ICCV, ACL, AIIDE, ILP, ICWSM,
+CogSci, ACM EC, and ACM FAT*. Please see the online conference
+schedule for exact talk times.
+
+AI in Practice
+Wednesday, February 12, Grand Ballroom
+
+The 2020 edition of AI in Practice will focus on emerging applications
+of AI in healthcare. The aim of the program is to offer a venue for exchanging ideas among participants from different disciplines, from
+general computer science, to AI and ethics, to medicine and public
+health. The event program will include keynotes, invited talks, and a
+discussion panel. Keynote addresses will be presented by Vivian Lee
+(President, Health Platforms, Verily Life Sciences) and Aneesh
+Chopra (President, CareJourney, former first CTO of the United
+States).
+Keynote
+
+Big Data, AI and the Journey to Value Driven Care
+Vivian S. Lee (Verily Life Sciences)
+To improve outcomes and reduce the costs of care, health systems are increasingly being expected to deliver higher levels of value to their patients
+and families. How can new and existing sources of data, combined with AI
+tools and analytics support the move to value-based care? What are the
+most promising ways in which they can improve the engagement of both
+patients and physicians in the co-production of health? Vivian Lee, President of Verily Health Platforms and former CEO of University of Utah
+Health, will explore these questions in her presentation, Big Data, AI and
+the Journey to Value Driven Care.
+Keynote
+
+Connecting Dots: How Open Data, Open APIs, and Payment
+Reform will Fuel Care Delivery Reform
+Aneesh Chopra (CareJourney, Former U.S. Chief Technology Officer (20092012)
+The need to reform the way we delivery care continues as fiscal, access and
+quality pressures continue to mount. Building on the progress of the Obama Administration, the Trump Administration has launched the “MyHealthEData” initiative anchored on consumer-directed health exchange;
+opened up more government data for measuring performance, including
+Medicare Advantage and Medicaid encounters; and added more riskbased alternative payment models. In this presentation, Chopra shares his
+views on how AI-powered consumer-trusted applications will help patients make better decisions at each step of their care journey.For detailed
+presentation information, please refer to the online conference schedule.
+
+A full list of AI in Practice presentations and a schedule is available at
+aaai.org/Conferences/AAAI-20/ai-in-practice.
+
+special AI sticker will be given to those who meet
+new people at the conference.
+
+Unofficial Student Slack Channel
+If you are interested in finding and meeting other
+students to participate in activities at AAAI, consider joining the (unofficial) student slack channel. Instructions for joining can be found at at
+movingai.com/AAAI20.
+
+AAAI/SIGAI Doctoral Consortium
+Friday – Saturday, February 7-8
+Nassau West, 2nd floor
+
+The Twenty-Fifth AAAI/SIGAI Doctoral Consor-
+
+12 STUDENT PROGRAMS / SPECIAL TRACKS AT AAAI-20
+
+tium (DC) provides an opportunity for a group of
+Ph.D. students to discuss and explore their research interests and career objectives in an interdisciplinary workshop together with a panel of
+established researchers. The seventeen students
+accepted to participate in this program will also
+participate in the AAAI-20 evening Poster / Demo Session 1 on Sunday, February 9. All interested AAAI-20 student registrants are invited to observe the presentation, as space allows.
+AAAI and SIGAI gratefully acknowledge the
+generous grants from AI Journal and David E.
+Smith, which make this program possible. The
+DC schedule is available at aaai-dc.github.io.
+
+Colocated Conferences at AAAI-20
+gram registration. The proceedings of the IAAI program will be included in the full AAAI-20 proceedings, and electronic copies of all papers
+are available via the online schedule (Guidebook). For full information
+on the three IAAI-20 invited talks, please see pages 9–10. For the
+schedule of paper presentations, please refer to the online schedule.
+
+AAAI/ACM Conference
+on AI, Ethics, and Society
+Friday and Saturday, February 7-8
+Trianon Ballroom, 3rd floor
+
+As AI is becoming more pervasive in our life, its impact on society is
+more significant and concerns and issues are raised regarding aspects
+such as value alignment, data handling and bias, regulations, and
+workforce displacement. Only a multi-disciplinary and multi-stakeholder effort can find the best ways to address these concerns, including experts of various disciplines, such as ethics, philosophy, economics, sociology, psychology, law, history, and politics. In order to
+address these issues in a scientific context, AAAI and ACM joined
+forces to start this conference in 2018. Attendance at AIES 2020 is
+available for an additional fee. The full schedule for the AIES 2020
+Conference is available at www.aies-conference.com, and will be distributed in hard copy to registered attendees.
+
+The Thirty-Second Annual Conference
+on Innovative Applications of Artificial
+Intelligence (IAAI-20)
+Sunday – Tuesday, February 9-11
+Sutton Center, 2nd floor
+
+The Thirty-Second Annual Conference on Innovative Applications of
+Artificial Intelligence (IAAI-20) focuses on successful applications
+that showcase novel uses of AI technology. The conference includes
+technical papers, challenge papers, and invited talks to explore issues,
+methods, and lessons learned in the development and deployment of
+AI applications; and to promote an interchange of ideas between basic
+and applied AI. IAAI-20 has three tracks: (1) 11 deployed application
+case studies, (2) 27 emerging applications or methodologies, and (3)
+one challenge problem paper.
+Registration for IAAI-20 is included in the AAAI-20 technical pro-
+
+AAAI Undergraduate Consortium
+Friday, February 7
+Nassau East, 2nd floor
+
+The AAAI Undergraduate Consortium (AAAIUC) will include a mentoring program for undergraduates attending AAAI and offer undergraduate students an opportunity to enrich their conference experience by (1) presenting and receiving critical feedback about their work in a professional, academic setting; (2) meeting prospective
+graduate advisors; (3) receiving mentoring about
+the advantages (and disadvantages) of pursuing
+graduate studies in AI as well as practical early career advice; (4) expanding their professional network to include both AI experts, current graduate
+students, and undergraduate peers; and (5) providing advice, tools, and resources for successfully applying to and attending graduate school in an
+AI-related research. All interested AAAI-20 un-
+
+The Tenth Symposium on Educational
+Advances in Artificial Intelligence
+Saturday – Sunday, February 8-9
+Bryant, 2nd floor
+
+EAAI-20 (eaai.cs.mtu.edu) provides a venue for researchers and educators to discuss issues and share resources related to teaching AI and
+using AI in education. Most contributions address undergraduate and
+graduate education, but some extend to the K-12 and postgraduate
+levels. The program comprises two invited talks, including the Outstanding Educatior Award Lecture, a main track, and special tracks on
+AI for Education, Blue Sky Ideas, Model AI Assignments, and the
+EAAI-21 Undergraduate Research Challenge.
+Registration for EAAI-20 is included in the AAAI-20 technical program registration. An EAAI-20 only registration is also available for
+registrants who wish to attend the symposium only. The proceedings
+of the EAAI program will be included in the full AAAI-20 proceedings, and electronic copies of all papers are available via the online
+schedule (Guidebook). EAAI posters will be presented Sunday, February 9 in the AAAI-20 Poster / Demo Session in Americas Hall I/II.
+EAAI-20 presentation lengths will be as follows:
+Main Track full papers: 20 minutes each
+Main Track Poster lightning talks: 5 minutes each
+Model AI Assignment papers: 15 minutes each
+Blue Sky Ideas: 5 minutes each
+
+For full information on invited talks and panels, please see page 9.
+For the schedule of paper presentations, please refer to the online
+schedule.
+
+dergraduate student registrants are invited to observe the presentations, as space allows.
+AAAI gratefully acknowledge the generous
+grants from AI Journal, which makes this program possible. Please consult Guidebook for the
+presentation schedule.
+
+AAAI Fellow / Student Lunches
+Sunday – Wednesday, February 9 – 12
+12:30 – 2:00 PM
+
+First held in 2006, the AAAI Fellow / Student
+Lunches program provides an opportunity for a
+small number of students to chat with a AAAI
+Fellow over an informal lunch during the conference. Sign-up sheets will be available AFTER 3:00
+PM on Saturday, February 8 at the onsite registration desk on the 2nd floor Promenade. Students
+should meet their designated Fellow in onsite
+registration on their assigned day.
+
+Student Abstract and Poster Program
+Oral Presentations: Monday, February 10, 9:30 –
+10:45 AM, Bryant, 2nd floor
+Poster Presentations: Sunday – Tuesday
+February 9-11 evenings, Americas Hall I/II
+
+The Student Abstract and Poster program provides a forum in which students can present and
+discuss their work during its early stages, meet
+some of their peers who have related interests,
+and introduce themselves to more senior members of the field. Students who have been selected
+as part of a group of 20 finalists to compete for
+the “Best Student 3-Minute Presentation” will
+present their work in 3-minute spotlight talks in
+parallel with other technical sessions. These students will present their posters on Monday
+evening during the conference-wide poster/demo session. The remaining student abstract
+posters will be presented on all three evenings.
+
+COLOCATED CONFERENCES / STUDENT PROGRAMS 13
+
+An award will be presented for the “Best Student
+Poster.” For a list of posters each night, please see
+the online schedule and the AAAI-20 Poster/Demo Program Guide.
+
+Breakfast with Champions:
+A Women's Mentoring Event
+Monday, February 10
+7:30 – 8:45 AM
+Sutton South, 2nd floor
+
+AAAI is holding the sixth annual women's mentoring event for women students and junior
+women professionals to meet with senior women
+in computer science and/or artificial intelligence.
+Pre-registration was required and admittance is
+by ticket only. Sponsored by Elsevier and AAAI.
+
+AAAI-20 Games Night
+Tuesday, February 11
+8:00 – 10:00 PM
+Sutton Center, 2nd floor
+
+For details, please consult the online schedule.
+
+AAAI/SIGAI AI Job Fair
+Tuesday, February 11, 12:30 – 3:00 PM
+Rhinelander Gallery, 2nd floor
+1-Minute Company Presentations: 12:30 – 1:00 PM
+Tabletop exhibits: 1:00 – 3:00 PM
+
+The AAAI and ACM SIGAI AI Job Fair will provide an opportunity for a host of companies and
+institutions to highlight their current job opportunities. The short presentations will be followed
+by meet-and-greet sessions. Over 30 employers
+will be participating. Be sure to stop in during the
+lunch break. For a list of participating companies
+and a schedule of presentations, please see the
+online schedule and aaaijobfair.com.
+For further information about student programs, please refer to the Diversity events on
+page 6.
+
+Artificial Intelligence Journal (AIJ) is one of the
+longest established and most respected journals
+in AI, and since it was founded in 1970, it has
+published many of the key papers in the field.
+The operation of the Editorial Board is supported
+financially through an arrangement with AIJ's
+publisher, Elsevier. The editorial board of Artificial Intelligence is now in the unique position of
+being able to make available substantial funds, of
+the order of EUR 240,000 per annum to support
+the promotion and dissemination of AI research.
+
+providing human-scored model testing, and
+making available human-in-the-loop exception
+handling. We completely offload these activities,
+freeing data professionals to focus on their areas
+of specialization. We support machine learning
+projects broadly, with particular emphasis on
+Computer Vision, Natural Language Processing
+and Entity Resolution, in financial services, retail, defense, technology and manufacturing.
+
+Exhibitor / Job Fair
+
+amazon.jobs/en/landing_pages/AAAI
+
+AI Singapore
+
+Sunday – Tuesday, February 9 – 11
+Rhinelander Gallery
+
+The AAAI-20 sponsor and exhibit program provides an opportunity for AI-related companies
+and publishers to support the goals of AAAI and
+reach out to AI professionals. In some cases,
+sponsors have elected to exhibit at AAAI-20.
+AAAI wishes to thank all sponsors and exhibitors
+for their participation at AAAI-20!
+
+AI Singapore (AISG) is a national AI programme
+launched by the National Research Foundation
+(NRF) to anchor deep national capabilities in Artificial Intelligence (AI) thereby creating social
+and economic impacts, grow the local talent,
+build an AI ecosystem, and put Singapore on the
+world map.
+Exhibitor
+
+Exhibitor
+
+AITopics
+
+Appen
+
+www.aitopics.org
+
+www.appen.com
+
+AITopics is powered by AI technology from i2k
+Connect Inc., AITopics is an official publication
+of the AAAI. AITopics is the Internet’s Largest
+Collection of Information on Research, People,
+News, and Applications of AI
+Register to Win a $100 Amazon Gift Card!
+Sign up for the free AI-Alert email service for
+weekly highlights of the week’s AI news! Pick up
+an AITopics sticker! See how you can customize
+an AITopics search! Review our list of classic papers and articles!
+Follow us on Twitter, Facebook and LinkedIn
+@ai_topics
+
+Appen collects and labels data used to build and
+continuously improve the world’s most innovative artificial intelligence systems. With expertise
+in more than 180 languages, a global crowd of
+over 1 million skilled contractors, and the industry’s most advanced annotation platform, Appen
+works with leading companies and governments
+worldwide.
+
+Sunday, February 9:
+Monday, February 10:
+Tuesday, February 11:
+Tuesday Job Fair only:
+
+Alexander von Humboldt Foundation
+www.humboldt-foundation.de/web/home.html
+
+The Alexander von Humboldt Foundation promotes academic cooperation between excellent
+scientists and scholars from Germany, the US,
+and abroad, offering prestigious fellowships and
+research awards for all career stages. Among
+these fellowships is the AvH Professorship for
+Artificial Intelligence for top researchers in AI.
+Sponsor / Exhibitor
+
+Alegion
+alegion.com
+
+Exhibit Hours
+10:00 AM – 4:00 PM
+10:00 AM – 4:00 PM
+10:00 AM – 12:30 PM
+12:30 PM – 3:00 PM
+
+Sponsor / Job Fair
+
+AI Journal
+www.journals.elsevier.com/artificial-intelligence/
+
+Amazon
+We fundamentally believe that scientific innovation is essential to being the most customer-centric company in the world. It's this ability to have
+an impact at scale that allows us to attract some
+of the brightest minds in artificial intelligence
+and related fields. Amazon’s machine learning
+teams are looking forward to meeting you at
+AAAI 2020. Come and visit us at the Amazon
+booth!
+
+www.aisingapore.org/
+
+Exhibitor
+
+Sponsor and
+Exhibit Program
+
+Sponsor / Exhibitor / Job Fair
+
+Alegion offloads from enterprise data science
+teams the preparation of training data for machine learning initiatives. Our offering operates
+at massive scale, combining a data and task management software platform with a nearly millionmember global pool of trained data specialists.
+We assist data science teams throughout the AI
+lifecycle, delivering custom training datasets,
+
+14 STUDENT PROGRAMS / SPONSOR AND EXHIBIT PROGRAM
+
+Exhibitor / Job Fair
+
+AppZen, Inc.
+www.appzen.com
+
+Aimesoft develop Multimodal AI solutions. Multimodal AI combines multiple input sources
+(text, voice, image, numerical data, ...) and various intelligence algorithms into a single system
+to solve complicated problems. We will present
+various Multimodal AI solutions for smart document processing, billnote processing, stock prediction and Healthcare.
+Sponsor/ Job Fair
+
+Apple
+www.apple.com
+
+We’re a diverse collection of people, reimagining what’s possible to help us do what we love in
+new ways. The people who work here have reinvented entire industries with the Mac, iPhone,
+iPad, and Apple Watch, and with services, including iTunes, the App Store, Apple Music, and
+Apple Pay. Employees in machine learning and
+AI are building amazing experiences into every
+Apple product, allowing millions to do what
+they never imagined. Because Apple fully integrates hardware and software across every device, these researchers and engineers collaborate
+
+more effectively to improve the user experience
+while protecting user data. Come make an impact with the products you create and the research you publish.
+
+ness that helps scientists and clinicians to find
+new answers, reshape human knowledge, and
+tackle the most urgent human crises.
+
+Exhibitor
+
+Facebook
+
+Association for Computing Machinery
+
+ai.facebook.com
+
+www.acm.org
+
+Facebook's mission is to give people the power to
+build community and bring the world closer together. Our teams accelerate research breakthroughs across both existing and new learning
+paradigms to develop state-of-the-art AI that has
+a positive impact on people and society. We're
+advancing artificial intelligence through fundamental and applied research in open collaboration with the community.
+
+ACM is a global organisation which brings together computing educators, researchers, and
+professionals to inspire dialogue, share resources, and address the field's challenges.
+Sponsor / Exhibitor / Job Fair
+
+Beijing Baidu Netcom Science Technology Co., Ltd
+
+Sponsor
+
+www.baidu.com
+
+Baidu is the leading Chinese language Internet
+search provider and the largest Chinese website
+globally. Baidu aims to make the complicated
+world simpler through technology.
+Sponsor / Exhibitor / Job Fair
+
+Bloomberg
+www.techatbloomberg.com
+
+Bloomberg is building the world's most trusted
+information network for financial professionals.
+Among our 6,000+ software engineers,
+Bloomberg employs 150+ data scientists and research engineers who employ machine learning
+and natural language processing to solve complex, real-world problems related to core document understanding, recommendation, and customer-facing systems.
+
+Sponsor / Exhibitor / Job Fair
+
+Google
+
+www.cambridge.org/academic
+
+Cambridge University Press is a not-for-profit
+publisher that dates from 1534. We are part of
+the University of Cambridge and our mission is
+to unlock people's potential with the best learning and research solutions. Visit our stand to discuss publishing with us, browse our publications
+and get a 20% discount.
+
+Google's mission is to organize the world’s information and make it universally accessible and
+useful, and we advance that mission every day in
+incredible new ways. Research across Google
+provides new ways of looking at old problems
+and helps transform how we all work and live,
+and we think the biggest impact comes when everyone in the world can access it. To that end, we
+use state-of-the-art computer science techniques
+to solve problems for our users, our customers
+and the world, making it easier for you to do
+things every day, whether it’s searching for photos of people you love, breaking down language
+barriers, or helping you get things done with
+your own personal digital assistant.
+Sponsor / Exhibitor / Job Fair
+
+Happy Elements
+www.happyelements.com
+
+Founded in 2009, with offices in Beijing, Shanghai, Tokyo, Kyoto and San Francisco, Happy Elements is a leading interactive entertainment
+company with products in games, comic and animation, IP affiliated products. We apply AI in
+games to optimize the game productivity and
+generate the best experience for all users.
+
+Sponsor / Exhibitor / Job Fair
+
+Dataminr
+
+Exhibitor
+
+IOS Press
+www.iospress.com
+
+IOS Press is headquartered in Amsterdam with
+satellite offices in the USA, Germany, India, and
+China and serves the information needs of scientific and medical communities worldwide.
+IOS Press publishes more than 80 international
+peer-reviewed journals and about 75 book titles
+each year on subjects ranging from computer
+science, AI, and engineering to medicine, neuroscience, and cancer research.
+
+ai.google
+
+Exhibitor
+
+Cambridge University Press
+
+provides high-volume data annotation services
+using our internal workforce of 2,500+ full time,
+in-house, data technicians located domestically
+and abroad. We specialize in image/video/audio/text data (PHI, PII, HIPAA, FOUO, etc.) and
+have labeled over 150 million data points.
+
+Sponsor / Exhibitor / Job Fair
+
+www.dataminr.com
+
+IBM Research
+
+We are Dataminr. The Leading AI Platform for
+Real-Time Event and Risk Detection. Dataminr’s
+advanced AI platform detects the earliest signals
+of high-impact events and emerging risks, enabling enterprise and public sector clients
+around the globe to know critical information
+first, respond with confidence, and manage
+crises more effectively.
+
+research.ibm.com/labs/watson
+
+Sponsor / Exhibitor / Job Fair
+
+Sponsor / Exhibitor
+
+Elsevier Ltd.
+
+iMerit
+
+www.elsevier.com
+
+www.imerit.net
+
+Elsevier is a global information analytics busi-
+
+We structure u-n-s-t-r-u-c-t-u-r-e-d data. iMerit
+
+IBM Research has been exploring AI and machine learning for decades. Today, we’re advancing the field through our portfolio of research focused on Advancing, Scaling, and Trusting AI.
+We’re also collaborating with like-minded institutions and individuals to push the boundaries of
+AI faster – for the benefit of industry and society.
+
+Sponsor / Exhibitor
+
+Jane Street
+janestreet.com
+
+Jane Street is a quantitative trading firm that uses
+innovative technology, a scientific approach, and
+a deep understanding of markets to guide our
+business. We are a global liquidity provider and
+market maker, operating around the clock and
+around the globe, out of offices in New York,
+London and Hong Kong.
+Exhibitor
+
+John Wiley & Sons
+wileyonlinelibrary.com
+
+Wiley publishes leading research, empowering
+researchers, learners, universities, and corporations to achieve their goals in an ever-changing
+world. With open research, we will build a future where answers and evidence are more accessible, opening up the discovery process to the
+whole world.
+Sponsor / Exhibitor / Job Fair
+
+Microsoft
+www.microsoft.com/research
+
+Microsoft Research is where leading scientists
+and engineers have the freedom and support to
+tackle complex problems that propel innovation
+and improve lives. Come by our booth to learn
+more about our research and open opportunities
+with Microsoft. aka.ms/aaai-2019.
+Exhibitor
+
+Applied Computational Intelligence
+Laboratory, Missouri University of
+Science and Technology
+acil.mst.edu
+
+The Applied Computational Intelligence Laboratory performs research at the interface of unsupervised and reinforcement learning. Supported
+by the DARPA L2M program, Night Vision Labs,
+and the Leonard Wood Institute, among others,
+
+SPONSOR AND EXHIBIT PROGRAM / REGISTRATION / GENERAL INFORMATION 15
+
+the ACIL is a diverse (in every sense,) multidisciplinary group.
+Exhibitor
+
+The MIT Press
+mitpress.mit.edu
+
+Established in 1962, the MIT Press is one of the
+largest and most distinguished university presses
+in the world and a leading publisher of books and
+journals at the intersection of science, technology, art, social science, and design.
+Exhibitor
+
+Morgan & Claypool Publishers
+www.morganclaypoolpublishers.com
+
+Morgan & Claypool publishes the Synthesis Lectures on Artificial Intelligence and Machine
+Learning edited by Ronald Brachman, Francesca
+Rossi, and Peter Stone. Synthesis lectures are 75to 200-page electronic and print books presenting key topics written by prominent contributors
+for an audience of students, researchers, and developers.
+Exhibitor
+
+NHB Elite Health
+elitehealth.com
+
+We are on a mission to create a world where you
+can achieve and sustain optimal health in the advancing field of AI.
+Sponsor / Exhibitor / Job Fair
+
+NLMatics
+www.nlmatics.com
+
+NLMatics is an enterprise Natural Language
+Processing (NLP) platform designed for decision makers to transform vast quantities of unstructured text into insightful analytics. NLMatics’s proprietary semantic discovery engine uses
+a combination of unsupervised learning, active
+learning and robust models pre-trained with a
+variety of language comprehension tasks to
+eliminate time consuming training with customer data.
+Sponsor / Exhibitor
+
+Openstream
+www.openstream.com
+
+Provider of leading virtual assistant platform
+employing open standards based multimodal
+conversational AI for unparalleled user experience and intelligent process automation across
+multiple channels for financial, insurance,
+healthcare, communications, retail and life-sciences industry solutions with documented productivity enhancement and RoI.
+Sponsor / Exhibitor / Job Fair
+
+Sony
+www.sony.net/SonyInfo/sony_ai
+
+Sony is a major electronics, entertainment and
+finance conglomerate. Artificial Intelligence and
+
+16 SPONSOR AND EXHIBIT PROGRAM
+
+Machine Learning are one of the key drivers in
+Sony’s business success and the company has
+been at the forefront of developing Machine
+Learning technologies for finance, manufacturing, music and entertainment among many others.
+
+neers who build tools that channel massive
+amounts of data into insights. And people across
+multiple disciplines to support our growth and
+position at the forefront of investment management, insurance, securities, private equity, and
+venture capital.
+
+Exhibitor
+
+Sponsor / Exhibitor / Job Fair
+
+Springer
+
+United Technologies Research Center
+
+springer.com
+
+www.utrc.utc.com
+
+Springer is a leading global scientific and technical portfolio, providing researchers in academia,
+scientific institutions and corporate R&D departments with quality content through innovative
+information, products and services.
+
+UTRC conducts research in various AI areas, including autonomy and human-machine interaction, computer vision and deep learning for revolutionary aircraft systems. Our diverse technical
+staff (76% PhD) collaborates with our business
+units, universities and national laboratories on
+impactful scientific advances in AI that culminate in novel aerospace products.
+
+Sponsor / Exhibitor / Job Fair
+
+Superb AI
+www.superb-ai.com
+
+Superb AI, Inc. provides a new generation machine learning data platform powering international 30+ AI enterprises to build better AI in less
+time. 'Superb AI Suite', an enterprise softwareas-a-service (SaaS) platform is built to manipulate, manage and understand machine learning
+datasets and to accelerate advanced AI application.
+Sponsor / Exhibitor / Job Fair
+
+TheTake
+
+Sponsor / Exhibitor
+
+Center for Artificial Intelligence
+Research, University of Tsukuba
+air.tsukuba.ac.jp/en
+
+Based in Tsukuba Science City, 60 km from
+Tokyo, C-AIR is a multidisciplinary research hub
+with a mission to develop and promote humancentered AI technologies. We collaborate with
+many research centers of the University of
+Tsukuba as well as such national research institutes as NIMS, JAXA, and RIKEN
+
+thetake.ai
+
+At TheTake, we are dedicated to giving TV viewers immediate access to the products they discover in the content they love. We use proprietary deep learning technology to extract contextual product metadata at scale to power enhanced shoppable experiences on viewing platforms with partners like LG, WarnerMedia, and
+NBCUniversal.
+Sponsor / Exhibitor
+
+Tongdun Technology
+
+Sponsor / Exhibitor / Job Fair
+
+USC/ISI
+www.isi.edu/home
+
+Part of the University of Southern California’s
+highly ranked Viterbi School of Engineering, ISI
+is one of the nation’s largest, most successful university-affiliated computer research institutes.
+USC/ISI is home to 400 research scientists, engineers, graduate and undergraduate students, and
+staff. Half our researchers hold Ph.D.s and 40 are
+USC faculty.
+
+www.tongdun.cn
+
+Tongdun Technology is a professional third-party intelligent risk management and decisionmaking service provider headquartered in
+Hangzhou, Zhejiang. By integrating artificial intelligence into business scenarios, Tongdun
+Technology offers solutions in intelligent user
+analysis, intelligent risk management, intelligent
+antifraud and intelligent operation to clients
+from various industries including financial industry, internet business, government bodies.
+Sponsor / Exhibitor
+
+Sponsor / Exhibitor
+
+Verisk Analytics
+www.verisk.com
+
+Verisk Analytics is a leading data analytics
+provider in insurance, financial services, energy
+and specialized markets serving customers in
+over 30 countries. Verisk|AI conducts R&D for
+building human-machine collaborative systems
+and workflows for extraction of knowledge and
+information from data, capable of closed-loop,
+interpretable reasoning and continuous learning.
+
+Two Sigma
+
+Sponsor / Exhibitor / Job Fair
+
+www.twosigma.com
+
+Visa Research
+
+Two Sigma uses data science and technology to
+discover value in markets worldwide. We’re
+looking for people who see beauty in data and the
+possibilities it reveals. Modelers who see connections and patterns in unexpected places. Engi-
+
+research.visa.com
+
+Visa Research is transforming commerce by accelerating innovation and focusing on the scientific foundations of existing, emerging and future
+commerce related technologies across broad
+
+time horizons. Our research focus areas are Artificial Intelligence, Security and Future of Payments.
+
+Job Fair
+Tuesday, February 11, 12:30 – 3:00 PM,
+Rhinelander Gallery, 2nd floor
+
+In addition to those existing sponsors and exhibitors listed above (where indicated), the Job
+Fair will include the following companies:
+• Audatic GMbH
+• Beijing Century Tal Education Technology Ltd.
+• Charles River Analytics
+• Hewlett Packard
+• Kitware
+• MayoClinic
+• Point72 Asset Management
+• Raytheon BBN Technologies
+• SigOpt
+
+Registration
+Registration is located on the 2nd Floor Promenade. If you have already registered, please go directly to the preregistration area. Registration is
+divided into the following sections: AAAI-20
+main conference registration, AIES-20 only registration, and exhibitor registration. All other
+registrants, such as workshop only or visitors,
+should proceed to the onsite registration desk for
+their badge. If you have not yet registered, wish
+to make a change to your registration, or have a
+balance due, please proceed to the onsite registration area. Registration hours are:
+Friday, February 7
+7:30 AM – 5:00 PM
+Saturday, February 8
+7:30 AM – 5:00 PM
+Sunday, February 9
+7:30 AM – 5:00 PM
+Monday, February 10
+8:00 AM – 5:00 PM
+Tuesday, February 11 8:30 AM – 5:00 PM
+Wednesday, February 12 8:30 AM – 2:00 PM
+
+AAAI attendees are required to register via the
+online system at aaaiconf.cvent.com/AAAI-20
+prior to arrival or at online kiosk in onsite registration. All onsite registrations must be accompanied by payment via credit card, check or cash.
+All attendees must pick up their registration
+packets/badges for admittance to programs.
+
+General Information
+ADA Accessibility
+The New York Hilton Midtown is an Americans
+with Disabilities Act (ADA) compliant facility.
+The facility design includes accessible parking
+and entrances, wheelchair ramps, multiple elevators, automatic doors and accessible restroom facilities.
+Admission
+Each conference attendee will receive a name
+badge upon registration. This badge is required
+
+for admittance to the technical, AIES, IAAI,
+EAAI, AI Job Fair, tutorial, workshop, and all
+other programs, as well as all social events. The
+New York Hilton Midtown is a smoke-free facility, and smoking is strictly forbidden in all meeting and sleeping rooms, as well as public areas.
+
+Breaks
+Coffee breaks will be available in mid-morning
+and mid-afternoon each day of the technical conference in Rhinelander Gallery, 2nd floor (exhibit
+area) and the 2nd Floor East Corridor. For exact
+times, please consult the full detailed schedule.
+For early morning coffee, please consult the suggestions listed on page 18.
+
+Internet Access
+AAAI-20 has arranged for complimentary
+wifi access for AAAI-20 registrants in meeting areas. To access the internet in the meeting space area, please select Artificial Intelligence, and enter the following password:
+AAAI20. AAAI-20 attendees staying at the
+New York Hilton Midtown will also enjoy
+complimentary wifi access in their sleeping
+rooms. A password will be available upon
+check-in.
+
+Business Center
+A business center is available at the New York
+Hilton Midtown. The center provides a photo
+copying service, printing, fax, and express mail.
+
+Guidebook app (guidebook.com/g/aaai20/; short
+name: aaai20, no password required). No hard
+copies are available.
+
+Career Information
+
+List of Attendees
+
+A general information table for job opportunities
+in the artificial intelligence industry will be made
+available in the registration area. Attendees are
+welcome to post job descriptions of openings at
+their company or institution. Please also visit the
+AI Job Fair for additional career information.
+
+A list of preregistered attendees of the conference
+will be available for review at the AAAI onsite
+registration desk. Attendee lists will not be distributed.
+
+Printed Materials
+Display tables for the distribution of promotional
+and informational materials of interest to conference attendees will be located in the registration
+area.
+
+Family Friendly Initiative
+Childcare
+Concourse B, Concourse Level
+
+AAAI has contracted with KiddieCorp to provide
+onsite childcare during the AAAI-20 conference.
+The program is designed for children ages 6
+months through 12 years old. Snacks and water
+will be provided; meals must to be supplied by
+parents. For complete details on the program
+and a registration form, visit www.jotform.com/
+KiddieCorp/aaaikids
+Preregistration required. For onsite availability, please contact KiddieCorp directly.
+
+Proceedings/Technical Reports
+
+Family Room
+
+Sticker / Ribbon Table
+
+Concourse H, Concourse level
+
+AAAI has arranged for a room for young family
+needs relaxation between sessions. We ask that
+you be respectful of others' privacy, as this room
+may be used by nursing mothers. The room locks
+from the inside when being used privately.
+Children at Social Events
+AAAI welcomes young children (under 12) at all
+AAAI social events, such as the reception or
+poster / demo receptions, for no additional
+charge. If your child would like a souvenir of attendance at the conference, please come by registration for a badge!
+
+AAAI proceedings will be available after the conference in electronic format only via the AAAI
+Digital Library. Preliminary PDFs of all papers
+are available via the online AAAI-20 schedule
+(Guidebook). The preliminary PDFs will be removed once the final papers are placed in the
+digital library. Links to individual guidebook papers may not be made.
+
+As part of AAAI’s Diversity and Inclusion program, a selection of stickers and ribbons are
+available at a table in the registration area. Attendees may optionally select gender identification
+stickers or other specialty ribbons. Social networking event stickers are also available at this
+table. See Student Activities on page 11-14 for
+more information.
+
+Volunteer Station
+The volunteer station will be located in the onsite
+registration area. All volunteers are required to
+sign in prior to their shifts, and sign out when
+they finish.
+
+Guidebook App and Online Schedule
+
+New York City Information
+
+The full list of all AAAI papers for all programs is
+available in the online schedule and via the
+
+NYCGo: (212) 484-1200. For more information,
+
+REGISTRATION / GENERAL INFORMATION 17
+
+including restaurant suggestions, activities and additional information about
+the area please visit nycgo.com
+
+Hotel Parking
+Valet parking is available for $75 per night ($80 per night for an SUV). Hotel
+overnight self-parking is not available.
+
+Hotel Restaurants
+Bridges Bar
+Specialty Sandwiches
+5:30 PM-2:00 PM
+Herb N’ Kitchen
+Grab & go, 6:00 AM-1:00 AM
+
+Nearby Grab & Go
+
+Disclaimer
+In offering the New York Hilton Midtown Hotel, Freeman, PSAV, and
+all other service providers (hereinafter referred to as “Supplier(s)” for
+the AAAI Conference on Artificial Intelligence), AAAI acts only in the
+capacity of agent for the Suppliers that are the providers of the service.
+Because AAAI has no control over the personnel, equipment or operations of providers of accommodations or other services included as
+part of the AAAI-20 program, AAAI assumes no responsibility for
+and will not be liable for any personal delay, inconveniences or other
+damage suffered by conference participants which may arise by reason of (1) any wrongful or negligent acts or omissions on the part of
+any Supplier or its employees, (2) any defect in or failure of any vehicle, equipment or instrumentality owned, operated or otherwise used
+by any Supplier, or (3) any wrongful or negligent acts or omissions on
+the part of any other party not under the control, direct or otherwise,
+of AAAI.
+
+Angela’s Sandwich Shop
+1428 6th Avenue (7-minute walk)
+Specialty Sandwiches
+6:00 AM-12:00 AM
+
+AAAI-20 Technical Session Overview
+
+Melt Shop
+135 W 50th Street (6-minute walk)
+Sandwiches
+11:00 AM-10:00 PM
+
+Included on the following pages is an overview of the AAAI, IAAI, and EAAI
+Technical Sessions. Please consult the Guidebook app and the Technical Program Schedule PDF at aaai.org/Conferences/AAAI-20/ for detailed information.
+
+Coffee Shops
+AAAI-20 will serve coffee at the mid-morning and afternoon breaks. For early morning coffee, please visit one of the following locations:
+
+Talk Lengths
+
+Herb N’ Kitchen
+New York Hilton Midtown
+6:00 AM – 1:00 AM
+
+AAAI and AISITalks = 20 minutes
+AAAI Spotlight Talks = 2 minutes
+Senior Member Talks = 15 minutes
+
+Joe & the Juice
+350 6th Avenue
+(3-minute walk)
+
+Sister Conference Talks = 20 minutes
+IAAI Deployed Talks = 20 minutes
+
+Zibetto Espresso Bar
+1221 6th Avenue
+
+IAAI Emerging Talks = 15 minutes
+
+Groceries/Sundries
+
+EAAI Poster Previews = 5 minutes
+
+Morton Williams
+140 West 57th Street
+
+EAAI Model AI Assignments = 15 minutes
+
+EAAI Main and AI for Education Tracks = 20 minutes
+
+EAAI Blue Sky Talks = 5 minutes
+
+Pharmacies
+The following pharmacies are located within walking distance of the hotel:
+Duane Reade, 51 W51st Street
+CVS, 241 W 57th Street and 630 Lexington Avenue
+Rite Aid, 301 W 50th Street
+Walgreens, 1471 Broadway
+Windsor, 1419 6th Avenue
+
+Saturday, February 8
+)(''-&-%($'-#"
+!## -++-43+-+1*/-40-4-11+/
+%($'-&-%(''-#"
+!## &$-23340 -!02431-# 410-+321+(-"41+-0+ 410
+%(''-&- $( $-#"
+!## &$-2+-5/- 0+4
+$('$-#"-&- ( $-#" !## &$-"4-14
+( $-#"-&- ( $-" !## &$-# -1-!0243-14
+($$-&- ($$-"
+!## &$-"4-14
+($$-&- ( $-"
+!## &$-"0+-# -# 3
+('$-&-( '-"
+!## &$-"0+-# -# 3
+($$-&-( $-"
+### &$-+ -++3
+
+1/43
+1/43
+1/43
+1/43
+1/43
+1/43
+1/43
+1/43
+140-41
+
+18 GENERAL INFORMATION / DISCLAMER/ TECHNICAL SESSION OVERVIEW /TALK LENGTHS / SATURDAY SCHEDULE
+
+Sunday, February 9
+:988@7@:968C5
+:968@7@;9 8C5
+;968789@4
+;968789@4
+;968789@4
+;968789@4
+;968789@4
+;96878968@4
+;968789@4
+;968789@4
+;968789@4
+;968789@4
+;968789@4
+;968789@4
+;968789@4
+;968789@4
+;968789@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 96@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+9@7@ 968@4
+988@7@ 98@4
+988@7@69@
+988@7@69@
+988@7@69@
+988@7@698@
+988@7@69 8@
+988@7@69@
+988@7@69@
+988@7@69@
+988@7@69@
+988@7@69@
+988@7@69@
+988@7@69@
+988@7@69@
+988@7@69@
+9@7@69@
+69@7@9@
+69@7@9@
+69@7@9@
+69@7@98@
+69@7@9 @
+69@7@9@
+69@7@9@
+69@7@9@
+69@7@9@
+69@7@9@
+69@7@9@
+69@7@9@
+69@7@9@
+69@7@9@
+6968@7@9@
+
+4443@2>10/5>@CED@.->E,E+@*>5C<)(A@4443@.<+CE,'C&,/EC1@4%C<D($#/E/<(
+4443@<>(,D>E&,C1@4DD<>((9@/1CEDC@",1
+>0@G>((,/E@9@9@E&,&B@*>0/+E,&,/E@CED@,E),E+
+>0@G>((,/E@ 9@4--1,0C&,/E9@/0F5>E&@4EC1B(,(@CED@ED><(&CED,E+
+>0@G>((,/E@69@@9@C0,E>@<CE(1C&,/E
+34437 89@43@,E@#>C1&
+43@/<@G/0,C1@35-C0&@G->0,C1@<C0)@
+8 8@1C((,0@C-><@4%C<D@C1)9@1<,0@FE)><
+>0@G>((,/E@9@,(,/E9@6
+>0@G>((,/E@9@9@.E1,E>@>C<E,E+
+>0@G>((,/E@9@,(,/E9@,(,/E@ @CE+FC+>
+>0@G>((,/E@ 9@9@3E&><-<>&C=,1,&B
+>0@G>((,/E@:9@1CEE,E+@CED@G0>DF1,E+
+>0@G>((,/E@;9@/E(&<C,E&@GC&,(C0&,/E@CED@.-&,5,'C&,/E
+>0@G>((,/E@89@/+,0@CED@ *9@3E><>E0>@CED@*>C(/E,E+
+>0@G>((,/E@9@G/0,C1@/,0>@CED@/&,E+
+4437 8@2>10/5>A@3E ,&>D@C1)@ !>E@GC-,</@CED@4=,+C,1@,55><5CEE7,>,>1DA@CED@
+/(&><@<> ,>%(
+>0@G>((,/E@9@9@,C1/+F>
+>0@G>((,/E@ 9@4--1,0C&,/E9@2>=@G>C<0A@*CE),E+@CED@*>0/55>EDC&,/E
+>0@G>((,/E@69@@9@>C<E,E+@/<@
+34437 89@43@,E@F(&/5><@GF--/<&@CED@C<)>&,E+
+43@/<@G/0,C1@35-C0&@G->0,C1@<C0)@
+44437 8@G>E,/<@>5=><@<C0)@G>((,/E@
+>0@G>((,/E@9@,(,/E9@GBE&>(,(@CED@">E><C&,/E
+>0@G>((,/E@9@9@>F<C1@>&(@>/<BA@/D>1(@CED@41+/<,&5(
+>0@G>((,/E@9@,(,/E9@6
+>0@G>((,/E@ 9@9@GF->< ,(>D@>C<E,E+
+>0@G>((,/E@:9@1CEE,E+
+>0@G>((,/E@;9@/E(&<C,E&@GC&,(C0&,/E@CED@.-&,5,'C&,/E
+>0@G>((,/E@89@ E/%1>D+>@*>-<>(>E&C&,/E@CED@*>C(/E,E+
+>0@G>((,/E@9@?C,<@411/0C&,/E
+4437 89@43@/<@DF0C&,/E@<C0)@CED@/D>1@43@4((,+E5>E&(
+>0@G>((,/E@9@9@*>1C&,/EC1@>C<E,E+
+>0@G>((,/E@ 9@4--1,0C&,/E9@G0,>E0>
+>0@G>((,/E@69@@9@G->>0A@GBE&C@CED@G>5CE&,0(
+34437 89@43@,E@,(FC1@3E(->0&,/E@CED@>&>0&,/E
+43@/<@G/0,C1@35-C0&@G->0,C1@<C0)@6
+44437 8@G>E,/<@>5=><@<C0)@G>((,/E@
+>0@G>((,/E@9@,(,/E9@.=>0&@>&>0&,/E
+>0@G>((,/E@9@9@C(FC1@>C<E,E+@CED@!CB>(@>&(
+>0@G>((,/E@9@,(,/E9@,(,/E@ @CE+FC+>
+>0@G>((,/E@ 9@9@E(F->< ,(>D@CED@G>5,7(F->< ,(>D@>C<E,E+A@1F(&><,E+
+>0@G>((,/E@:9@/5=,EC&/<,C1@.-&,5,'C&,/E
+>0@G>((,/E@;9@GC&,(,C=,1,&B
+>0@G>((,/E@89@ E/%1>D+>@*>-<>(>E&C&,/E@CED@*>C(/E,E+
+>0@G>((,/E@9@G/0,C1@/,0>@CED@/&,E+
+4437 89@C,E@<C0)@CED@CE>1
+>0@G>((,/E@9@9@G>5CE&,0(@CED@GF55C<,'C&,/E
+>0@G>((,/E@ 9@4--1,0C&,/E9@?,ECE0,C1$0/EA@>D,0C1@35C+,E+@CED@#>C1&
+>0@G>((,/E@69@@9@C0,E>@/5-<>>E(,/E@CED@4
+34437 89@43@,E@<CD>@CED@?,ECE0>
+43@/<@G/0,C1@35-C0&@G->0,C1@<C0)@
+>0@G>((,/E@9@,(,/E9@,D>/
+>0@G>((,/E@9@,(,/E9@?C0>@*>0/+E,&,/EA@/D>1,E+
+>0@G>((,/E@9@9@?C,<E>((@CED@<, C0BA@>C<E,E+@>/<B
+>0@G>((,/E@ 9@,(,/E9@2>C)@GF->< ,(,/EA@4DC-&C&,/EA@<CE(><@>C<E,E+
+>0@G>((,/E@:9@9@</=C=,1,(&,0@/+,0@CED@</=C=,1,(&,0@>&/D(
+>0@G>((,/E@;9@#>F<,(&,0@G>C<0@CED@.-&,5,'C&,/E
+>0@G>((,/E@89@#F5CE(@CED@43
+>0@G>((,/E@9@*/=/&,0(@CED@1CEE,E+
+>0@G>((,/E@ 9@"C5>@>/<B
+4437 89@/D>1@43@4((,+E5>E&(A@*>(>C<0@C11>E+>@4EE/FE0>5>E&A@CED@443@
+/55FE,&B@>>&,E+
+
+"<CED@!C11<//5
+"<CED@!C11<//5
+<,CE/E
+!>>)5CE
+GF&&/E@/<&
+GF&&/E@>E&><
+GF&&/E@G/F&
+*>+>E&
+"<C5><0B
+F<<CB@#,11
+C((CF
+/E0/F<(>@4
+",=(/E
+1,E&/E
+CD,(/E
+/<+CE
+!<BCE&
+<,CE/E
+!>>)5CE
+GF&&/E@/<&
+GF&&/E@>E&><
+GF&&/E@G/F&
+*>+>E&
+"<C5><0B
+F<<CB@#,11
+C((CF
+/E0/F<(>@4
+",=(/E
+1,E&/E
+CD,(/E
+/<+CE
+!<BCE&
+<,CE/E
+!>>)5CE
+GF&&/E@/<&
+GF&&/E@>E&><
+GF&&/E@G/F&
+*>+>E&
+"<C5><0B
+F<<CB@#,11
+C((CF
+/E0/F<(>@4
+",=(/E
+1,E&/E
+CD,(/E
+/<+CE
+!<BCE&
+<,CE/E
+!>>)5CE
+GF&&/E@/<&
+GF&&/E@>E&><
+GF&&/E@G/F&
+*>+>E&
+"<C5><0B
+F<<CB@#,11
+C((CF
+/E0/F<(>@4
+",=(/E
+1,E&/E
+CD,(/E
+/<+CE
+!<BCE&
+
+9 8@7@ 9 8@
+
+44437 8@F<,E+@4%C<D@2,EE><@ >E&9@/(FC@!>E+,/A@">/<>B@@#,E&/EA@CEE@>FE "<CED@!C11<//5@
+
+968@7@;968@
+968@7@8988@
+
+44437 8@/(&><@$@>5/@@G>((,/E@
+4443@?>11/%(@*>0/+E,&,/E@,EE><
+
+  
+
+
+
+45><,0C(@#C11(@3$33
+#><=@@ ,&0>E@*FE%CB@CED@*
+
+GENERAL INFORMATION / SUNDAY SCHEDULE 19
+
+Monday, February 10
+0/.18-8,/+*8)?
+(>'6=&%8?6=$>4#="8!46; ;%$
+,/.18-8/18)?
+)))-18=#$6<8; /8)3<68!#;4<
+/.1-21/+*8)?
+686%%#>=82/8/86;$#>=;86;4=#="
+/.1-21/+*8)?
+686%%#>=8/8)#;$#>=/8;'698?3%#98=$64$;#='6=$
+/.1-21/+*8)?
+686%%#>=8./8/86=64;$#>=
+/.1-21/+*8)?
+))-1/8)8#=8'64"6=:86;<#=6%%8;=<86%>=%6
+/.1-21/+*8)?
+)8>48>#;8';$86#;84; 8*
+/.1-21/+*8)?
+6=#>48?6'56484; 8.
+/.1-21/+*8)?
+686%%#>=8+/8 #%#>=/8 5 6$8 6$6$#>=
+/.1-21/+*8)?
+686%%#>=8*/8?/8> -4;= 87;$>4#;$#>=98?;$4#8>'6$#>=
+/.1-21/+*8)?
+#%$648>=646=684; 82
+/.1-21/+*8)?
+686%%#>=8/8?/8 $#'#;$#>=98634;8)4#$6$34686;498;=<8 $64%
+/.1-21/+*8)?
+686%%#>=80/8;==#="
+/.1-21/+*8)?
+686%%#>=8,/83';=%8;=<8)
+/.1-21/+*8)?
+686%%#>=8/8;'6%/8 6%4#$#>=8;="3;"6%8;=<8
+/.1-21/+*8)?
+686%%#>=821/8>#;8>#68;=<8 >$#="
+/.1-21/+*8)?
+$3<6=$8)5%$4;$%8>$#"$%
+22/2*8)?8-82/.18)? 686%%#>=82/8/8 #;>"36
+22/2*8)?8-82/.18)? 686%%#>=8/8)#;$#>=/83';=8?><6#="
+22/2*8)?8-82/.18)? 686%%#>=8./8/8?;#=684;=%;$#>=
+22/2*8)?8-82/2*8)? ))-18=#$6<8; /8 ;#<8>
+22/2*8)?8-82/.*8)? )8>48>#;8';$86#;84; 8
+22/2*8)?8-82/.18)? 6=#>48?6'56484; 8+
+22/2*8)?8-82/.18)? 686%%#>=8+/8 #%#>=/8.
+22/2*8)?8-82/.18)? 686%%#>=8*/8?/8634;86$%86>4:98?><6%8;=<8)">4#$'%
+22/2*8)?8-82/.*8)? #%$648>=646=684; 8
+22/2*8)?8-82/.18)? 686%%#>=8/8?/8=%364#%6<8;=<86'#-%364#%6<86;4=#="983%$64#="
+22/2*8)?8-82/.18)? 686%%#>=80/8;==#="
+22/2*8)?8-82/.18)? 686%%#>=8,/8>=%$4;#=$8;$#%;$#>=8;=<8 $#'#;$#>=
+22/2*8)?8-82/.18)? 686%%#>=8/8>"#8;=<8/8=646=68;=<86;%>=#="
+22/2*8)?8-82/.18)? 686%%#>=821/87;#48)>;$#>=
+/118-8./2*8?
+686%%#>=82/8/8 #;>"36
+/118-8./2*8?
+686%%#>=8/8)#;$#>=/8(6586;498;= #="8;=<86>''6=<;$#>=
+/118-8./2*8?
+686%%#>=8./8/8?;#=684;=%;$#>=888 #%#>=/8;="3;"688 #%#>=
+/118-8./218?
+))-1/8)8>486>''6=<;$#>=8="#=6%
+/118-8./1*8?
+)8>48>#;8';$86#;84; 80
+/118-8./2*8?
+686%%#>=8+/8?/88;=<8?3#;"6=$8
+/118-8./2*8?
+686%%#>=8*/8 #%#>=/8)#;$#>=%
+/118-8./2*8?
+686%%#>=8/8 #%#>=/8';"684>6%%#="98';"#="8;=<86"'6=$;$#>=
+/118-8./18?
+#%$648>=646=684; 8.
+/118-8./2*8?
+686%%#>=80/8?/8=%364#%6<8;=<86'#-%364#%6<86;4=#="983%$64#="
+/118-8./2*8?
+686%%#>=8,/8;==#="/86;4=#="8;=<8=64$;#=$:
+/118-8./2*8?
+686%%#>=8/8>=%$4;#=$8;$#%;$#>=8;=<8 $#'#;$#>=
+/118-8./2*8?
+686%%#>=821/8=> 6<"68646%6=$;$#>=8;=<86;%>=#="
+/118-8./2*8?
+686%%#>=822/8;'686>4:
+/118-8./2*8?
+686%%#>=82/8?3$#;"6=$8:%$6'%
+./+*8-8*/2*8?
+686%%#>=82/8/86$8;%%##;$#>=
+./+*8-8*/2*8?
+686%%#>=8/8)#;$#>=/8>#;8;=<8=>4';$#>=86$ >4 %
+./+*8-8*/2*8?
+686%%#>=8./8/8=>4';$#>=8$4;$#>=986$4#6;8;=<86$8?#=#="
+./+*8-8*/1*8?
+))-1/8)8#=8$##$#6%8
+./+*8-8*/2*8?
+)8>48>#;8';$86#;84; 8,
+./+*8-8*/2*8?
+686%%#>=8+/8?/84>5;5##%$#84;#;8?><6%8;=<84>5;5##%$#8?6$><%
+./+*8-8*/2*8?
+686%%#>=8*/8 #%#>=/8 6686;4=#="8?6$><%
+686%%#>=8/8?/8 >';#=8)<;$;$#>=988)<64%;4#;86;4=#="984;=%6486;4=#="98
+./+*8-8*/2*8?
+6'#-364#%6<86;4=#="
+./+*8-8*/1*8?
+#%$648>=646=684; 8+
+./+*8-8*/2*8?
+686%%#>=80/8?/8)<64%;4#;86;4=#="
+./+*8-8*/2*8?
+686%%#>=8,/86;4
+./+*8-8*/2*8?
+686%%#>=8/8>#;86$ >4 %98=36=698;=<8>'>#:
+./+*8-8*/2*8?
+686%%#>=821/86;%>=#="83=<648=64$;#=$:
+./+*8-8*/2*8?
+686%%#>=822/87;#48)>;$#>=
+./+*8-8*/2*8?
+686%%#>=82/8?3$#;"6=$8:%$6'%
+*/18-8/218?
+))-18="6'>468?6'>4#;8) ;4<86$346/86=4:8;3$
+/2*8-80/2*8?
+)))-18)8 65;$6
+0/18-8/18?
+)))-18>%$6488 6'>886%%#>=8
+
+20 MONDAY SCHEDULE
+
+!66 ';=
+4;=<8!;4>>'
+4#;=>=
+!66 ';=
+3$$>=8>4$
+3$$>=86=$64
+3$$>=8>3$
+6"6=$
+4;'64:
+?344;:8#
+;%%;3
+>=>34%68)
+#5%>=
+#=$>=
+?;<#%>=
+?>4";=
+!4:;=$
+4#;=>=
+!66 ';=
+3$$>=8>4$
+4;=<8!;4>>'
+3$$>=8>3$
+6"6=$
+4;'64:
+?344;:8#
+;%%;3
+>=>34%68)
+#5%>=
+#=$>=
+?;<#%>=
+?>4";=
+4#;=>=
+!66 ';=
+3$$>=8>4$
+3$$>=86=$64
+3$$>=8>3$
+6"6=$
+4;'64:
+?344;:8#
+;%%;3
+>=>34%68)
+#5%>=
+#=$>=
+?;<#%>=
+?>4";=
+!4:;=$
+4#;=>=
+!66 ';=
+3$$>=8>4$
+3$$>=86=$64
+3$$>=8>3$
+6"6=$
+4;'64:
+?344;:8#
+;%%;3
+>=>34%68)
+#5%>=
+#=$>=
+?;<#%>=
+?>4";=
+!4:;=$
+4;=<8!;4>>'
+4;=<8!;4>>'
+)'64#;%8;8
+
+Tuesday, February 11
+5433:2:5413:0/
+5413:2:4-3:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+413:2:634:0/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-4-:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6646:0/:2:6-413:/
+6-413:2:1433:/
+
+-433:2:1413:/
+-433:2:1413:/
+
+000.2-3:,+*)@7@*(@:0'=7>?4:&%*(@*$:,+*%$#@7:=*>:9@%:"!=
+000.2-3.00.2-3:+%*$:.*%$@>:B=4:='*:"+*
+B@(!:"@??%+*:64:0%(=$%+*4:@=$!;:/@>%(%*@:=*>:@8@%*
+B@(!:"@??%+*:-4:4:/=(!%*@:,+7@!@*?%+*:=*>: 0
+.00.2-34:0.:%*:B@ $:0*=<?%?;:,=??%)%(=$%+*:=*>: @*@7=$%+*: ?@(=?@?
+B@(!:"@??%+*:14:4:%=+A@
+B@(!:"@??%+*:4:/4: :=*>:/A%=@*$: 
+B@(!:"@??%+*:4:&%?%+*4:.=@: @$7%@=;: =*%*;: @(+*%$%+*
+B@(!:"@??%+*:4:/4:B7=*?)@7:@=7*%*
+B@(!:"@??%+*:4:&%?%+*4:@=:"A@7%?%+*;:0>=$=$%+*;:B7=*?)@7:@=7*%*
+B@(!:"@??%+*:54:/4:"A@7%?@>:@=7*%*
+B@(!:"@??%+*:4:=**%*
+B@(!:"@??%+*:634:,+*?$7=%*$:"=$%?)=($%+*:=*>:$%%#=$%+*
+B@(!:"@??%+*:664:*+'@>@: @7@?@*$=$%+*:=*>: @=?+*%*
+B@(!:"@??%+*:6-4: =@:B!@+7<
+B@(!:"@??%+*:614:9=%7*@??:=*>:A=%$<:%*:(+*+%(:=7=>%?
+B@(!:"@??%+*:64:0%(=$%+*4:,%=$@@=$!@7;:*%7+*@*$;:B%@:"@7%@?:0*=<?%?
+B@(!:"@??%+*:-4:4:/=(!%*@:,+7@!@*?%+*:=*>:
+0
+.00.2-34:0.:)+7:B7A?$:=*>:B7A?$:+):0.
+B@(!:"@??%+*:14:4: @7@?@*$=$%+*:@=7*%*
+B@(!:"@??%+*:4:/4:@A7=:@$?:B!@+7<;:/+>@?:=*>:0+7%$!?
+B@(!:"@??%+*:4:&%?%+*4:8@($:@$@($%+*
+B@(!:"@??%+*:4:/4: :=*>:/A%=@*$: 
+B@(!:"@??%+*:4:&%?%+*4:.=@:=*>:&%>@+: *>@7?$=*>%*;: @(+*%$%+*:=*>: @$7%@=
+B@(!:"@??%+*:54:/4: *?A@7%?@>:=*>:"@%2?A@7%?@>:@=7*%*;:,A?$@7%*
+B@(!:"@??%+*:4:@=7*%*:%*:/A$%=@*$:"<?$@?:=*>: =@:B!@+7<
+B@(!:"@??%+*:634:A=*?:=*>:0.
+B@(!:"@??%+*:664:+%(:=*>: 4:.*)@7@*(@:=*>: @=?+*%*
+B@(!:"@??%+*:6-4:/@(!=*%?:@?%*:=*>:9=%7:0+(=$%+*
+B@(!:"@??%+*:614:"+(%=:,!+%(@:=*>:&+$%*
+0.:+8:9=%7
+B@(!:"@??%+*:64:0%(=$%+*4:=$=:/%*%*;:@$'+7 7=!:/+>@%*:=*>:0+7%$!?;:
+B7=*?+7$=$%+*
+B@(!:"@??%+*:-4:4: @7@?@*$=$%+*:@=7*%*;:"A=7%#=$%+*
+B@(!:"@??%+*:14:4:"@=*$%(?:=*>:"A=7%#=$%+*
+
+-433:2:1413:/
+
+B@(!:"@??%+*:4:&%?%+*4:@=:"A@7%?%+*;:0>=$=$%+*;:0($%@:=*>:B7=*?)@7:@=7*%*
+
+-433:2:1413:/
+-433:2:1413:/
+-433:2:1413:/
+-433:2:1413:/
+-433:2:1413:/
+-433:2:1413:/
+-433:2:1413:/
+-433:2:1413:/
+-433:2:1413:/
+143:2:43:/
+4:2:46:/
+413:2:5413:/
+5433:2:63433:/
+
+B@(!:"@??%+*:4:&%?%+*4:A=*:+?@:=*>:/+$%+*:0*=<?%?;:@$@($%+*;:/+>@%*
+B@(!:"@??%+*:4:/4:@A7=:@$?:B!@+7<;:/+>@?:=*>:0+7%$!?
+B@(!:"@??%+*:4:&%?%+*4:&%?%+*::=*A=@
+B@(!:"@??%+*:54:/4:"A@7%?@>:@=7*%*
+B@(!:"@??%+*:4:@=7*%*:%*:/A$%=@*$:"<?$@?:=*>: =@:B!@+7<
+B@(!:"@??%+*:634:"=$%?)%=8%%$<
+B@(!:"@??%+*:664:,+*%$%@:/+>@%*
+B@(!:"@??%+*:6-4: =@:B!@+7<4:/=$(!%*:=*>:,+=%$%+*?
+B@(!:"@??%+*:614:/@(!=*%?:@?%*
+000.2-3:.*%$@>:B=4::"A?=*:0$!@<
+000.2-3:0.:%?$+7<:=*@4:0>=*(%*:0.:8<:=<%*: =@?
+000.2-3:+?$@7::@+::"@??%+*:1
+000.2-3: =@?:%!$
+
+-433:2:1413:/
+
+7=*>:=7++
+7=*>:=7++
+@@=*
+"A$$+*:+7$!
+"A$$+*:,@*$@7
+"A$$+*:"+A$!
+@@*$
+7=@7(<
+/A77=<:%
+=??=A
+,+*(+A7?@:0
+%8?+*
+,%*$+*
+/=>%?+*
+/+7=*
+7<=*$
+@@=*
+"A$$+*:+7$!
+"A$$+*:,@*$@7
+"A$$+*:"+A$!
+@@*$
+7=@7(<
+/A77=<:%
+=??=A
+,+*(+A7?@:0
+%8?+*
+,%*$+*
+/=>%?+*
+/+7=*
+7<=*$
+!%*@=*>@7: =@7<
+@@=*
+"A$$+*:+7$!
+"A$$+*:"+A$!
+@@*$
+7=@7(<
+/A77=<:%
+=??=A
+,+*(+A7?@:0
+%8?+*
+,%*$+*
+/=>%?+*
+/+7=*
+7<=*$
+7=*>:=7++
+7=*>:=7++
+0@7%(=?:=:...
+++:B
+
+TUESDAY SCHEDULE 21
+
+Wednesday, February 12
+ 
+2-&--7.72-&-70
+2-&-7.72-&-70
+2-&-7.722&270
+2-&--7.722&--70
+2-&--7.722&--70
+2-&--7.722&--70
+2-&--7.722&--70
+2-&--7.722&--70
+2-&--7.722&--70
+2-&--7.722&--70
+2-&--7.722&--70
+
+000/.1-7/<,+*>=7):('&7%*3:4*7$3;;>((
+0/7+<74:*+>7><+<7$> :4';&7,><+97#:54+(!,+7:<=70;+;7:
+0/7+<74:*+>7(><:497):('&7+,+:<7>>
+0/7+<74:*+>7/<,+*>=7):('&7/;::7!:<>
+)>7%>;;+!<72&7&7+;!34;>7:<=74: :*+;
+)>7%>;;+!<71&70(+:*+!<&79;+:(7%+><>
+)>7%>;;+!<7&7&7>:4<+<7!47
+)>7%>;;+!<7&7&7%9<*: 7:<=7%> :<*+;
+)>7%>;;+!<7&7+;+!<&7/ :>7$>*4+>,:(87$:<'+<87$>!<+*+!<
+)>7%>;;+!<7 &7+;+!<&7%9<*>;+;7:<=7#><>4:*+!<
+)>7%>;;+!<7 &7&74!5:5+(+;*+7>*!=;
+)>7%>;;+!<7 &7&7*+ +:*+!<
+
+#4:<=7":((4!!
+#4:<=7":((4!!
+#4:<=7":((4!!
+#4:<=7":((4!!
+)4+:<!<
+">>' :<
+%3**!<7!4*
+%3**!<7%!3*
+$>><*
+#4: >49
+344:97 +((
+:;;:3
+
+22&1-707.721&1-7
+
+0/7+<74:*+>&7/<,+*>=7:<>(
+!=>4:*!4&7+;:7%+ ;!<7:<>(+;*;&764>==9705<!3;+87#4>7!44:=!787+ 7?>+<*;*>+<
+
+?>=<>;=:98722&1-.21&1-87#4:<=7":((4!!
+
+22&-707.721&-7
+22&-707.721&-7
+22&-707.721&-7
+22&-707.721&-7
+22&-707.721&-7
+22&-707.721&-7
+22&-707.721&-7
+22&-707.721&-7
+  
+1&--7.71&17
+1&17.71&-7
+1&-7.7&27
+1&--7.7&1-7
+1&--7.7&1-7
+1&--7.7&1-7
+1&--7.7&1-7
+1&--7.7&1-7
+1&--7.7&1-7
+1&--7.7&1-7
+1&--7.7&1-7
+&7.7&2-7
+&2-7.7&7
+&-7.7&-7
+&-7.7&-7
+&-7.7&-7
+&-7.7&-7
+&-7.7&-7
+&-7.7&-7
+&-7.7&-7
+&-7.7&-7
+&7.7&-7
+&7.7 &7
+
+)>7%>;;+!<72&7&7:<3:>7!=>(;
+)>7%>;;+!<71&70(+:*+!<&7!=>(+<7!7 3 :<7>+;+!<7:'+<
+)>7%>;;+!<7&7&7/<!4 :*+!<7 *4:*+!<87$>*4+>,:(7:<=7)> *7+<+<
+)>7%>;;+!<7&7&7%> :<*+;7:<=7%3
+:4+:*+!<
+)>7%>;;+!<7&7+;+!<&70=,>4;:4+:(7>:4<+<
+)>7%>;;+!<7 &7+;+!<&7 3 :<7!;>7:<=7!*+!<70<:(9;+;87>*>*+!<87!=>(+<
+)>7%>;;+!<7 &7&74!5:5+(+;*+7>*!=;
+)>7%>;;+!<7 &7&7$:<'+<87$>!
+><=:*+!<
+000/7!
+3<+*97>>*+<&7!(:<=:7#+(
+0/7+<74:*+>7/<,+*>=7):('&7 !<!47 ;+<
+0/7+<74:*+>7/<,+*>=7):('&7>!7>(+
+70/7+<74:*+>7/<,+*>=7):('&7!<7"4!<;*>+<
+)>7%>;;+!<72&7&7:+<>7)4:<;(:*+!<87<*+*97$>!<+*+!<7:<=7+<'+<
+)>7%>;;+!<71&70(+:*+!<&7)4:<;!4*:*+!<
+)>7%>;;+!<7&7&7<!(>=>7#4:
+)>7%>;;+!<7&7&7%> :<*+;7:<=7%3
+:4+:*+!<
+)>7%>;;+!<7&7+;+!<&7)4:'+<7:<=7>*>*+!<
+)>7%>;;+!<7 &7+;+!<&70*+!<7$>!<+*+!<
+)>7%>;;+!<7 &7&7$7:<=73(+:><*7$
+)>7%>;;+!<7 &7&74!5:5+(+;*+7#4:+:(7!=>(;7:<=74!5:5+(+;*+7>*!=;
+0/7+<74:*+>7/<,+*>=7):('&7+4:7$:=+<;'9
+0/7+<74:*+>7/<,+*>=7):('&74> 7$: :;: +
+)>7%>;;+!<72&7&7#><>4:*+!<
+)>7%>;;+!<71&70(+:*+!<&7>=+:(7/ :+<
+)>7%>;;+!<7&7&7$>(:*+!<:(7>:4<+<
+)>7%>;;+!<7&7&7%> :<*+;7:<=7%3
+:4+:*+!<
+)>7%>;;+!<7&7&7:+<>7! 4>><;+!<7:<=70
+)>7%>;;+!<7 &7+;+!<&7/ :>7$>*4+>,:(87$:<'+<87$>!<+*+!<
+)>7%>;;+!<7 &7&7$7:<=73(+:><*7$
+)>7%>;;+!<7 &7&7>34:(7>*;7)>!4987!=>(;7:<=70(!4+* ;
+0/7+<74:*+>7(><:497):('&70<>>;7!4:
+0/7+<74:*+>7>*!4'+<77+;3;;+!<
+
+)4+:<!<
+">>' :<
+%3**!<7!4*
+%3**!<7%!3*
+$>><*
+#4: >49
+344:97 +((
+:;;:3
+#4:<=7":((4!!
+#4:<=7":((4!!
+#4:<=7":((4!!
+#4:<=7":((4!!
+)4+:<!<
+">>' :<
+%3**!<7!4*
+%3**!<7%!3*
+$>><*
+#4: >49
+344:97 +((
+:;;:3
+#4:<=7":((4!!
+4> 7$: :;: +
+)4+:<!<
+">>' :<
+%3**!<7!4*
+%3**!<7%!3*
+$>><*
+#4: >49
+344:97 +((
+:;;:3
+#4:<=7":((4!!
+)4+:<!<7":((4!!
+
+AAAI-20 Wifi Access
+Select: Artificial Intelligence
+Password: AAAI2020
+
+Guidebook App
+Download the Guidebook App
+Short Name: aaai20
+Online: guidebook.com/g/aaai20
+
+22 WEDNESDAY SCHEDULE / WIFI ACCESS / GUIDEBOOK
+
+New York Hilton Midtown
+
+Americas Ha
+all II
+
+ENT
+TRANCE
+E
+
+ESCALATOR
+TO AMERICAS HA
+ALL I
+
+Americas Hall
+H I
+ENTRA
+ANCE
+
+5th
+
+Floor
+
+4th
+
+Floor
+
+3rd
+
+Floor
+
+2nd
+Floor
+
+Lobby Level
+
+LINCO
+OLN
+
+GREEN
+
+NEW YORK
+
+ESCALATOR TO
+RHINELANDER
+EAST
+FOYER
+
+R
+RHINELANDER
+NORTH
+RHINELANDER
+CENTER
+
+RHINELANDER
+SOUTH
+
+HUDSO
+ON
+
+MIDTOWN
+M
+
+CONCIERGE
+CONCIE
+RECEPTION
+DESK
+
+EAS
+ST
+
+HILT
+TON
+BOARD
+D ROOM
+
+CONCOURSE
+EA
+
+ACCESS TO
+A
+LOBBY
+
+Concourse Level
+
+CO
+ONCOURSE B
+
+One Level Below Lobby
+
+CONCOURSE E
+
+C
+CONCOURSE
+C
+
+REGENT
+
+CONCOURSE D
+
+AVENUE
+V
+E
+OF THE
+AMERICAS
+
+6th
+AVE.
+
+SUTTON
+CENTER
+
+MINUS 5
+ICE BAR
+
+MA
+AIN
+A
+ENTRA
+E
+RA
+ANCE
+E
+
+SUTTON
+SOUTH
+
+SUTTON
+NORTH
+
+BEEKMAN
+
+TRIANON
+BALLROOM
+
+PETIT
+
+RENDEZVOUS
+
+HOLLAND
+D
+
+CONCIERGE
+DESK
+
+B
+BELL
+CA
+APTAIN
+N
+
+NASSAU
+S
+WEST EAST
+
+MADISON
+MA
+A
+O
+GIBSON
+C
+CLINT
+ON
+O
+
+MERCURY
+BALLROOM
+
+ROTUNDA
+
+HARLEM
+
+FITNESS CENTER
+
+FOYER
+
+PROMENADE
+P
+
+BRIDGES
+RID
+BAR
+
+LOBBY
+LOUNGE
+
+THEA
+AT
+TER TOUR &
+TRANSPORTA
+TA
+AT
+TION
+
+ACCESS TO
+CONCO
+CONCOURSE
+E
+
+SOUTH CORRIDOR
+
+MURRAY HILL
+EAST
+WEST
+
+BUSINESS
+CENTER
+
+PROMENADE &
+EVENT
+EV
+VE
+REGISTRATION
+
+PREFUNCTION AREA
+A
+
+ENT
+EN
+ENTRA
+NTRANC
+TRANCE
+TR
+RA
+A
+
+GIFT &
+SUNDRY SHOP
+
+GRAMERCY
+E
+WEST
+EAST
+
+GR
+G
+ROU
+UP
+REGIST
+RE
+
+HERB N’ KITCHEN
+
+54th STREET
+MOTOR
+ENTRANCE
+
+GARAGE
+
+BR
+RYANT
+A T
+MORGAN
+O
+
+GR
+G
+RAND
+R
+A
+BALLROOM
+
+WEST
+FOYER
+
+TO
+T
+OA
+AM
+M
+MERICAS
+HAL
+HA
+L I & II
+LL
+
+7th
+h
+AV
+VEN
+NUE
+
+MOTOR
+ENTRANCE
+
+53rd STREET
+
+CONCO
+OURSE H
+
+CONCO
+OURSE G
+
+CONCO
+OURSE F
+
+HOTEL MAP 23
+
+AAAI-21 / IAAI-21
+February 2–9, 2021
+Vancouver Convention Centre
+Vancouver, British Columbia
+Canada
+
+General Chair
+Qiang Yang
+Program Cochairs
+Kevin Leyton-Brown & Mausam
+
+www.aaai.org/aaai21
+
+

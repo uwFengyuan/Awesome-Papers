@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Mamba+3+Improved+Sequence+Modeling+using+State+Space+Principles%22+OR+ti%3A%22Mastering+Sparse+CUDA+Generation+through+Pretrained+Models+and+Deep+Reinforcement+Learning%22+OR+ti%3A%22Mean+Flow+Policy+with+Instantaneous+Velocity+Constraint+for+One+step+Action+Generation%22+OR+ti%3A%22MedAgentGym+A+Scalable+Agentic+Training+Environment+for+Code+Centric+Reasoning+in+Biomedical+Data%22+OR+ti%3A%22MemAgent+Reshaping+Long+Context+LLM+with+Multi+Conv+RL+based+Memory+Agent%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Mamba+3+Improved+Sequence+Modeling+using+State+Space+Principles%22+OR+ti%3A%22Mastering+Sparse+CUDA+Generation+through+Pretrained+Models+and+Deep+Reinforcement+Learning%22+OR+ti%3A%22Mean+Flow+Policy+with+Instantaneous+Velocity+Constraint+for+One+step+Action+Generation%22+OR+ti%3A%22MedAgentGym+A+Scalable+Agentic+Training+Environment+for+Code+Centric+Reasoning+in+Biomedical+Data%22+OR+ti%3A%22MemAgent+Reshaping+Long+Context+LLM+with+Multi+Conv+RL+based+Memory+Agent%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:27.873522+00:00",
+  "bytes": 12154,
+  "sha256": "1d6c5766020bb06e97120abeba3c3bd1d539ccf18973f8e2f8e4c063a1d8c3b7",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3eceb94064fd1a77d309.gz"
+}

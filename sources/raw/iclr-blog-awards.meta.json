@@ -1,0 +1,10 @@
+{
+  "url": "https://blog.iclr.cc/wp-json/wp/v2/posts?search=award&per_page=100",
+  "final_url": "https://blog.iclr.cc/wp-json/wp/v2/posts?search=award&per_page=100",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:40:08.872689+00:00",
+  "bytes": 182099,
+  "sha256": "50a3292dd69d2bd273e41666af81e458b6a6954895b5c260dab36f9f0899f747",
+  "content_type": "application/json; charset=UTF-8",
+  "cache_path": "sources/raw/iclr-blog-awards.gz"
+}

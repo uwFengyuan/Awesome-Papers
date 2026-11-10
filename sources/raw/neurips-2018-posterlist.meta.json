@@ -1,0 +1,10 @@
+{
+  "url": "https://neurips.cc/virtual/2018/events/poster?layout=mini",
+  "final_url": "https://neurips.cc/virtual/2018/papers.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:40:09.473905+00:00",
+  "bytes": 165010,
+  "sha256": "e8584b1ac8b44c0dd67c64d8f384af6119631af75f2aa982d5bcbabb7ef3cbca",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2018-posterlist.gz"
+}

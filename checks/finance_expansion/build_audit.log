@@ -1,0 +1,26 @@
+{
+  "main_papers_screened": 85756,
+  "abstracts_available": 85675,
+  "metadata_candidates": 2292,
+  "confirmed_finance": 1178,
+  "previous_finance": 344,
+  "added_finance": 834,
+  "core": 200,
+  "application_or_case": 978,
+  "financial_pdfs": 1128,
+  "financial_missing_pdfs": 50,
+  "financial_papers_without_oral_or_award": 916,
+  "texts_machine_screened": 11066,
+  "fulltext_screening_queue": 2951,
+  "review_queue_fulltext_not_available": 410,
+  "pending_metadata_finance_review": 42,
+  "candidate_dispositions": {
+    "confirmed_finance": 599,
+    "text_screened_not_confirmed": 380,
+    "needs_fulltext_review": 1032,
+    "reviewed_not_admitted": 159,
+    "lexical_or_cost_match": 122
+  },
+  "neurips_2026_keyword_candidates_unverified_track": 16,
+  "neurips_2026_keyword_candidates_excluded_nonmain": 18
+}

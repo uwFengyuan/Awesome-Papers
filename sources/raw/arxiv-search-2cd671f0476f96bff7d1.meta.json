@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Multi+Source+Diffusion+Models+for+Simultaneous+Music+Generation+and+Separation%22+OR+ti%3A%22Multi+granularity+Correspondence+Learning+from+Long+term+Noisy+Videos%22+OR+ti%3A%22Multisize+Dataset+Condensation%22+OR+ti%3A%22Neural+Fine+Tuning+Search+for+Few+Shot+Learning%22+OR+ti%3A%22On+the+Humanity+of+Conversational+AI+Evaluating+the+Psychological+Portrayal+of+LLMs%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Multi+Source+Diffusion+Models+for+Simultaneous+Music+Generation+and+Separation%22+OR+ti%3A%22Multi+granularity+Correspondence+Learning+from+Long+term+Noisy+Videos%22+OR+ti%3A%22Multisize+Dataset+Condensation%22+OR+ti%3A%22Neural+Fine+Tuning+Search+for+Few+Shot+Learning%22+OR+ti%3A%22On+the+Humanity+of+Conversational+AI+Evaluating+the+Psychological+Portrayal+of+LLMs%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:59.942184+00:00",
+  "bytes": 10065,
+  "sha256": "35516f86c76de4ea2d352fbc5df64ad95fab0fd306fc98f5f374afc9cfddfc60",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-2cd671f0476f96bff7d1.gz"
+}

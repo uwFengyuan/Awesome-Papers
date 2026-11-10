@@ -1,0 +1,676 @@
+[
+  {
+    "id": "2023.acl-long.847",
+    "venue": "ACL",
+    "year": 2023,
+    "title": "LayoutMask: Enhance Text-Layout Interaction in Multi-modal Pre-training for Document Understanding",
+    "abstract": "Visually-rich Document Understanding (VrDU) has attracted much research attention over the past years. Pre-trained models on a large number of document images with transformer-based backbones have led to significant performance gains in this field. The major challenge is how to fusion the different modalities (text, layout, and image) of the documents in a unified model with different pre-training tasks. This paper focuses on improving text-layout interactions and proposes a novel multi-modal pre-training model, LayoutMask. LayoutMask uses local 1D position, instead of global 1D position, as layout input and has two pre-training objectives: (1) Masked Language Modeling: predicting masked tokens with two novel masking strategies; (2) Masked Position Modeling: predicting masked 2D positions to improve layout representation learning. LayoutMask can enhance the interactions between text and layout modalities in a unified model and produce adaptive and robust multi-modal representations for downstream tasks. Experimental results show that our proposed method can achieve state-of-the-art results on a wide variety of VrDU problems, including form understanding, receipt understanding, and document image classification.",
+    "paper_url": "https://aclanthology.org/2023.acl-long.847/",
+    "pdf_url": "https://aclanthology.org/2023.acl-long.847.pdf",
+    "hits": {
+      "financial_documents": [
+        "receipt"
+      ]
+    },
+    "finance_sentences": [
+      "Experimental results show that our proposed method can achieve state-of-the-art results on a wide variety of VrDU problems, including form understanding, receipt understanding, and document image classification."
+    ],
+    "previous_candidate": false,
+    "previous_included": true
+  },
+  {
+    "id": "2024.acl-long.463",
+    "venue": "ACL",
+    "year": 2024,
+    "title": "DocLLM: A Layout-Aware Generative Language Model for Multimodal Document Understanding",
+    "abstract": "Enterprise documents such as forms, receipts, reports, and other such records, often carry rich semantics at the intersection of textual and spatial modalities. The visual cues offered by their complex layouts play a crucial role in comprehending these documents effectively. In this paper, we present DocLLM, a lightweight extension to traditional large language models (LLMs) for reasoning over visual documents, taking into account both textual semantics and spatial layout. Our model differs from existing multimodal LLMs by avoiding expensive image encoders and focuses exclusively on bounding box information to incorporate the spatial layout structure. Specifically, the cross-alignment between text and spatial modalities is captured by decomposing the attention mechanism in classical transformers to a set of disentangled matrices. Furthermore, we devise a pre-training objective that learns to infill text segments. This approach allows us to address irregular layouts and heterogeneous content frequently encountered in visual documents. The pre-trained model is fine-tuned using a large-scale instruction dataset, covering four core document intelligence tasks. We demonstrate that our solution outperforms SotA LLMs on 14 out of 16 datasets across all tasks, and generalizes well to 4 out of 5 previously unseen datasets.",
+    "paper_url": "https://aclanthology.org/2024.acl-long.463/",
+    "pdf_url": "https://aclanthology.org/2024.acl-long.463.pdf",
+    "hits": {
+      "financial_documents": [
+        "receipts"
+      ]
+    },
+    "finance_sentences": [
+      "Enterprise documents such as forms, receipts, reports, and other such records, often carry rich semantics at the intersection of textual and spatial modalities."
+    ],
+    "previous_candidate": false,
+    "previous_included": true
+  },
+  {
+    "id": "2025.acl-long.723",
+    "venue": "ACL",
+    "year": 2025,
+    "title": "Towards Robust ESG Analysis Against Greenwashing Risks: Aspect-Action Analysis with Cross-Category Generalization",
+    "abstract": "Sustainability reports are key for evaluating companies’ environmental, social and governance (ESG) performance. To analyze these reports, NLP approaches can efficiently extract ESG insights at scale. However, even the most advanced NLP methods lack robustness against ESG content that is greenwashed – i.e. sustainability claims that are misleading, exaggerated, and fabricated. Accordingly, existing NLP approaches often extract insights that reflect misleading or exaggerated sustainability claims rather than objective ESG performance. To tackle this issue, we introduce A3CG - Aspect-Action Analysis with Cross-Category Generalization, as a novel dataset to improve the robustness of ESG analysis amid the prevalence of greenwashing. By explicitly linking sustainability aspects with their associated actions, A3CG facilitates a more fine-grained and transparent evaluation of sustainability claims, ensuring that insights are grounded in verifiable actions rather than vague or misleading rhetoric. Additionally, A3CG emphasizes cross-category generalization. This ensures robust model performance in aspect-action analysis even when companies change their reports to selectively favor certain sustainability areas. Through experiments on A3CG, we analyze state-of-the-art supervised models and LLMs, uncovering their limitations and outlining key directions for future research.",
+    "paper_url": "https://aclanthology.org/2025.acl-long.723/",
+    "pdf_url": "https://aclanthology.org/2025.acl-long.723.pdf",
+    "hits": {
+      "financial_documents": [
+        "ESG",
+        "Greenwashing",
+        "greenwashed",
+        "greenwashing"
+      ]
+    },
+    "finance_sentences": [
+      "Sustainability reports are key for evaluating companies’ environmental, social and governance (ESG) performance.",
+      "To analyze these reports, NLP approaches can efficiently extract ESG insights at scale.",
+      "However, even the most advanced NLP methods lack robustness against ESG content that is greenwashed – i.e.",
+      "Accordingly, existing NLP approaches often extract insights that reflect misleading or exaggerated sustainability claims rather than objective ESG performance.",
+      "To tackle this issue, we introduce A3CG - Aspect-Action Analysis with Cross-Category Generalization, as a novel dataset to improve the robustness of ESG analysis amid the prevalence of greenwashing."
+    ],
+    "previous_candidate": false,
+    "previous_included": true
+  },
+  {
+    "id": "2026.acl-long.1234",
+    "venue": "ACL",
+    "year": 2026,
+    "title": "DocLens: A Tool-Augmented Multi-Agent Framework for Long Visual Document Understanding",
+    "abstract": "Comprehending long visual documents, where information is distributed across extensive pages of text and visual elements, is a critical but challenging task for modern Vision-Language Models (VLMs). Existing approaches falter on a fundamental challenge: evidence localization. They struggle to retrieve relevant pages and overlook fine-grained details within visual elements, leading to limited performance and model hallucination. To address this, we propose DocLens, a tool-augmented multi-agent framework that effectively “zooms in” on evidence like a lens. It first navigates from the full document to specific visual elements on relevant pages, then employs a sampling-adjudication mechanism to generate a single, reliable answer. Paired with Gemini-2.5-Pro, DocLens achieves state-of-the-art performance on MMLongBench-Doc and FinRAGBench-V, surpassing even human experts. The framework’s superiority is particularly evident on vision-centric and unanswerable queries, demonstrating the power of its enhanced localization capabilities.",
+    "paper_url": "https://aclanthology.org/2026.acl-long.1234/",
+    "pdf_url": "https://aclanthology.org/2026.acl-long.1234.pdf",
+    "hits": {
+      "financial_names": [
+        "FinRAGBench-V"
+      ]
+    },
+    "finance_sentences": [
+      "Paired with Gemini-2.5-Pro, DocLens achieves state-of-the-art performance on MMLongBench-Doc and FinRAGBench-V, surpassing even human experts."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "2026.acl-long.2135",
+    "venue": "ACL",
+    "year": 2026,
+    "title": "From Recognition to Reasoning: Benchmarking and Enhancing MLLMs on Real-World Receipt Document Understanding",
+    "abstract": "Extracting structured information from visual documents (Visual Information Extraction, VIE) is a cornerstone of business automation. While recent Multimodal Large Language Models (MLLMs) have shown promising capabilities, existing benchmarks suffer from critical limitations in scale and realism, lack semantic granularity, and fail to cover diverse document types. To bridge this gap, we introduce ReceiptBench, a large-scale, human-annotated benchmark consisting of 10k diverse receipts, organizing information extraction into four hierarchical sub-tasks: (1) Basic Perception for raw text spotting, (2) Format Normalization for strictly following standardization instructions, (3) Semantic Reasoning for inferring implicit attributes from context, and (4) Structure Parsing for handling nested line items. Furthermore, we propose a two-stage training framework incorporating Metric-Aware Group Relative Policy Optimization (GRPO), which translates rigorous evaluation constraints into reinforcement learning signals to enhance structural consistency. Extensive experiments demonstrate that our method yields state-of-the-art performance, surpassing leading proprietary models on complex reasoning tasks. We release our datasets and code at https://github.com/wwwT0ri/ReceiptBench.",
+    "paper_url": "https://aclanthology.org/2026.acl-long.2135/",
+    "pdf_url": "https://aclanthology.org/2026.acl-long.2135.pdf",
+    "hits": {
+      "financial_documents": [
+        "Receipt",
+        "receipts"
+      ]
+    },
+    "finance_sentences": [
+      "To bridge this gap, we introduce ReceiptBench, a large-scale, human-annotated benchmark consisting of 10k diverse receipts, organizing information extraction into four hierarchical sub-tasks: (1) Basic Perception for raw text spotting, (2) Format Normalization for strictly following standardization instructions, (3) Semantic Reasoning for inferring implicit attributes from context, and (4) Structure Parsing for handling nested line items."
+    ],
+    "previous_candidate": false,
+    "previous_included": true
+  },
+  {
+    "id": "D18-1476",
+    "venue": "EMNLP",
+    "year": 2018,
+    "title": "Chargrid: Towards Understanding 2D Documents",
+    "abstract": "We introduce a novel type of text representation that preserves the 2D layout of a document. This is achieved by encoding each document page as a two-dimensional grid of characters. Based on this representation, we present a generic document understanding pipeline for structured documents. This pipeline makes use of a fully convolutional encoder-decoder network that predicts a segmentation mask and bounding boxes. We demonstrate its capabilities on an information extraction task from invoices and show that it significantly outperforms approaches based on sequential text or document images.",
+    "paper_url": "https://aclanthology.org/D18-1476/",
+    "pdf_url": "https://aclanthology.org/D18-1476.pdf",
+    "hits": {
+      "financial_documents": [
+        "invoices"
+      ]
+    },
+    "finance_sentences": [
+      "We demonstrate its capabilities on an information extraction task from invoices and show that it significantly outperforms approaches based on sequential text or document images."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "2021.emnlp-main.389",
+    "venue": "EMNLP",
+    "year": 2021,
+    "title": "LayoutReader: Pre-training of Text and Layout for Reading Order Detection",
+    "abstract": "Reading order detection is the cornerstone to understanding visually-rich documents (e.g., receipts and forms). Unfortunately, no existing work took advantage of advanced deep learning models because it is too laborious to annotate a large enough dataset. We observe that the reading order of WORD documents is embedded in their XML metadata; meanwhile, it is easy to convert WORD documents to PDFs or images. Therefore, in an automated manner, we construct ReadingBank, a benchmark dataset that contains reading order, text, and layout information for 500,000 document images covering a wide spectrum of document types. This first-ever large-scale dataset unleashes the power of deep neural networks for reading order detection. Specifically, our proposed LayoutReader captures the text and layout information for reading order prediction using the seq2seq model. It performs almost perfectly in reading order detection and significantly improves both open-source and commercial OCR engines in ordering text lines in their results in our experiments. The dataset and models are publicly available at https://aka.ms/layoutreader.",
+    "paper_url": "https://aclanthology.org/2021.emnlp-main.389/",
+    "pdf_url": "https://aclanthology.org/2021.emnlp-main.389.pdf",
+    "hits": {
+      "financial_documents": [
+        "receipts"
+      ]
+    },
+    "finance_sentences": [
+      "Reading order detection is the cornerstone to understanding visually-rich documents (e.g., receipts and forms)."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "2023.emnlp-main.520",
+    "venue": "EMNLP",
+    "year": 2023,
+    "title": "Gender Biases in Automatic Evaluation Metrics for Image Captioning",
+    "abstract": "Model-based evaluation metrics (e.g., CLIPScore and GPTScore) have demonstrated decent correlations with human judgments in various language generation tasks. However, their impact on fairness remains largely unexplored. It is widely recognized that pretrained models can inadvertently encode societal biases, thus employing these models for evaluation purposes may inadvertently perpetuate and amplify biases. For example, an evaluation metric may favor the caption “a woman is calculating an account book” over “a man is calculating an account book,” even if the image only shows male accountants. In this paper, we conduct a systematic study of gender biases in model-based automatic evaluation metrics for image captioning tasks. We start by curating a dataset comprising profession, activity, and object concepts associated with stereotypical gender associations. Then, we demonstrate the negative consequences of using these biased metrics, including the inability to differentiate between biased and unbiased generations, as well as the propagation of biases to generation models through reinforcement learning. Finally, we present a simple and effective way to mitigate the metric bias without hurting the correlations with human judgments. Our dataset and framework lay the foundation for understanding the potential harm of model-based evaluation metrics, and facilitate future works to develop more inclusive evaluation metrics.",
+    "paper_url": "https://aclanthology.org/2023.emnlp-main.520/",
+    "pdf_url": "https://aclanthology.org/2023.emnlp-main.520.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountants"
+      ]
+    },
+    "finance_sentences": [
+      "For example, an evaluation metric may favor the caption “a woman is calculating an account book” over “a man is calculating an account book,” even if the image only shows male accountants."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "2025.emnlp-main.739",
+    "venue": "EMNLP",
+    "year": 2025,
+    "title": "ESGenius: Benchmarking LLMs on Environmental, Social, and Governance (ESG) and Sustainability Knowledge",
+    "abstract": "We introduce ESGenius, a comprehensive benchmark for evaluating and enhancing the proficiency of Large Language Models (LLMs) in Environmental, Social, and Governance (ESG) and sustainability-focused question answering. ESGenius comprises two key components: (i) ESGenius-QA, a collection of 1,136 Multiple-Choice Questions (MCQs) generated by LLMs and rigorously validated by domain experts, covering a broad range of ESG pillars and sustainability topics. Each question is systematically linked to its corresponding source text, enabling transparent evaluation and supporting Retrieval-Augmented Generation (RAG) methods; and (ii) ESGenius-Corpus, a meticulously curated repository of 231 foundational frameworks, standards, reports, and recommendation documents from 7 authoritative sources. Moreover, to fully assess the capabilities and adaptation potential of LLMs, we implement a rigorous two-stage evaluation protocol—Zero-Shot and RAG. Extensive experiments across 50 LLMs (0.5B to 671B) demonstrate that state-of-the-art models achieve only moderate performance in zero-shot settings, with accuracies around 55–70%, highlighting a significant knowledge gap for LLMs in this specialized, interdisciplinary domain. However, models employing RAG demonstrate significant performance improvements, particularly for smaller models. For example, DeepSeek-R1-Distill-Qwen-14B improves from 63.82% (zero-shot) to 80.46% with RAG. These results demonstrate the necessity of grounding responses in authoritative sources for enhanced ESG understanding. To the best of our knowledge, ESGenius is the first comprehensive QA benchmark designed to rigorously evaluate LLMs on ESG and sustainability knowledge, providing a critical tool to advance trustworthy AI in this vital domain.",
+    "paper_url": "https://aclanthology.org/2025.emnlp-main.739/",
+    "pdf_url": "https://aclanthology.org/2025.emnlp-main.739.pdf",
+    "hits": {
+      "financial_documents": [
+        "ESG"
+      ]
+    },
+    "finance_sentences": [
+      "We introduce ESGenius, a comprehensive benchmark for evaluating and enhancing the proficiency of Large Language Models (LLMs) in Environmental, Social, and Governance (ESG) and sustainability-focused question answering.",
+      "ESGenius comprises two key components: (i) ESGenius-QA, a collection of 1,136 Multiple-Choice Questions (MCQs) generated by LLMs and rigorously validated by domain experts, covering a broad range of ESG pillars and sustainability topics.",
+      "These results demonstrate the necessity of grounding responses in authoritative sources for enhanced ESG understanding.",
+      "To the best of our knowledge, ESGenius is the first comprehensive QA benchmark designed to rigorously evaluate LLMs on ESG and sustainability knowledge, providing a critical tool to advance trustworthy AI in this vital domain."
+    ],
+    "previous_candidate": false,
+    "previous_included": true
+  },
+  {
+    "id": "2025.emnlp-main.1028",
+    "venue": "EMNLP",
+    "year": 2025,
+    "title": "ML-Promise: A Multilingual Dataset for Corporate Promise Verification",
+    "abstract": "Promises made by politicians, corporate leaders, and public figures have a significant impact on public perception, trust, and institutional reputation. However, the complexity and volume of such commitments, coupled with difficulties in verifying their fulfillment, necessitate innovative methods for assessing their credibility. This paper introduces the concept of Promise Verification, a systematic approach involving steps such as promise identification, evidence assessment, and the evaluation of timing for verification. We propose the first multilingual dataset, ML-Promise, which includes English, French, Chinese, Japanese, and Korean, aimed at facilitating in-depth verification of promises, particularly in the context of Environmental, Social, and Governance (ESG) reports. Given the growing emphasis on corporate environmental contributions, this dataset addresses the challenge of evaluating corporate promises, especially in light of practices like greenwashing. Our findings also explore textual and image-based baselines, with promising results from retrieval-augmented generation (RAG) approaches. This work aims to foster further discourse on the accountability of public commitments across multiple languages and domains.",
+    "paper_url": "https://aclanthology.org/2025.emnlp-main.1028/",
+    "pdf_url": "https://aclanthology.org/2025.emnlp-main.1028.pdf",
+    "hits": {
+      "financial_documents": [
+        "ESG",
+        "greenwashing"
+      ]
+    },
+    "finance_sentences": [
+      "We propose the first multilingual dataset, ML-Promise, which includes English, French, Chinese, Japanese, and Korean, aimed at facilitating in-depth verification of promises, particularly in the context of Environmental, Social, and Governance (ESG) reports.",
+      "Given the growing emphasis on corporate environmental contributions, this dataset addresses the challenge of evaluating corporate promises, especially in light of practices like greenwashing."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "2026.emnlp-main.226",
+    "venue": "EMNLP",
+    "year": 2026,
+    "title": "How Robust is OCR-Reasoning? Evaluating OCR-Reasoning Robustness of Vision-Language Models under Visual Perturbations",
+    "abstract": "Vision-language models (VLMs) achieved strong performance on OCR-based benchmarks and increasingly focused on text-rich understanding, but their robustness under controlled visual degradation remains insufficiently understood. This gap is especially critical for OCR reasoning, where visual corruption can induce OCR errors and structural distortions, thereby introducing uncertainty into reasoning task. To systematically study this problem, we introduce OCR-Robust, a benchmark designed for evaluating OCR reasoning robustness under visual perturbations. It contains 812 samples across two complementary subsets: OCR1.0, covering documents, scene text, receipts, handwriting, and mathematical content, and OCR2.0, focusing on charts, geometry diagrams, and tables. To enable efficient yet informative evaluation, we conduct a pilot study over 18 candidate perturbations and select 5 representative types at 3 severity levels each based on their impact and cross-model discriminability. We evaluate robustness using clean accuracy, Relative Corruption Retention (RCR), Worst-Case Retention (WCR), and a composite Corruption Robustness Index (CRI), and benchmark 18 models spanning proprietary systems, open-source VLMs, and OCR+LLM pipelines. Our results show that higher clean accuracy does not necessarily imply stronger robustness, and that models can suffer pronounced degradation in the worst case on OCR tasks that are sensitive to structure, and charts and tables are substantially more fragile than document-like inputs under perturbation.",
+    "paper_url": "https://aclanthology.org/2026.emnlp-main.226/",
+    "pdf_url": "https://aclanthology.org/2026.emnlp-main.226.pdf",
+    "hits": {
+      "financial_documents": [
+        "receipts"
+      ]
+    },
+    "finance_sentences": [
+      "It contains 812 samples across two complementary subsets: OCR1.0, covering documents, scene text, receipts, handwriting, and mathematical content, and OCR2.0, focusing on charts, geometry diagrams, and tables."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "2026.emnlp-main.802",
+    "venue": "EMNLP",
+    "year": 2026,
+    "title": "MM-COMPLIANCE: A Multilingual Multimodal Dataset for Sustainability Compliance Auditing",
+    "abstract": "Detecting whether corporate sustainability disclosures truly satisfy reporting standards is essential for greenwashing-aware ESG auditing, yet existing resources rarely evaluate whether disclosures sufficiently satisfy framework metrics. We introduce MM-COMPLIANCE, a multilingual multimodal dataset aligned with SASB metrics across six languages (English, French, Japanese, Chinese, Thai, and Korean), with page-level evidence and a key completeness annotation that separates fully compliant disclosures from partial mentions. We define two tasks reflecting practical auditing workflows: Page-level Compliance Judgment and Metric-to-Page Evidence Retrieval. Our evaluated baselines primarily comprising open-source architectures, supplemented by a commercial VLM as an upper-bound reference, show moderate performance for page understanding and evidence localization, but consistently low performance on partial compliance verification and large variation across languages and industries. MM-COMPLIANCE provides a benchmark for developing framework-aware models to support rigorous ESG compliance auditing and long-term commitment tracing.",
+    "paper_url": "https://aclanthology.org/2026.emnlp-main.802/",
+    "pdf_url": "https://aclanthology.org/2026.emnlp-main.802.pdf",
+    "hits": {
+      "financial_documents": [
+        "ESG",
+        "greenwashing"
+      ]
+    },
+    "finance_sentences": [
+      "Detecting whether corporate sustainability disclosures truly satisfy reporting standards is essential for greenwashing-aware ESG auditing, yet existing resources rarely evaluate whether disclosures sufficiently satisfy framework metrics.",
+      "MM-COMPLIANCE provides a benchmark for developing framework-aware models to support rigorous ESG compliance auditing and long-term commitment tracing."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "2026.emnlp-main.1361",
+    "venue": "EMNLP",
+    "year": 2026,
+    "title": "ESGPT: A Data-Centric ESG Language Model with Unified Instruction and Benchmark Resources",
+    "abstract": "ESG analysis requires complex language understanding across diverse sources, including corporate reports, news, and disclosures, for tasks such as ESG relevance detection, action interpretation, impact analysis, and question answering. However, existing ESG datasets are fragmented by task and source, with heterogeneous formats and annotation schemes, limiting their use for training general-purpose ESG LLMs and unified evaluation. In this work, we construct ESG-Instruct, a 30,000-instance ESG instruction dataset built from public ESG resources, and ESGU-Bench, an ESG understanding benchmark covering six representative ESG tasks. Based on these resources, we further develop ESGPT, an 8B ESG-specialized LLM, and evaluate it against diverse open-source and API-based LLMs. Experimental results show that general-purpose LLMs exhibit substantial performance variation across ESG tasks, while ESGPT, despite its relatively small scale, achieves the best performance on multiple ESG tasks. This work provides unified data and benchmark resources for training and evaluating ESG-specialized LLMs.",
+    "paper_url": "https://aclanthology.org/2026.emnlp-main.1361/",
+    "pdf_url": "https://aclanthology.org/2026.emnlp-main.1361.pdf",
+    "hits": {
+      "financial_documents": [
+        "ESG"
+      ]
+    },
+    "finance_sentences": [
+      "ESG analysis requires complex language understanding across diverse sources, including corporate reports, news, and disclosures, for tasks such as ESG relevance detection, action interpretation, impact analysis, and question answering.",
+      "However, existing ESG datasets are fragmented by task and source, with heterogeneous formats and annotation schemes, limiting their use for training general-purpose ESG LLMs and unified evaluation.",
+      "In this work, we construct ESG-Instruct, a 30,000-instance ESG instruction dataset built from public ESG resources, and ESGU-Bench, an ESG understanding benchmark covering six representative ESG tasks.",
+      "Based on these resources, we further develop ESGPT, an 8B ESG-specialized LLM, and evaluate it against diverse open-source and API-based LLMs.",
+      "Experimental results show that general-purpose LLMs exhibit substantial performance variation across ESG tasks, while ESGPT, despite its relatively small scale, achieves the best performance on multiple ESG tasks.",
+      "This work provides unified data and benchmark resources for training and evaluating ESG-specialized LLMs."
+    ],
+    "previous_candidate": false,
+    "previous_included": true
+  },
+  {
+    "id": "2026.emnlp-main.1408",
+    "venue": "EMNLP",
+    "year": 2026,
+    "title": "MCite-RL: Towards Reliable Multimodal RAG via Citation-enhanced Agentic Reinforcement Learning",
+    "abstract": "Multimodal Retrieval-Augmented Generation (RAG) with visual citation is crucial for ensuring the traceability and verifiability of MLLMs. However, current RAG and SFT-based methods struggle to achieve robust cross-modal reasoning, causing imprecise visual citations or decoupling between the citation and the generated answers. To address these limitations, we propose MCite-RL, a citation-enhanced agentic reinforcement learning framework designed for reliable multimodal RAG. MCite-RL introduces an Agentic Refinement module for visual citation that employs iterative retrieval, reasoning, and recursive cropping to progressively narrow the search space, transforming citation into a dynamic, evidence-driven reasoning process rather than a static step. Furthermore, we incorporate a Citation-enhanced Reward mechanism that integrates both process-level and outcome-level feedback within a reinforcement learning paradigm to jointly optimize answer accuracy and source traceability. Extensive experiments on benchmarks such as Wiki-VISA, FinRAGBench-V, and MMLongBench-Doc demonstrate that MCite-RL effectively achieves the joint optimization of citation precision and answer quality.",
+    "paper_url": "https://aclanthology.org/2026.emnlp-main.1408/",
+    "pdf_url": "https://aclanthology.org/2026.emnlp-main.1408.pdf",
+    "hits": {
+      "financial_names": [
+        "FinRAGBench-V"
+      ]
+    },
+    "finance_sentences": [
+      "Extensive experiments on benchmarks such as Wiki-VISA, FinRAGBench-V, and MMLongBench-Doc demonstrate that MCite-RL effectively achieves the joint optimization of citation precision and answer quality."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "2026.emnlp-main.2493",
+    "venue": "EMNLP",
+    "year": 2026,
+    "title": "OS-Marathon: Benchmarking Computer-Use Agents on Vast-Horizon, Repetitive Tasks",
+    "abstract": "Vast-horizon, repetitive workflows are common in daily routines, e.g., processing expense reports from a stack of receipts, organising a collection of PDF annotations into structured notes, and are tedious for humans, with execution length scaling with the volume of data to process. They are, however, well-suited to autonomous agents, since their structured, recurring sub-workflows follow a logic that can be systematically learned. Yet no existing benchmark evaluates agents specifically on vast-horizon repetitive capabilities, leaving the problem largely underexplored. To bridge this gap, we establish \\text{OS-Marathon}, comprising 100 vast-horizon repetitive tasks across 5 scenarios and 10 domains, on which our evaluation reveals that leading state-of-the-art (SOTA) CUAs struggle substantially. We further find that introducing a task orchestrator to decompose the workflow into per-instance subtasks fails to mitigate the difficulty: errors accumulate and propagate across solver agents, indicating that naive decomposition is insufficient for these tasks. We then explore a cost-effective personalisation strategy, i.e. GraphDemo, that adapts general agents to such tasks from a single human demonstration of the recurring sub-workflow logic. Extensive experiments show both the real-world challenge of vast-horizon repetitive tasks and the improvement provided by human demonstration in this setting.",
+    "paper_url": "https://aclanthology.org/2026.emnlp-main.2493/",
+    "pdf_url": "https://aclanthology.org/2026.emnlp-main.2493.pdf",
+    "hits": {
+      "financial_documents": [
+        "receipts"
+      ]
+    },
+    "finance_sentences": [
+      "Vast-horizon, repetitive workflows are common in daily routines, e.g., processing expense reports from a stack of receipts, organising a collection of PDF annotations into structured notes, and are tedious for humans, with execution length scaling with the volume of data to process."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "icml-2023-24236",
+    "venue": "ICML",
+    "year": 2023,
+    "title": "The Saddle-Point Method in Differential Privacy",
+    "abstract": "We characterize the differential privacy guarantees of privacy mechanisms in the large-composition regime, i.e., when a privacy mechanism is sequentially applied a large number of times to sensitive data. Via exponentially tilting the privacy loss random variable, we derive a new formula for the privacy curve expressing it as a contour integral over an integration path that runs parallel to the imaginary axis with a free real-axis intercept. Then, using the method of steepest descent from mathematical physics, we demonstrate that the choice of saddle-point as the real-axis intercept yields closed-form accurate approximations of the desired contour integral. This procedure---dubbed the saddle-point accountant (SPA)---yields a constant-time accurate approximation of the privacy curve. Theoretically, our results can be viewed as a refinement of both Gaussian Differential Privacy and the moments accountant method found in Rényi Differential Privacy. In practice, we demonstrate through numerical experiments that the SPA provides a precise approximation of privacy guarantees competitive with purely numerical-based methods (such as FFT-based accountants), while enjoying closed-form mathematical expressions.",
+    "paper_url": "http://proceedings.mlr.press/v202/alghamdi23a/alghamdi23a.pdf",
+    "pdf_url": "https://proceedings.mlr.press/v202/alghamdi23a/alghamdi23a.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountant",
+        "accountants"
+      ]
+    },
+    "finance_sentences": [
+      "This procedure---dubbed the saddle-point accountant (SPA)---yields a constant-time accurate approximation of the privacy curve.",
+      "Theoretically, our results can be viewed as a refinement of both Gaussian Differential Privacy and the moments accountant method found in Rényi Differential Privacy.",
+      "In practice, we demonstrate through numerical experiments that the SPA provides a precise approximation of privacy guarantees competitive with purely numerical-based methods (such as FFT-based accountants), while enjoying closed-form mathematical expressions."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "icml-2024-34410",
+    "venue": "ICML",
+    "year": 2024,
+    "title": "Effects of Exponential Gaussian Distribution on (Double Sampling) Randomized Smoothing",
+    "abstract": "Randomized Smoothing (RS) is currently a scalable certified defense method providing robustness certification against adversarial examples. Although significant progress has been achieved in providing defenses against $\\ell_p$ adversaries, the interaction between the smoothing distribution and the robustness certification still remains vague. In this work, we comprehensively study the effect of two families of distributions, named Exponential Standard Gaussian (ESG) and Exponential General Gaussian (EGG) distributions, on Randomized Smoothing and Double Sampling Randomized Smoothing (DSRS). We derive an analytic formula for ESG's certified radius, which converges to the origin formula of RS as the dimension $d$ increases. Additionally, we prove that EGG can provide tighter constant factors than DSRS in providing $\\Omega(\\sqrt{d})$ lower bounds of $\\ell_2$ certified radius, and thus further addresses the curse of dimensionality in RS. Our experiments on real-world datasets confirm our theoretical analysis of the ESG distributions, that they provide almost the same certification under different exponents $\\eta$ for both RS and DSRS. In addition, EGG brings a significant improvement to the DSRS certification, but the mechanism can be different when the classifier properties are different. Compared to the primitive DSRS, the increase in certified accuracy provided by EGG is prominent, up to 6.4% on ImageNet.",
+    "paper_url": "https://icml.cc/virtual/2024/poster/34410",
+    "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/shu24a/shu24a.pdf",
+    "hits": {
+      "financial_documents": [
+        "ESG"
+      ]
+    },
+    "finance_sentences": [
+      "In this work, we comprehensively study the effect of two families of distributions, named Exponential Standard Gaussian (ESG) and Exponential General Gaussian (EGG) distributions, on Randomized Smoothing and Double Sampling Randomized Smoothing (DSRS).",
+      "We derive an analytic formula for ESG's certified radius, which converges to the origin formula of RS as the dimension $d$ increases.",
+      "Our experiments on real-world datasets confirm our theoretical analysis of the ESG distributions, that they provide almost the same certification under different exponents $\\eta$ for both RS and DSRS."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "icml-2024-35442",
+    "venue": "ICML",
+    "year": 2024,
+    "title": "How Private are DP-SGD Implementations?",
+    "abstract": "We demonstrate a substantial gap between the privacy guarantees of the Adaptive Batch Linear Queries (ABLQ) mechanism under different types of batch sampling: (i) Shuffling, and (ii) Poisson subsampling; the typical analysis of Differentially Private Stochastic Gradient Descent (DP-SGD) follows by interpreting it as a post-processing of ABLQ. While shuffling-based DP-SGD is more commonly used in practical implementations, it has not been amenable to easy privacy analysis, either analytically or even numerically. On the other hand, Poisson subsampling-based DP-SGD is challenging to scalably implement, but has a well-understood privacy analysis, with multiple open-source numerically tight privacy accountants available. This has led to a common practice of using shuffling-based DP-SGD in practice, but using the privacy analysis for the corresponding Poisson subsampling version. Our result shows that there can be a substantial gap between the privacy analysis when using the two types of batch sampling, and thus advises caution in reporting privacy parameters for DP-SGD.",
+    "paper_url": "https://icml.cc/virtual/2024/oral/35442",
+    "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/chua24a/chua24a.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountants"
+      ]
+    },
+    "finance_sentences": [
+      "On the other hand, Poisson subsampling-based DP-SGD is challenging to scalably implement, but has a well-understood privacy analysis, with multiple open-source numerically tight privacy accountants available."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "icml-2024-34985",
+    "venue": "ICML",
+    "year": 2024,
+    "title": "The Privacy Power of Correlated Noise in Decentralized Learning",
+    "abstract": "Decentralized learning is appealing as it enables the scalable usage of large amounts of distributed data and resources without resorting to any central entity, while promoting privacy since every user minimizes the direct exposure of their data. Yet, without additional precautions, curious users can still leverage models obtained from their peers to violate privacy. In this paper, we propose Decor, a variant of decentralized SGD with differential privacy (DP) guarantees. Essentially, in Decor, users securely exchange randomness seeds in one communication round to generate pairwise-canceling correlated Gaussian noises, which are injected to protect local models at every communication round. We theoretically and empirically show that, for arbitrary connected graphs, Decor matches the central DP optimal privacy-utility trade-off. We do so under SecLDP, our new relaxation of local DP, which protects all user communications against an external eavesdropper and curious users, assuming that every pair of connected users shares a secret, i.e., an information hidden to all others. The main theoretical challenge is to control the accumulation of non-canceling correlated noise due to network sparsity. We also propose a companion SecLDP privacy accountant for public use.",
+    "paper_url": "https://icml.cc/virtual/2024/poster/34985",
+    "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/allouah24b/allouah24b.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountant"
+      ]
+    },
+    "finance_sentences": [
+      "We also propose a companion SecLDP privacy accountant for public use."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "icml-2024-35134",
+    "venue": "ICML",
+    "year": 2024,
+    "title": "Proactive DP: A Multiple Target Optimization Framework for DP-SGD",
+    "abstract": "We introduce a multiple target optimization framework for DP-SGD referred to as pro-active DP. In contrast to traditional DP accountants, which are used to track the expenditure of privacy budgets, the pro-active DP scheme allows one to *a-priori* select parameters of DP-SGD based on a fixed privacy budget (in terms of $\\epsilon$ and $\\delta$) in such a way to optimize the anticipated utility (test accuracy) the most. To achieve this objective, we first propose significant improvements to the moment account method, presenting a closed-form $(\\epsilon,\\delta)$-DP guarantee that connects all parameters in the DP-SGD setup. Generally, DP-SGD is $(\\epsilon\\leq 1/2,\\delta=1/N)$-DP if $\\sigma=\\sqrt{2(\\epsilon +\\ln(1/\\delta))/\\epsilon}$ with $T$ at least $\\approx 2k^2/\\epsilon$ and $(2/e)^2k^2-1/2\\geq \\ln(N)$, where $T$ is the total number of rounds, and $K=kN$ is the total number of gradient computations where $k$ measures $K$ in number of epochs of size $N$ of the local data set. We prove that our expression is close to tight in that if $T$ is more than a constant factor $\\approx 4$ smaller than the lower bound $\\approx 2k^2/\\epsilon$, then the $(\\epsilon,\\delta)$-DP guarantee is violated. Our enhanced DP theory allows us to create a utility graph and DP calculator. These tools link privacy and utility objectives and search for optimal experiment setups, efficiently taking into account both accuracy and privacy objectives, as well as implementation goals. We furnish a comprehensive implementation flow of our proactive DP, with rigorous experiments to showcase the proof-of-concept.",
+    "paper_url": "https://icml.cc/virtual/2024/poster/35134",
+    "pdf_url": "https://raw.githubusercontent.com/mlresearch/v235/main/assets/van-dijk24a/van-dijk24a.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountants"
+      ]
+    },
+    "finance_sentences": [
+      "In contrast to traditional DP accountants, which are used to track the expenditure of privacy budgets, the pro-active DP scheme allows one to *a-priori* select parameters of DP-SGD based on a fixed privacy budget (in terms of $\\epsilon$ and $\\delta$) in such a way to optimize the anticipated utility (test accuracy) the most."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "iclr-2024-nMFSUjxMIl",
+    "venue": "ICLR",
+    "year": 2024,
+    "title": "CircuitNet 2.0: An Advanced Dataset for Promoting Machine Learning Innovations in Realistic Chip Design Environment",
+    "abstract": "Integrated circuits or chips are key to enable computing in modern industry. Designing a chip relies on human experts to produce chip data through professional electronic design automation (EDA) software and complicated procedures. Nowadays, prompted by the wide variety of machine learning (ML) datasets, we have witnessed great advancement of ML algorithms in computer vision, natural language processing, and other fields. However, in chip design, high human workload and data sensitivity cause the lack of public datasets, which hinders the progress of ML development for EDA. To this end, we introduce an advanced large-scale dataset, CircuitNet 2.0, which targets promoting ML innovations in a realistic chip design environment. In order to approach the realistic chip design space, we collect more than 10,000 samples with a variety of chip designs (e.g., CPU, GPU, and AI Chip). All the designs are conducted through complete commercial design flows in a widely-used technology node, 14nm FinFET. We collect comprehensive data, including routability, timing, and power, from the design flow to support versatile ML tasks in EDA. Besides, we also introduce some realistic ML tasks with CircuitNet 2.0 to verify the potential for boosting innovations.",
+    "paper_url": "https://openreview.net/forum?id=nMFSUjxMIl",
+    "pdf_url": "https://openreview.net/pdf?id=nMFSUjxMIl",
+    "hits": {
+      "financial_names": [
+        "FinFET"
+      ]
+    },
+    "finance_sentences": [
+      "All the designs are conducted through complete commercial design flows in a widely-used technology node, 14nm FinFET."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "iclr-2025-b1ivBPLb1n",
+    "venue": "ICLR",
+    "year": 2025,
+    "title": "BigDocs: An Open Dataset for Training Multimodal Models on Document and Code Tasks",
+    "abstract": "Multimodal AI has the potential to significantly enhance document-understanding tasks, such as processing receipts, understanding workflows, extracting data from documents, and summarizing reports. Code generation tasks that require long-structured outputs can also be enhanced by multimodality. Despite this, their use in commercial applications is often limited due to limited access to relevant training data and restrictive licensing, which hinders open access. To address these limitations, we introduce BigDocs-7.5M, a high-quality, open-access dataset comprising 7.5 million multimodal documents across 30 tasks. We use an efficient data curation process to ensure that our data is high quality and license-permissive. Our process emphasizes accountability, responsibility, and transparency through filtering rules, traceable metadata, and careful content analysis. Additionally, we introduce BigDocs-Bench,, a benchmark suite with 10 novel tasks where we carefully create datasets that reflect real-world use cases involving reasoning over Graphical User Interfaces (GUI) and code generation from images. Our experiments show that training with BigDocs-Bench, improves average performance up to 25.8% over closed-source GPT-4o in document reasoning and structured output tasks such as Screenshot2HTML or Image2Latex generation. Finally, human evaluations revealed that participants preferred the outputs from models trained with BigDocs over those from GPT-4o. This suggests that BigDocs can help both academics and the open-source community utilize and improve AI tools to enhance multimodal capabilities and document reasoning.",
+    "paper_url": "https://openreview.net/forum?id=b1ivBPLb1n",
+    "pdf_url": "https://openreview.net/pdf?id=b1ivBPLb1n",
+    "hits": {
+      "financial_documents": [
+        "receipts"
+      ]
+    },
+    "finance_sentences": [
+      "Multimodal AI has the potential to significantly enhance document-understanding tasks, such as processing receipts, understanding workflows, extracting data from documents, and summarizing reports."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "iclr-2026-nOcy5NvNI1",
+    "venue": "ICLR",
+    "year": 2026,
+    "title": "Constantly Improving Image Models Need Constantly Improving Benchmarks",
+    "abstract": "Recent advances in image generation, often driven by proprietary systems like GPT-4o Image Gen, regularly introduce new capabilities that reshape how users interact with these models. Existing benchmarks often lag behind and fail to capture these emerging use cases, leaving a gap between community perceptions of progress and formal evaluation. To address this, we present ECHO, a framework for constructing benchmarks directly from real-world evidence of model use: social media posts that showcase novel prompts and qualitative user judgments. Applying this framework to GPT-4o Image Gen, we construct a dataset of over 35,000 prompts curated from such posts. Our analysis shows that ECHO (1) discovers creative and complex tasks absent from existing benchmarks, such as re-rendering product labels across languages or generating receipts with specified totals, (2) more clearly distinguishes state-of-the-art models from alternatives, and (3) surfaces community feedback that we use to inform the design of metrics for model quality (e.g., measuring observed shifts in color, identity, and structure). Our website is at https://echo-bench.github.io.",
+    "paper_url": "https://openreview.net/forum?id=nOcy5NvNI1",
+    "pdf_url": "https://openreview.net/pdf?id=nOcy5NvNI1",
+    "hits": {
+      "financial_documents": [
+        "receipts"
+      ]
+    },
+    "finance_sentences": [
+      "Our analysis shows that ECHO (1) discovers creative and complex tasks absent from existing benchmarks, such as re-rendering product labels across languages or generating receipts with specified totals, (2) more clearly distinguishes state-of-the-art models from alternatives, and (3) surfaces community feedback that we use to inform the design of metrics for model quality (e.g., measuring observed shifts in color, identity, and structure)."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "iclr-2026-H0B7pDTT0M",
+    "venue": "ICLR",
+    "year": 2026,
+    "title": "Latent Planning Emerges with Scale",
+    "abstract": "LLMs can perform seemingly planning-intensive tasks, like writing coherent stories or functioning code, without explicitly verbalizing a plan; however, the extent to which they implicitly plan is unknown. In this paper, we define *latent planning* as occurring when LLMs possess internal planning representations that (1) cause the generation of a specific future token or concept, and (2) shape preceding context to license said future token or concept. We study the Qwen-3 family (0.6B-14B) on simple planning tasks, finding that latent planning ability increases with scale. Models that plan possess features that represent a planned-for word like *accountant*, and cause them to output *an* rather than *a*; moreover, even the less-successful Qwen-3 4B-8B have nascent planning mechanisms. On the more complex task of completing rhyming couplets, we find that models often identify a rhyme ahead of time, but even large models seldom plan far ahead. However, we can elicit some planning that increases with scale when steering models towards planned words in prose. In sum, we offer a framework for measuring planning and mechanistic evidence of how models' planning abilities grow with scale.",
+    "paper_url": "https://openreview.net/forum?id=H0B7pDTT0M",
+    "pdf_url": "https://openreview.net/pdf?id=H0B7pDTT0M",
+    "hits": {
+      "financial_documents": [
+        "accountant"
+      ]
+    },
+    "finance_sentences": [
+      "Models that plan possess features that represent a planned-for word like *accountant*, and cause them to output *an* rather than *a*; moreover, even the less-successful Qwen-3 4B-8B have nascent planning mechanisms."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2022-_B5Y2hvZKpS",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "title": "Renyi Differential Privacy of Propose-Test-Release and Applications to Private and Robust Machine Learning",
+    "abstract": "Propose-Test-Release (PTR) is a differential privacy framework that works with local sensitivity of functions, instead of their global sensitivity. This framework is typically used for releasing robust statistics such as median or trimmed mean in a differentially private manner. While PTR is a common framework introduced over a decade ago, using it in applications such as robust SGD where we need many adaptive robust queries is challenging. This is mainly due to the lack of \\Renyi Differential Privacy (RDP) analysis, an essential ingredient underlying the moments accountant approach for differentially private deep learning. In this work, we generalize the standard PTR and derive the first RDP bound for it. We show that our RDP bound for PTR yields tighter DP guarantees than the directly analyzed $(\\varepsilon, \\delta)$-DP. We also derive the algorithm-specific privacy amplification bound of PTR under subsampling. We show that our bound is much tighter than the general upper bound and close to the lower bound. Our RDP bounds enable tighter privacy loss calculation for the composition of many adaptive runs of PTR. As an application of our analysis, we show that PTR and our theoretical results can be used to design differentially private variants for byzantine robust training algorithms that use robust statistics for gradients aggregation. We conduct experiments on the settings of label, feature, and gradient corruption across different datasets and architectures. We show that PTR-based private and robust training algorithm significantly improves the utility compared with the baseline.",
+    "paper_url": "https://openreview.net/forum?id=_B5Y2hvZKpS",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2022/file/fcdffb372c9fa2ce757cf457415c7aab-Paper-Conference.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountant"
+      ]
+    },
+    "finance_sentences": [
+      "This is mainly due to the lack of \\Renyi Differential Privacy (RDP) analysis, an essential ingredient underlying the moments accountant approach for differentially private deep learning."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2022-Jw34v_84m2b",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "title": "IM-Loss: Information Maximization Loss for Spiking Neural Networks",
+    "abstract": "Spiking Neural Network (SNN), recognized as a type of biologically plausible architecture, has recently drawn much research attention. It transmits information by $0/1$ spikes. This bio-mimetic mechanism of SNN demonstrates extreme energy efficiency since it avoids any multiplications on neuromorphic hardware. However, the forward-passing $0/1$ spike quantization will cause information loss and accuracy degradation. To deal with this problem, the Information maximization loss (IM-Loss) that aims at maximizing the information flow in the SNN is proposed in the paper. The IM-Loss not only enhances the information expressiveness of an SNN directly but also plays a part of the role of normalization without introducing any additional operations (\\textit{e.g.}, bias and scaling) in the inference phase. Additionally, we introduce a novel differentiable spike activity estimation, Evolutionary Surrogate Gradients (ESG) in SNNs. By appointing automatic evolvable surrogate gradients for spike activity function, ESG can ensure sufficient model updates at the beginning and accurate gradients at the end of the training, resulting in both easy convergence and high task performance. Experimental results on both popular non-spiking static and neuromorphic datasets show that the SNN models trained by our method outperform the current state-of-the-art algorithms.",
+    "paper_url": "https://openreview.net/forum?id=Jw34v_84m2b",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2022/file/010c5ba0cafc743fece8be02e7adb8dd-Paper-Conference.pdf",
+    "hits": {
+      "financial_documents": [
+        "ESG"
+      ]
+    },
+    "finance_sentences": [
+      "Additionally, we introduce a novel differentiable spike activity estimation, Evolutionary Surrogate Gradients (ESG) in SNNs.",
+      "By appointing automatic evolvable surrogate gradients for spike activity function, ESG can ensure sufficient model updates at the beginning and accurate gradients at the end of the training, resulting in both easy convergence and high task performance."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2024-95041",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "title": "Differentially Private Stochastic Gradient Descent with Fixed-Size Minibatches: Tighter RDP Guarantees with or without Replacement",
+    "abstract": "Differentially private stochastic gradient descent (DP-SGD) has been instrumental in privately training deep learning models by providing a framework to control and track the privacy loss incurred during training.  At the core of this computation lies a subsampling method that uses a privacy amplification lemma to enhance the privacy guarantees provided by the additive noise. Fixed size subsampling is appealing for its constant memory usage, unlike the variable sized minibatches in Poisson subsampling. It is also of interest in addressing class imbalance and federated learning. Current computable guarantees for fixed-size subsampling are not tight and do not consider both add/remove and replace-one adjacency relationships. We present a new and holistic Rényi differential privacy (RDP)  accountant for DP-SGD with fixed-size subsampling without replacement (FSwoR) and with replacement (FSwR). For FSwoR we consider both add/remove and replace-one adjacency, where we improve on the best current computable bound by a factor of $4$. We also show for the first time that the widely-used Poisson subsampling and FSwoR with replace-one adjacency have the same privacy to leading order in the sampling probability. Our work suggests that FSwoR is often preferable to Poisson subsampling due to constant memory usage. Our FSwR accountant includes explicit non-asymptotic upper and lower bounds and, to the  authors' knowledge, is the first such RDP analysis of fixed-size  subsampling with replacement  for DP-SGD. We analytically and empirically compare fixed size and Poisson subsampling, and show that DP-SGD gradients in a fixed-size subsampling regime exhibit lower variance in practice in addition to memory usage benefits.",
+    "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/14fef58f09f2ebe69306e0a322e3be2b-Abstract-Conference.html",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2024/file/14fef58f09f2ebe69306e0a322e3be2b-Paper-Conference.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountant"
+      ]
+    },
+    "finance_sentences": [
+      "We present a new and holistic Rényi differential privacy (RDP)  accountant for DP-SGD with fixed-size subsampling without replacement (FSwoR) and with replacement (FSwR).",
+      "Our FSwR accountant includes explicit non-asymptotic upper and lower bounds and, to the  authors' knowledge, is the first such RDP analysis of fixed-size  subsampling with replacement  for DP-SGD."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2025-bjoHB7IN6b",
+    "venue": "NeurIPS",
+    "year": 2025,
+    "title": "Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models",
+    "abstract": "Recent advancements in multimodal large language models (MLLMs) have enhanced document understanding by integrating textual and visual information. However, existing models exhibit incompleteness within their paradigm in real-world scenarios, particularly under visual degradation (e.g., blur, occlusion, low contrast). In such conditions, the current response paradigm often fails to adequately perceive visual degradation and ambiguity, leading to overreliance on linguistic priors or misaligned visual-textual reasoning. This difficulty in recognizing uncertainty frequently results in the generation of hallucinatory content, especially when a precise answer is not feasible. To better demonstrate and analyze this phenomenon and problem, we propose KIE-HVQA, the first benchmark dedicated to evaluating OCR hallucination in degraded document understanding. This dataset includes test samples spanning identity cards, invoices, and prescriptions, with simulated real-world degradations and pixel-level annotations for OCR reliability. This setup allows for evaluating models' capacity, under degraded input, to distinguish reliable visual information and answer accordingly, thereby highlighting the challenge of avoiding hallucination on uncertain data. To achieve vision-faithful reasoning and thereby avoid the aforementioned issues, we further introduce a Group Relative Policy Optimization (GRPO)-based framework featuring a novel reward mechanism. By incorporating a self-awareness of visual uncertainty and an analysis method that initiates refusal to answer to increase task difficulty within our supervised fine-tuning and reinforcement learning framework, we successfully mitigated hallucinations in ambiguous regions. Experiments on Qwen2.5-VL demonstrate that our 7B-parameter model achieves a ~28% absolute improvement in hallucination-free accuracy over GPT-4o on KIE-HVQA and there is no significant performance drop in standard tasks, highlighting both effectiveness and robustness. This work advances the development of reliable MLLMs for real-world document analysis by addressing critical challenges in visual-linguistic alignment under degradation.",
+    "paper_url": "https://openreview.net/forum?id=bjoHB7IN6b",
+    "pdf_url": "https://openreview.net/pdf?id=bjoHB7IN6b",
+    "hits": {
+      "financial_documents": [
+        "invoices"
+      ]
+    },
+    "finance_sentences": [
+      "This dataset includes test samples spanning identity cards, invoices, and prescriptions, with simulated real-world degradations and pixel-level annotations for OCR reliability."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2026-Gn2UDJPl9p",
+    "venue": "NeurIPS",
+    "year": 2026,
+    "title": "Bayesian Causal Experimental Design for CATE Estimation under Noncompliance",
+    "abstract": "Causal experimental design often assumes direct control over treatment assignment, but many experiments can only assign encouragements that affect treatment receipt indirectly. We formulate this as adaptive instrumental variable (IV) design under noncompliance: the experimenter chooses unit--instrument queries, observes stochastic treatment realizations and outcomes, and seeks the treatment-level conditional average treatment effect (CATE). This creates an acquisition mismatch: uncertainty in prospective feedback does not necessarily correspond to uncertainty in the target causal estimand, so outcome-predictive or marginal variance-based criteria may select queries weakly informative for CATE. We introduce instrumental variable information gain (IVIG), a Bayesian acquisition principle that scores queries by the expected information their joint treatment-realization and outcome feedback provides about CATE values over a target population. Under the working Bayesian posterior, IVIG is Bayes-risk aligned under logarithmic loss; we also characterize the residual information discarded by outcome-only acquisition and connect greedy IVIG-style acquisition to target posterior-variance reduction under a fixed-covariance analysis. To approximate IVIG, we use an empirical-Bayes Gaussian Process IV posterior approximation with first-stage treatment-realization modeling and treatment-realization-specific fantasy updates. Experiments on synthetic and two semi-synthetic IV benchmarks show improved CATE sample efficiency over adaptive-design baselines; a real-label diagnostic shows improved recovery of full-data CATE estimates from observed IV data.",
+    "paper_url": "https://openreview.net/forum?id=Gn2UDJPl9p",
+    "pdf_url": "https://openreview.net/pdf?id=Gn2UDJPl9p",
+    "hits": {
+      "financial_documents": [
+        "receipt"
+      ]
+    },
+    "finance_sentences": [
+      "Causal experimental design often assumes direct control over treatment assignment, but many experiments can only assign encouragements that affect treatment receipt indirectly."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2026-juI26tTO3o",
+    "venue": "NeurIPS",
+    "year": 2026,
+    "title": "BALTO: Balanced Token-Level Policy Optimization for Hallucination Mitigation",
+    "abstract": "Hallucinations remain a major obstacle to deploying large language models (LLMs) in knowledge-intensive settings, where generated responses must be faithfully grounded in provided evidence.  Reinforcement learning (RL) is a promising direction for hallucination mitigation, but response-level faithfulness rewards suffer from a granularity mismatch: localized hallucinations can cause supported content to receive spurious penalties. Although recent work introduces fine-grained feedback such as claim-level verification and token-level rewards, unbalanced credit assignment can still induce length, verbosity, or optimization-noise biases. We propose $\\textbf{BALTO}$, a $\\textbf{Bal}$anced $\\textbf{T}$oken-level Policy $\\textbf{O}$ptimization framework for hallucination mitigation. BALTO extracts checkable factual claims, verifies them against the reference context, and projects claim-level judgments to token-level labels. A balanced token-level credit assignment mechanism is introduced into the framework. This design redistributes probability mass from unsupported content toward faithful content, rather than suppressing the entire response. We systematically analyze the limitations of response-level rewards from a theoretical standpoint, and prove BALTO’s advantages in training stability and optimization efficiency for hallucination mitigation.  Experiments on ConFiQA, RAGTruth, and FinLLM-Eval show that BALTO achieves the highest faithfulness across all six model--benchmark settings and consistently outperforms existing post-training baselines in Q-Score, demonstrating a stronger faithfulness--informativeness trade-off.",
+    "paper_url": "https://openreview.net/forum?id=juI26tTO3o",
+    "pdf_url": "https://openreview.net/pdf?id=juI26tTO3o",
+    "hits": {
+      "financial_names": [
+        "FinLLM-Eval"
+      ]
+    },
+    "finance_sentences": [
+      "Experiments on ConFiQA, RAGTruth, and FinLLM-Eval show that BALTO achieves the highest faithfulness across all six model--benchmark settings and consistently outperforms existing post-training baselines in Q-Score, demonstrating a stronger faithfulness--informativeness trade-off."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2026-YcWFCquBYo",
+    "venue": "NeurIPS",
+    "year": 2026,
+    "title": "Explanations over Graphs: An Agent Architecture for IT Enterprise Diagnostic Tasks",
+    "abstract": "LLM agents excel when environments are mostly static and their required information fits in a model’s context window, but they struggle with IT enterprise diagnostic tasks—such as incident management, IT vulnerability analysis, and FinOps anomaly explanation—where operators iteratively mine massive observability data over a curated resource graph to identify the origins that explain observed symptoms, enabling correct remediation. The data in these domains inherently has hidden dependency structure: entities interact, signals co-vary, and the importance of a fact may only become clear after other evidence is discovered. To cope with bounded context windows, agents must summarize intermediate findings before their significance is known, increasing the risk of discarding key evidence. ReAct-style agents are especially brittle in this regime. Their retrieve-summarize-reason loop makes conclusions sensitive to exploration order and introduces run-to-run non-determinism, producing a reliability gap where Pass-at-k may be high but Majority-at-k remains low. Simply sampling more roll-outs or generating longer reasoning traces does not reliably stabilize results, since verifying a diagnosis requires remediation actions that carry operational risk---demanding consistent correctness, not occasional success---and ReAct provides no mechanism for belief revision as evidence accumulates. In addition, ReAct entangles semantic reasoning with controller duties such as tool orchestration and state tracking; execution errors and plan drift degrade reasoning while consuming scarce context. We address these issues by formulating the investigation as abductive reasoning over a dependency graph and proposing EoG (Explanations over Graphs), a disaggregated framework where an LLM performs bounded local evidence mining and labeling (cause vs symptom) while a deterministic controller manages traversal, state, and belief propagation to compute a minimal explanatory frontier. On representative ITBench diagnostics tasks, EoG improves accuracy and run-to-run consistency over ReAct baselines, including a 7x average gain in Majority-at-k F1 score.",
+    "paper_url": "https://openreview.net/forum?id=YcWFCquBYo",
+    "pdf_url": "https://openreview.net/pdf?id=YcWFCquBYo",
+    "hits": {
+      "financial_names": [
+        "FinOps"
+      ]
+    },
+    "finance_sentences": [
+      "LLM agents excel when environments are mostly static and their required information fits in a model’s context window, but they struggle with IT enterprise diagnostic tasks—such as incident management, IT vulnerability analysis, and FinOps anomaly explanation—where operators iteratively mine massive observability data over a curated resource graph to identify the origins that explain observed symptoms, enabling correct remediation."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2026-VBJAawjSql",
+    "venue": "NeurIPS",
+    "year": 2026,
+    "title": "FinAl: Fine-grained Alignment for Detail-Preserving Medical Vision-Language Pretraining",
+    "abstract": "We present a vision–language pretraining (VLP) framework for the medical domain that focuses on preserving fine-detail clinical information, such as disease severity, which plays a critical role in downstream medical applications. Despite recent advances in medical VLP, existing approaches often struggle to retain such subtle semantics. This limitation mainly stems from the use of contrastive learning schemes that treat supervision as hard one-hot labels, overlooking the ordinal and overlapping nature of clinical findings and thereby introducing false negatives. To overcome these challenges, we propose FinAl, a fine-grained alignment approach that incorporates soft alignment targets into vision-language pretraining. These targets are derived from structured radiology reports and encode relative semantic relationships among clinical descriptions, allowing fine-grained linguistic information to be transferred into the visual representation space. Extensive experiments show that FinAl improves performance on fine-grained clinical tasks, including severity grading and severity-aware retrieval, with additional evaluations on challenging fine-grained scenarios further supporting its robustness. At the same time, the proposed method maintains competitive performance on standard coarse-grained clinical benchmarks.",
+    "paper_url": "https://openreview.net/forum?id=VBJAawjSql",
+    "pdf_url": "https://openreview.net/pdf?id=VBJAawjSql",
+    "hits": {
+      "financial_names": [
+        "FinAl"
+      ]
+    },
+    "finance_sentences": [
+      "To overcome these challenges, we propose FinAl, a fine-grained alignment approach that incorporates soft alignment targets into vision-language pretraining.",
+      "Extensive experiments show that FinAl improves performance on fine-grained clinical tasks, including severity grading and severity-aware retrieval, with additional evaluations on challenging fine-grained scenarios further supporting its robustness."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "icml-2019-4317",
+    "venue": "ICML",
+    "year": 2019,
+    "title": "Poission Subsampled R\\'enyi Differential Privacy",
+    "abstract": "We consider the problem of privacy-amplification by under the Renyi Differential Privacy framework. This is the main technique underlying the moments accountants (Abadi et al., 2016) for differentially private deep learning. \nUnlike previous attempts on this problem which deals with Sampling with Replacement, we consider the Poisson subsampling scheme which selects each data point independently with a coin toss. This allows us to significantly simplify and tighten the bounds for the RDP of subsampled mechanisms and derive numerically stable approximation schemes.  In particular, for subsampled Gaussian mechanism and subsampled Laplace mechanism, we prove an analytical formula of their RDP that exactly matches the lower bound. The result is the first of its kind and we numerically demonstrate an order of magnitude improvement in the privacy-utility tradeoff. ",
+    "paper_url": "https://ICML.cc/virtual/2019/poster/4317",
+    "pdf_url": "https://proceedings.mlr.press/v97/zhu19c/zhu19c.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountants"
+      ]
+    },
+    "finance_sentences": [
+      "This is the main technique underlying the moments accountants (Abadi et al., 2016) for differentially private deep learning."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  },
+  {
+    "id": "neurips-2019-13588",
+    "venue": "NeurIPS",
+    "year": 2019,
+    "title": "Differentially Private Bagging: Improved utility and cheaper privacy than subsample-and-aggregate",
+    "abstract": "Differential Privacy is a popular and well-studied notion of privacy. In the era ofbig data that we are in, privacy concerns are becoming ever more prevalent and thusdifferential privacy is being turned to as one such solution. A popular method forensuring differential privacy of a classifier is known as subsample-and-aggregate,in which the dataset is divided into distinct chunks and a model is learned on eachchunk, after which it is aggregated. This approach allows for easy analysis of themodel on the data and thus differential privacy can be easily applied. In this paper,we extend this approach by dividing the data several times (rather than just once)and learning models on each chunk within each division. The first benefit of thisapproach is the natural improvement of utility by aggregating models trained ona more diverse range of subsets of the data (as demonstrated by the well-knownbagging technique). The second benefit is that, through analysis that we provide inthe paper, we can derive tighter differential privacy guarantees when several queriesare made to this mechanism.  In order to derive these guarantees, we introducethe upwards and downwards moments accountants and derive bounds for thesemoments accountants in a data-driven fashion. We demonstrate the improvementsour model makes over standard subsample-and-aggregate in two datasets (HeartFailure (private) and UCI Adult (public)).",
+    "paper_url": "https://proceedings.neurips.cc/paper_files/paper/2019/hash/5dec707028b05bcbd3a1db5640f842c5-Abstract.html",
+    "pdf_url": "https://proceedings.neurips.cc/paper_files/paper/2019/file/5dec707028b05bcbd3a1db5640f842c5-Paper.pdf",
+    "hits": {
+      "financial_documents": [
+        "accountants"
+      ]
+    },
+    "finance_sentences": [
+      "In order to derive these guarantees, we introducethe upwards and downwards moments accountants and derive bounds for thesemoments accountants in a data-driven fashion."
+    ],
+    "previous_candidate": false,
+    "previous_included": false
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Generator+Matching+Generative+modeling+with+arbitrary+Markov+processes%22+OR+ti%3A%22Geometry+of+Neural+Reinforcement+Learning+in+Continuous+State+and+Action+Spaces%22+OR+ti%3A%22Geometry+aware+RL+for+Manipulation+of+Varying+Shapes+and+Deformable+Objects%22+OR+ti%3A%22Global+Convergence+in+Neural+ODEs+Impact+of+Activation+Functions%22+OR+ti%3A%22GridMix+Exploring+Spatial+Modulation+for+Neural+Fields+in+PDE+Modeling%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Generator+Matching+Generative+modeling+with+arbitrary+Markov+processes%22+OR+ti%3A%22Geometry+of+Neural+Reinforcement+Learning+in+Continuous+State+and+Action+Spaces%22+OR+ti%3A%22Geometry+aware+RL+for+Manipulation+of+Varying+Shapes+and+Deformable+Objects%22+OR+ti%3A%22Global+Convergence+in+Neural+ODEs+Impact+of+Activation+Functions%22+OR+ti%3A%22GridMix+Exploring+Spatial+Modulation+for+Neural+Fields+in+PDE+Modeling%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:07.839262+00:00",
+  "bytes": 10802,
+  "sha256": "d6ff5f1e53f8a9a1b0547d34ccddb6750977c798069bef9d59f546a0d24e4016",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-045a772307725a3e4aa5.gz"
+}

@@ -1,0 +1,14 @@
+# pdfs/main/optimization/combinatorial/stochastic_optimization
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2026 | AAAI | main | [Efficient and Reliable Hitting-Set Computations for the Implicit Hitting Set Approach](https://ojs.aaai.org/index.php/AAAI/article/view/38439) | [Long] [Main] [Oral] | Optimization / 优化 / Combinatorial & Differentiable Optimization / 组合与可微优化 / Stochastic optimization / 随机优化 | [PDF](2026_AAAI_%5BLong%5D%5BMain%5D%5BOral%5D__aaai-2026-38439__Efficient_and_Reliable_Hitting_Set_Computations_for_the_Implicit_Hitting_Set_Approach.pdf) |
+| 2026 | AAAI | main | [WeightFlow: Learning Stochastic Dynamics via Evolving Weight of Neural Network](https://ojs.aaai.org/index.php/AAAI/article/view/37029) | [Long] [Main] [Oral] | Optimization / 优化 / Combinatorial & Differentiable Optimization / 组合与可微优化 / Stochastic optimization / 随机优化 | [PDF](2026_AAAI_%5BLong%5D%5BMain%5D%5BOral%5D__aaai-2026-37029__WeightFlow_Learning_Stochastic_Dynamics_via_Evolving_Weight_of_Neural_Network.pdf) |
+| 2025 | ICLR | main | [Learning stochastic dynamics from snapshots through regularized unbalanced optimal transport](https://openreview.net/forum?id=2025-Oral--3337-7bb67390) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Combinatorial & Differentiable Optimization / 组合与可微优化 / Stochastic optimization / 随机优化 | [PDF](2025_ICLR_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__iclr-2025-2025-Oral--3337-7bb67390__Learning_stochastic_dynamics_from_snapshots_through_regularized_unbalanced_optimal_transport.pdf) |
+| 2018 | ICML | main | [Pathwise Derivatives Beyond the Reparameterization Trick](https://ICML.cc/virtual/2018/poster/2213) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Combinatorial & Differentiable Optimization / 组合与可微优化 / Stochastic optimization / 随机优化 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2018-2213__Pathwise_Derivatives_Beyond_the_Reparameterization_Trick.pdf) |
+| 2018 | ICML | main | [Stochastic Wasserstein Barycenters](https://ICML.cc/virtual/2018/poster/2316) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Combinatorial & Differentiable Optimization / 组合与可微优化 / Stochastic optimization / 随机优化 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2018-2316__Stochastic_Wasserstein_Barycenters.pdf) |
+| 2019 | ICML | main | [On Scalable and Efficient Computation of Large Scale Optimal Transport](https://ICML.cc/virtual/2019/poster/3918) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Combinatorial & Differentiable Optimization / 组合与可微优化 / Stochastic optimization / 随机优化 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-3918__On_Scalable_and_Efficient_Computation_of_Large_Scale_Optimal_Transport.pdf) |

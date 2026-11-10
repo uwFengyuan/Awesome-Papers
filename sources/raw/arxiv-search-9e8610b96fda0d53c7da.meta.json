@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Primal+Spectral+Generative+Modeling+Fast+Analytical+Generation+via+Pseudoinverse+L+vy+Inversion%22+OR+ti%3A%22Reward+Shaping+Control+Variates+for+Off+Policy+Evaluation+Under+Sparse+Rewards%22+OR+ti%3A%22Signature+Informed+Transformer+for+Asset+Allocation%22+OR+ti%3A%22SpreadsheetArena+Decomposing+Preference+in+LLM+Generation+of+Spreadsheet+Workbooks%22+OR+ti%3A%22The+Label+Horizon+Paradox+Rethinking+Supervision+Targets+in+Financial+Forecasting%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Primal+Spectral+Generative+Modeling+Fast+Analytical+Generation+via+Pseudoinverse+L+vy+Inversion%22+OR+ti%3A%22Reward+Shaping+Control+Variates+for+Off+Policy+Evaluation+Under+Sparse+Rewards%22+OR+ti%3A%22Signature+Informed+Transformer+for+Asset+Allocation%22+OR+ti%3A%22SpreadsheetArena+Decomposing+Preference+in+LLM+Generation+of+Spreadsheet+Workbooks%22+OR+ti%3A%22The+Label+Horizon+Paradox+Rethinking+Supervision+Targets+in+Financial+Forecasting%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:29.066376+00:00",
+  "bytes": 7700,
+  "sha256": "c066f512a2145535b9bd97074f5fcdd38ee7ea5f0691a29a8d0c8812c32facd8",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-9e8610b96fda0d53c7da.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Building+Social+World+Model+with+Large+Language+Models%22+OR+ti%3A%22ComplexMCP+Evaluation+of+LLM+Agents+in+Dynamic+Interdependent+and+Large+Scale+Tool+Sandbox%22+OR+ti%3A%22Computational+Arbitrage+in+AI+Model+Markets%22+OR+ti%3A%22EVMbench+Evaluating+AI+Agents+on+Smart+Contract+Security%22+OR+ti%3A%22Long+term+Fairness+with+Selective+Labels%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Building+Social+World+Model+with+Large+Language+Models%22+OR+ti%3A%22ComplexMCP+Evaluation+of+LLM+Agents+in+Dynamic+Interdependent+and+Large+Scale+Tool+Sandbox%22+OR+ti%3A%22Computational+Arbitrage+in+AI+Model+Markets%22+OR+ti%3A%22EVMbench+Evaluating+AI+Agents+on+Smart+Contract+Security%22+OR+ti%3A%22Long+term+Fairness+with+Selective+Labels%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:18.471361+00:00",
+  "bytes": 12483,
+  "sha256": "782cde9018192a1f0ba1bb14356168121375900189973f216a9a66909b71549a",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-a6cb1f8986e8bbffab85.gz"
+}

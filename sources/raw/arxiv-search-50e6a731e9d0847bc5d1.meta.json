@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Decade+s+Battle+on+Dataset+Bias+Are+We+There+Yet%22+OR+ti%3A%22A+Probabilistic+Perspective+on+Unlearning+and+Alignment+for+Large+Language+Models%22+OR+ti%3A%22A+Theoretically+Principled+Sparse+Connected+and+Rigid+Graph+Representation+of+Molecules%22+OR+ti%3A%22AFlow+Automating+Agentic+Workflow+Generation%22+OR+ti%3A%22AI+as+Humanity+s+Salieri+Quantifying+Linguistic+Creativity+of+Language+Models+via+Systematic%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Decade+s+Battle+on+Dataset+Bias+Are+We+There+Yet%22+OR+ti%3A%22A+Probabilistic+Perspective+on+Unlearning+and+Alignment+for+Large+Language+Models%22+OR+ti%3A%22A+Theoretically+Principled+Sparse+Connected+and+Rigid+Graph+Representation+of+Molecules%22+OR+ti%3A%22AFlow+Automating+Agentic+Workflow+Generation%22+OR+ti%3A%22AI+as+Humanity+s+Salieri+Quantifying+Linguistic+Creativity+of+Language+Models+via+Systematic%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:24.227197+00:00",
+  "bytes": 6817,
+  "sha256": "6b3bd565b3357578a35b93c97eda72683df30ba5eecb0e4070aa9a3fe390997a",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-50e6a731e9d0847bc5d1.gz"
+}

@@ -1,0 +1,24 @@
+﻿topic_id,topic,papers,core,application,primary_papers,pdfs,definition
+alpha_mining,Alpha Mining / 量化因子挖掘,6,6,0,6,4,因子表达式搜索、自动化 alpha 发现与因子评价；不把一般 alpha 超参数或资产定价混入。
+time_series,Time Series / 时间序列,291,26,265,263,282,有金融应用证据的序列预测、生成、表征、异常、缺失及动态建模。
+asset_pricing,Asset Pricing / 资产定价,7,6,1,5,5,收益横截面、风险溢价、随机折现因子与资产定价模型。
+derivatives,Derivatives & Hedging / 衍生品定价与对冲,12,7,5,11,11,期权、隐含波动率曲面、衍生品定价与对冲。
+portfolio,Portfolio & Investment / 投资组合与投资管理,74,27,47,63,65,资产配置、组合选择、投资评价与有效前沿；通用模型组合不据此归类。
+trading,Trading & Microstructure / 交易与市场微观结构,61,32,29,33,51,交易策略、执行、做市、订单簿、市场仿真与预测市场。
+market_prediction,Market Prediction / 股价、收益与波动率预测,76,29,47,34,70,股票方向与收益、波动率、汇率或加密资产市场预测。
+credit_risk,Credit & Financial Risk / 信贷与金融风险,238,14,224,223,232,授信、违约、信用风险、运营风险和尾部风险。
+insurance,Insurance & Actuarial / 保险与精算,17,5,12,12,14,承保、保费、理赔、保险业务数据与精算应用。
+fraud_aml,Fraud & AML / 欺诈检测与反洗钱,47,13,34,35,43,支付和金融交易欺诈、反洗钱、金融诈骗。
+financial_nlp,Financial NLP / 金融文本、情感与事件,91,32,59,63,90,金融文本情感、立场、信息抽取、生成和摘要。
+financial_qa,Financial QA & Reasoning / 金融问答与数值推理,84,29,55,74,81,金融知识问答、财报表格计算、数学和多跳推理。
+financial_ir,Financial IR & RAG / 金融检索与RAG,109,16,93,94,108,金融信息检索、FiQA 检索评测、嵌入、重排与金融 RAG。
+document_ai,Document AI / 票据、财报与图表理解,56,18,38,42,55,票据发票、OCR、文档版面、财务表格与金融图表；普通表格分类另标技术方法。
+financial_agents,Financial Agents / 金融Agent与决策,46,23,23,27,41,金融研究、投资分析、金融工具使用和金融决策 Agent。
+macro_economics,Macro & Economic Forecasting / 宏观经济与预测,25,7,18,11,24,宏观指标、货币政策、经济预测、经济活动仿真。
+corporate_finance,Corporate Finance & Accounting / 公司金融与会计,43,27,16,18,42,盈利、披露、并购、财务报告、会计审计与税务。
+esg,ESG & Sustainable Finance / ESG与可持续金融,19,12,7,13,18,企业可持续披露、绿色投资、ESG 分析和合规审计。
+banking,Banking & Customer Service / 银行业务与客户服务,48,6,42,32,48,银行营销、客户意图、客服对话、债务催收及金融服务。
+blockchain,Blockchain & Digital Assets / 区块链与数字资产,33,17,16,12,31,比特币、以太坊、链上交易、智能合约及加密资产数据。
+financial_safety,Financial Safety & Compliance / 金融安全与合规,69,14,55,42,64,金融隐私、金融 LLM 安全、投资建议风险、监管及可信评测。
+financial_models,Financial Models & Benchmarks / 金融模型与评测资源,91,40,51,57,85,金融领域预训练、领域适配、跨任务金融评测与综合金融资源。
+other_finance,Other Financial Applications / 其他金融应用,8,0,8,8,8,金融相关性已确认，但当前证据未支持更具体的上述任务分类。

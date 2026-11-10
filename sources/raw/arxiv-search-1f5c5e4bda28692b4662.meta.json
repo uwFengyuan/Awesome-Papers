@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22HiRA+Parameter+Efficient+Hadamard+High+Rank+Adaptation+for+Large+Language+Models%22+OR+ti%3A%22High+Dynamic+Radar+Sequence+Prediction+for+Weather+Nowcasting+Using+Spatiotemporal+Coherent+Gaussian+Representation%22+OR+ti%3A%22Homomorphism+Expressivity+of+Spectral+Invariant+Graph+Neural+Networks%22+OR+ti%3A%22How+much+of+my+dataset+did+you+use+Quantitative+Data+Usage+Inference+in%22+OR+ti%3A%22Improved+Finite+Particle+Convergence+Rates+for+Stein+Variational+Gradient+Descent%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22HiRA+Parameter+Efficient+Hadamard+High+Rank+Adaptation+for+Large+Language+Models%22+OR+ti%3A%22High+Dynamic+Radar+Sequence+Prediction+for+Weather+Nowcasting+Using+Spatiotemporal+Coherent+Gaussian+Representation%22+OR+ti%3A%22Homomorphism+Expressivity+of+Spectral+Invariant+Graph+Neural+Networks%22+OR+ti%3A%22How+much+of+my+dataset+did+you+use+Quantitative+Data+Usage+Inference+in%22+OR+ti%3A%22Improved+Finite+Particle+Convergence+Rates+for+Stein+Variational+Gradient+Descent%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:10.958968+00:00",
+  "bytes": 8976,
+  "sha256": "3b9475931add63da780e7b011ddc0101f24a1fcd74324c6b8a0bdd3319934acd",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-1f5c5e4bda28692b4662.gz"
+}

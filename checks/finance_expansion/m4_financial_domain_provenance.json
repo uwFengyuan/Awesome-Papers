@@ -1,0 +1,20 @@
+{
+  "url": "https://raw.githubusercontent.com/Mcompetitions/M4-methods/master/Dataset/M4-info.csv",
+  "rows": 100000,
+  "columns": [
+    "M4id",
+    "category",
+    "Frequency",
+    "Horizon",
+    "SP",
+    "StartingDate"
+  ],
+  "category_counts": {
+    "Macro": 19402,
+    "Micro": 25121,
+    "Demographic": 8708,
+    "Industry": 18798,
+    "Finance": 24534,
+    "Other": 3437
+  }
+}

@@ -1,0 +1,2702 @@
+[
+  {
+    "id": "2023.acl-long.563",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2023/2023.acl-long.563.pdf",
+    "canonical_path": "pdfs/ACL/2023/2023.acl-long.563__Document_Level_Multi_Event_Extraction_with_Event_Proxy_Nodes_and_Hausdorff_Distance_Minimization.pdf",
+    "sha256": "c7ae698ac86ae92e7496d57a04e9c174476f74170d7788bdb3ea32ffd01df8ee"
+  },
+  {
+    "id": "2023.acl-long.584",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2023/2023.acl-long.584.pdf",
+    "canonical_path": "pdfs/ACL/2023/2023.acl-long.584__Joint_Document_Level_Event_Extraction_via_Token_Token_Bidirectional_Event_Completed_Graph.pdf",
+    "sha256": "c666598e21d63a25d5d16ecd0051137205fff672acfe1b2a806c03b64fe43413"
+  },
+  {
+    "id": "2023.acl-long.748",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2023/2023.acl-long.748.pdf",
+    "canonical_path": "pdfs/ACL/2023/2023.acl-long.748__Wukong_Reader_Multi_modal_Pre_training_for_Fine_grained_Visual_Document_Understanding.pdf",
+    "sha256": "c8ef1218ba6543fc381e09e823f6a42b2ecb67cdff62ed7b93ecd8ce49661104"
+  },
+  {
+    "id": "2023.acl-long.847",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2023/2023.acl-long.847.pdf",
+    "canonical_path": "pdfs/ACL/2023/2023.acl-long.847__LayoutMask_Enhance_Text_Layout_Interaction_in_Multi_modal_Pre_training_for_Document_Understanding.pdf",
+    "sha256": "3e00724c443ea62c7fa5e3734eeedbdae3197df6a0305451eeb10368d88f9adc"
+  },
+  {
+    "id": "2024.acl-long.125",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2024/2024.acl-long.125.pdf",
+    "canonical_path": "pdfs/ACL/2024/2024.acl-long.125__ListT5_Listwise_Reranking_with_Fusion_in_Decoder_Improves_Zero_shot_Retrieval.pdf",
+    "sha256": "1c6ef8eb4a223db760ff2243addd357fc6094d0b5d6c62635439fad7f9900396"
+  },
+  {
+    "id": "2024.acl-long.191",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2024/2024.acl-long.191.pdf",
+    "canonical_path": "pdfs/ACL/2024/2024.acl-long.191__Llama2Vec_Unsupervised_Adaptation_of_Large_Language_Models_for_Dense_Retrieval.pdf",
+    "sha256": "ccf0063c581fccf5b60cbce27e4b5c885c95739612c62f86baec6204f9871ac5"
+  },
+  {
+    "id": "2024.acl-long.313",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2024/2024.acl-long.313.pdf",
+    "canonical_path": "pdfs/ACL/2024/2024.acl-long.313__PRP_Graph_Pairwise_Ranking_Prompting_to_LLMs_with_Graph_Aggregation_for_Effective_Text_Re_ranking.pdf",
+    "sha256": "8a8ba7e6bca389c0403485be0ac6da7e14bd5e6d89fb17f3dcbe780106fc02bb"
+  },
+  {
+    "id": "2024.acl-long.463",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2024/2024.acl-long.463.pdf",
+    "canonical_path": "pdfs/ACL/2024/2024.acl-long.463__DocLLM_A_Layout_Aware_Generative_Language_Model_for_Multimodal_Document_Understanding.pdf",
+    "sha256": "f6d3318e873f2eda537f9c26c60711126e4ea019bb0bf40a4112a467f988731d"
+  },
+  {
+    "id": "2025.acl-long.1437",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.1437.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.1437__Time_MQA_Time_Series_Multi_Task_Question_Answering_with_Context_Enhancement.pdf",
+    "sha256": "94b1f5161118b963df18021e7686a72287746aa5c5090bedcca702bef58f73ed"
+  },
+  {
+    "id": "2025.acl-long.660",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.660.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.660__PQR_Improving_Dense_Retrieval_via_Potential_Query_Modeling.pdf",
+    "sha256": "9a676ab8fbb4e0a04cd1738745f36d771681aee8f470469d93c62fabba06b42f"
+  },
+  {
+    "id": "2026.acl-long.1397",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.1397.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.1397__Beyond_Explicit_Refusals_Soft_Failure_Attacks_on_Retrieval_Augmented_Generation.pdf",
+    "sha256": "3b9041111cdd134061fad36c54456f367a665b9af06b7de8d7bb681c826f8a93"
+  },
+  {
+    "id": "2026.acl-long.174",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.174.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.174__SAGE_Sparse_Adaptive_Guidance_for_Dependency_Aware_Tabular_Data_Generation.pdf",
+    "sha256": "32c0e4c7b1118e85e1e81a200ff860712069385a0b845e0c084879b480fbd9c0"
+  },
+  {
+    "id": "2026.acl-long.2135",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.2135.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.2135__From_Recognition_to_Reasoning_Benchmarking_and_Enhancing_MLLMs_on_Real_World_Receipt_Document_Understandi.pdf",
+    "sha256": "29b8400e335513ff6987496d049233686fa9e3975c9bb01c2e23778779a6eade"
+  },
+  {
+    "id": "2026.acl-long.2139",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.2139.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.2139__COMPASS_A_Framework_for_Evaluating_Organization_Specific_Policy_Alignment_in_LLMs.pdf",
+    "sha256": "b3ebe0cfe20f5e993f1149fb76aedb2cacc1d125a3ac1776d5b8cb3c9ecf79f8"
+  },
+  {
+    "id": "2026.acl-long.2176",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.2176.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.2176__TabReX_Tabular_Referenceless_eXplainable_Evaluation.pdf",
+    "sha256": "8049cc2c1739e46a69b16d851a56f866b7eb5f93cee7de2eddb08593382923ac"
+  },
+  {
+    "id": "2026.acl-long.503",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.503.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.503__Memory_Augmented_LLM_based_Multi_Agent_System_for_Automated_Feature_Generation_on_Tabular_Data.pdf",
+    "sha256": "e511c9e02e250657d830a0078b67bcbc33ba02ae1e80fc80784f9506468002b6"
+  },
+  {
+    "id": "2026.acl-long.810",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.810.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.810__REZE_Representation_Regularization_for_Domain_adaptive_Text_Embedding_Pre_finetuning.pdf",
+    "sha256": "3028b1a8c8c275accf88221fb2e9a6b2e437699060dcfb5b96f05dc2ea6f889d"
+  },
+  {
+    "id": "2026.acl-short.68",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-short.68.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-short.68__Learning_from_Emptiness_De_biasing_Listwise_Rerankers_with_Content_Agnostic_Probability_Calibration.pdf",
+    "sha256": "dadfa1914ea2c0f94e7d549eed5f866f860530f804b9da85222c05fa46bfc478"
+  },
+  {
+    "id": "D17-1292",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2017/D17-1292.pdf",
+    "canonical_path": "pdfs/EMNLP/2017/D17-1292__Detecting_and_Explaining_Causes_From_Text_For_a_Time_Series_Event.pdf",
+    "sha256": "29b774a72864c4de9790d052e3991a6c5e5c9cefa7d5953c6594975a176bdf75"
+  },
+  {
+    "id": "2022.emnlp-main.669",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2022/2022.emnlp-main.669.pdf",
+    "canonical_path": "pdfs/EMNLP/2022/2022.emnlp-main.669__Large_Dual_Encoders_Are_Generalizable_Retrievers.pdf",
+    "sha256": "af5fb66372c9427e9d065157c1897e6fe0817ceaae429cca052fa365675698b8"
+  },
+  {
+    "id": "2023.emnlp-main.111",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2023/2023.emnlp-main.111.pdf",
+    "canonical_path": "pdfs/EMNLP/2023/2023.emnlp-main.111__Augmenting_Zero_Shot_Dense_Retrievers_with_Plug_in_Mixture_of_Memories.pdf",
+    "sha256": "11cf7ca2a1e37ec36a048458c0bf3c7c393853ed03e5ee515182a1c7b683b77f"
+  },
+  {
+    "id": "2023.emnlp-main.234",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2023/2023.emnlp-main.234.pdf",
+    "canonical_path": "pdfs/EMNLP/2023/2023.emnlp-main.234__TRAVEL_Tag_Aware_Conversational_FAQ_Retrieval_via_Reinforcement_Learning.pdf",
+    "sha256": "a401d81d0f017473a65dc39d6107e0a3adacc240c6ede16000f3af641663ebc6"
+  },
+  {
+    "id": "2023.emnlp-main.651",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2023/2023.emnlp-main.651.pdf",
+    "canonical_path": "pdfs/EMNLP/2023/2023.emnlp-main.651__CAPSTONE_Curriculum_Sampling_for_Dense_Retrieval_with_Document_Expansion.pdf",
+    "sha256": "a98c480baeb69f7702104cffbe5fe774781d3e68bf3187e3b3bb5cdd7c317c5b"
+  },
+  {
+    "id": "2023.emnlp-main.668",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2023/2023.emnlp-main.668.pdf",
+    "canonical_path": "pdfs/EMNLP/2023/2023.emnlp-main.668__An_Iteratively_Parallel_Generation_Method_with_the_Pre_Filling_Strategy_for_Document_level_Event_Extracti.pdf",
+    "sha256": "3793a3d90b719bb5378e998e91db50fd0dc845d48ae71fc5635614161ab96a55"
+  },
+  {
+    "id": "2023.emnlp-main.693",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2023/2023.emnlp-main.693.pdf",
+    "canonical_path": "pdfs/EMNLP/2023/2023.emnlp-main.693__UDAPDR_Unsupervised_Domain_Adaptation_via_LLM_Prompting_and_Distillation_of_Rerankers.pdf",
+    "sha256": "d654840cf9bdec37e4f9858592f8401cd3a6a3bc13a6c041487aa816f9713c1a"
+  },
+  {
+    "id": "2023.emnlp-main.793",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2023/2023.emnlp-main.793.pdf",
+    "canonical_path": "pdfs/EMNLP/2023/2023.emnlp-main.793__CQE_A_Comprehensive_Quantity_Extractor.pdf",
+    "sha256": "7f728dee7cfdefd3b69f3951f9e5469b8a0349e767b6171d0f19dbbeabd47358"
+  },
+  {
+    "id": "2024.emnlp-main.1013",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.1013.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.1013__PairDistill_Pairwise_Relevance_Distillation_for_Dense_Retrieval.pdf",
+    "sha256": "0355b761d6ba5022544e349083690cec9601e76ba8376cb103c43beb06720886"
+  },
+  {
+    "id": "2024.emnlp-main.249",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.249.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.249__RAG_QA_Arena_Evaluating_Domain_Robustness_for_Long_form_Retrieval_Augmented_Question_Answering.pdf",
+    "sha256": "ee2181b58078685fa6733880648d6238d30f48685c2c5cab54981b1f7a804086"
+  },
+  {
+    "id": "2024.emnlp-main.250",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.250.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.250__PromptReps_Prompting_Large_Language_Models_to_Generate_Dense_and_Sparse_Representations_for_Zero_Shot_Doc.pdf",
+    "sha256": "b40b173e2d22c75959cd3c0606b17b00f3ae7be38ce91758363aadf4faf4ab25"
+  },
+  {
+    "id": "2024.emnlp-main.425",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.425.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.425__Strategic_Demonstration_Selection_for_Improved_Fairness_in_LLM_In_Context_Learning.pdf",
+    "sha256": "d491c59d1408ce56964a5d443dce476c47ae1614837b83bf4072e5d8488d26ef"
+  },
+  {
+    "id": "2024.emnlp-main.491",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.491.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.491__FIRST_Faster_Improved_Listwise_Reranking_with_Single_Token_Decoding.pdf",
+    "sha256": "fca02e77ff691f6de93cc21bfd5dfc56ea925b73c25f3e8dee50a1b67df67296"
+  },
+  {
+    "id": "2024.emnlp-main.540",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.540.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.540__Modeling_Layout_Reading_Order_as_Ordering_Relations_for_Visually_rich_Document_Understanding.pdf",
+    "sha256": "9eb040f14b0dc6c30c562bb37c2389750ec4365d66e25c6ffdbf6efa1a0778f0"
+  },
+  {
+    "id": "2024.emnlp-main.80",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.80.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.80__Large_Language_Models_as_Foundations_for_Next_Gen_Dense_Retrieval_A_Comprehensive_Empirical_Assessment.pdf",
+    "sha256": "a1a0f1740fb7845b5af22a453e5f2742bbc607f0f6835acc8eba5e65f9de4c0b"
+  },
+  {
+    "id": "2024.emnlp-main.96",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.96.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.96__Glue_pizza_and_eat_rocks_Exploiting_Vulnerabilities_in_Retrieval_Augmented_Generative_Models.pdf",
+    "sha256": "4a8138a9eaa1bce8fc300cdeaa9c83ce64f4440c99b596b5687c4e54d2cfd0e0"
+  },
+  {
+    "id": "2025.emnlp-main.1214",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.1214.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.1214__Query_Focused_Retrieval_Heads_Improve_Long_Context_Reasoning_and_Re_ranking.pdf",
+    "sha256": "456c6f7005f9d443490b70399e4dfbd4f8899c8cb460ecf55a804025dd005c9c"
+  },
+  {
+    "id": "2025.emnlp-main.33",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.33.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.33__Training_a_Utility_based_Retriever_Through_Shared_Context_Attribution_for_Retrieval_Augmented_Language_Mo.pdf",
+    "sha256": "b99a4257559ffbad5c8e999c0d3c2dfb4f02909d4fb95a52bb36b95182bb334d"
+  },
+  {
+    "id": "2025.emnlp-main.436",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.436.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.436__DocReRank_Single_Page_Hard_Negative_Query_Generation_for_Training_Multi_Modal_RAG_Rerankers.pdf",
+    "sha256": "50a432a8e63cad56a3c9639bf34f01dd1b79df4772e000af8c4f28c21e2a4171"
+  },
+  {
+    "id": "2025.emnlp-main.469",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.469.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.469__M_LongDoc_A_Benchmark_For_Multimodal_Super_Long_Document_Understanding_And_A_Retrieval_Aware_Tuning_Frame.pdf",
+    "sha256": "300e952ccf72c0de26071dd80236132564163330909ab9406e6dad94b393b468"
+  },
+  {
+    "id": "2025.emnlp-main.525",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.525.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.525__Doubling_Your_Data_in_Minutes_Ultra_fast_Tabular_Data_Generation_via_LLM_Induced_Dependency_Graphs.pdf",
+    "sha256": "632acac4046471f709b270fcafe0790de4335377b586c7545d6912ebde6927f5"
+  },
+  {
+    "id": "2025.emnlp-main.88",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.88.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.88__Utility_Focused_LLM_Annotation_for_Retrieval_and_Retrieval_Augmented_Generation.pdf",
+    "sha256": "350db19a0a370a97d95900b815d26d5d9bdd6146359bdce7f93a6a0284e09997"
+  },
+  {
+    "id": "2025.emnlp-main.891",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.891.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.891__Multi_perspective_Analysis_of_Large_Language_Model_Domain_Specialization_An_Experiment_in_Accounting_Audi.pdf",
+    "sha256": "f1ab04409b3e37387b0e37dd89dcfb0aacc6dcb5d6622d634548e51bd562f972"
+  },
+  {
+    "id": "2026.emnlp-main.1125",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1125.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1125__Jasper_Flash_Elastic_Token_Compression_and_Progressive_Distillation_for_Inference_Scalable_Text_Embedding.pdf",
+    "sha256": "bb40106069c9de27e29cadd1ef356edff8d3bc4578685c1bb3a45271ee496107"
+  },
+  {
+    "id": "2026.emnlp-main.1336",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1336.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1336__Efficient_Listwise_Reranking_with_Compressed_Document_Representations.pdf",
+    "sha256": "d990459259c1e168a75f9a54d4c9129c49e3bcf3d82bd4278caae70b791dfee4"
+  },
+  {
+    "id": "2026.emnlp-main.1585",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1585.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1585__When_Queries_Crowd_Diagnosing_and_Improving_Spread_Out_Regularization_for_Text_Embeddings.pdf",
+    "sha256": "c1e23f36c27b66ff3200e894ff7189125c673a380bd1019fdcdeec8e1e9e2f45"
+  },
+  {
+    "id": "2026.emnlp-main.1589",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1589.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1589__Every_Answer_Has_Its_Own_Path_Agentic_Routing_for_Retrieval_Augmented_Table_Question_Answering.pdf",
+    "sha256": "c009712a2082139f9b548909811b15ccd46866393477edced571cea83ef7f120"
+  },
+  {
+    "id": "2026.emnlp-main.175",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.175.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.175__Hyperspherical_Semantic_Expansion_via_von_Mises_Fisher_Mixtures_for_Zero_Shot_Dense_Retrieval.pdf",
+    "sha256": "5e8966c74a4a54cb9f5bace9b076fae26069a35b7ede5bbdc3becae2e5eda438"
+  },
+  {
+    "id": "2026.emnlp-main.872",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.872.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.872__Managing_Evidence_at_Document_Scale_A_Survey_of_Multi_Page_Visually_Rich_Document_Understanding.pdf",
+    "sha256": "d7e6361cfa3c44a7088f7bae3d69dd0ec84fd2e3c520f43a283235a0bb8136a5"
+  },
+  {
+    "id": "2026.emnlp-main.957",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.957.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.957__ReverseEOL_Improving_Training_free_Text_Embeddings_via_Text_Reversal_in_Decoder_only_LLMs.pdf",
+    "sha256": "78d90607e9055812d4235a8b2c63260f391061eddeee0c1eb7ec64f3777ac57d"
+  },
+  {
+    "id": "2026.emnlp-main.965",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.965.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.965__RegionDoc_R1_Reinforcing_Semantic_Layout_Aware_Reasoning_for_Document_Understanding.pdf",
+    "sha256": "17920074cc784d24cb63be203d9a048310648df6bacdf8bf4e60e74b237e76c6"
+  },
+  {
+    "id": "icml-2020-6499",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2020/icml-2020-6499.pdf",
+    "canonical_path": "pdfs/ICML/2020/icml-2020-6499__Fair_Learning_with_Private_Demographic_Data.pdf",
+    "sha256": "72e790d6f83a06a85efd65972bc35f3cdf54ad46ba9b5c9fdd8179e0cd76ebaa"
+  },
+  {
+    "id": "icml-2020-6682",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2020/icml-2020-6682.pdf",
+    "canonical_path": "pdfs/ICML/2020/icml-2020-6682__Born_again_Tree_Ensembles.pdf",
+    "sha256": "f3945d92057a8e3e425451019bfaa3badf404057bb98b0865174b7287c47387d"
+  },
+  {
+    "id": "icml-2021-10209",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-10209.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-10209__Efficient_Training_of_Robust_Decision_Trees_Against_Adversarial_Examples.pdf",
+    "sha256": "c9e8c59f472efc7ce689f89f25ef7a5037f13d53bd2522765fcb3aa74a026a5f"
+  },
+  {
+    "id": "icml-2021-10707",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-10707.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-10707__Pareto_GAN_Extending_the_Representational_Power_of_GANs_to_Heavy_Tailed_Distributions.pdf",
+    "sha256": "24f22f6dd16f87e322bd3173e63f2c74d7cc29525cf6fe767400b1d8175f1f44"
+  },
+  {
+    "id": "icml-2021-8861",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-8861.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-8861__Strategic_Classification_Made_Practical.pdf",
+    "sha256": "0f5f45c6812702ce9e696c86457c0d8ee421ef3676918ae89a783690cec1a28c"
+  },
+  {
+    "id": "icml-2021-9047",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-9047.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-9047__Alternative_Microfoundations_for_Strategic_Classification.pdf",
+    "sha256": "0e9092c340d8142ac724b54720427c4ca0ad4c31ba7102ce8f08d24ef11e87b7"
+  },
+  {
+    "id": "icml-2021-9761",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-9761.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-9761__Optimal_Counterfactual_Explanations_in_Tree_Ensembles.pdf",
+    "sha256": "0edfc2c467ed634e3d55e1cf4adee58983c7d779895ab88134ce117c93b33863"
+  },
+  {
+    "id": "icml-2022-18199",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2022/icml-2022-18199.pdf",
+    "canonical_path": "pdfs/ICML/2022/icml-2022-18199__On_the_Adversarial_Robustness_of_Causal_Algorithmic_Recourse.pdf",
+    "sha256": "6648e928bef380b1d4ba6ab467c9ff600865912425bf547381156f0c4d2177ef"
+  },
+  {
+    "id": "icml-2023-23499",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-23499.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-23499__TabLeak_Tabular_Data_Leakage_in_Federated_Learning.pdf",
+    "sha256": "82bd6f87e997c360e2b0afce5e55006d8761c6e7cf184c0598c27576014319b5"
+  },
+  {
+    "id": "icml-2023-23524",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-23524.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-23524__Robust_Counterfactual_Explanations_for_Neural_Networks_With_Probabilistic_Guarantees.pdf",
+    "sha256": "1fe977ab63e48a25ddf765cf590e0418049e8c6276d961384483a12b06b06ac7"
+  },
+  {
+    "id": "icml-2023-23706",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-23706.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-23706__GLOBE_CE_A_Translation_Based_Approach_for_Global_Counterfactual_Explanations.pdf",
+    "sha256": "247aa30c90b0176d171223b6ab95157367159209745dcf9cf2eafb257647915b"
+  },
+  {
+    "id": "icml-2024-33170",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33170.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-33170__Beyond_the_ROC_Curve_Classification_Trees_Using_Cost_Optimal_Curves_with_Application_to_Imbalanced_Datase.pdf",
+    "sha256": "2b3a613bc3e752862abbfae9961c03a032dde615cbdf4fcb198ace5bcef3f4f8"
+  },
+  {
+    "id": "icml-2024-33625",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33625.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-33625__Learning_Decision_Trees_and_Forests_with_Algorithmic_Recourse.pdf",
+    "sha256": "61c1bfb1ac24aee3c905584951a2b3e247345cda554fd37648229f6ecf108591"
+  },
+  {
+    "id": "icml-2024-33789",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33789.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-33789__CuTS_Customizable_Tabular_Synthetic_Data_Generation.pdf",
+    "sha256": "0db37ea3f34c14276dd992d759b58f4ba2e1edf86c8f3486b1fe273284659a0f"
+  },
+  {
+    "id": "icml-2024-34759",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34759.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-34759__Counterfactual_Metarules_for_Local_and_Global_Recourse.pdf",
+    "sha256": "dbb361683d5b4dc7b1ff04a2b9f124c1ad85cae376d2fb95d7985153d17c55c0"
+  },
+  {
+    "id": "icml-2025-7DVmEc7c1u",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-7DVmEc7c1u.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-7DVmEc7c1u__A_New_Approach_to_Backtracking_Counterfactual_Explanations_A_Unified_Causal_Framework_for_Efficient_Model.pdf",
+    "sha256": "7a3ed77893b984bc0ac3db8417cbbdaf5483e714d6b94ff449837c7eb3ed98e0"
+  },
+  {
+    "id": "icml-2025-AXJnqocQpm",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-AXJnqocQpm.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-AXJnqocQpm__Quantifying_Prediction_Consistency_Under_Fine_tuning_Multiplicity_in_Tabular_LLMs.pdf",
+    "sha256": "8db170d7bc98be24ad0c857a6ac7df24142ea1e77a7766cddbf7ad7e89ddfe8e"
+  },
+  {
+    "id": "icml-2025-Pedm1880A2",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-Pedm1880A2.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-Pedm1880A2__e_GAI_e_value_based_Generalized_alpha_Investing_for_Online_False_Discovery_Rate_Control.pdf",
+    "sha256": "df6aac9ada945aac1171f5c3abfd8eb4259231b9194575650d93b8348be6a6a9"
+  },
+  {
+    "id": "icml-2025-SLEeGAg5ee",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-SLEeGAg5ee.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-SLEeGAg5ee__DANCE_Dual_Unbiased_Expansion_with_Group_acquired_Alignment_for_Out_of_distribution_Graph_Fairness_Learni.pdf",
+    "sha256": "a52169f3450c0ac57984b97cb67da1226f908bac00fc17352b0273e33dec9f12"
+  },
+  {
+    "id": "icml-2025-UtlFqRDJKl",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-UtlFqRDJKl.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-UtlFqRDJKl__TabSDS_a_Lightweight_Fully_Non_Parametric_and_Model_Free_Approach_for_Generating_Synthetic_Tabular_Data.pdf",
+    "sha256": "7568b7c4cd16f0078ea354ab05a4598fef32c6b78478f16c9df11c4a71943915"
+  },
+  {
+    "id": "icml-2025-d60cmFf89H",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-d60cmFf89H.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-d60cmFf89H__TabFlex_Scaling_Tabular_Learning_to_Millions_with_Linear_Attention.pdf",
+    "sha256": "904063cac2a33c6cf6f27b5504c17cd407982c53a26d8cc280aca8c27fd25f3b"
+  },
+  {
+    "id": "icml-2025-flKhxGTBj2",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-flKhxGTBj2.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-flKhxGTBj2__Are_Large_Language_Models_Ready_for_Multi_Turn_Tabular_Data_Analysis.pdf",
+    "sha256": "474134fb5a7d9612420ee8e174512ede4a40426e79bd666ff3f9e822947c2f04"
+  },
+  {
+    "id": "icml-2025-pRmxQHgjb1",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-pRmxQHgjb1.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-pRmxQHgjb1__UDora_A_Unified_Red_Teaming_Framework_against_LLM_Agents_by_Dynamically_Hijacking_Their_Own_Reasoning.pdf",
+    "sha256": "1f02fdeab8fcaa6dde218b21c88bc8b5d755a34d0fc4d54de822e5c1f053ebfd"
+  },
+  {
+    "id": "icml-2025-wGq6WpfhFl",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-wGq6WpfhFl.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-wGq6WpfhFl__Clipped_SGD_Algorithms_for_Performative_Prediction_Tight_Bounds_for_Stochastic_Bias_and_Remedies.pdf",
+    "sha256": "a3c8fd074dbe9849b037e53cfb81c0e2441e354d8763370f23fe02374a328fcd"
+  },
+  {
+    "id": "icml-2026-Hnty5t1TNg",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-Hnty5t1TNg.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-Hnty5t1TNg__Multi_Level_Strategic_Classification_Incentivizing_Improvement_through_Promotion_and_Relegation_Dynamics.pdf",
+    "sha256": "f3dec2160f868e71d530cb3812d4ebf1bf58dc0fb60e8be309093c9d57f65aa2"
+  },
+  {
+    "id": "icml-2026-XiD5RhcEDK",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-XiD5RhcEDK.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-XiD5RhcEDK__Fair_Decisions_from_Calibrated_Scores_Achieving_Optimal_Classification_While_Satisfying_Sufficiency.pdf",
+    "sha256": "720f3b91302dd939f74c9f5cd80002355e1400469ffeb99755572e98a1158e42"
+  },
+  {
+    "id": "icml-2026-emDhH9VFqm",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-emDhH9VFqm.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-emDhH9VFqm__ReNF_Rethinking_the_Design_of_Neural_Long_Term_Time_Series_Forecasters.pdf",
+    "sha256": "e14ddab6a029687b58dead60a4099bbc7e59505520c24ae1ba0803bff7c234fb"
+  },
+  {
+    "id": "neurips-2018-12019",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2018/neurips-2018-12019.pdf",
+    "canonical_path": "pdfs/NeurIPS/2018/neurips-2018-12019__Learning_Temporal_Point_Processes_via_Reinforcement_Learning.pdf",
+    "sha256": "b23c447ea5ba6586a97c4c7b943368ef765eca00288da9716fc0aed731976d36"
+  },
+  {
+    "id": "neurips-2019-13519",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2019/neurips-2019-13519.pdf",
+    "canonical_path": "pdfs/NeurIPS/2019/neurips-2019-13519__The_Fairness_of_Risk_Scores_Beyond_Classification_Bipartite_Ranking_and_the_XAUC_Metric.pdf",
+    "sha256": "456f2bd807fedb63b28baa97082bc08948de8ae3edd4a15011d920479529f23c"
+  },
+  {
+    "id": "neurips-2019-14552",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2019/neurips-2019-14552.pdf",
+    "canonical_path": "pdfs/NeurIPS/2019/neurips-2019-14552__Optimal_Sparse_Decision_Trees.pdf",
+    "sha256": "75e46288d4fdb80a4b0d7b7504910353d8886e5af9af1083a500ada93f0e4b76"
+  },
+  {
+    "id": "neurips-2020-17560",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2020/neurips-2020-17560.pdf",
+    "canonical_path": "pdfs/NeurIPS/2020/neurips-2020-17560__Intra_Processing_Methods_for_Debiasing_Neural_Networks.pdf",
+    "sha256": "72854774a56c868c2c3c8e7a71977e1a9ddce9ec98f5945774438d4e823e38e0"
+  },
+  {
+    "id": "neurips-2020-17718",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2020/neurips-2020-17718.pdf",
+    "canonical_path": "pdfs/NeurIPS/2020/neurips-2020-17718__Algorithmic_recourse_under_imperfect_causal_knowledge_a_probabilistic_approach.pdf",
+    "sha256": "97517ccf81e68a4f4b817d300676a57af1a14d9117c6a27ae00f81544061b35b"
+  },
+  {
+    "id": "neurips-2020-18152",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2020/neurips-2020-18152.pdf",
+    "canonical_path": "pdfs/NeurIPS/2020/neurips-2020-18152__A_Fair_Classifier_Using_Kernel_Density_Estimation.pdf",
+    "sha256": "f1b041b2b70a8160e142157dc3b28200a04b420d4d747d5d91c399581e0ae785"
+  },
+  {
+    "id": "neurips-2020-18579",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2020/neurips-2020-18579.pdf",
+    "canonical_path": "pdfs/NeurIPS/2020/neurips-2020-18579__How_do_fair_decisions_fare_in_long_term_qualification.pdf",
+    "sha256": "21f737adca27c92e99fc533a0ff2a140586fd733f88d0286a63231263678fad8"
+  },
+  {
+    "id": "neurips-2020-18929",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2020/neurips-2020-18929.pdf",
+    "canonical_path": "pdfs/NeurIPS/2020/neurips-2020-18929__Beyond_Individualized_Recourse_Interpretable_and_Interactive_Summaries_of_Actionable_Recourses.pdf",
+    "sha256": "56c314d48a5bf073691350908a5f21d436bce04f85d48ea013cf3b1ed008889a"
+  },
+  {
+    "id": "neurips-2021-YLzoHUlf_k",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-YLzoHUlf_k.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-YLzoHUlf_k__Validation_Free_and_Replication_Robust_Volume_based_Data_Valuation.pdf",
+    "sha256": "cae224572663e29b4b4793e7fb9bf89ec2121ac3253461dfa95c29f14cac140c"
+  },
+  {
+    "id": "neurips-2021-w-EabDtADg",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-w-EabDtADg.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-w-EabDtADg__Fair_Sequential_Selection_Using_Supervised_Learning_Models.pdf",
+    "sha256": "6c09a97738e3f41cd2f0d15ba3852fc60d307a1a8310abfeb6d4c66571adf6d1"
+  },
+  {
+    "id": "neurips-2022-3vmKQUctNy",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-3vmKQUctNy.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-3vmKQUctNy__Washing_The_Unwashable_On_The_Im_possibility_of_Fairwashing_Detection.pdf",
+    "sha256": "947ba29c889c1212336f089546a32198d2973007c04f436b5df47425160d0a66"
+  },
+  {
+    "id": "neurips-2022-LCIZmSw1DuE",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-LCIZmSw1DuE.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-LCIZmSw1DuE__Fair_and_Optimal_Decision_Trees_A_Dynamic_Programming_Approach.pdf",
+    "sha256": "210f6f39b8beff96ebbb51f1c6777c74910fa18521408419fdbd003ba5217325"
+  },
+  {
+    "id": "neurips-2022-Lp-QFq2QRXA",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-Lp-QFq2QRXA.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-Lp-QFq2QRXA__Decision_Trees_with_Short_Explainable_Rules.pdf",
+    "sha256": "71fa763b5a407462231f5eb82cfe837c8a79e62024b4d3fbfbee2f92c4e4d7d4"
+  },
+  {
+    "id": "neurips-2022-OoN6TVb4Vkq",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-OoN6TVb4Vkq.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-OoN6TVb4Vkq__Contextual_Bandits_with_Knapsacks_for_a_Conversion_Model.pdf",
+    "sha256": "86be67f2cd2e22576d681a26e262f17f9d1090ea3e87b1f019d269df2f3b720f"
+  },
+  {
+    "id": "neurips-2022-WHqVVk3UHr",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-WHqVVk3UHr.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-WHqVVk3UHr__Exploring_the_Whole_Rashomon_Set_of_Sparse_Decision_Trees.pdf",
+    "sha256": "eb3ed031ab98f96d0eaee9c4aa836689621a9153c01f0fb4f588a231119962b9"
+  },
+  {
+    "id": "neurips-2022-Z6BFQqzwuS4",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-Z6BFQqzwuS4.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-Z6BFQqzwuS4__Bayesian_Persuasion_for_Algorithmic_Recourse.pdf",
+    "sha256": "437ff69bc32cabbacb6f9afa5aabafc6465dfec87f0cc8d4cecffce5941b3e64"
+  },
+  {
+    "id": "neurips-2023-70714",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70714.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-70714__Non_adversarial_training_of_Neural_SDEs_with_signature_kernel_scores.pdf",
+    "sha256": "ad51f05521339da33532eaec998f6c468d082ebc5b1cfc2c7d969e8e3fe5811e"
+  },
+  {
+    "id": "neurips-2023-71371",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-71371.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-71371__An_Inductive_Bias_for_Tabular_Deep_Learning.pdf",
+    "sha256": "2e4827a4eb17fff7be26120dbd97b7c49d3837fa92fbad4caf605d4eee5d60eb"
+  },
+  {
+    "id": "neurips-2023-71482",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-71482.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-71482__A_Path_to_Simpler_Models_Starts_With_Noise.pdf",
+    "sha256": "55a736481eab7dcceffcceefbab696c2f91cfdc34a222648282c703de199a15e"
+  },
+  {
+    "id": "neurips-2023-71930",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-71930.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-71930__H_nobs_Achieving_Certified_Fairness_and_Robustness_in_Distributed_Learning_on_Heterogeneous_Datasets.pdf",
+    "sha256": "34417a3b56ac165f55e48e8bb81d2543bcdc2c25070067285226cf418a95828d"
+  },
+  {
+    "id": "neurips-2023-71993",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-71993.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-71993__Transferable_Adversarial_Robustness_for_Categorical_Data_via_Universal_Robust_Embeddings.pdf",
+    "sha256": "fac48bafddf988bd57f6d0725626d4b60d90f0c3e087a5e505c67f70615f88e2"
+  },
+  {
+    "id": "neurips-2024-93205",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93205.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-93205__Large_Pre_trained_time_series_models_for_cross_domain_Time_series_analysis_tasks.pdf",
+    "sha256": "c4b57a671ce0f0ec7cbcbab611cc56b179c2acf13c2468bd23148b89bda88f63"
+  },
+  {
+    "id": "neurips-2024-94364",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-94364.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-94364__EPIC_Effective_Prompting_for_Imbalanced_Class_Data_Synthesis_in_Tabular_Data_Classification_via_Large_Lan.pdf",
+    "sha256": "01cc2fce80174e1fc1b924b4de5162820d64ba7672807df7f16d12d89eddf5e0"
+  },
+  {
+    "id": "neurips-2024-95135",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95135.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-95135__RankRAG_Unifying_Context_Ranking_with_Retrieval_Augmented_Generation_in_LLMs.pdf",
+    "sha256": "64778611618816ab3a779e051f66659637b1ef5f1665d117c717d85ae15b88fd"
+  },
+  {
+    "id": "neurips-2024-96262",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96262.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96262__Optimized_Feature_Generation_for_Tabular_Data_via_LLMs_with_Decision_Tree_Reasoning.pdf",
+    "sha256": "a32f043b1c5fea8186ab266939e34072da3bcae54838915cd70d018f7a65c6ab"
+  },
+  {
+    "id": "neurips-2024-96291",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96291.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96291__Model_Reconstruction_Using_Counterfactual_Explanations_A_Perspective_From_Polytope_Theory.pdf",
+    "sha256": "c6d0226ce14b759a01be6a129e3b06d988390d0ef492a6d4207384f9cb4758ea"
+  },
+  {
+    "id": "neurips-2024-96765",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96765.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96765__Better_by_default_Strong_pre_tuned_MLPs_and_boosted_trees_on_tabular_data.pdf",
+    "sha256": "6504f7c5479802c321df90ee32d6652c9cc1f4c823f59a68fd810a7d93ea6292"
+  },
+  {
+    "id": "2023.acl-long.817",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2023/2023.acl-long.817.pdf",
+    "canonical_path": "pdfs/ACL/2023/2023.acl-long.817__A_Survey_of_Deep_Learning_for_Mathematical_Reasoning.pdf",
+    "sha256": "051dc2467a5b625952560fbb494b106f8802961a9d680ea149066779706c7bb5"
+  },
+  {
+    "id": "2025.acl-long.119",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.119.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.119__Digital_Gatekeepers_Google_s_Role_in_Curating_Hashtags_and_Subreddits.pdf",
+    "sha256": "6084b8ce345e343f9a047653b338598da54eb286476536e6456598199fd40929"
+  },
+  {
+    "id": "2025.acl-long.1457",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.1457.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.1457__DRAMA_Diverse_Augmentation_from_Large_Language_Models_to_Smaller_Dense_Retrievers.pdf",
+    "sha256": "66223cee6c9baa0726af956d295ce9fc4c025d66280b4d367d840c9f89e1bfd2"
+  },
+  {
+    "id": "2025.acl-long.230",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.230.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.230__SafeRAG_Benchmarking_Security_in_Retrieval_Augmented_Generation_of_Large_Language_Model.pdf",
+    "sha256": "5bebdbe4b52f213eed8a3ef45775598d85f799f1b2f0028861591dd514703062"
+  },
+  {
+    "id": "2025.acl-long.281",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.281.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.281__Uncovering_Visual_Semantic_Psycholinguistic_Properties_from_the_Distributional_Structure_of_Text_Embeddin.pdf",
+    "sha256": "6baf1e511a0695934b87cb732278a717a1ca7d4a65b3d3d287640bd1d33260d3"
+  },
+  {
+    "id": "2025.acl-long.44",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.44.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.44__Re_ranking_Using_Large_Language_Models_for_Mitigating_Exposure_to_Harmful_Content_on_Social_Media_Platfor.pdf",
+    "sha256": "3338984bc0f17cc12db96f03f4e433561a2def1ea5e3853db62669e3a74b45fd"
+  },
+  {
+    "id": "2025.acl-long.723",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.723.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.723__Towards_Robust_ESG_Analysis_Against_Greenwashing_Risks_Aspect_Action_Analysis_with_Cross_Category_General.pdf",
+    "sha256": "e0bd54993e75a25596c5537d59d90c24eb5dfc3d485ec94497e8131ca5276424"
+  },
+  {
+    "id": "2025.acl-long.930",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-long.930.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-long.930__Enhancing_Lexicon_Based_Text_Embeddings_with_Large_Language_Models.pdf",
+    "sha256": "16e756a93eb990f45dc0fa3ee7696b89e93c2e7f780e7de74af4ed504e4a5e04"
+  },
+  {
+    "id": "2025.acl-short.71",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2025/2025.acl-short.71.pdf",
+    "canonical_path": "pdfs/ACL/2025/2025.acl-short.71__Revisiting_LLMs_as_Zero_Shot_Time_Series_Forecasters_Small_Noise_Can_Break_Large_Models.pdf",
+    "sha256": "0a14cf0fc904fd97c7535b31977c5330d3848289be265def78774478e8dfcaeb"
+  },
+  {
+    "id": "2026.acl-long.204",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.204.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.204__Scaling_Beyond_Context_A_Survey_of_Multimodal_Retrieval_Augmented_Generation_for_Document_Understanding.pdf",
+    "sha256": "93bd77c54e575e8b9b261225d2682c844dccbd43286eb9c20baaea6a97c7449e"
+  },
+  {
+    "id": "2026.acl-long.32",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.32.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.32__Augur_Modeling_Covariate_Causal_Associations_in_Time_Series_via_Large_Language_Models.pdf",
+    "sha256": "243f56e4bed487444c4ccb897e79e673a0810ece6bb14d088c3463b76d370425"
+  },
+  {
+    "id": "2026.acl-long.499",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.499.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.499__ODUTQA_MDC_A_Task_for_Open_Domain_Underspecified_Tabular_QA_with_Multi_turn_Dialogue_based_Clarification.pdf",
+    "sha256": "73bba835b10fe17957cbde9d8217d23e118d44eae022426ffd994ff865bb7761"
+  },
+  {
+    "id": "2026.acl-long.724",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.724.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.724__LAD_RAG_Layout_aware_Dynamic_RAG_for_Visually_Rich_Document_Understanding.pdf",
+    "sha256": "b382fb43b207170a6fcff17ae13b830d05b6abe5f17de98bfe2ca9c7f97261a4"
+  },
+  {
+    "id": "2022.emnlp-main.265",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2022/2022.emnlp-main.265.pdf",
+    "canonical_path": "pdfs/EMNLP/2022/2022.emnlp-main.265__MGDoc_Pre_training_with_Multi_granular_Hierarchy_for_Document_Image_Understanding.pdf",
+    "sha256": "9bf5a809e76cffa88bed6b9b19bb8c3f74f5bb4b7dacba5b9bac59735ac954e9"
+  },
+  {
+    "id": "2024.emnlp-main.185",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2024/2024.emnlp-main.185.pdf",
+    "canonical_path": "pdfs/EMNLP/2024/2024.emnlp-main.185__DocKD_Knowledge_Distillation_from_LLMs_for_Open_World_Document_Understanding_Models.pdf",
+    "sha256": "7c3d05a130d1e37588193bd9d54938222e665b9c857d5a7a854cd5cad25f692a"
+  },
+  {
+    "id": "2025.emnlp-main.192",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.192.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.192__RAG_Instruct_Boosting_LLMs_with_Diverse_Retrieval_Augmented_Instructions.pdf",
+    "sha256": "5d842251c6686c95df885f9d2df0a3aee2cd17e8e273d54ab49db218168735d6"
+  },
+  {
+    "id": "2025.emnlp-main.274",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.274.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.274__KG_RAG_Enhancing_GUI_Agent_Decision_Making_via_Knowledge_Graph_Driven_Retrieval_Augmented_Generation.pdf",
+    "sha256": "aa421a8d7056df3c1bb7f7f1bed339ae0776d9e100c7666d93d6821ab0c8d0ed"
+  },
+  {
+    "id": "2025.emnlp-main.337",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.337.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.337__VersaTune_An_Efficient_Data_Composition_Framework_for_Training_Multi_Capability_LLMs.pdf",
+    "sha256": "a2bbbf58a7737d3e4a5c6b508992bbef5febe12526539b9c336626c2a02d379e"
+  },
+  {
+    "id": "2025.emnlp-main.893",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2025/2025.emnlp-main.893.pdf",
+    "canonical_path": "pdfs/EMNLP/2025/2025.emnlp-main.893__DocAgent_An_Agentic_Framework_for_Multi_Modal_Long_Context_Document_Understanding.pdf",
+    "sha256": "34c2a5f239c3395c98efb7e7f87718930f77c251a65785dc63a1a809ce5f59bf"
+  },
+  {
+    "id": "2026.emnlp-main.1210",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1210.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1210__MDHB_A_Multi_Dimensional_Online_Harm_Detection_Benchmark_for_Proactive_Psychosocial_Risk_Forecasting.pdf",
+    "sha256": "21b02b7c2484672311a1f48a27bf393594d7474c262dc597458ab24c9563c259"
+  },
+  {
+    "id": "2026.emnlp-main.1329",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1329.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1329__CAME_Company_Aware_Evidence_Memory_Experts_for_Interpretable_Quarter_Ahead_Revenue_Forecasting.pdf",
+    "sha256": "2ccde6de7f51778f43f59131d847276994780f9af0ad305ae20f29faaa6f21e8"
+  },
+  {
+    "id": "2026.emnlp-main.1356",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1356.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1356__QReason_Query_Focused_Decoupled_Chain_of_Thought_for_Efficient_Passage_Reranking.pdf",
+    "sha256": "4ea942e2f08e58f37cc14c85c94159fbb32d1e52bf8a3b7527616e6055d67b32"
+  },
+  {
+    "id": "2026.emnlp-main.1361",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1361.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1361__ESGPT_A_Data_Centric_ESG_Language_Model_with_Unified_Instruction_and_Benchmark_Resources.pdf",
+    "sha256": "0abae0d04cf726dd58e050d565ae0f67a4b239201bf10a320415194fb40b08d8"
+  },
+  {
+    "id": "2026.emnlp-main.2123",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.2123.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.2123__Is_Position_Bias_in_Dense_Retrievers_Built_In_or_Learned_from_Data.pdf",
+    "sha256": "36eb6f3b155a6ae781dc68b00533da992798e8cecd7da9be343fe1f371d73ea1"
+  },
+  {
+    "id": "2026.emnlp-main.2246",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.2246.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.2246__RAG_Safety_Bench_Reliable_Evaluation_of_Retrieval_Augmented_LLM_Safety.pdf",
+    "sha256": "f5c709d7fc6935de714dbb1ddae7b98b08fd041350966bd98c3601c3044f0fea"
+  },
+  {
+    "id": "2026.emnlp-main.2572",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.2572.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.2572__Multimodal_Collaborative_Debate_for_Zero_Shot_Time_Series_Reasoning.pdf",
+    "sha256": "126423ea3d9ebe850aa66c3864e9936479f23dba86e0c099fbd6fc44cfd487a9"
+  },
+  {
+    "id": "2026.emnlp-main.352",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.352.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.352__Argus_Retriever_Vision_LLM_Late_Interaction_Retrieval_with_Region_Aware_Query_Conditioned_MoE_for_Visual_.pdf",
+    "sha256": "fc303ed14615a3657052c94f672c59a75ccc4014115120bc5d42a0f56b2391f0"
+  },
+  {
+    "id": "2026.emnlp-main.715",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.715.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.715__Align_Then_Adapt_Label_Efficient_Adapter_Learning_for_Asymmetric_Dense_Retrieval.pdf",
+    "sha256": "87e6c1550190fe4292abef6cf2e947136a4f4ab101dd6c45a8659dbcb71a5456"
+  },
+  {
+    "id": "2026.emnlp-main.805",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.805.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.805__TimePrune_Budgeted_Temporal_Pruning_for_Efficient_Multimodal_Time_Series_Analysis.pdf",
+    "sha256": "334e561b8d045b6a26e969d22e5500eb1a1a788ba3950d0db49a5b9f121c2459"
+  },
+  {
+    "id": "2026.emnlp-main.807",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.807.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.807__StratPrune_Cascade_Stratum_Pruning_for_Efficient_Time_Series_Reasoning.pdf",
+    "sha256": "b3278e538127dc41871c461ae0d2be74d4c1aef48160c995442900c2dc2e561a"
+  },
+  {
+    "id": "2026.emnlp-main.847",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.847.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.847__Why_Can_t_They_Remember_Uncovering_Representation_and_Retrieval_Bottlenecks_in_Multi_Turn_Acoustic_Memory.pdf",
+    "sha256": "475059ab07b31fbcbd1790ea551ca757c66b9970dad0be8764bc605051d23e05"
+  },
+  {
+    "id": "icml-2020-5810",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2020/icml-2020-5810.pdf",
+    "canonical_path": "pdfs/ICML/2020/icml-2020-5810__Performative_Prediction.pdf",
+    "sha256": "66c3f74995d6ade7e11554b034d0e33f5a07b877da73b555a26a2cd77b120f9b"
+  },
+  {
+    "id": "icml-2020-6202",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2020/icml-2020-6202.pdf",
+    "canonical_path": "pdfs/ICML/2020/icml-2020-6202__Transformer_Hawkes_Process.pdf",
+    "sha256": "ba6c72b19a1fc685a9d140210eaa31d4781f9a12c0b93c924091b4cd3de9a288"
+  },
+  {
+    "id": "icml-2020-6546",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2020/icml-2020-6546.pdf",
+    "canonical_path": "pdfs/ICML/2020/icml-2020-6546__Individual_Calibration_with_Randomized_Forecasting.pdf",
+    "sha256": "871e3b65f86af1c8a820e49cb27003f9e2f8f6b8236159db2cb4aec737688933"
+  },
+  {
+    "id": "icml-2021-10277",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-10277.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-10277__Neural_SDEs_as_Infinite_Dimensional_GANs.pdf",
+    "sha256": "72c9ff5fc8befd3e9eca4279d8da84208400dd8d36144efd35466184244ea060"
+  },
+  {
+    "id": "icml-2021-10295",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-10295.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-10295__Whittle_Networks_A_Deep_Likelihood_Model_for_Time_Series.pdf",
+    "sha256": "181852b0968790cada017b8ad563023e855cb4007b6ffe1b6ad9d69d5cc05e87"
+  },
+  {
+    "id": "icml-2023-23780",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-23780.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-23780__Individually_Fair_Learning_with_One_Sided_Feedback.pdf",
+    "sha256": "c51562cc29f2a1cb2701efb407e5ca750b4acf6c69f314d6e6e1eb569a24461f"
+  },
+  {
+    "id": "icml-2023-23913",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-23913.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-23913__Network_Effects_in_Performative_Prediction_Games.pdf",
+    "sha256": "b1c19ccf7cb6aed36b4684d8c649a82ee69a60e01320d7e7d022819d22c56065"
+  },
+  {
+    "id": "icml-2023-24844",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-24844.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-24844__Fair_yet_Asymptotically_Equal_Collaborative_Learning.pdf",
+    "sha256": "023970157631c4a98d2ec60ca6af35aa31baeb02d1390b12005bf758599222d3"
+  },
+  {
+    "id": "icml-2023-25239",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-25239.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-25239__FAIRER_Fairness_as_Decision_Rationale_Alignment.pdf",
+    "sha256": "deafac7d051102ed8274937ffe7c37f8ad1296f36cd71957720f2698fc69e866"
+  },
+  {
+    "id": "icml-2024-32667",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-32667.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-32667__Adapting_Static_Fairness_to_Sequential_Decision_Making_Bias_Mitigation_Strategies_towards_Equal_Long_term.pdf",
+    "sha256": "2d6759e4a65481e89e5c92a96b115090d60ed47ee94ad25bb05094ccfbd1e28b"
+  },
+  {
+    "id": "icml-2024-32734",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-32734.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-32734__TimeSiam_A_Pre_Training_Framework_for_Siamese_Time_Series_Modeling.pdf",
+    "sha256": "e67c95503b995bc77fd9756e3c69a48989870ec161158632574e0a23e8f95475"
+  },
+  {
+    "id": "icml-2024-33288",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33288.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-33288__A_decoder_only_foundation_model_for_time_series_forecasting.pdf",
+    "sha256": "1209844581f9d338db2ecd74b6dda26c4bd9ad5bb3da5962aa8dbc308cea4337"
+  },
+  {
+    "id": "icml-2024-33598",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33598.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-33598__Discovering_Mixtures_of_Structural_Causal_Models_from_Time_Series_Data.pdf",
+    "sha256": "60dbdd030f859e43f3fa49b00b3bbbf68943165c7c03949f40857c709fc788ee"
+  },
+  {
+    "id": "icml-2024-34530",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34530.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-34530__MOMENT_A_Family_of_Open_Time_series_Foundation_Models.pdf",
+    "sha256": "a715168c6d02cf14d67cf2d7ab4a62d28c90f0a66c89d6aab40e622d82bfb2f2"
+  },
+  {
+    "id": "icml-2025-4QcFfTu6UT",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-4QcFfTu6UT.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-4QcFfTu6UT__Winner_takes_all_for_Multivariate_Probabilistic_Time_Series_Forecasting.pdf",
+    "sha256": "df1d0a9cfacd0bb10a80670a0052cfab3eb298154f5f318bc578a98b6fc82db0"
+  },
+  {
+    "id": "icml-2025-CLF25dahgA",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-CLF25dahgA.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-CLF25dahgA__LaRA_Benchmarking_Retrieval_Augmented_Generation_and_Long_Context_LLMs_No_Silver_Bullet_for_LC_or_RAG_Rou.pdf",
+    "sha256": "632b982fdc2ff78cf33e7819c61309a86ea3e9f2cb4781e0466524d61184a1ea"
+  },
+  {
+    "id": "icml-2025-RAa8muWVhW",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-RAa8muWVhW.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-RAa8muWVhW__Advancing_Constrained_Monotonic_Neural_Networks_Achieving_Universal_Approximation_Beyond_Bounded_Activati.pdf",
+    "sha256": "dbff1943e5fae72c48a82d497d0d346955efd8cc4286f8babb1db1bd8e2256bc"
+  },
+  {
+    "id": "icml-2025-VWjkpro9gv",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-VWjkpro9gv.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-VWjkpro9gv__Learning_Monotonic_Probabilities_with_a_Generative_Cost_Model.pdf",
+    "sha256": "a5a6fdf6816b343e7fd49bb1cfc7ce373dd9103fc9e022ad3417d31681183638"
+  },
+  {
+    "id": "icml-2025-emkdmORaj4",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-emkdmORaj4.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-emkdmORaj4__Shifting_Time_Time_series_Forecasting_with_Khatri_Rao_Neural_Operators.pdf",
+    "sha256": "8668c21a2a69d1d471ccb215830647d07fba0aaf46c42cc2bb858c17dc061442"
+  },
+  {
+    "id": "icml-2025-oJQWvsStNh",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-oJQWvsStNh.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-oJQWvsStNh__Stable_Fair_Graph_Representation_Learning_with_Lipschitz_Constraint.pdf",
+    "sha256": "8cc8feeef00a3c7de73fa9a5fe35e05a6e816aef8e9f3b2d7768d3d146bbcc6b"
+  },
+  {
+    "id": "icml-2025-uxzgGLWPj2",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-uxzgGLWPj2.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-uxzgGLWPj2__In_Context_Fine_Tuning_for_Time_Series_Foundation_Models.pdf",
+    "sha256": "381a3dda875aa846c423e6d86ebb3afc86e44244470f6328d91cb3d213205b4c"
+  },
+  {
+    "id": "icml-2026-3ExTD9F0u1",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-3ExTD9F0u1.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-3ExTD9F0u1__TFRBench_A_Reasoning_Benchmark_for_Evaluating_Forecasting_Systems.pdf",
+    "sha256": "f692d68f371917d3b7d7dfaeee3d9c2239de2d0ce107b76e478fe896e1a6528b"
+  },
+  {
+    "id": "icml-2026-auG2Cr76ed",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-auG2Cr76ed.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-auG2Cr76ed__Rethinking_Multimodal_Time_Series_Forecasting_Evaluation.pdf",
+    "sha256": "0bafba484d8d6a730b0d644949438e48ec0be77652f84372f582244140499dfa"
+  },
+  {
+    "id": "neurips-2017-8820",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2017/neurips-2017-8820.pdf",
+    "canonical_path": "pdfs/NeurIPS/2017/neurips-2017-8820__From_Parity_to_Preference_based_Notions_of_Fairness_in_Classification.pdf",
+    "sha256": "aff72df0c29adc003c9c3e9215ea9cde49f1eb4925f9a1f7c02a8482e1ad0f48"
+  },
+  {
+    "id": "neurips-2018-11126",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2018/neurips-2018-11126.pdf",
+    "canonical_path": "pdfs/NeurIPS/2018/neurips-2018-11126__A_Block_Coordinate_Ascent_Algorithm_for_Mean_Variance_Optimization.pdf",
+    "sha256": "809263b78863e7ea0b3588247e26f13eb80880537ee05bc6259a8b0aeb225d32"
+  },
+  {
+    "id": "neurips-2019-13413",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2019/neurips-2019-13413.pdf",
+    "canonical_path": "pdfs/NeurIPS/2019/neurips-2019-13413__Fully_Neural_Network_based_Model_for_General_Temporal_Point_Processes.pdf",
+    "sha256": "ddc9c01b59b714693dbe763d3b55258cac3d131bc8e539cd3fc00796c1657808"
+  },
+  {
+    "id": "neurips-2019-13679",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2019/neurips-2019-13679.pdf",
+    "canonical_path": "pdfs/NeurIPS/2019/neurips-2019-13679__Time_series_Generative_Adversarial_Networks.pdf",
+    "sha256": "7e40fc5bfde424ee7297d358e30a1b7eb8795ae5c221d3f0bacac71277742df4"
+  },
+  {
+    "id": "neurips-2020-16804",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2020/neurips-2020-16804.pdf",
+    "canonical_path": "pdfs/NeurIPS/2020/neurips-2020-16804__Stochastic_Optimization_for_Performative_Prediction.pdf",
+    "sha256": "98a5bdbbf976e53096c198eaf580db1537d154a56852d5e5e224367301f71ef8"
+  },
+  {
+    "id": "neurips-2020-17266",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2020/neurips-2020-17266.pdf",
+    "canonical_path": "pdfs/NeurIPS/2020/neurips-2020-17266__Certified_Monotonic_Neural_Networks.pdf",
+    "sha256": "869a1b3ba6929991414c527519bd1e78e32154f31b05f2fe5f4ce892c9c9a23c"
+  },
+  {
+    "id": "neurips-2020-18147",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2020/neurips-2020-18147.pdf",
+    "canonical_path": "pdfs/NeurIPS/2020/neurips-2020-18147__Interior_Point_Solving_for_LP_based_prediction_optimisation.pdf",
+    "sha256": "f892b678020452afa4cbdb037717d89b5f20e92beb14688a4ab9a912a7f8388a"
+  },
+  {
+    "id": "neurips-2021-Tc6Uk03Te7g",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-Tc6Uk03Te7g.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-Tc6Uk03Te7g__Optimizing_Conditional_Value_At_Risk_of_Black_Box_Functions.pdf",
+    "sha256": "a645039ab8c15e0395ab4e5b1d18e7d38331c0169c615b04178decae9e471de7"
+  },
+  {
+    "id": "neurips-2021-UMcd6l1msUK",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-UMcd6l1msUK.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-UMcd6l1msUK__UniDoc_Unified_Pretraining_Framework_for_Document_Understanding.pdf",
+    "sha256": "65e6e30d0dd00460b356415a3568dc29a7c760079a3cf1b1454654123a7abfe3"
+  },
+  {
+    "id": "neurips-2021-tJ_CO8orSI",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-tJ_CO8orSI.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-tJ_CO8orSI__Adjusting_for_Autocorrelated_Errors_in_Neural_Networks_for_Time_Series.pdf",
+    "sha256": "de4cb47303421d5dfba4859be1291dbab4e5f216fe5eadfe48d8f46c780624b8"
+  },
+  {
+    "id": "neurips-2021-x_sdq4ZYSOl",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-x_sdq4ZYSOl.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-x_sdq4ZYSOl__Improved_Regret_Bounds_for_Tracking_Experts_with_Memory.pdf",
+    "sha256": "fa9945f1b98520b312e518f7fb633d4d72b0824a6b9c5298f70826685d0c5ef5"
+  },
+  {
+    "id": "neurips-2022-MbBTrAvee-N",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-MbBTrAvee-N.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-MbBTrAvee-N__Hedging_as_Reward_Augmentation_in_Probabilistic_Graphical_Models.pdf",
+    "sha256": "1b1cdbf48f62b1cd4e05ca4817c2bee216caf09a98e9492635f72292ee85ecf1"
+  },
+  {
+    "id": "neurips-2022-ez6VHWvuXEx",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-ez6VHWvuXEx.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-ez6VHWvuXEx__GT_GAN_General_Purpose_Time_Series_Synthesis_with_Generative_Adversarial_Networks.pdf",
+    "sha256": "bf90f6c866c2db145bda74d5f4a94ac2c1707664ed8a84c551cbec5dbf4d1e4f"
+  },
+  {
+    "id": "neurips-2023-69896",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-69896.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-69896__Conformal_PID_Control_for_Time_Series_Prediction.pdf",
+    "sha256": "a100caac0c7944b7087a32996dd3aeb1e56af7c88a2414fee00d0542f00d4ac6"
+  },
+  {
+    "id": "neurips-2023-69976",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-69976.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-69976__BasisFormer_Attention_based_Time_Series_Forecasting_with_Learnable_and_Interpretable_Basis.pdf",
+    "sha256": "e634613a1c548bbafea70eff1d4704ebc12d5e4a1c47339b088986ac9f32b456"
+  },
+  {
+    "id": "neurips-2023-71089",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-71089.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-71089__Data_Minimization_at_Inference_Time.pdf",
+    "sha256": "0668210a4027f4d5223b20089c092a4e28d126f8c1dde9f3a781da83b201c519"
+  },
+  {
+    "id": "neurips-2023-71304",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-71304.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-71304__ContiFormer_Continuous_Time_Transformer_for_Irregular_Time_Series_Modeling.pdf",
+    "sha256": "217f6dee4d66fbcfae1c3b07772b31f82b1d409162fc5e89097201b94c2e15f7"
+  },
+  {
+    "id": "neurips-2024-93027",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93027.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-93027__Lips_Are_Lying_Spotting_the_Temporal_Inconsistency_between_Audio_and_Visual_in_Lip_Syncing_DeepFakes.pdf",
+    "sha256": "6a2047b1c27cf6aeb292ca66045a8b12a53979b79a6757fd371be1d20137e883"
+  },
+  {
+    "id": "neurips-2024-93351",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93351.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-93351__SEL_BALD_Deep_Bayesian_Active_Learning_with_Selective_Labels.pdf",
+    "sha256": "5c682aa90e8af152708b824078103186e3a91edaed236d0d57b9892156a9a4aa"
+  },
+  {
+    "id": "neurips-2024-94286",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-94286.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-94286__Fairness_Aware_Meta_Learning_via_Nash_Bargaining.pdf",
+    "sha256": "6d9cc9a40a82a4df48aeb906db074e01dfed422dd0d6916393fdb8eaf0a62cae"
+  },
+  {
+    "id": "neurips-2024-95539",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95539.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-95539__From_Similarity_to_Superiority_Channel_Clustering_for_Time_Series_Forecasting.pdf",
+    "sha256": "28ffb18c16f02eb1e193edff3a311e688d5921f8e92eb6cda8dacfc558f39930"
+  },
+  {
+    "id": "neurips-2024-95629",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95629.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-95629__Injecting_Undetectable_Backdoors_in_Obfuscated_Neural_Networks_and_Language_Models.pdf",
+    "sha256": "f843593e0b979ea35cd1fbf99d11377b896e858e111456497fdbc42564425826"
+  },
+  {
+    "id": "neurips-2024-96051",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96051.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96051__Distributionally_Robust_Performative_Prediction.pdf",
+    "sha256": "bec30db605b2901e0927571b7cda3642f56cc2cdca0918906b23367c1b2f8e5c"
+  },
+  {
+    "id": "neurips-2024-96085",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96085.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96085__Are_Language_Models_Actually_Useful_for_Time_Series_Forecasting.pdf",
+    "sha256": "3a989e2458cc98463bc84ee3aedd838f4363ce2b05d610166effe82c9f2c08e2"
+  },
+  {
+    "id": "neurips-2024-96221",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96221.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96221__DeformableTST_Transformer_for_Time_Series_Forecasting_without_Over_reliance_on_Patching.pdf",
+    "sha256": "ad6e251ae7c0ee502f212062dde17bf0caae96a41658c0560f11d7c05b73e6b4"
+  },
+  {
+    "id": "neurips-2024-96595",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96595.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96595__FIDE_Frequency_Inflated_Conditional_Diffusion_Model_for_Extreme_Aware_Time_Series_Generation.pdf",
+    "sha256": "d8e172f07b15ec6b9a3a2f7329682245cb4c69341a65bfbaf75be6d9fdc212ab"
+  },
+  {
+    "id": "neurips-2024-96819",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96819.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96819__Utilizing_Image_Transforms_and_Diffusion_Models_for_Generative_Modeling_of_Short_and_Long_Time_Series.pdf",
+    "sha256": "da358b79dca398c3277b6e2ec9c18b99e4a2a979d7e26274f4c3f97996c0d54a"
+  },
+  {
+    "id": "2022.acl-long.534",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2022/2022.acl-long.534.pdf",
+    "canonical_path": "pdfs/ACL/2022/2022.acl-long.534__LiLT_A_Simple_yet_Effective_Language_Independent_Layout_Transformer_for_Structured_Document_Understanding.pdf",
+    "sha256": "36cdf026f7a0404711f12ffdffa977194a9651fd552c46509f0c5a41c74396cf"
+  },
+  {
+    "id": "2026.acl-long.1014",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.1014.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.1014__Markovian_Linguistic_Temporal_Bridge_Unlocking_the_Potential_of_LLMs_for_Time_Series_Forecasting.pdf",
+    "sha256": "95702a8c217b7b4601285f3cafff4f43598ab1875ba2791f61e5f7e9cfbccde2"
+  },
+  {
+    "id": "2026.acl-long.1208",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.1208.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.1208__TimeSAF_Towards_LLM_Guided_Semantic_Asynchronous_Fusion_for_Time_Series_Forecasting.pdf",
+    "sha256": "fd88c01a8a23b7ac2e8ba4c4a31295233f2c302294857067f9d43bb3400f7f77"
+  },
+  {
+    "id": "2026.acl-long.1396",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.1396.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.1396__Towards_Interpretable_Tabular_Reasoning_Enhancing_LLM_Reasoning_on_Tabular_Data_with_Pre_Constructed_Logi.pdf",
+    "sha256": "60cc1c86c350a9cb7ccd66b08f60a2c4431f2184b583ca12da0b67846cedc83d"
+  },
+  {
+    "id": "2026.emnlp-main.1476",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1476.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1476__SymboLLM_FE_LLM_Accelerated_Symbolic_Regression_for_Automated_Feature_Engineering_on_Tabular_Data.pdf",
+    "sha256": "64031de7132d123ff3e2eccfc05f4f16b25f1089c20309d0db20ec22698ccd76"
+  },
+  {
+    "id": "2026.emnlp-main.1822",
+    "screening_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1822.pdf",
+    "canonical_path": "pdfs/EMNLP/2026/2026.emnlp-main.1822__Zero_Shot_Tabular_Learning_via_Hypergraph_Reasoning_with_LLMs.pdf",
+    "sha256": "c7868b68fa8e42d7b88ee7562520a930f6c957e8a8fe74b53c5ef26bd9333174"
+  },
+  {
+    "id": "icml-2021-8591",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-8591.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-8591__Autoregressive_Denoising_Diffusion_Models_for_Multivariate_Probabilistic_Time_Series_Forecasting.pdf",
+    "sha256": "41d2446ebcee84621baba8cf5621d7b44a722a4bb0bacab3171e07c2a75520a4"
+  },
+  {
+    "id": "icml-2021-8895",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-8895.pdf",
+    "canonical_path": "pdfs/ICML/2021/icml-2021-8895__Variance_Reduced_Training_with_Stratified_Sampling_for_Forecasting_Models.pdf",
+    "sha256": "7364e07d2e0ef3b78f91e065633ef3e3a2e1bfdd42da94c408592b77afe4ea00"
+  },
+  {
+    "id": "icml-2022-16594",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2022/icml-2022-16594.pdf",
+    "canonical_path": "pdfs/ICML/2022/icml-2022-16594__TACTiS_Transformer_Attentional_Copulas_for_Time_Series.pdf",
+    "sha256": "c238df8205c98b99e7b22a521747f712a77d1e521bbae81346b69a23258dc066"
+  },
+  {
+    "id": "icml-2022-17986",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2022/icml-2022-17986.pdf",
+    "canonical_path": "pdfs/ICML/2022/icml-2022-17986__FEDformer_Frequency_Enhanced_Decomposed_Transformer_for_Long_term_Series_Forecasting.pdf",
+    "sha256": "3cb462053b9a7d28fd7e6510ceff76381ca64cf2e304b24d9d2107629a06d318"
+  },
+  {
+    "id": "icml-2023-23520",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-23520.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-23520__When_do_Minimax_fair_Learning_and_Empirical_Risk_Minimization_Coincide.pdf",
+    "sha256": "13cca040c806e46dd6549cbf700d3cf65b7232f556607b2bcbc9c1723611e825"
+  },
+  {
+    "id": "icml-2023-24424",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-24424.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-24424__Learning_Deep_Time_index_Models_for_Time_Series_Forecasting.pdf",
+    "sha256": "0cb41aac6e1ebb48b96fa3fb96669586ce5eb7cf9d47dcf4616d6ed01948d33c"
+  },
+  {
+    "id": "icml-2023-24503",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-24503.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-24503__Deep_Latent_State_Space_Models_for_Time_Series_Generation.pdf",
+    "sha256": "c9cd58fbb9b2bb8f92511180376179815530c408a6b2daf9274ee7ad1ec62439"
+  },
+  {
+    "id": "icml-2023-24910",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-24910.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-24910__Theoretical_Guarantees_of_Learning_Ensembling_Strategies_with_Applications_to_Time_Series_Forecasting.pdf",
+    "sha256": "e3b1a8d6f4782d26a78295753624d826fe17c344c6da976b11ce220a5fcbf668"
+  },
+  {
+    "id": "icml-2023-25084",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-25084.pdf",
+    "canonical_path": "pdfs/ICML/2023/icml-2023-25084__Non_autoregressive_Conditional_Diffusion_Models_for_Time_Series_Prediction.pdf",
+    "sha256": "826a4a802b22b5e802d7aa138e1c85a42858b8e79b1eac45be3ec01c32542929"
+  },
+  {
+    "id": "icml-2024-32697",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-32697.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-32697__An_Analysis_of_Linear_Time_Series_Forecasting_Models.pdf",
+    "sha256": "1ea66ff7550df1460526941ff90d1ed288a6f2bc8379562026441b9aee056f4a"
+  },
+  {
+    "id": "icml-2024-33464",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33464.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-33464__Large_Language_Models_Can_Automatically_Engineer_Features_for_Few_Shot_Tabular_Learning.pdf",
+    "sha256": "f55138dfd348c252e9b868c366c7e32d520404e8ec2d84b23f5affd22a5827e4"
+  },
+  {
+    "id": "icml-2024-33594",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33594.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-33594__SIN_Selective_and_Interpretable_Normalization_for_Long_Term_Time_Series_Forecasting.pdf",
+    "sha256": "93b00d2340c110df5b3a66c53acf5223244d504ec0711d56a1a49d9197aa2661"
+  },
+  {
+    "id": "icml-2024-34011",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34011.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-34011__Time_Series_Forecasting_for_Out_of_Distribution_Generalization_Using_Invariant_Learning.pdf",
+    "sha256": "a8c1dc163a5fd79c25164bfa1514683ff79d7bdbdf7346a213c36c112eb7c98f"
+  },
+  {
+    "id": "icml-2024-34691",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34691.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-34691__TSLANet_Rethinking_Transformers_for_Time_Series_Representation_Learning.pdf",
+    "sha256": "09ebe9bfd2efe4b629dac7dfd6b57090f27c3257dbadf4bf042695b3db831046"
+  },
+  {
+    "id": "icml-2024-34729",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34729.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-34729__Probabilistic_Time_Series_Modeling_with_Decomposable_Denoising_Diffusion_Model.pdf",
+    "sha256": "7c64391119d2b8472ec60141cea8efce849ced47ca992cd767faaf0ef3d3861c"
+  },
+  {
+    "id": "icml-2024-34815",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34815.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-34815__Loss_Shaping_Constraints_for_Long_Term_Time_Series_Forecasting.pdf",
+    "sha256": "38a4d644c229928725b68c2ac9de06385f4033e273835725624cc5a0cd8dbe02"
+  },
+  {
+    "id": "icml-2024-35137",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-35137.pdf",
+    "canonical_path": "pdfs/ICML/2024/icml-2024-35137__CATS_Enhancing_Multivariate_Time_Series_Forecasting_by_Constructing_Auxiliary_Time_Series_as_Exogenous_Va.pdf",
+    "sha256": "b4b580a0417ff9adb0e2b037db2a7863ebf93d016b29c76bf441bf5fe1fd9745"
+  },
+  {
+    "id": "icml-2025-5DSj3MfWrB",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-5DSj3MfWrB.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-5DSj3MfWrB__VisionTS_Visual_Masked_Autoencoders_Are_Free_Lunch_Zero_Shot_Time_Series_Forecasters.pdf",
+    "sha256": "16de0783febf439099a0f85b78c0c91e61ddaf8eb630107e41e3c4d5fcbd796f"
+  },
+  {
+    "id": "icml-2025-71Mm8GDGYd",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-71Mm8GDGYd.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-71Mm8GDGYd__K_2_VAE_A_Koopman_Kalman_Enhanced_Variational_AutoEncoder_for_Probabilistic_Time_Series_Forecasting.pdf",
+    "sha256": "1593aa9f16e9aa2a33eb6231fe45f713fac8b5f7379227a5703b6720c399411e"
+  },
+  {
+    "id": "icml-2025-GUDnecJdJU",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-GUDnecJdJU.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-GUDnecJdJU__Retrieval_Augmented_Time_Series_Forecasting.pdf",
+    "sha256": "275d30764093ad543cea53981933844ad927d29cb44e03ce1b91e8732392d047"
+  },
+  {
+    "id": "icml-2025-GhTdNOMfOD",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-GhTdNOMfOD.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-GhTdNOMfOD__TimeBase_The_Power_of_Minimalism_in_Efficient_Long_term_Time_Series_Forecasting.pdf",
+    "sha256": "ae49fe3272953047be604abc49e0670657a21544c1fb292119a30219f5384f25"
+  },
+  {
+    "id": "icml-2025-LLk1qYQatJ",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-LLk1qYQatJ.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-LLk1qYQatJ__LETS_Forecast_Learning_Embedology_for_Time_Series_Forecasting.pdf",
+    "sha256": "46f7809c10f2d468572f8dd3fd43a8334b153eea487c7cb93d5ef1a75ae9c6a5"
+  },
+  {
+    "id": "icml-2025-PqpPrlAQqa",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-PqpPrlAQqa.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-PqpPrlAQqa__Channel_Normalization_for_Time_Series_Channel_Identification.pdf",
+    "sha256": "2221b0c1fc5f8401a084182e92c3ea8f272a98840f80cd050f905f041e4da6ad"
+  },
+  {
+    "id": "icml-2025-VfoKOD65Zq",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-VfoKOD65Zq.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-VfoKOD65Zq__LangTime_A_Language_Guided_Unified_Model_for_Time_Series_Forecasting_with_Proximal_Policy_Optimization.pdf",
+    "sha256": "4340b7d0ae2e0af4390dad75a1d20e91439d5b79f998f80fdae9ffe88a5dab63"
+  },
+  {
+    "id": "icml-2025-Z5FJsp1U3Z",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-Z5FJsp1U3Z.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-Z5FJsp1U3Z__LightGTS_A_Lightweight_General_Time_Series_Forecasting_Model.pdf",
+    "sha256": "29f029bdd8938cf24dbfd426181636aa764f49bb503ffbbd3232ce8263afe8d4"
+  },
+  {
+    "id": "icml-2025-goVzfYtj58",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-goVzfYtj58.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-goVzfYtj58__Exploring_Representations_and_Interventions_in_Time_Series_Foundation_Models.pdf",
+    "sha256": "3236765d12b57d19803abfd38cea1f23314b5a46f47949c64ec9877dca61ddfd"
+  },
+  {
+    "id": "icml-2025-gwlJgoq5QZ",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-gwlJgoq5QZ.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-gwlJgoq5QZ__Slimming_the_Fat_Tail_Morphing_Flow_for_Adaptive_Time_Series_Modeling.pdf",
+    "sha256": "80a630095ed9e563aa398ee2f0d1deb8c60e273ff4421079ee2ca208a74125d4"
+  },
+  {
+    "id": "icml-2025-ih2WuBT1Fn",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-ih2WuBT1Fn.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-ih2WuBT1Fn__Context_is_Key_A_Benchmark_for_Forecasting_with_Essential_Textual_Information.pdf",
+    "sha256": "cdc9dc87c95f91e680d0d4a8e35c48606699619924d637b5b45d6a9149e69b31"
+  },
+  {
+    "id": "icml-2025-kcUNMKqrCg",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-kcUNMKqrCg.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-kcUNMKqrCg__Conditional_Diffusion_Model_with_Nonlinear_Data_Transformation_for_Time_Series_Forecasting.pdf",
+    "sha256": "d2c14479e9d3b35be9b03d135838ff33b40c8195acb2fac485a1252246526e9f"
+  },
+  {
+    "id": "icml-2025-p1KkW2kgDp",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-p1KkW2kgDp.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-p1KkW2kgDp__Patch_wise_Structural_Loss_for_Time_Series_Forecasting.pdf",
+    "sha256": "0532fb3ef594c6e59f3ef10ffb2de47ff9871e2c745474e3cd4620e353a1def9"
+  },
+  {
+    "id": "icml-2025-s69Ei2VrIW",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-s69Ei2VrIW.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-s69Ei2VrIW__TimePro_Efficient_Multivariate_Long_term_Time_Series_Forecasting_with_Variable_and_Time_Aware_Hyper_state.pdf",
+    "sha256": "5533f7dac43e3bb0bff8cc4c850104de1049710486b9871c20d0966e26f98372"
+  },
+  {
+    "id": "icml-2025-uRD6wkqulN",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-uRD6wkqulN.pdf",
+    "canonical_path": "pdfs/ICML/2025/icml-2025-uRD6wkqulN__BRIDGE_Bootstrapping_Text_to_Control_Time_Series_Generation_via_Multi_Agent_Iterative_Optimization_and_Di.pdf",
+    "sha256": "5ff163c756cced5683daab0dc8d9d860eb128e87734d40b30e68fdf963bbdeed"
+  },
+  {
+    "id": "icml-2026-B8bAYc4COx",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-B8bAYc4COx.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-B8bAYc4COx__What_if_Tomorrow_is_the_World_Cup_Final_Counterfactual_Time_Series_Forecasting_with_Textual_Conditions.pdf",
+    "sha256": "3cfad79739f7752cd81ace10d15b3df1ac1c4eb2f75ddbafd20b71b5302e6165"
+  },
+  {
+    "id": "icml-2026-JabkBcaoa9",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-JabkBcaoa9.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-JabkBcaoa9__Dynamic_TMoE_A_Drift_Aware_Dynamic_Mixture_of_Experts_Framework_for_Non_Stationary_Time_Series_Forecastin.pdf",
+    "sha256": "4a8f2315a92ef87d6f28e6e8a59aaad8a30c10a147ee87631030b9bf0137a4b7"
+  },
+  {
+    "id": "icml-2026-XAyI76nJRt",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-XAyI76nJRt.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-XAyI76nJRt__Beyond_Extrapolation_Knowledge_Utilization_Paradigm_with_Bidirectional_Inspiration_for_Time_Series_Foreca.pdf",
+    "sha256": "fd53ba93663922c419d34004cf2ee7b347b72544305cd6689b0d2bd87aec2bea"
+  },
+  {
+    "id": "neurips-2021-J4gRj6d5Qm",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-J4gRj6d5Qm.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-J4gRj6d5Qm__Autoformer_Decomposition_Transformers_with_Auto_Correlation_for_Long_Term_Series_Forecasting.pdf",
+    "sha256": "30210528d245019177122490b7c1cdd70c13f0d97e237e3153fbc4780b0889af"
+  },
+  {
+    "id": "neurips-2021-VD3TMzyxKK",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-VD3TMzyxKK.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-VD3TMzyxKK__Probabilistic_Forecasting_A_Level_Set_Approach.pdf",
+    "sha256": "fa682e9cb39f1e1bd8ea6636d09b61386f178daf1ddcc293930728f309ab7f1e"
+  },
+  {
+    "id": "neurips-2021-d3k38LTDCyO",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-d3k38LTDCyO.pdf",
+    "canonical_path": "pdfs/NeurIPS/2021/neurips-2021-d3k38LTDCyO__Well_tuned_Simple_Nets_Excel_on_Tabular_Datasets.pdf",
+    "sha256": "3431ba8c85e419ec8150eac670be34ea1f4ca318928f87849366d52464e7fdb5"
+  },
+  {
+    "id": "neurips-2022-65022",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-65022.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-65022__Multivariate_Time_Series_Forecasting_with_Temporal_Polynomial_Graph_Neural_Networks.pdf",
+    "sha256": "01d223b6f33a046f311d300f2ae798b3359550e82e51986716b2c22f68bfc489"
+  },
+  {
+    "id": "neurips-2022-AyajSjTAzmg",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-AyajSjTAzmg.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-AyajSjTAzmg__SCINet_Time_Series_Modeling_and_Forecasting_with_Sample_Convolution_and_Interaction.pdf",
+    "sha256": "a74cd973a108d53c9528f702129e55a3f602575d6438030e0c86bbd0a1487798"
+  },
+  {
+    "id": "neurips-2022-C9yUwd72yy",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-C9yUwd72yy.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-C9yUwd72yy__Learning_Latent_Seasonal_Trend_Representations_for_Time_Series_Forecasting.pdf",
+    "sha256": "55373a02eb77d1190dca29139a89c6b2e15e0b9c6f68c9a732cd618532da80d4"
+  },
+  {
+    "id": "neurips-2022-ucNDIDRNjjv",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-ucNDIDRNjjv.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-ucNDIDRNjjv__Non_stationary_Transformers_Exploring_the_Stationarity_in_Time_Series_Forecasting.pdf",
+    "sha256": "21e555c46592edc51207dce42ac666b9f22a568bb4ca219d3cee3eae22287638"
+  },
+  {
+    "id": "neurips-2022-vsNQkquutZk",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-vsNQkquutZk.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-vsNQkquutZk__WaveBound_Dynamic_Error_Bounds_for_Stable_Time_Series_Forecasting.pdf",
+    "sha256": "5ef270f41420591be59e626ff13694e8b19a8f68934c0227df11aa69e898bff2"
+  },
+  {
+    "id": "neurips-2022-zTQdHSQUQWc",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-zTQdHSQUQWc.pdf",
+    "canonical_path": "pdfs/NeurIPS/2022/neurips-2022-zTQdHSQUQWc__FiLM_Frequency_improved_Legendre_Memory_Model_for_Long_term_Time_Series_Forecasting.pdf",
+    "sha256": "95b6e14220e015d64d2ce8c653458af1707d20c1c1e1b7f4dc093edbb3316f79"
+  },
+  {
+    "id": "neurips-2023-70010",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70010.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-70010__CrossGNN_Confronting_Noisy_Multivariate_Time_Series_Via_Cross_Interaction_Refinement.pdf",
+    "sha256": "6ff12c9ff7a28d985d083ceb5025dd64df67c3b304400f0818c7b89036780e4c"
+  },
+  {
+    "id": "neurips-2023-70200",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70200.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-70200__ForecastPFN_Synthetically_Trained_Zero_Shot_Forecasting.pdf",
+    "sha256": "7f3a68573c7239f79ff2449445ea0e63567d5f05e84a06dbaba4fcc9d0e5a19d"
+  },
+  {
+    "id": "neurips-2023-70377",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70377.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-70377__Predict_Refine_Synthesize_Self_Guiding_Diffusion_Models_for_Probabilistic_Time_Series_Forecasting.pdf",
+    "sha256": "3927694c9caa6ff103caca32c7954bb4f221bb4292fcacc38604ff097c571d74"
+  },
+  {
+    "id": "neurips-2023-70726",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70726.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-70726__Frequency_domain_MLPs_are_More_Effective_Learners_in_Time_Series_Forecasting.pdf",
+    "sha256": "6990bb49204bd95144ca3b9b9070accdaad1bf4187728158aa49ecd862414b33"
+  },
+  {
+    "id": "neurips-2023-72562",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-72562.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-72562__Koopa_Learning_Non_stationary_Time_Series_Dynamics_with_Koopman_Predictors.pdf",
+    "sha256": "324b5cab7cd89957523c9f20e88b6fff72afdaf670ec16c7d69742a8a82e824a"
+  },
+  {
+    "id": "neurips-2023-72816",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-72816.pdf",
+    "canonical_path": "pdfs/NeurIPS/2023/neurips-2023-72816__Adaptive_Normalization_for_Non_stationary_Time_Series_Forecasting_A_Temporal_Slice_Perspective.pdf",
+    "sha256": "de7a0e06cf1572867a1c824477d86bec79bb75366156d9937593bdc02a51c460"
+  },
+  {
+    "id": "neurips-2024-93257",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93257.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-93257__FilterNet_Harnessing_Frequency_Filters_for_Time_Series_Forecasting.pdf",
+    "sha256": "150b973be47938090c74a091b48366465faf68a3197cd61ecb4d788892ebd1f1"
+  },
+  {
+    "id": "neurips-2024-93264",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93264.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-93264__ElasTST_Towards_Robust_Varied_Horizon_Forecasting_with_Elastic_Time_Series_Transformer.pdf",
+    "sha256": "dcddef7ff33f32b54fa0d9bdd55551f429b560e6324729ef18f23c546eb67eb4"
+  },
+  {
+    "id": "neurips-2024-93316",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93316.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-93316__From_News_to_Forecast_Integrating_Event_Analysis_in_LLM_Based_Time_Series_Forecasting_with_Reflection.pdf",
+    "sha256": "24f9e84564b03d3cbc40122417d4adbf3dff2a74254684503adb8024873f2eb8"
+  },
+  {
+    "id": "neurips-2024-93680",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93680.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-93680__Chimera_Effectively_Modeling_Multivariate_Time_Series_with_2_Dimensional_State_Space_Models.pdf",
+    "sha256": "554d59e6c1642e69e4bd1438a80225883be3f8d5ef77ef5fee4c303a1e311957"
+  },
+  {
+    "id": "neurips-2024-94220",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-94220.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-94220__Attractor_Memory_for_Long_Term_Time_Series_Forecasting_A_Chaos_Perspective.pdf",
+    "sha256": "a8bf8c743b3ef0df71fb4120ffca9fbe36f5058c8ad051433541251e11815275"
+  },
+  {
+    "id": "neurips-2024-94305",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-94305.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-94305__Introducing_Spectral_Attention_for_Long_Range_Dependency_in_Time_Series_Forecasting.pdf",
+    "sha256": "13b8ceb53f4cd2d74993a84bd3e9f6379e1fe824546f86fd7a3f3d971ed36309"
+  },
+  {
+    "id": "neurips-2024-94440",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-94440.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-94440__Multivariate_Probabilistic_Time_Series_Forecasting_with_Correlated_Errors.pdf",
+    "sha256": "f82ad13b81d6953ac7b482839b0dc4c44cfb6b2d17d2e48d0fc3aa3bde210694"
+  },
+  {
+    "id": "neurips-2024-95063",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95063.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-95063__Frequency_Adaptive_Normalization_For_Non_stationary_Time_Series_Forecasting.pdf",
+    "sha256": "715b3eb8e4ff2d600d4b2f2fd8d3d9947d74f8c9cebd277ee5dbac72b05e19cc"
+  },
+  {
+    "id": "neurips-2024-95288",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95288.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-95288__Interpretable_Mesomorphic_Networks_for_Tabular_Data.pdf",
+    "sha256": "ccb669d557008223a05f23849288a50506c7f9c41be57aa929694c7f953c73cc"
+  },
+  {
+    "id": "neurips-2024-95835",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95835.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-95835__Time_FFM_Towards_LM_Empowered_Federated_Foundation_Model_for_Time_Series_Forecasting.pdf",
+    "sha256": "866a526f710369738b3958a1347428c546f152a4167a0e44d6dbd6c26b7c274f"
+  },
+  {
+    "id": "neurips-2024-95975",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95975.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-95975__AutoTimes_Autoregressive_Time_Series_Forecasters_via_Large_Language_Models.pdf",
+    "sha256": "cf05360cbb6733112ba3cd0a8661bb1a5ee03d9fae971dca25045d707f617c02"
+  },
+  {
+    "id": "neurips-2024-96026",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96026.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96026__Rethinking_the_Power_of_Timestamps_for_Robust_Time_Series_Forecasting_A_Global_Local_Fusion_Perspective.pdf",
+    "sha256": "baf1e1be1b3feaab40e0b971b8e2fc4fe12a8562446c00f44b325c6d11e87bc0"
+  },
+  {
+    "id": "neurips-2024-96039",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96039.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96039__Addressing_Spatial_Temporal_Heterogeneity_General_Mixed_Time_Series_Analysis_via_Latent_Continuity_Recove.pdf",
+    "sha256": "8736111657e92440f9c65deed8401656913d5809f1dcc00844ad2ad3152c5ac1"
+  },
+  {
+    "id": "neurips-2024-96119",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96119.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96119__Scaling_Law_for_Time_Series_Forecasting.pdf",
+    "sha256": "ff078bdecd3d5dacff8e644a36b53f77e2244ed7f4f54289b07a05037f1d299b"
+  },
+  {
+    "id": "neurips-2024-96209",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96209.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96209__Rethinking_Fourier_Transform_from_A_Basis_Functions_Perspective_for_Long_term_Time_Series_Forecasting.pdf",
+    "sha256": "726fb5d96207be896abe593e2c1a3d1f3b96327494262d2a5499fbbda37089df"
+  },
+  {
+    "id": "neurips-2024-96575",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96575.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96575__Peri_midFormer_Periodic_Pyramid_Transformer_for_Time_Series_Analysis.pdf",
+    "sha256": "30c47cb3b5e192b6173dcab2a139d26ecf04bf5516becceb2f7594a5aa3027c8"
+  },
+  {
+    "id": "neurips-2024-96850",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96850.pdf",
+    "canonical_path": "pdfs/NeurIPS/2024/neurips-2024-96850__ANT_Adaptive_Noise_Schedule_for_Time_Series_Diffusion_Models.pdf",
+    "sha256": "d45a551f0a6fe484a16115f4acda7bc62fdfa93d5d303e30415b6f7ed02e9f82"
+  },
+  {
+    "id": "2026.acl-long.1234",
+    "screening_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.1234.pdf",
+    "canonical_path": "pdfs/ACL/2026/2026.acl-long.1234__DocLens_A_Tool_Augmented_Multi_Agent_Framework_for_Long_Visual_Document_Understanding.pdf",
+    "sha256": "d618a5339217cb683b1d148254f95c297b4addf698f37645184363432e7eea3c"
+  },
+  {
+    "id": "iclr-2022-9NVd-DMtThY",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2022/iclr-2022-9NVd-DMtThY.pdf",
+    "canonical_path": "pdfs/ICLR/2022/iclr-2022-9NVd-DMtThY__Distributionally_Robust_Fair_Principal_Components_via_Geodesic_Descents.pdf",
+    "sha256": "f74623dacbe02ab827eab89c1d92e0a50571d44388dbf9068bd3162c002e54d2"
+  },
+  {
+    "id": "iclr-2022-HfUyCRBeQc",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2022/iclr-2022-HfUyCRBeQc.pdf",
+    "canonical_path": "pdfs/ICLR/2022/iclr-2022-HfUyCRBeQc__Selective_Ensembles_for_Consistent_Predictions.pdf",
+    "sha256": "bba2e54b8cf1260778f089dfafd6e180d0554b6cbce016fa5bc260f514b808bc"
+  },
+  {
+    "id": "iclr-2022-St6eyiTEHnG",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2022/iclr-2022-St6eyiTEHnG.pdf",
+    "canonical_path": "pdfs/ICLR/2022/iclr-2022-St6eyiTEHnG__Consistent_Counterfactuals_for_Deep_Models.pdf",
+    "sha256": "66fe0229a7d8852b0d2c58cc4e098ed21ebd4750832f6c905b0295929cfc48d1"
+  },
+  {
+    "id": "iclr-2023-1mNssCWt_v",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-1mNssCWt_v.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-1mNssCWt_v__STaSy_Score_based_Tabular_data_Synthesis.pdf",
+    "sha256": "e722cfddead7b60d9339e01827cfcdd836e8fcbb0666878d3349d107de6cabce"
+  },
+  {
+    "id": "iclr-2023-3nM5uhPlfv6",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-3nM5uhPlfv6.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-3nM5uhPlfv6__Stochastic_Differentially_Private_and_Fair_Learning.pdf",
+    "sha256": "f4571c7ee81a12e1c06c26234ca4b1641b72f41cf7be1aa54835ecd4549ed493"
+  },
+  {
+    "id": "iclr-2023-E3ip6qBLF7",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-E3ip6qBLF7.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-E3ip6qBLF7__Distributionally_Robust_Recourse_Action.pdf",
+    "sha256": "e9d5beb0316eb773596753856cbde33b9f509d9f74b2884163e235450db333f9"
+  },
+  {
+    "id": "iclr-2023-cEygmQNOeI",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-cEygmQNOeI.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-cEygmQNOeI__Language_Models_are_Realistic_Tabular_Data_Generators.pdf",
+    "sha256": "ac4d6bee7dcdefa50406beb1511ebfee6147182719f1a91c803ecd9da9151a2f"
+  },
+  {
+    "id": "iclr-2023-cp5PvcI6w8_",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-cp5PvcI6w8_.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-cp5PvcI6w8___TabPFN_A_Transformer_That_Solves_Small_Tabular_Classification_Problems_in_a_Second.pdf",
+    "sha256": "97796b6e6b134b200555a7ebbacea2f6daecb9ab309279ba50d915d5ac5c9df6"
+  },
+  {
+    "id": "iclr-2023-gmL46YMpu2J",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-gmL46YMpu2J.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-gmL46YMpu2J__Promptagator_Few_shot_Dense_Retrieval_From_8_Examples.pdf",
+    "sha256": "c2dec45d0b2d4c9393a5e8f51a52628897e511960a253d9dcfc00348fae93457"
+  },
+  {
+    "id": "iclr-2024-YH5w12OUuU",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-YH5w12OUuU.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-YH5w12OUuU__TEMPO_Prompt_based_Generative_Pre_trained_Transformer_for_Time_Series_Forecasting.pdf",
+    "sha256": "d308bb5e4f7318f109ba458497ed09d657ae541675daa1b2a5c69c67d92c1a9d"
+  },
+  {
+    "id": "iclr-2024-ZlQRiFmq7Y",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-ZlQRiFmq7Y.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-ZlQRiFmq7Y__Retrieval_based_Disentangled_Representation_Learning_with_Natural_Language_Supervision.pdf",
+    "sha256": "ebe55220140b65c0a2a1abd4954afeb5bc364bbff0541bab8ed8b5dfed8c9d3a"
+  },
+  {
+    "id": "iclr-2024-anzIzGZuLi",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-anzIzGZuLi.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-anzIzGZuLi__Making_Pre_trained_Language_Models_Great_on_Tabular_Prediction.pdf",
+    "sha256": "9daf110580fc45cd79c07a8d5be3e55d9ceed5d2e2eb8882a80acc3e1d9cc17a"
+  },
+  {
+    "id": "iclr-2024-m52uU0dVbH",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-m52uU0dVbH.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-m52uU0dVbH__Constructing_Adversarial_Examples_for_Vertical_Federated_Learning_Optimal_Client_Corruption_through_Multi.pdf",
+    "sha256": "61d302d0d46d79dc917e35a6510b88bced379c90128333ddaefaf4aa683663f8"
+  },
+  {
+    "id": "iclr-2024-tBROYsEz9G",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-tBROYsEz9G.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-tBROYsEz9G__How_Realistic_Is_Your_Synthetic_Data_Constraining_Deep_Generative_Models_for_Tabular_Data.pdf",
+    "sha256": "4d4011c6a16ddea2c9eaf42128de8d4310af3870c9bf50fb714e54786556e4f2"
+  },
+  {
+    "id": "iclr-2024-zEHGSN8Hy8",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-zEHGSN8Hy8.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-zEHGSN8Hy8__SetCSE_Set_Operations_using_Contrastive_Learning_of_Sentence_Embeddings.pdf",
+    "sha256": "8c6ecb9ec32235da52e105ef4cad3f7bd879a6f6728d8815a6254434e1f5837c"
+  },
+  {
+    "id": "iclr-2025-23uY3FpQxc",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-23uY3FpQxc.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-23uY3FpQxc__A_General_Framework_for_Producing_Interpretable_Semantic_Text_Embeddings.pdf",
+    "sha256": "ad50d658e4bbb6e48efed0ccb56a8440832f3d3dc6c72247af5a79a62027ab2d"
+  },
+  {
+    "id": "iclr-2025-FDaHjwInXO",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-FDaHjwInXO.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-FDaHjwInXO__SV_RAG_LoRA_Contextualizing_Adaptation_of_MLLMs_for_Long_Document_Understanding.pdf",
+    "sha256": "44bf09c025159a96bbf669f82cf3a05ec8fc63a582b1d8d921bc0db486be345e"
+  },
+  {
+    "id": "iclr-2025-L14sqcrUC3",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-L14sqcrUC3.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-L14sqcrUC3__TabReD_Analyzing_Pitfalls_and_Filling_the_Gaps_in_Tabular_Deep_Learning_Benchmarks.pdf",
+    "sha256": "8aebc851f8e4ebacbb646f1edcacba2718c8f853af3931c748b9040604722f94"
+  },
+  {
+    "id": "iclr-2025-NtwFghsJne",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-NtwFghsJne.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-NtwFghsJne__From_Search_to_Sampling_Generative_Models_for_Robust_Algorithmic_Recourse.pdf",
+    "sha256": "30729b106d60b1c61e255e2d7653bef4297217c89baab873fff3552500767de5"
+  },
+  {
+    "id": "iclr-2025-Sd4wYYOhmY",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-Sd4wYYOhmY.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-Sd4wYYOhmY__TabM_Advancing_tabular_deep_learning_with_parameter_efficient_ensembling.pdf",
+    "sha256": "a6988aa10d726e99c706dc92856c5a07f4e3f9fa854d08c8f854f06dc83ea34f"
+  },
+  {
+    "id": "iclr-2025-WoPovNkM5h",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-WoPovNkM5h.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-WoPovNkM5h__Small_Models_are_LLM_Knowledge_Triggers_for_Medical_Tabular_Prediction.pdf",
+    "sha256": "e6daeacbc82adf3da51f797a3842eb867be8474df9424c08208bdf3b5d8becfc"
+  },
+  {
+    "id": "iclr-2025-m08aK3xxdJ",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-m08aK3xxdJ.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-m08aK3xxdJ__CATCH_Channel_Aware_Multivariate_Time_Series_Anomaly_Detection_via_Frequency_Patching.pdf",
+    "sha256": "7bb18834c337810be427efe056e4e8aac9d4f163a9d8b8f59375470202ff53dd"
+  },
+  {
+    "id": "iclr-2025-odvSjn416y",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-odvSjn416y.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-odvSjn416y__Promptriever_Instruction_Trained_Retrievers_Can_Be_Prompted_Like_Language_Models.pdf",
+    "sha256": "8ed10aa540959344e2fdd596d54afd8b9e43083be6eea051456edac43b2f9671"
+  },
+  {
+    "id": "iclr-2025-rx0TCew0Lj",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-rx0TCew0Lj.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-rx0TCew0Lj__Beyond_the_convexity_assumption_Realistic_tabular_data_generation_under_quantifier_free_real_linear_const.pdf",
+    "sha256": "898dc2934c67479f06dbe713b4623c6a14281f83e7843ea84d0a30219b600f6b"
+  },
+  {
+    "id": "iclr-2025-yzloNYH3QN",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-yzloNYH3QN.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-yzloNYH3QN__Attention_in_Large_Language_Models_Yields_Efficient_Zero_Shot_Re_Rankers.pdf",
+    "sha256": "499687ee7eb22de81a35114bf2d4bfa480b3b584e5b025e871db3d46e0dc844e"
+  },
+  {
+    "id": "iclr-2026-3vIe5pNiUN",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-3vIe5pNiUN.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-3vIe5pNiUN__Joint_Distribution_Informed_Shapley_Values_for_Sparse_Counterfactual_Explanations.pdf",
+    "sha256": "c82cdc34334f9397c2f77936bda101a27f558473d5ae5371d84d2173c2797552"
+  },
+  {
+    "id": "iclr-2026-5YXccEP6uc",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-5YXccEP6uc.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-5YXccEP6uc__SciTS_Scientific_Time_Series_Understanding_and_Generation_with_LLMs.pdf",
+    "sha256": "287ca7288a6be9088ffb25121c00a4f231402a25f262064aaec6f1def3e2ee2f"
+  },
+  {
+    "id": "iclr-2026-G5g6tDg1ZE",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-G5g6tDg1ZE.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-G5g6tDg1ZE__Harpoon_Generalised_Manifold_Guidance_for_Conditional_Tabular_Diffusion.pdf",
+    "sha256": "ff785bc06d6fc4c2caa28957c88c0821861584984f7d08197a7fea3ad97388ff"
+  },
+  {
+    "id": "iclr-2026-GNo1qMqgPD",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-GNo1qMqgPD.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-GNo1qMqgPD__VoxPrivacy_A_Benchmark_for_Evaluating_Interactional_Privacy_of_Speech_Language_Models.pdf",
+    "sha256": "348587030db693ce5b06709ab4c6b3ef2d0c8583b66718c675f6145668bd5a39"
+  },
+  {
+    "id": "iclr-2026-UFwgg44VZq",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-UFwgg44VZq.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-UFwgg44VZq__ReTabAD_A_Benchmark_for_Restoring_Semantic_Context_in_Tabular_Anomaly_Detection.pdf",
+    "sha256": "4abf0d067f7ab6bebbbe31d8fee50f041784081f01aa88faac4e66e6c0575a41"
+  },
+  {
+    "id": "iclr-2026-VVJ6Ck9JBl",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-VVJ6Ck9JBl.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-VVJ6Ck9JBl__Aurora_Towards_Universal_Generative_Multimodal_Time_Series_Forecasting.pdf",
+    "sha256": "4d5d0a1f57b78ce1ba92a1c0ce65ddf0c8b33951ddbee6e631149d5d29e26d18"
+  },
+  {
+    "id": "iclr-2026-WgZJCnb8lJ",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-WgZJCnb8lJ.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-WgZJCnb8lJ__Fair_Graph_Machine_Learning_under_Adversarial_Missingness_Processes.pdf",
+    "sha256": "428bbee7430fc4857a628b2848dc4e8aa131037a2e1caca6a613ba1c3704311a"
+  },
+  {
+    "id": "iclr-2026-fNFbGqu6Rg",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-fNFbGqu6Rg.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-fNFbGqu6Rg__Towards_Multimodal_Time_Series_Anomaly_Detection_with_Semantic_Alignment_and_Condensed_Interaction.pdf",
+    "sha256": "ce2a495140d985a6c1815dd854cffe1436023fbdfbea0ed0c6fb0b681e615c42"
+  },
+  {
+    "id": "iclr-2026-lr4RlISR6x",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-lr4RlISR6x.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-lr4RlISR6x__PHAT_Modeling_Period_Heterogeneity_for_Multivariate_Time_Series_Forecasting.pdf",
+    "sha256": "7ff90bd85fb3de7d7f3b6c140c74f415c95385c5e7e6a0f2226085576b4b541e"
+  },
+  {
+    "id": "iclr-2026-mex3rvs2KX",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-mex3rvs2KX.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-mex3rvs2KX__Private_Rate_Constrained_Optimization_with_Applications_to_Fair_Learning.pdf",
+    "sha256": "6b6814bce1f60bd50543691712080dfdefc4ad3fcaf74f022c0331619470530f"
+  },
+  {
+    "id": "iclr-2026-okjogxO1Fu",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-okjogxO1Fu.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-okjogxO1Fu__Let_LLMs_Speak_Embedding_Languages_Generative_Text_Embeddings_via_Iterative_Contrastive_Refinement.pdf",
+    "sha256": "8fe58bea34c6f1a874e3a8ce7b2905c20b5cb3be356617bd3e0177507f96f7b4"
+  },
+  {
+    "id": "iclr-2026-pQzQfslqlD",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-pQzQfslqlD.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-pQzQfslqlD__Bridging_Past_and_Future_Distribution_Aware_Alignment_for_Time_Series_Forecasting.pdf",
+    "sha256": "0a0d7deba16c5b3025902f897dddc70fd1f6efaeb3737c4a751d3b2440670b08"
+  },
+  {
+    "id": "iclr-2026-vNEY32I8Y8",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-vNEY32I8Y8.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-vNEY32I8Y8__LightRetriever_A_LLM_based_Text_Retrieval_Architecture_with_Extremely_Faster_Query_Inference.pdf",
+    "sha256": "5b7237cc54860965bd3af9400aa22971e9a88d9c3f15c1ae4839c0bbd33a8251"
+  },
+  {
+    "id": "iclr-2026-vUaY1t64ZZ",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-vUaY1t64ZZ.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-vUaY1t64ZZ__Holistic_Agent_Leaderboard_The_Missing_Infrastructure_for_AI_Agent_Evaluation.pdf",
+    "sha256": "f224b5ef6ec2a9e1606878e39e81acd4e0ed8ac9f4d80b120f17266c5c281d0f"
+  },
+  {
+    "id": "iclr-2026-wHuVdpnUFp",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-wHuVdpnUFp.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-wHuVdpnUFp__xRFM_Accurate_scalable_and_interpretable_feature_learning_models_for_tabular_data.pdf",
+    "sha256": "00e65dd1585c172e979aab1d133ea20f95178b54e742a8c6c7bdb876d0d3aedc"
+  },
+  {
+    "id": "iclr-2026-zd9R2T4HiX",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-zd9R2T4HiX.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-zd9R2T4HiX__Synthesising_Counterfactual_Explanations_via_Label_Conditional_Gaussian_Mixture_Variational_Autoencoders.pdf",
+    "sha256": "11631c50f0978e9ec7e7886f4240ec7270f50985ecaa3ea2dc8b4f54fe36ae96"
+  },
+  {
+    "id": "icml-2026-O88FCPAPAj",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-O88FCPAPAj.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-O88FCPAPAj__Ranking_Free_RAG_Replacing_Re_ranking_with_Selection_in_RAG_for_Sensitive_Domains.pdf",
+    "sha256": "d1a00ea7287a007c0b7f9524efec0ab9954e6a34028883437fc3a7fd4a3320da"
+  },
+  {
+    "id": "icml-2026-jlQeiq1azU",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-jlQeiq1azU.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-jlQeiq1azU__When_Tabular_Foundation_Models_Meet_Strategic_Tabular_Data_A_Prior_Alignment_Approach.pdf",
+    "sha256": "b004bd9b3bd41934c587c0706c47d978579c503fab425eef83dba3af49f3d14b"
+  },
+  {
+    "id": "icml-2026-nqnlfxuN8x",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-nqnlfxuN8x.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-nqnlfxuN8x__SEER_Transformer_based_Robust_Time_Series_Forecasting_via_Automated_Patch_Enhancement_and_Replacement.pdf",
+    "sha256": "a58d546ae847ffe0b9ea17de9b312ead8568f618ea481cb3d9f0cc4f54b75fd9"
+  },
+  {
+    "id": "icml-2026-oAiq3HWlI6",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-oAiq3HWlI6.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-oAiq3HWlI6__Density_Guided_Robust_Counterfactual_Explanations_on_Tabular_Data_under_Model_Multiplicity.pdf",
+    "sha256": "a98948837ffc346bc10977149bec09e8050ddeaba8c067f80217fb62dc5b7d13"
+  },
+  {
+    "id": "icml-2026-ti6RAEh2ep",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-ti6RAEh2ep.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-ti6RAEh2ep__TsLLM_Augmenting_LLMs_for_General_Time_Series_Understanding_and_Prediction.pdf",
+    "sha256": "e61f09214879dc1617b033cb9f2e40b815e6e363af2435f1e5ec7eb4172d7f04"
+  },
+  {
+    "id": "icml-2026-tm6K5K4t25",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-tm6K5K4t25.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-tm6K5K4t25__Beyond_Rational_Illusion_Behaviorally_Realistic_Strategic_Classification.pdf",
+    "sha256": "0504932c460f03e3b340136640f4510704e4626291e4c24b3a5af5fd602b4ecb"
+  },
+  {
+    "id": "neurips-2025-1ajMY3nUKg",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-1ajMY3nUKg.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-1ajMY3nUKg__Tight_Lower_Bounds_and_Improved_Convergence_in_Performative_Prediction.pdf",
+    "sha256": "eedbb858a8e6416426edf924a7a6d39e3cec1cec038467c0e76defe1fde8947e"
+  },
+  {
+    "id": "neurips-2025-AuBSUgFVgq",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-AuBSUgFVgq.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-AuBSUgFVgq__Multimodal_Tabular_Reasoning_with_Privileged_Structured_Information.pdf",
+    "sha256": "c0659ec3b428a8c93c4889eeaaf01045b466d5e0f5128e7546754644f9f24faa"
+  },
+  {
+    "id": "neurips-2025-DAyKP1tvwI",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-DAyKP1tvwI.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-DAyKP1tvwI__OLinear_A_Linear_Model_for_Time_Series_Forecasting_in_Orthogonally_Transformed_Domain.pdf",
+    "sha256": "569bad7da6475661cb607c471bcb19f025e23cf9c5d80745779438dacfb35625"
+  },
+  {
+    "id": "neurips-2025-GNDgQie8W4",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-GNDgQie8W4.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-GNDgQie8W4__ElliCE_Efficient_and_Provably_Robust_Algorithmic_Recourse_via_the_Rashomon_Sets.pdf",
+    "sha256": "e1fe519735fdbdc10dfcc59dbc5ac0d65af61ba1725efd6f161069e16157d34d"
+  },
+  {
+    "id": "neurips-2025-Gibq7Wa7Bq",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-Gibq7Wa7Bq.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-Gibq7Wa7Bq__SORTeD_Rashomon_Sets_of_Sparse_Decision_Trees_Anytime_Enumeration.pdf",
+    "sha256": "9766eb37819f649132a9bce07147fdbc2cdc9d90c328aa6e0ec9eb1faf538160"
+  },
+  {
+    "id": "neurips-2025-Xic1sPAmfC",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-Xic1sPAmfC.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-Xic1sPAmfC__Neural_MJD_Neural_Non_Stationary_Merton_Jump_Diffusion_for_Time_Series_Prediction.pdf",
+    "sha256": "c83c5df91c2cb1a0a78ae2dda1a7290bafb1748ab23f2fc47b0aa7064dbfb0c1"
+  },
+  {
+    "id": "neurips-2025-kaU1No4iiI",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-kaU1No4iiI.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-kaU1No4iiI__Collective_Counterfactual_Explanations_Balancing_Individual_Goals_and_Collective_Dynamics.pdf",
+    "sha256": "7f3e95aed41757433e02ad5c9a006ca483bda39f7d1655dbe40cbdd969257009"
+  },
+  {
+    "id": "neurips-2025-sGY0TisiMB",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-sGY0TisiMB.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-sGY0TisiMB__Individual_Fairness_In_Strategic_Classification.pdf",
+    "sha256": "cdb306615fe27dcde835c985574f1d39ee4582d7af9b19b71a34d906133ad03c"
+  },
+  {
+    "id": "neurips-2025-vsLS698sBi",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-vsLS698sBi.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-vsLS698sBi__Attack_by_Yourself_Effective_and_Unnoticeable_Multi_Category_Graph_Backdoor_Attacks_with_Subgraph_Trigger.pdf",
+    "sha256": "c34dcbe098775e8256f62500e7e740611b19760d1f91639c4b52f745276d93a3"
+  },
+  {
+    "id": "neurips-2026-KaKH1k0VkJ",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-KaKH1k0VkJ.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-KaKH1k0VkJ__RiSE_Residual_Subspace_Expert_for_Generalizable_Text_Centric_Image_Forgery_Localization.pdf",
+    "sha256": "cca43853724f507f86fd07c60059fba46e83c8ece6886e0501ba08736382f510"
+  },
+  {
+    "id": "neurips-2026-OJ3tHPcSRq",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-OJ3tHPcSRq.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-OJ3tHPcSRq__Partially_Performative_Prediction.pdf",
+    "sha256": "0667ca45cdae9a95069a692ec433ee5003035ba0235435c6fbb303ce9116e008"
+  },
+  {
+    "id": "neurips-2026-P8dX5r550k",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-P8dX5r550k.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-P8dX5r550k__TimeTok_Granularity_Controllable_Time_Series_Generation_via_Hierarchical_Tokenization.pdf",
+    "sha256": "50d9d65c00c9e915009e840c1ed06f5b05e046261830c0a8525e15074a5af82b"
+  },
+  {
+    "id": "neurips-2026-XKdNelCe2Q",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-XKdNelCe2Q.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-XKdNelCe2Q__FLAME_Flow_Enhanced_Legendre_Memory_Models_for_General_Time_Series_Forecasting.pdf",
+    "sha256": "ea29ad3de8c7a09cf5468f34e4dc9f6a9c35b376f25bbb915051319095ec83c2"
+  },
+  {
+    "id": "neurips-2026-bJ348fNOVg",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-bJ348fNOVg.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-bJ348fNOVg__SurvivalPFN_Amortizing_Survival_Prediction_via_In_Context_Bayesian_Inference.pdf",
+    "sha256": "3cb867fa61743d1b4ee1790830d0f90bbf081e9561a6e88430285a9c6f34752b"
+  },
+  {
+    "id": "neurips-2026-el3L9KxeOE",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-el3L9KxeOE.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-el3L9KxeOE__Contrastive_Retrieval_Heads_for_Improved_Attention_Based_Reranking.pdf",
+    "sha256": "bb7240abf0b6aa2be97a78675cb68ff61caf4678a175c4802eb313cd1336f771"
+  },
+  {
+    "id": "neurips-2026-wL6SWD7afK",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-wL6SWD7afK.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-wL6SWD7afK__CounterFlowNet_From_Minimal_Changes_to_Meaningful_Counterfactual_Explanations.pdf",
+    "sha256": "96780337637d3243ed7ad3ca2589701ae290286460fb300416ea1f7b0fedc8cd"
+  },
+  {
+    "id": "iclr-2020-1743",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2020/iclr-2020-1743.pdf",
+    "canonical_path": "pdfs/ICLR/2020/iclr-2020-1743__N_BEATS_Neural_basis_expansion_analysis_for_interpretable_time_series_forecasting.pdf",
+    "sha256": "09878c6971ee060b7dc767a33282fe04c01eada8531dcac548ecae3dac1bb3e7"
+  },
+  {
+    "id": "iclr-2021-WiGQBFuVRv",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2021/iclr-2021-WiGQBFuVRv.pdf",
+    "canonical_path": "pdfs/ICLR/2021/iclr-2021-WiGQBFuVRv__Multivariate_Probabilistic_Time_Series_Forecasting_via_Conditioned_Normalizing_Flows.pdf",
+    "sha256": "b246f970ca393e4a20e2bc302afa6f8bb0a9eddb3d109461adfdd93aafb42808"
+  },
+  {
+    "id": "iclr-2023-2EpjkjzdCAa",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-2EpjkjzdCAa.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-2EpjkjzdCAa__Effectively_Modeling_Time_Series_with_Simple_Discrete_State_Spaces.pdf",
+    "sha256": "62d43f1f0e398b2b9ee864f2cae15efddbdb8a0c1eafee15891a564d71311d27"
+  },
+  {
+    "id": "iclr-2023-ju_Uqw384Oq",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-ju_Uqw384Oq.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-ju_Uqw384Oq__TimesNet_Temporal_2D_Variation_Modeling_for_General_Time_Series_Analysis.pdf",
+    "sha256": "a45cb3d35c7b4db7091439ee714fd43dd6cd9e8f2fb1867f5463ae0433aebbd1"
+  },
+  {
+    "id": "iclr-2023-sCrnllCtjoE",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-sCrnllCtjoE.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-sCrnllCtjoE__Scaleformer_Iterative_Multi_scale_Refining_Transformers_for_Time_Series_Forecasting.pdf",
+    "sha256": "ed4c343cdc51845cdc1be7004937bd1c2ae8cdf5e535bb34f517ff8c6ea0216c"
+  },
+  {
+    "id": "iclr-2024-7oLshfEIC2",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-7oLshfEIC2.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-7oLshfEIC2__TimeMixer_Decomposable_Multiscale_Mixing_for_Time_Series_Forecasting.pdf",
+    "sha256": "a599b338e44af70d8e9c87be3c5417bde7864b2c92074e1346703f3e2b641e3d"
+  },
+  {
+    "id": "iclr-2024-JWpwDdVbaM",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-JWpwDdVbaM.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-JWpwDdVbaM__ARM_Refining_Multivariate_Forecasting_with_Adaptive_Temporal_Contextual_Learning.pdf",
+    "sha256": "2c5486c99753fada53922a7c8992dfd330ecf1220451cbd2e980f0e02e19fb1c"
+  },
+  {
+    "id": "iclr-2024-JePfAI8fah",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-JePfAI8fah.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-JePfAI8fah__iTransformer_Inverted_Transformers_Are_Effective_for_Time_Series_Forecasting.pdf",
+    "sha256": "83e889795af52c672090255493266e3ea93e7b2a32c528f58074f2f9f757ffc5"
+  },
+  {
+    "id": "iclr-2024-MJksrOhurE",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-MJksrOhurE.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-MJksrOhurE__CARD_Channel_Aligned_Robust_Blend_Transformer_for_Time_Series_Forecasting.pdf",
+    "sha256": "adab85559fc89c63d024fbdd9177ae12b5ad289aadfea11fdc341c0dab757bd0"
+  },
+  {
+    "id": "iclr-2024-Unb5CVPtae",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-Unb5CVPtae.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-Unb5CVPtae__Time_LLM_Time_Series_Forecasting_by_Reprogramming_Large_Language_Models.pdf",
+    "sha256": "d71c4a83ffb545502cee07e0e5ab41578a9c8e06fb61b65a5740afbe42cda142"
+  },
+  {
+    "id": "iclr-2024-ltZ9ianMth",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-ltZ9ianMth.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-ltZ9ianMth__RobustTSF_Towards_Theory_and_Design_of_Robust_Time_Series_Forecasting_with_Anomalies.pdf",
+    "sha256": "a5452398bd116cc397ac62c117e645ea9f48a3f59455de8accea1a3c6acaaffc"
+  },
+  {
+    "id": "iclr-2024-nBCuRzjqK7",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-nBCuRzjqK7.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-nBCuRzjqK7__Self_Supervised_Contrastive_Learning_for_Long_term_Forecasting.pdf",
+    "sha256": "050254ec61fdb604e1b26db5c860538cb239cf939f6a2943c4f418769140220d"
+  },
+  {
+    "id": "iclr-2024-xtOydkE1Ku",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-xtOydkE1Ku.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-xtOydkE1Ku__TACTiS_2_Better_Faster_Simpler_Attentional_Copulas_for_Multivariate_Time_Series.pdf",
+    "sha256": "53eb86fed82fe520e55ea1587eed75abfe1dcc3d098e3f8403dc9e4cc9e6e37f"
+  },
+  {
+    "id": "iclr-2025-MZDdTzN6Cy",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-MZDdTzN6Cy.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-MZDdTzN6Cy__TVNet_A_Novel_Time_Series_Analysis_Method_Based_on_Dynamic_Convolution_and_3D_Variation.pdf",
+    "sha256": "78587060f7adf61b168a5dc70f2c4b76d705fa2a61ca2dbaf4d802b5f7d6c8ac"
+  },
+  {
+    "id": "iclr-2025-Sh4FOyZRpv",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-Sh4FOyZRpv.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-Sh4FOyZRpv__CTSyn_A_Foundation_Model_for_Cross_Tabular_Data_Generation.pdf",
+    "sha256": "fb41966e70db528584fea17eb618c29899835f1cdd421ff1e0f3c2d766ff81a3"
+  },
+  {
+    "id": "iclr-2025-UyhRtB4hjN",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-UyhRtB4hjN.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-UyhRtB4hjN__Decision_Tree_Induction_Through_LLMs_via_Semantically_Aware_Evolution.pdf",
+    "sha256": "af26abae3c6a38dcf8feab77668f0409f2e7439fddaf60507d3a704a16929a4d"
+  },
+  {
+    "id": "iclr-2025-Vz0CWFMPUe",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-Vz0CWFMPUe.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-Vz0CWFMPUe__TimeInf_Time_Series_Data_Contribution_via_Influence_Functions.pdf",
+    "sha256": "25382b8ddc4ff7a4ac00610191d7f389ec69615c2187a1ec364895c798469f40"
+  },
+  {
+    "id": "iclr-2025-Y8KK9kjgIK",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-Y8KK9kjgIK.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-Y8KK9kjgIK__SigDiffusions_Score_Based_Diffusion_Models_for_Time_Series_via_Log_Signature_Embeddings.pdf",
+    "sha256": "48420197d620981e905d1396c46d7a881c2561d186ba49a8ee97f5b4e906e1d4"
+  },
+  {
+    "id": "iclr-2025-aKcd7ImG5e",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-aKcd7ImG5e.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-aKcd7ImG5e__Towards_a_General_Time_Series_Anomaly_Detector_with_Adaptive_Bottlenecks_and_Dual_Adversarial_Decoders.pdf",
+    "sha256": "2dac55616ee5dd2ba48068eb2d6575ec71a17ee295ce8ae95652a68d90678936"
+  },
+  {
+    "id": "iclr-2025-d4qMoUSMLT",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-d4qMoUSMLT.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-d4qMoUSMLT__Efficient_Training_of_Neural_Stochastic_Differential_Equations_by_Matching_Finite_Dimensional_Distributio.pdf",
+    "sha256": "e35795ef75ff642bda3da75d15eaa9ffead6215d74b2037e72623c95453fed23"
+  },
+  {
+    "id": "iclr-2025-uCqxDfLYrB",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-uCqxDfLYrB.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-uCqxDfLYrB__Towards_Neural_Scaling_Laws_for_Time_Series_Foundation_Models.pdf",
+    "sha256": "c12c85f7a4278378662e819d787d1ed33d2de6a70b4d0b05e64f092a434d8a3d"
+  },
+  {
+    "id": "iclr-2025-uxVBbSlKQ4",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-uxVBbSlKQ4.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-uxVBbSlKQ4__Flow_Matching_with_Gaussian_Process_Priors_for_Probabilistic_Time_Series_Forecasting.pdf",
+    "sha256": "736e0f8e7190d013e9696bdfaeec3f2b1a803273022779625081c07a993fb0f2"
+  },
+  {
+    "id": "iclr-2026-2hCwLqx5gm",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-2hCwLqx5gm.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-2hCwLqx5gm__Numerion_A_Multi_Hypercomplex_Model_for_Time_Series_Forecasting.pdf",
+    "sha256": "f3f79de46618759d24a76d78c5dd26ca3e0d7f66c5763f76ba5e759e6f2ececb"
+  },
+  {
+    "id": "iclr-2026-8o4t5DHaE1",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-8o4t5DHaE1.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-8o4t5DHaE1__Lost_in_the_Non_convex_Loss_Landscape_How_to_Fine_tune_the_Large_Time_Series_Model.pdf",
+    "sha256": "e1821bb85174e9dd6cad35ebf1aa9a51d4b66aeab94632cdd9e63600df7da534"
+  },
+  {
+    "id": "iclr-2026-CsoR8ztROC",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-CsoR8ztROC.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-CsoR8ztROC__TimeRecipe_A_Time_Series_Forecasting_Recipe_via_Benchmarking_Module_Level_Effectiveness.pdf",
+    "sha256": "e763edab62be8203bb53e8d82c91210942b3684b636556054f18ddd60eb48b84"
+  },
+  {
+    "id": "iclr-2026-HK6t5x5gJq",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-HK6t5x5gJq.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-HK6t5x5gJq__FeDaL_Federated_Dataset_Learning_for_General_Time_Series_Foundation_Models.pdf",
+    "sha256": "276bdf80fe36598873850b5537328d3f1f12991ef3d0b7ba4f7cc75f435b91e6"
+  },
+  {
+    "id": "iclr-2026-I94Eg6cu7P",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-I94Eg6cu7P.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-I94Eg6cu7P__SRT_Super_Resolution_for_Time_Series_via_Disentangled_Rectified_Flow.pdf",
+    "sha256": "0ba305c2bad27bb572cb749cc7d818325825a45c3b2fe611b65803d6d3d694fc"
+  },
+  {
+    "id": "iclr-2026-IAnIlFsPEW",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-IAnIlFsPEW.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-IAnIlFsPEW__T1_One_to_One_Channel_Head_Binding_for_Multivariate_Time_Series_Imputation.pdf",
+    "sha256": "1810b0f87921f95bd054044ff9b433ece0fcd9a0a7bcd0e9e2fd7ea7f0d0bd38"
+  },
+  {
+    "id": "iclr-2026-IbcdVwzLrp",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-IbcdVwzLrp.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-IbcdVwzLrp__ProtoTS_Learning_Hierarchical_Prototypes_for_Explainable_Time_Series_Forecasting.pdf",
+    "sha256": "b651271158b29b9de1b6825442056a90dbaf0c4b8b8380c0bbbdb9f0575c582e"
+  },
+  {
+    "id": "iclr-2026-JTtwGRACte",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-JTtwGRACte.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-JTtwGRACte__Characteristic_Root_Analysis_and_Regularization_for_Linear_Time_Series_Forecasting.pdf",
+    "sha256": "d1f50ea4e623ca54208a4524523d833c1a8e40c5e7ea365ac47d4b8c9228f602"
+  },
+  {
+    "id": "iclr-2026-NXThkM7Iym",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-NXThkM7Iym.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-NXThkM7Iym__PaAno_Patch_Based_Representation_Learning_for_Time_Series_Anomaly_Detection.pdf",
+    "sha256": "25b51f8d48d1809ce0d6955a24fc0bca64eadaaaaf0db091fd507f255692d599"
+  },
+  {
+    "id": "iclr-2026-SsJ6bZUmfU",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-SsJ6bZUmfU.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-SsJ6bZUmfU__From_Samples_to_Scenarios_A_New_Paradigm_for_Probabilistic_Forecasting.pdf",
+    "sha256": "5bfd5d16e7f3759cdfdba668fd62a61c12862caa57dc7a9d0c0d720a8653eb0a"
+  },
+  {
+    "id": "iclr-2026-TwrgmA1tw0",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-TwrgmA1tw0.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-TwrgmA1tw0__Rating_Quality_of_Diverse_Time_Series_Data_by_Meta_learning_from_LLM_Judgment.pdf",
+    "sha256": "8c753fdaadcd7796ee66885f1267d15f79cecd26b16882ff71ed0b81dfb06b93"
+  },
+  {
+    "id": "iclr-2026-WGqibe5H3W",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-WGqibe5H3W.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-WGqibe5H3W__ResCP_Reservoir_Conformal_Prediction_for_Time_Series_Forecasting.pdf",
+    "sha256": "e7b8430e9a78d5a54d2be8fa8f7c9a3dea2458a9a9ad5f67c7339232f8b0919c"
+  },
+  {
+    "id": "iclr-2026-XrmXvv75KP",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-XrmXvv75KP.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-XrmXvv75KP__SwiftTS_A_Swift_Selection_Framework_for_Time_Series_Pre_trained_Models_via_Multi_task_Meta_Learning.pdf",
+    "sha256": "97d07e33c244c4440fcaf00b0b4d7b5aa13355eab059b5b4bcf7fd55a9d0f7d1"
+  },
+  {
+    "id": "iclr-2026-ZOLUTSU5gk",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-ZOLUTSU5gk.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-ZOLUTSU5gk__Zero_shot_Forecasting_by_Simulation_Alone.pdf",
+    "sha256": "5acb02ccf26806dc797f0b09632ad2af255f14598a3256bd92904a2544ca4b8a"
+  },
+  {
+    "id": "iclr-2026-emkvZ7NanK",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-emkvZ7NanK.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-emkvZ7NanK__Tackling_Time_Series_Forecasting_Generalization_via_Mitigating_Concept_Drift.pdf",
+    "sha256": "b4eaa01e2d2b32c1cff1470688b90e2f85c5c01cb764aaa3835f92653191f11d"
+  },
+  {
+    "id": "iclr-2026-iqUMjxfDNH",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-iqUMjxfDNH.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-iqUMjxfDNH__Test_Time_Efficient_Pretrained_Model_Portfolios_for_Time_Series_Forecasting.pdf",
+    "sha256": "e5637bdb5d36d7db7b6f033f5a07e0322488a006404d8905b1915740f4bd1977"
+  },
+  {
+    "id": "iclr-2026-syfWdclGE1",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-syfWdclGE1.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-syfWdclGE1__The_Forecast_After_the_Forecast_A_Post_Processing_Shift_in_Time_Series.pdf",
+    "sha256": "15ef4a50e3285111379fcf90a5311076950b442f16c3a3108f6814850cbd00d8"
+  },
+  {
+    "id": "iclr-2026-uIPAuyno4Z",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-uIPAuyno4Z.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-uIPAuyno4Z__Routing_Channel_Patch_Dependencies_in_Time_Series_Forecasting_with_Graph_Spectral_Decomposition.pdf",
+    "sha256": "d1f0c74e7aed438caad0227e7f5201361b9b7e71e917d0d6e919ffd696df925c"
+  },
+  {
+    "id": "iclr-2026-uTK1SNgi1N",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-uTK1SNgi1N.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-uTK1SNgi1N__Adapt_Data_to_Model_Adaptive_Transformation_Optimization_for_Domain_shared_Time_Series_Foundation_Models.pdf",
+    "sha256": "12c6b16bcc33fb660c3df87f131d6a0379cb114c8516e08219ef9a0d0eb2cb30"
+  },
+  {
+    "id": "icml-2026-CwHRT46VmC",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-CwHRT46VmC.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-CwHRT46VmC__CombinationTS_A_Modular_Framework_for_Understanding_Time_Series_Forecasting_Models.pdf",
+    "sha256": "57c904bfeb50a3673ec7cd8151751a24170fef872968d05f25fbe0c554d7c0d4"
+  },
+  {
+    "id": "icml-2026-DyA4KHj1wy",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-DyA4KHj1wy.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-DyA4KHj1wy__Universal_Redundancies_in_Time_Series_Foundation_Models.pdf",
+    "sha256": "c7271af38f04884105e65b39dfeaf80148404c937813d433ce9314f942c1fa7f"
+  },
+  {
+    "id": "icml-2026-LULx50RKAz",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-LULx50RKAz.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-LULx50RKAz__CoGenCast_A_Coupled_Autoregressive_Flow_Generative_Framework_for_Time_Series_Forecasting.pdf",
+    "sha256": "366ce55e3705630b26d3bb4a206d9dcbb70d6d6d27f7372c4cc966431c3a12bd"
+  },
+  {
+    "id": "icml-2026-NOHlqCnYot",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-NOHlqCnYot.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-NOHlqCnYot__Overcoming_the_Modality_Gap_in_Context_Aided_Forecasting.pdf",
+    "sha256": "49fd26e0772a9cc67c2a3a06a6207844db6579abcfe7ba5e6a8edc163337d230"
+  },
+  {
+    "id": "icml-2026-ZlDndRDMHm",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-ZlDndRDMHm.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-ZlDndRDMHm__Reviving_Error_Correction_in_Modern_Deep_Time_Series_Forecasting.pdf",
+    "sha256": "42b30709214795c7847f864f58e056e712b05f81b29211a9b923ad40f342872e"
+  },
+  {
+    "id": "icml-2026-bz66grGgjI",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-bz66grGgjI.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-bz66grGgjI__Dynamic_Relational_Priming_Improves_Transformer_in_Multivariate_Time_Series.pdf",
+    "sha256": "bdbc5d54b55530d88cc07d8c8ad62cb0f088f8f81e078987d0b2794be51e5071"
+  },
+  {
+    "id": "icml-2026-fZvEZQWJrR",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-fZvEZQWJrR.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-fZvEZQWJrR__Correcting_Split_Selection_in_Online_Decision_Trees_via_Anytime_Valid_Inference.pdf",
+    "sha256": "ba97b91c8ae1ebb47eaee7dedbcd924578409d4082cb08af16b7e0e1bd68f45c"
+  },
+  {
+    "id": "icml-2026-g5Id7eZRal",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-g5Id7eZRal.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-g5Id7eZRal__TimeLAVA_Learning_Agnostic_Valuation_for_Time_Series_Data.pdf",
+    "sha256": "b45f8b49cbe6768eb3b0297a8a067658982740e44416b4f19ab782e43a5d3579"
+  },
+  {
+    "id": "icml-2026-hxNN3xhuS9",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-hxNN3xhuS9.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-hxNN3xhuS9__Generalizing_Multi_Scale_Time_Series_Modeling_with_a_Single_Operator.pdf",
+    "sha256": "138e25821455370319fe81af51f0c7efd0ab287ecef571e7e944a69f4f3e9e6b"
+  },
+  {
+    "id": "icml-2026-hyksWoNb7h",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-hyksWoNb7h.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-hyksWoNb7h__DRL_STAF_A_Deep_Reinforcement_Learning_Framework_for_State_Aware_Forecasting_of_Complex_Multivariate_Hidd.pdf",
+    "sha256": "f146f8aa80acaf446b0eb692f343aa3dd8c96b97178f47b7544403f4cb84775e"
+  },
+  {
+    "id": "icml-2026-l2ywV9sV0L",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-l2ywV9sV0L.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-l2ywV9sV0L__Cascaded_Flow_Matching_for_Heterogeneous_Tabular_Data_with_Mixed_Type_Features.pdf",
+    "sha256": "11acd8f2093a86d7c2686a2efd41b39554495870704db8424d73ffe572ddb166"
+  },
+  {
+    "id": "icml-2026-mZd4u9d7pQ",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-mZd4u9d7pQ.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-mZd4u9d7pQ__Once_for_All_Scalable_Simultaneous_Forecasting_via_Equilibrium_State_Estimation.pdf",
+    "sha256": "8deaa5e04d0b036d8aab978b69100db22f90ac30d2cb849569a3cc08dea6e406"
+  },
+  {
+    "id": "icml-2026-oa9VyvHw8K",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-oa9VyvHw8K.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-oa9VyvHw8K__Active_Tabular_Augmentation_via_Policy_Guided_Diffusion_Inpainting.pdf",
+    "sha256": "cc05700a737477b04438dc64c1000fd0b7314a724b7297c711ac9164c0eec308"
+  },
+  {
+    "id": "neurips-2025-0XCZWAo7wN",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-0XCZWAo7wN.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-0XCZWAo7wN__Online_Time_Series_Forecasting_with_Theoretical_Guarantees.pdf",
+    "sha256": "af389a0d24471344eda7ec1593154f20734e25446a77d4765478e49545ad7bfa"
+  },
+  {
+    "id": "neurips-2025-24UJqxw1kv",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-24UJqxw1kv.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-24UJqxw1kv__Forecasting_in_Offline_Reinforcement_Learning_for_Non_stationary_Environments.pdf",
+    "sha256": "e51bfda636093103dbf69e6ce74d986683335e4a000c095d708c2411928c1b2c"
+  },
+  {
+    "id": "neurips-2025-3hnqwOq7iT",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-3hnqwOq7iT.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-3hnqwOq7iT__TARFVAE_Efficient_One_Step_Generative_Time_Series_Forecasting_via_TARFLOW_based_VAE.pdf",
+    "sha256": "20690c7f36ca678090338cc754ea40a6a37c7bb6d78ffa1abc083b6e12549469"
+  },
+  {
+    "id": "neurips-2025-A2pmvkqOgp",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-A2pmvkqOgp.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-A2pmvkqOgp__Forging_Time_Series_with_Language_A_Large_Language_Model_Approach_to_Synthetic_Data_Generation.pdf",
+    "sha256": "b14f40b2e35325e7ae89069b5f1b160ee317bc07ddcbeaf13dcc331344cc1608"
+  },
+  {
+    "id": "neurips-2025-CtoIG9Iwas",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-CtoIG9Iwas.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-CtoIG9Iwas__Learning_Pattern_Specific_Experts_for_Time_Series_Forecasting_Under_Patch_level_Distribution_Shift.pdf",
+    "sha256": "57c69a19ff02e81a22ee6c7c4e8d6abee6691ba0f2945a0a2d6481f69dd5f19f"
+  },
+  {
+    "id": "neurips-2025-PymOnHw4Ty",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-PymOnHw4Ty.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-PymOnHw4Ty__TS_RAG_Retrieval_Augmented_Generation_based_Time_Series_Foundation_Models_are_Stronger_Zero_Shot_Forecast.pdf",
+    "sha256": "c71fc5d0e2f4e600832ad61b7c7f88b126d7c921473916c0bbfe9a58bf4727e9"
+  },
+  {
+    "id": "neurips-2025-kgzRy6nD6D",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-kgzRy6nD6D.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-kgzRy6nD6D__Selective_Learning_for_Deep_Time_Series_Forecasting.pdf",
+    "sha256": "155c55507ee2dd30184b9377d57a7423a993515701d830133aa3814bb4df924a"
+  },
+  {
+    "id": "neurips-2025-lG82mcrKJf",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-lG82mcrKJf.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-lG82mcrKJf__Fortifying_Time_Series_DTW_Certified_Robust_Anomaly_Detection.pdf",
+    "sha256": "b07d64fae2ad598ba1090bb2482f1a6aa00a7b697f9ebde84c7520390d71703d"
+  },
+  {
+    "id": "neurips-2025-v7UqniC9pF",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-v7UqniC9pF.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-v7UqniC9pF__TiRex_Zero_Shot_Forecasting_Across_Long_and_Short_Horizons_with_Enhanced_In_Context_Learning.pdf",
+    "sha256": "0497772375f595d72f2405862cbdbb3295e7d91c6baa29f3b5ba93e48d1fb121"
+  },
+  {
+    "id": "neurips-2025-xB1ZNgq0Xp",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-xB1ZNgq0Xp.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-xB1ZNgq0Xp__Synthetic_Series_Symbol_Data_Generation_for_Time_Series_Foundation_Models.pdf",
+    "sha256": "b7d1b9da8a7613a76b3dc76a10f337ec2109c1a42e8ce9e315d99f7ec11a0813"
+  },
+  {
+    "id": "neurips-2026-DRNgEw9MBD",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-DRNgEw9MBD.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-DRNgEw9MBD__SteerCast_Retrieval_Based_Latent_Steering_for_Decoder_Only_Time_Series_Forecasting.pdf",
+    "sha256": "8d81dfad81956be18eae5c7e3fbb8340165d4437e5aa1e95ad58232c50cedc7d"
+  },
+  {
+    "id": "neurips-2026-EQ3rr1gzcl",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-EQ3rr1gzcl.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-EQ3rr1gzcl__Differencing_the_Diffusion_Trajectory_toward_Uncertain_Components_for_Time_Series_Forecasting.pdf",
+    "sha256": "eccc1a0db8fef5c9f77c0853b054e804e2bdc43a1384ee7fd0ed36cc7e1f60b0"
+  },
+  {
+    "id": "neurips-2026-NhA2qIjt4u",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-NhA2qIjt4u.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-NhA2qIjt4u__Kairos_Toward_Adaptive_and_Parameter_Efficient_Time_Series_Foundation_Models.pdf",
+    "sha256": "26b34253f9965baa914069f3e8ccb9b7bd045cdb18e447ad5cb8e2bdd4f817c6"
+  },
+  {
+    "id": "neurips-2026-PFfOPbcZCE",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-PFfOPbcZCE.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-PFfOPbcZCE__To_See_Far_Look_Close_Evolutionary_Forecasting_for_Long_term_Time_Series.pdf",
+    "sha256": "f20c3116fbfb2383e7c453000429faebb8e05b759e95c3556e3937f73325a01c"
+  },
+  {
+    "id": "neurips-2026-QoM8XcqNiY",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-QoM8XcqNiY.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-QoM8XcqNiY__Empowering_Time_Series_Analysis_with_Large_Scale_Multimodal_Pretraining.pdf",
+    "sha256": "331674d80f0f1d680ee69a2ad983c64558fe177c35817294a2435dcd74a1d9ea"
+  },
+  {
+    "id": "neurips-2026-gofrLViPFH",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-gofrLViPFH.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-gofrLViPFH__Learning_the_Context_of_Errors_Black_Box_Online_Adaptation_of_Time_Series_Foundation_Models.pdf",
+    "sha256": "f18c4ac575c603c512a0a298351da67c9f4c95a6dee43c5468725a542848cc3a"
+  },
+  {
+    "id": "neurips-2026-iqICKB71X4",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-iqICKB71X4.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-iqICKB71X4__Universal_Time_Series_Generation_with_Neural_Controlled_Differential_Equations.pdf",
+    "sha256": "f8a7f04b4ca00f22b502d79fa2df713c544052f480c330a55877c189e71723f5"
+  },
+  {
+    "id": "neurips-2026-jI3LzITbpM",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-jI3LzITbpM.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-jI3LzITbpM__TSQAgent_Rating_Time_Series_Data_Quality_via_Dedicated_Agentic_Reasoning.pdf",
+    "sha256": "3ec2faa02251870db823ec66b748fd925aeae260af8cf526005134bfac000656"
+  },
+  {
+    "id": "neurips-2026-x7OutBc7Vk",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-x7OutBc7Vk.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-x7OutBc7Vk__DiffPTS_Rethinking_Diffusion_ELBO_for_Probabilistic_Time_Series_Forecasting.pdf",
+    "sha256": "260fb2653590df8487fbcb6560913ca8591b52089b0b2e9a53ceb4db1e06800d"
+  },
+  {
+    "id": "iclr-2023-PsIk0kO3hKd",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-PsIk0kO3hKd.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-PsIk0kO3hKd__Spatio_temporal_point_processes_with_deep_non_stationary_kernels.pdf",
+    "sha256": "86dd94a28593770f1e11d67cc542f2cf1ddd716166c495c73a7aa1a0c2560d44"
+  },
+  {
+    "id": "iclr-2023-n6H86gW8u0d",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-n6H86gW8u0d.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-n6H86gW8u0d__TANGOS_Regularizing_Tabular_Neural_Networks_through_Gradient_Orthogonalization_and_Specialization.pdf",
+    "sha256": "477fe9609dee37cadfef82c2437f2f62da9632b96a142ee9253f8cfefbf77533"
+  },
+  {
+    "id": "iclr-2023-w2P7fMy_RH",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2023/iclr-2023-w2P7fMy_RH.pdf",
+    "canonical_path": "pdfs/ICLR/2023/iclr-2023-w2P7fMy_RH__Expressive_Monotonic_Neural_Networks.pdf",
+    "sha256": "49da439a10ab3ce7b2989783178def057da54becb9b81eae71aabc2d59e4a711"
+  },
+  {
+    "id": "iclr-2024-4h1apFjO99",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-4h1apFjO99.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-4h1apFjO99__Diffusion_TS_Interpretable_Diffusion_for_General_Time_Series_Generation.pdf",
+    "sha256": "410cf0e8c77a9c50e5b94da8ad59c89f901b047465cced58f99ad74aef875747"
+  },
+  {
+    "id": "iclr-2024-6LLho5X6xV",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-6LLho5X6xV.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-6LLho5X6xV__UniTabE_A_Universal_Pretraining_Protocol_for_Tabular_Foundation_Model_in_Data_Science.pdf",
+    "sha256": "2968676f933d7a0c60896c17e863ed0c20b7aaf0ab927419c7ffd5104e609952"
+  },
+  {
+    "id": "iclr-2024-GEcwtMk1uA",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-GEcwtMk1uA.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-GEcwtMk1uA__Identifying_the_Risks_of_LM_Agents_with_an_LM_Emulated_Sandbox.pdf",
+    "sha256": "2d746c512086bd47084e616a0848c6dd25052dfe8b6da64e42e4c5e2f0050722"
+  },
+  {
+    "id": "iclr-2024-NialiwI2V6",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-NialiwI2V6.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-NialiwI2V6__MOTOR_A_Time_to_Event_Foundation_Model_For_Structured_Medical_Records.pdf",
+    "sha256": "b26fc4ade425ab8b19681439c205f66c4c3857d34f6c55f3dd3f7a41cfa7256e"
+  },
+  {
+    "id": "iclr-2024-tEgrUrUuwA",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2024/iclr-2024-tEgrUrUuwA.pdf",
+    "canonical_path": "pdfs/ICLR/2024/iclr-2024-tEgrUrUuwA__Partitioning_Message_Passing_for_Graph_Fraud_Detection.pdf",
+    "sha256": "4f9bc5db3e3ff2ea30f71bc59f7bf55f5f53ad4bf4cfb4d35c4b098cb0afc466"
+  },
+  {
+    "id": "iclr-2025-2fojNANZSv",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-2fojNANZSv.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-2fojNANZSv__Mixture_of_In_Context_Prompters_for_Tabular_PFNs.pdf",
+    "sha256": "e18de2d40dfb94236af9929ca590fb5bb3ab33dec2e1eadaf361fbd9436d50ba"
+  },
+  {
+    "id": "iclr-2025-Nx4PMtJ1ER",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-Nx4PMtJ1ER.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-Nx4PMtJ1ER__Signature_Kernel_Conditional_Independence_Tests_in_Causal_Discovery_for_Stochastic_Processes.pdf",
+    "sha256": "a3bb2cd829e0ca040fd66a21512fdc57a2ba3e338e9bbd743d58338d281c2d6e"
+  },
+  {
+    "id": "iclr-2025-RD9q5vEe1Q",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-RD9q5vEe1Q.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-RD9q5vEe1Q__Error_quantified_Conformal_Inference_for_Time_Series.pdf",
+    "sha256": "bff5e60c640f0fa90037953b6df9826b92e0bae44e1dcfe345c51c3ba435b3eb"
+  },
+  {
+    "id": "iclr-2025-Y4aWwRh25b",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-Y4aWwRh25b.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-Y4aWwRh25b__Follow_My_Instruction_and_Spill_the_Beans_Scalable_Data_Extraction_from_Retrieval_Augmented_Generation_Sy.pdf",
+    "sha256": "2985c55f461a468faff897ecec1d31ee6dd8c4bf1be88caf234c11af50fcc336"
+  },
+  {
+    "id": "iclr-2025-bhOysNJvWm",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-bhOysNJvWm.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-bhOysNJvWm__Diffusion_Transformers_for_Tabular_Data_Time_Series_Generation.pdf",
+    "sha256": "0cacfdfce6f8870f84f212c661045fc50dd4d8e8b3909c73c7a87c891c2f2542"
+  },
+  {
+    "id": "iclr-2025-e1wDDFmlVu",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-e1wDDFmlVu.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-e1wDDFmlVu__Time_MoE_Billion_Scale_Time_Series_Foundation_Models_with_Mixture_of_Experts.pdf",
+    "sha256": "6777a5dcf0286aa9c042e3d4914d2faf8ededbf1f84b493e27a04989d2d2178d"
+  },
+  {
+    "id": "iclr-2025-lfPkGWXLLf",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-lfPkGWXLLf.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-lfPkGWXLLf__ForecastBench_A_Dynamic_Benchmark_of_AI_Forecasting_Capabilities.pdf",
+    "sha256": "f7df9c99194f8b8057aeb8a3410585d2b8ce890599f44e192cf3abf9eeb5f2f9"
+  },
+  {
+    "id": "iclr-2025-nsCOeCLR8e",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-nsCOeCLR8e.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-nsCOeCLR8e__DynFrs_An_Efficient_Framework_for_Machine_Unlearning_in_Random_Forest.pdf",
+    "sha256": "8f528c1db1e38f82bafa52c52502632e772f1a38eee51851d5416319594c0b54"
+  },
+  {
+    "id": "iclr-2025-oP7arLOWix",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2025/iclr-2025-oP7arLOWix.pdf",
+    "canonical_path": "pdfs/ICLR/2025/iclr-2025-oP7arLOWix__Kernel_based_Optimally_Weighted_Conformal_Time_Series_Prediction.pdf",
+    "sha256": "49e6e3a0b19878b186387ae13210250c480e3a08cd88d6c7819a4466c87bdc15"
+  },
+  {
+    "id": "iclr-2026-0TAFiyHgEl",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-0TAFiyHgEl.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-0TAFiyHgEl__Unlocking_the_Value_of_Text_Event_Driven_Reasoning_and_Multi_Level_Alignment_for_Time_Series_Forecasting.pdf",
+    "sha256": "503dbb02e6dc7b7df670fb14c936041b73291bbca8b8e8079e097b3e076b6d74"
+  },
+  {
+    "id": "iclr-2026-Gt4v9WBPzm",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-Gt4v9WBPzm.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-Gt4v9WBPzm__HiPRAG_Hierarchical_Process_Rewards_for_Efficient_Agentic_Retrieval_Augmented_Generation.pdf",
+    "sha256": "f03f43157582ef01bdff063e866a99fb4dc495aa6ef948f1bd198152584146ac"
+  },
+  {
+    "id": "iclr-2026-J1NITEU3Ng",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-J1NITEU3Ng.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-J1NITEU3Ng__ATEX_CF_Attack_Informed_Counterfactual_Explanations_for_Graph_Neural_Networks.pdf",
+    "sha256": "ae974666ca2c7a2bbd4df86a957e5642db6cece9179075481c76e790a3aea3de"
+  },
+  {
+    "id": "iclr-2026-OBMcxeSK5U",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-OBMcxeSK5U.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-OBMcxeSK5U__Embedding_Based_Context_Aware_Reranker.pdf",
+    "sha256": "b5afd38efe0edcae1adee058cb56a73c53f2f5f825908d9e289037295fd5be6b"
+  },
+  {
+    "id": "iclr-2026-SbBX2dCw3y",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-SbBX2dCw3y.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-SbBX2dCw3y__Multi_Scale_Hypergraph_Meets_LLMs_Aligning_Large_Language_Models_for_Time_Series_Analysis.pdf",
+    "sha256": "98c704da50538df15bd3b73830168c5ce2dc1a990ad15096c08d56ef49b39886"
+  },
+  {
+    "id": "iclr-2026-a1zBg9cBvt",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-a1zBg9cBvt.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-a1zBg9cBvt__Language_in_the_Flow_of_Time_Time_Series_Paired_Texts_Weaved_into_a_Unified_Temporal_Narrative.pdf",
+    "sha256": "53f26a6ac99e99f1930284cfd2c320822286ad302f948adccf862c7bd23f740e"
+  },
+  {
+    "id": "iclr-2026-kgk0NqjsoW",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-kgk0NqjsoW.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-kgk0NqjsoW__DAVE_A_VLM_Vision_Encoder_for_Document_Understanding_and_Web_Agents.pdf",
+    "sha256": "dbad5d94772286aee7e555d52f27164e92011804e671550f809c2bfb1b55a46a"
+  },
+  {
+    "id": "iclr-2026-ohVOD2ixBH",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-ohVOD2ixBH.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-ohVOD2ixBH__Human_LLM_Collaborative_Feature_Engineering_for_Tabular_Data.pdf",
+    "sha256": "6e81baf284ce0cdf07b560b5b3a84393129267bc78bfe08f561845764e030fff"
+  },
+  {
+    "id": "iclr-2026-sAzUQkP47r",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-sAzUQkP47r.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-sAzUQkP47r__OpenEstimate_Evaluating_LLMs_on_Reasoning_Under_Uncertainty_with_Real_World_Data.pdf",
+    "sha256": "ff6ba9cd9343af56a4e5f60de8ee7a8fd639c970b40ee5845c48d5eb950b40cc"
+  },
+  {
+    "id": "iclr-2026-zc1ezBrr5m",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICLR/2026/iclr-2026-zc1ezBrr5m.pdf",
+    "canonical_path": "pdfs/ICLR/2026/iclr-2026-zc1ezBrr5m__TaTToo_Tool_Grounded_Thinking_PRM_for_Test_Time_Scaling_in_Tabular_Reasoning.pdf",
+    "sha256": "2c731ea3b9b507d965019ebb320a3dd6a693c73dd99e5de579fcf7f4fa8dbc50"
+  },
+  {
+    "id": "icml-2026-8N2kUoknvy",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-8N2kUoknvy.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-8N2kUoknvy__Mitigating_Label_Shift_in_Tabular_In_Context_Learning_via_Test_Time_Posterior_Adjustment.pdf",
+    "sha256": "6ed295fbdcc9209bccf0900598fc81f60a87d4a66c614c92f3ec4b97aad8205c"
+  },
+  {
+    "id": "icml-2026-9SLQACsSbw",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-9SLQACsSbw.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-9SLQACsSbw__Differentiable_Optimization_Layers_for_Guaranteed_Fairness_in_Deep_Learning.pdf",
+    "sha256": "62354e284b0c4cce922b6788f69e6955c39a20b13fef103522fd929a1887325a"
+  },
+  {
+    "id": "icml-2026-Du8BMHfNzp",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-Du8BMHfNzp.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-Du8BMHfNzp__PATRA_Pattern_Aware_Alignment_and_Balanced_Reasoning_for_Time_Series_Question_Answering.pdf",
+    "sha256": "cad636624c39875277cacf66ab467893ad53240f57599eddf5036ada17e5e5ac"
+  },
+  {
+    "id": "icml-2026-EKmiOtjZjI",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-EKmiOtjZjI.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-EKmiOtjZjI__Online_Conformal_Prediction_via_Universal_Portfolio_Algorithms.pdf",
+    "sha256": "925e522dd4bf4d560c0cd60ca5cb0a144477cc8ab97f986892c3a77d0c6463dc"
+  },
+  {
+    "id": "icml-2026-GdqrQ75Gg8",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-GdqrQ75Gg8.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-GdqrQ75Gg8__Desirable_Effort_Fairness_and_Optimality_Trade_offs_in_Strategic_Learning.pdf",
+    "sha256": "48c9ddacdd916cf1ea8750348a2f4a13145fc2f4b6fe6dbd40685d53d8b24a2d"
+  },
+  {
+    "id": "icml-2026-IxpVGcg39J",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-IxpVGcg39J.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-IxpVGcg39J__Is_One_Layer_Enough_Understanding_Inference_Dynamics_in_Tabular_Foundation_Models.pdf",
+    "sha256": "df31515a634d99d476f4cda4288652f253597def02102a0cc6993789e4345899"
+  },
+  {
+    "id": "icml-2026-ea2kQkdQA7",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-ea2kQkdQA7.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-ea2kQkdQA7__The_Illusion_of_Generalization_in_Tabular_Language_Models.pdf",
+    "sha256": "efece5570eec24bb678045d994430b6170fbb047aef1ea1cc8c538a70b1dd022"
+  },
+  {
+    "id": "icml-2026-iXh2dmdt8v",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-iXh2dmdt8v.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-iXh2dmdt8v__Towards_a_Unified_Generative_Model_for_Scarce_Time_Series_with_Domain_Experts.pdf",
+    "sha256": "e6c7b5eb57c0a35febef65e82a09f64ef09e2468e0b52efdc08d2f47c00f4173"
+  },
+  {
+    "id": "icml-2026-t73XUJvyQr",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-t73XUJvyQr.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-t73XUJvyQr__Latent_Laplace_Diffusion_for_Irregular_Multivariate_Time_Series.pdf",
+    "sha256": "a7c8603a5a9155cb13a0c90fe74042f1c23cd23a21dab48cdfc94e385eec5894"
+  },
+  {
+    "id": "icml-2026-yzBbBPheg7",
+    "screening_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-yzBbBPheg7.pdf",
+    "canonical_path": "pdfs/ICML/2026/icml-2026-yzBbBPheg7__Adaptive_Time_Series_Reasoning_via_Segment_Selection.pdf",
+    "sha256": "108ab447cec0d8035eb3f2f0face3101e2618d50aacd8af8fc31c7de43ea6829"
+  },
+  {
+    "id": "neurips-2025-M9JmlA6Cgf",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-M9JmlA6Cgf.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-M9JmlA6Cgf__A_Diffusion_Model_for_Regular_Time_Series_Generation_from_Irregular_Data_with_Completion_and_Masking.pdf",
+    "sha256": "1b02c7a1f1f5a3229c7dd15fa496a2ec506f9eacc9ff2e3677d0b74f4199a813"
+  },
+  {
+    "id": "neurips-2025-PhoyfQG9Vb",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-PhoyfQG9Vb.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-PhoyfQG9Vb__Performative_Validity_of_Recourse_Explanations.pdf",
+    "sha256": "9260459ac59ce10844077b6cbb60ac38537288ef24b06f85f5b4a6a04e3de611"
+  },
+  {
+    "id": "neurips-2025-SRDF3RV0KP",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-SRDF3RV0KP.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-SRDF3RV0KP__LLM_Meeting_Decision_Trees_on_Tabular_Data.pdf",
+    "sha256": "25b4578667093f0c0bba856dc21e7570bf53a48d726781dce60d5839a40ad789"
+  },
+  {
+    "id": "neurips-2025-WRwr2YZ4zt",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-WRwr2YZ4zt.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-WRwr2YZ4zt__TimeXL_Explainable_Multi_modal_Time_Series_Prediction_with_LLM_in_the_Loop.pdf",
+    "sha256": "7ea8a9dc569d85b895e6d08d2f8ce6e16ffae64a887009beb3f960cbf1de29e7"
+  },
+  {
+    "id": "neurips-2025-akhhwQh6UV",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-akhhwQh6UV.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-akhhwQh6UV__TimeWak_Temporal_Chained_Hashing_Watermark_for_Time_Series_Data.pdf",
+    "sha256": "bba686879cb5e6b6e5a7dd39d26a830ea11c2300e50d9d60b1e25b90595f34fa"
+  },
+  {
+    "id": "neurips-2025-l5N0P1UJKP",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-l5N0P1UJKP.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-l5N0P1UJKP__Hybrid_Autoencoders_for_Tabular_Data_Leveraging_Model_Based_Augmentation_in_Low_Label_Settings.pdf",
+    "sha256": "75f14983610472e967a9e439ba06325984ac9c9230088811aa438e8c1717858a"
+  },
+  {
+    "id": "neurips-2025-p324ryBKTc",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-p324ryBKTc.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-p324ryBKTc__Time_Series_Generation_Under_Data_Scarcity_A_Unified_Generative_Modeling_Approach.pdf",
+    "sha256": "42a196055c5254650394c88c3ca4eac1fb572e044e833fff35f5848a8ef09797"
+  },
+  {
+    "id": "neurips-2025-pIZxEOZCId",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-pIZxEOZCId.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-pIZxEOZCId__TabDPT_Scaling_Tabular_Foundation_Models_on_Real_Data.pdf",
+    "sha256": "f336b271ffe3df26319bbba823d7f74ba30594a7b97e7247b2eedab58e0ffb47"
+  },
+  {
+    "id": "neurips-2025-w1Y7RZC3QT",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2025/neurips-2025-w1Y7RZC3QT.pdf",
+    "canonical_path": "pdfs/NeurIPS/2025/neurips-2025-w1Y7RZC3QT__Document_Summarization_with_Conformal_Importance_Guarantees.pdf",
+    "sha256": "ec4afb03d594a9b9699ed21528ce71d64a242a2b0747e60f6b904363068e7a29"
+  },
+  {
+    "id": "neurips-2026-2IWnVy1qoe",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-2IWnVy1qoe.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-2IWnVy1qoe__AdaST_Adaptive_Coupling_for_Spatial_Temporal_Forecasting.pdf",
+    "sha256": "5fc1212cb80149522ee3fae5bb40a7ae51da6a4b66f26591e0ea93f96d78770e"
+  },
+  {
+    "id": "neurips-2026-3lps4PsA4p",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-3lps4PsA4p.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-3lps4PsA4p__Dynamic_Dual_Feedback_Conformal_Inference_for_Time_Series_Forecasting.pdf",
+    "sha256": "97d220bfdfa2c0a3393703c93e2597e85222b6f78a84118d4cd497c713336ba9"
+  },
+  {
+    "id": "neurips-2026-9Vk5e1o3lU",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-9Vk5e1o3lU.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-9Vk5e1o3lU__BayesRAG_Probabilistic_Mutual_Evidence_Corroboration_for_Multimodal_Retrieval_Augmented_Generation.pdf",
+    "sha256": "3959f6c54864feda6c1919810d78bd0246f584101b10e17d451bc96aead60062"
+  },
+  {
+    "id": "neurips-2026-HSZMPfq6tX",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-HSZMPfq6tX.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-HSZMPfq6tX__ForecastCompass_Guiding_Agentic_Forecasting_with_Adaptive_Factor_Memory.pdf",
+    "sha256": "0fefc4f02fabeb6e66fbc9666896c1838e444f82ae4dec2ba0f7648d004ee377"
+  },
+  {
+    "id": "neurips-2026-NtBkgEhEww",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-NtBkgEhEww.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-NtBkgEhEww__AgenticOCR_Parsing_Only_What_You_Need_for_Efficient_Retrieval_Augmented_Generation.pdf",
+    "sha256": "676464cafddc1f3384a5e6616559082b08926b60a84c73e3175b905949d3b805"
+  },
+  {
+    "id": "neurips-2026-WpZao8pAB7",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-WpZao8pAB7.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-WpZao8pAB7__Retrieval_Over_Training_Similarity_search_based_Model_Selection_for_Time_Series_Anomaly_Detection.pdf",
+    "sha256": "9ce9532c32fe3527475567da0f3cfe9164b75c8835035b6d14eb4d88d178c4ad"
+  },
+  {
+    "id": "neurips-2026-b4cH8bQHbT",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-b4cH8bQHbT.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-b4cH8bQHbT__Inference_Time_Refinement_Closes_the_Synthetic_Real_Gap_in_Tabular_Diffusion.pdf",
+    "sha256": "7a06613cf1c2023ea5d9713b57b6ddfa062c6180d12816db4a52a9b5bb915dea"
+  },
+  {
+    "id": "neurips-2026-l7awisNMWs",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-l7awisNMWs.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-l7awisNMWs__B_3_PWL_GPU_Batched_Branch_and_Bound_for_Piecewise_Linear_Optimization_with_SOS2_Constraints.pdf",
+    "sha256": "632552c9f6a6e1eef2b945eb6fef34ff328315bb88acd5a1ac56c4d011f2da29"
+  },
+  {
+    "id": "neurips-2026-pTunYUdPGz",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-pTunYUdPGz.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-pTunYUdPGz__Strengthening_LLMs_for_Tabular_Prediction_with_Structural_Priors.pdf",
+    "sha256": "3179c50e6b0d3cc312ad75f9226b0ad4959ad6fef2f87620c6562d8991a2386f"
+  },
+  {
+    "id": "neurips-2026-qJv71MIpc5",
+    "screening_path": "checks/finance_expansion/review_pdfs/NeurIPS/2026/neurips-2026-qJv71MIpc5.pdf",
+    "canonical_path": "pdfs/NeurIPS/2026/neurips-2026-qJv71MIpc5__ProCTI_Prototype_Refined_Global_Conditioning_for_Diffusion_Based_Time_Series_Imputation.pdf",
+    "sha256": "b40a725008791b0283a9afa455dba66debe8a9290d967be36d7a8465f885bfa6"
+  }
+]

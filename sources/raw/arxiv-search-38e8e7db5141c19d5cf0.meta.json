@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22CAT+Q+Cost+efficient+and+Accurate+Ternary+Quantization+for+LLMs%22+OR+ti%3A%22CLEAR+Context+Aware+Learning+with+End+to+End+Mask+Free+Inference+for+Adaptive%22+OR+ti%3A%22CVE+Factory+Scaling+Expert+Level+Agentic+Tasks+for+Code+Security+Vulnerability%22+OR+ti%3A%22CausalGame+Benchmarking+Causal+Thinking+of+LLM+Agents+in+Games%22+OR+ti%3A%22Characterizing+Evaluating+and+Optimizing+Complex+Reasoning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22CAT+Q+Cost+efficient+and+Accurate+Ternary+Quantization+for+LLMs%22+OR+ti%3A%22CLEAR+Context+Aware+Learning+with+End+to+End+Mask+Free+Inference+for+Adaptive%22+OR+ti%3A%22CVE+Factory+Scaling+Expert+Level+Agentic+Tasks+for+Code+Security+Vulnerability%22+OR+ti%3A%22CausalGame+Benchmarking+Causal+Thinking+of+LLM+Agents+in+Games%22+OR+ti%3A%22Characterizing+Evaluating+and+Optimizing+Complex+Reasoning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:23.028390+00:00",
+  "bytes": 14321,
+  "sha256": "74bf772e7f9f8e84b786f0865e994c524852ebef16bfcc0fd857de96bf797efe",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-38e8e7db5141c19d5cf0.gz"
+}

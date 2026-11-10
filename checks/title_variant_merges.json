@@ -1,0 +1,296 @@
+[
+  {
+    "removed_id": "icml-2020-pmlr-agarwal20c",
+    "retained_id": "icml-2020-6643",
+    "proceedings_title": "An Optimistic Perspective on Offline Reinforcement Learning",
+    "event_title": "An Optimistic Perspective on Offline Deep Reinforcement Learning",
+    "title_similarity": 0.9636363636363636
+  },
+  {
+    "removed_id": "icml-2020-pmlr-chu20b",
+    "retained_id": "icml-2020-5958",
+    "proceedings_title": "Semismooth Newton Algorithm for Efficient Projections onto $\\ell_1, ∞$-norm Ball",
+    "event_title": "Semismooth Newton Algorithm for Efficient Projections onto $\\ell_{1, \\infty}$-norm Ball",
+    "title_similarity": 0.9624060150375939
+  },
+  {
+    "removed_id": "icml-2020-pmlr-kumar20d",
+    "retained_id": "icml-2020-6804",
+    "proceedings_title": "On Implicit Regularization in $β$-VAEs",
+    "event_title": "On Implicit Regularization in $\\beta$-VAEs",
+    "title_similarity": 0.9375
+  },
+  {
+    "removed_id": "icml-2021-pmlr-cassel21a",
+    "retained_id": "icml-2021-10103",
+    "proceedings_title": "Online Policy Gradient for Model Free Learning of Linear Quadratic Regulators with $\\sqrt$T Regret",
+    "event_title": "Online Policy Gradient for Model Free Learning of Linear Quadratic Regulators with √T Regret",
+    "title_similarity": 0.975
+  },
+  {
+    "removed_id": "icml-2021-pmlr-du21e",
+    "retained_id": "icml-2021-10661",
+    "proceedings_title": "Estimating $α$-Rank from A Few Entries with Low Rank Matrix Completion",
+    "event_title": "Estimating $\\alpha$-Rank from A Few Entries with Low Rank Matrix Completion",
+    "title_similarity": 0.9572649572649573
+  },
+  {
+    "removed_id": "icml-2021-pmlr-graf21a",
+    "retained_id": "icml-2021-9678",
+    "proceedings_title": "Dissecting Supervised Contrastive Learning",
+    "event_title": "Dissecting Supervised Constrastive Learning",
+    "title_similarity": 0.9873417721518988
+  },
+  {
+    "removed_id": "icml-2021-pmlr-kozuno21a",
+    "retained_id": "icml-2021-8453",
+    "proceedings_title": "Revisiting Peng’s Q($λ$) for Modern Reinforcement Learning",
+    "event_title": "Revisiting Peng's Q($\\lambda$) for Modern Reinforcement Learning",
+    "title_similarity": 0.9387755102040817
+  },
+  {
+    "removed_id": "icml-2022-pmlr-lambert22a",
+    "retained_id": "icml-2022-17428",
+    "proceedings_title": "Functional Output Regression with Infimal Convolution: Exploring the Huber and $ε$-insensitive Losses",
+    "event_title": "Functional Output Regression with Infimal Convolution: Exploring the Huber and $\\epsilon$-insensitive Losses",
+    "title_similarity": 0.96045197740113
+  },
+  {
+    "removed_id": "icml-2022-pmlr-li22o",
+    "retained_id": "icml-2022-16489",
+    "proceedings_title": "Restarted Nonconvex Accelerated Gradient Descent: No More Polylogarithmic Factor in the $O(ε^-7/4)$ Complexity",
+    "event_title": "Restarted Nonconvex Accelerated Gradient Descent: No More Polylogarithmic Factor in the $O(\\epsilon^{-7/4})$ Complexity",
+    "title_similarity": 0.9621621621621622
+  },
+  {
+    "removed_id": "icml-2023-pmlr-anagnostides23a",
+    "retained_id": "icml-2023-25202",
+    "proceedings_title": "Near-Optimal $Φ$-Regret Learning in Extensive-Form Games",
+    "event_title": "Near-Optimal $\\Phi$-Regret Learning in Extensive-Form Games",
+    "title_similarity": 0.967741935483871
+  },
+  {
+    "removed_id": "icml-2023-pmlr-simchowitz23a",
+    "retained_id": "icml-2023-24615",
+    "proceedings_title": "Statistical Learning under Heterogeneous Distribution Shift",
+    "event_title": "Statistical Learning under Heterogenous Distribution Shift",
+    "title_similarity": 0.9906542056074766
+  },
+  {
+    "removed_id": "icml-2023-pmlr-song23j",
+    "retained_id": "icml-2023-25184",
+    "proceedings_title": "A Nearly-Optimal Bound for Fast Regression with $\\ell_∞$ Guarantee",
+    "event_title": "A Nearly-Optimal Bound for Fast Regression with $\\ell_\\infty$ Guarantee",
+    "title_similarity": 0.9541284403669725
+  },
+  {
+    "removed_id": "icml-2024-pmlr-bounoua24a",
+    "retained_id": "icml-2024-35535",
+    "proceedings_title": "S$Ω$I: Score-based O-INFORMATION Estimation",
+    "event_title": "S$\\Omega$I: Score-based O-INFORMATION Estimation",
+    "title_similarity": 0.9315068493150684
+  },
+  {
+    "removed_id": "icml-2024-pmlr-holl24a",
+    "retained_id": "icml-2024-35005",
+    "proceedings_title": "$\\bfΦ_\\textrmFlow$: Differentiable Simulations for PyTorch, TensorFlow and Jax",
+    "event_title": "$\\bf{\\Phi}_\\textrm{Flow}$: Differentiable Simulations for PyTorch, TensorFlow and Jax",
+    "title_similarity": 0.9767441860465116
+  },
+  {
+    "removed_id": "icml-2024-pmlr-panaganti24a",
+    "retained_id": "icml-2024-33754",
+    "proceedings_title": "Model-Free Robust $φ$-Divergence Reinforcement Learning Using Both Offline and Online Data",
+    "event_title": "Model-Free Robust $\\phi$-Divergence Reinforcement Learning Using Both Offline and Online Data",
+    "title_similarity": 0.9803921568627451
+  },
+  {
+    "removed_id": "icml-2024-pmlr-xie24e",
+    "retained_id": "icml-2024-34662",
+    "proceedings_title": "Implicit Bias of AdamW: $\\ell_∞$-Norm Constrained Optimization",
+    "event_title": "Implicit Bias of AdamW: $\\ell_\\infty$-Norm Constrained Optimization",
+    "title_similarity": 0.9514563106796117
+  },
+  {
+    "removed_id": "icml-2025-pmlr-chen25cd",
+    "retained_id": "icml-2025-efWv8jOBkb",
+    "proceedings_title": "Global Convergence and Rich Feature Learning in $L$-Layer Infinite-Width Neural Networks under $μ$ Parametrization",
+    "event_title": "Global Convergence and Rich Feature Learning in $L$-Layer Infinite-Width Neural Networks under $\\mu$ Parametrization",
+    "title_similarity": 0.9894736842105263
+  },
+  {
+    "removed_id": "icml-2025-pmlr-fan25d",
+    "retained_id": "icml-2025-hyPWP38j5k",
+    "proceedings_title": "Graph Minimum Factorization Distance and Its Application to Large-Scale Graph Data Clustering",
+    "event_title": "Graph Minimum Factor Distance and Its Application to Large-Scale Graph Data Clustering",
+    "title_similarity": 0.9548387096774194
+  },
+  {
+    "removed_id": "icml-2025-pmlr-forouzandeh25a",
+    "retained_id": "icml-2025-3hYrORJndz",
+    "proceedings_title": "SHARP-Distill: A 68$\\times$ Faster Recommender System with Hypergraph Neural Networks and Language Models",
+    "event_title": "SHARP-Distill: A 68× Faster Recommender System with Hypergraph Neural Networks and Language Models",
+    "title_similarity": 0.9707602339181286
+  },
+  {
+    "removed_id": "icml-2025-pmlr-guan25a",
+    "retained_id": "icml-2025-msPfUNX9NF",
+    "proceedings_title": "Enhancing Logits Distillation with Plug&Play Kendall’s $τ$ Ranking Loss",
+    "event_title": "Enhancing Logits Distillation with Plug&Play Kendall's  $\\tau$ Ranking Loss",
+    "title_similarity": 0.9747899159663865
+  },
+  {
+    "removed_id": "icml-2025-pmlr-li25do",
+    "retained_id": "icml-2025-fHt4Nau7FW",
+    "proceedings_title": "Maximal Update Parametrization and Zero-Shot Hyperparameter Transfer for Fourier Neural Operators",
+    "event_title": "Maximum Update Parametrization and Zero-Shot Hyperparameter Transfer for Fourier Neural Operators",
+    "title_similarity": 0.9767441860465116
+  },
+  {
+    "removed_id": "icml-2025-pmlr-losser25a",
+    "retained_id": "icml-2025-w2QNIkcwWw",
+    "proceedings_title": "Fast Min-$ε$ Segmented Regression using Constant-Time Segment Merging",
+    "event_title": "Fast Min-$\\epsilon$ Segmented Regression using Constant-Time Segment Merging",
+    "title_similarity": 0.9421487603305785
+  },
+  {
+    "removed_id": "icml-2025-pmlr-ma25y",
+    "retained_id": "icml-2025-BnPaSXSmz1",
+    "proceedings_title": "An Online Statistical Framework for Out-of-Distribution Detection",
+    "event_title": "A Online Statistical Framework for Out-of-Distribution Detection",
+    "title_similarity": 0.9911504424778761
+  },
+  {
+    "removed_id": "icml-2025-pmlr-narayan25b",
+    "retained_id": "icml-2025-qOLjAhxZgm",
+    "proceedings_title": "$\\mathrmμ$nit Scaling: Simple and Scalable FP8 LLM Training",
+    "event_title": "µnit Scaling: Simple and Scalable FP8 LLM Training",
+    "title_similarity": 0.9318181818181818
+  },
+  {
+    "removed_id": "icml-2025-pmlr-santos25a",
+    "retained_id": "icml-2025-afDHwQ1ZDO",
+    "proceedings_title": "$∞$-Video: A Training-Free Approach to Long Video Understanding via Continuous-Time Memory Consolidation",
+    "event_title": "$\\infty$-Video: A Training-Free Approach to Long Video Understanding via Continuous-Time Memory Consolidation",
+    "title_similarity": 0.9717514124293786
+  },
+  {
+    "removed_id": "icml-2025-pmlr-wang25dz",
+    "retained_id": "icml-2025-vt65VjJakt",
+    "proceedings_title": "ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $α$-$β$-Divergence",
+    "event_title": "ABKD: Pursuing a Proper Allocation of the Probability Mass in Knowledge Distillation via $\\alpha$-$\\beta$-Divergence",
+    "title_similarity": 0.9497206703910615
+  },
+  {
+    "removed_id": "icml-2025-pmlr-zhang25cd",
+    "retained_id": "icml-2025-Pedm1880A2",
+    "proceedings_title": "e-GAI: e-value-based Generalized $α$-Investing for Online False Discovery Rate Control",
+    "event_title": "e-GAI: e-value-based Generalized $\\alpha$-Investing for Online False Discovery Rate Control",
+    "title_similarity": 0.965034965034965
+  },
+  {
+    "removed_id": "icml-2025-pmlr-zhou25m",
+    "retained_id": "icml-2025-n52yyvEwPa",
+    "proceedings_title": "GSM-$∞$: How Do your LLMs Behave over Infinitely Increasing Reasoning Complexity and Context Length?",
+    "event_title": "GSM-$\\infty$: How Do your LLMs Behave over Infinitely Increasing Reasoning Complexity and Context Length?",
+    "title_similarity": 0.9700598802395209
+  },
+  {
+    "removed_id": "icml-2025-pmlr-zhou25ad",
+    "retained_id": "icml-2025-eWQQPtfJjV",
+    "proceedings_title": "Square$χ$PO: Differentially Private and Robust $χ^2$-Preference Optimization in Offline Direct Alignment",
+    "event_title": "Square$\\chi$PO: Differentially Private and Robust $\\chi^2$-Preference Optimization in Offline Direct Alignment",
+    "title_similarity": 0.9659090909090909
+  },
+  {
+    "removed_id": "icml-2017-pmlr-bello17a",
+    "retained_id": "icml-2017-842",
+    "proceedings_title": "Neural Optimizer Search with Reinforcement Learning",
+    "event_title": "Neural Optimizer Search using Reinforcement Learning",
+    "title_similarity": 0.9247311827956989
+  },
+  {
+    "removed_id": "icml-2017-pmlr-beygelzimer17a",
+    "retained_id": "icml-2017-557",
+    "proceedings_title": "Efficient Online Bandit Multiclass Learning with $\\tilde{O}(\\sqrt{T})$ Regret",
+    "event_title": "Efficient Online Bandit Multiclass Learning with O(sqrt{T}) Regret",
+    "title_similarity": 0.9565217391304348
+  },
+  {
+    "removed_id": "icml-2017-pmlr-peng17a",
+    "retained_id": "icml-2017-629",
+    "proceedings_title": "Asynchronous Distributed Variational Gaussian Process for Regression",
+    "event_title": "Asynchronous Distributed Variational Gaussian Processes for Regression",
+    "title_similarity": 0.9841269841269841
+  },
+  {
+    "removed_id": "icml-2018-pmlr-aghazadeh18a",
+    "retained_id": "icml-2018-2249",
+    "proceedings_title": "MISSION: Ultra Large-Scale Feature Selection using Count-Sketches",
+    "event_title": "Ultra Large-Scale Feature Selection using Count-Sketches",
+    "title_similarity": 0.9333333333333333
+  },
+  {
+    "removed_id": "icml-2018-pmlr-bamler18a",
+    "retained_id": "icml-2018-2360",
+    "proceedings_title": "Improving Optimization for Models With Continuous Symmetry Breaking",
+    "event_title": "Improving Optimization in Models With Continuous Symmetry Breaking",
+    "title_similarity": 0.957983193277311
+  },
+  {
+    "removed_id": "icml-2018-pmlr-dai18d",
+    "retained_id": "icml-2018-2411",
+    "proceedings_title": "Compressing Neural Networks using the Variational Information Bottleneck",
+    "event_title": "Compressing Neural Networks using the Variational Information Bottelneck",
+    "title_similarity": 0.9846153846153847
+  },
+  {
+    "removed_id": "icml-2018-pmlr-zhou18d",
+    "retained_id": "icml-2018-2223",
+    "proceedings_title": "Stochastic Variance-Reduced Cubic Regularized Newton Methods",
+    "event_title": "Stochastic Variance-Reduced Cubic Regularized Newton Method",
+    "title_similarity": 0.9906542056074766
+  },
+  {
+    "removed_id": "icml-2019-pmlr-ene19a",
+    "retained_id": "icml-2019-3597",
+    "proceedings_title": "Improved Convergence for $\\ell_1$ and $\\ell_∞$ Regression via Iteratively Reweighted Least Squares",
+    "event_title": "Improved Convergence for $\\ell_1$ and $\\ell_\\infty$ Regression via Iteratively Reweighted Least Squares",
+    "title_similarity": 0.968944099378882
+  },
+  {
+    "removed_id": "icml-2019-pmlr-tang19d",
+    "retained_id": "icml-2019-4191",
+    "proceedings_title": "DoubleSqueeze: Parallel Stochastic Gradient Descent with Double-pass Error-Compensated Compression",
+    "event_title": "$\\texttt{DoubleSqueeze}$: Parallel Stochastic Gradient Descent with Double-pass Error-Compensated Compression",
+    "title_similarity": 0.9666666666666667
+  },
+  {
+    "removed_id": "neurips-2018-00ac8ed3b4327bdd4ebbebcb2ba10a00",
+    "retained_id": "neurips-2018-11135",
+    "proceedings_title": "Synthesized Policies for Transfer and Adaptation across Tasks and Environments",
+    "event_title": "Synthesize Policies for Transfer and Adaptation across Tasks and Environments",
+    "title_similarity": 0.9927007299270073
+  },
+  {
+    "removed_id": "neurips-2019-169779d3852b32ce8b1a1724dbf5217d",
+    "retained_id": "neurips-2019-13556",
+    "proceedings_title": "A First-Order Algorithmic Framework for Distributionally Robust Logistic Regression",
+    "event_title": "A First-Order Algorithmic Framework for Wasserstein Distributionally Robust Logistic Regression",
+    "title_similarity": 0.9308176100628931
+  },
+  {
+    "removed_id": "neurips-2019-2bd2e3373dce441c6c3bfadd1daa953e",
+    "retained_id": "neurips-2019-13683",
+    "proceedings_title": "Exploring Unexplored Tensor Network Decompositions for Convolutional Neural Networks",
+    "event_title": "Einconv: Exploring Unexplored Tensor Network Decompositions for Convolutional Neural Networks",
+    "title_similarity": 0.9559748427672956
+  },
+  {
+    "removed_id": "neurips-2019-e49eb6523da9e1c347bc148ea8ac55d3",
+    "retained_id": "neurips-2019-14078",
+    "proceedings_title": "A Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation",
+    "event_title": "Model-Based Reinforcement Learning with Adversarial Training for Online Recommendation",
+    "title_similarity": 0.9935483870967742
+  }
+]

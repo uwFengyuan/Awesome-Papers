@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Unifying+Goal+Conditioned+RL+and+Unsupervised+Skill+Learning+via+Control+Maximization%22+OR+ti%3A%22Unlocking+Volition+Proactive+Intention+Decoding+via+Interpretable+Graph+Learning+of+Multi+Region+ECoG%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Unifying+Goal+Conditioned+RL+and+Unsupervised+Skill+Learning+via+Control+Maximization%22+OR+ti%3A%22Unlocking+Volition+Proactive+Intention+Decoding+via+Interpretable+Graph+Learning+of+Multi+Region+ECoG%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:28:24.325283+00:00",
+  "bytes": 3987,
+  "sha256": "b628a75655576dab1634bdf2742da756d775a35a3369814c307ea9cdd348d119",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-09c8d1a22d35b104cb39.gz"
+}

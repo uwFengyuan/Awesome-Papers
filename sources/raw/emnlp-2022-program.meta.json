@@ -1,0 +1,10 @@
+{
+  "url": "https://2022.emnlp.org/program/",
+  "final_url": "https://2022.emnlp.org/program/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:42.392664+00:00",
+  "bytes": 18135,
+  "sha256": "3c919fbb100f3e6199fb9a95e0c2f6b72235a98af2b3953f1f8b5defce37c412",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2022-program.gz"
+}

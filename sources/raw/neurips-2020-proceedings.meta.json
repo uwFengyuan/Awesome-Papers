@@ -1,0 +1,10 @@
+{
+  "url": "https://proceedings.neurips.cc/paper/2020",
+  "final_url": "https://proceedings.neurips.cc/paper/2020",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:59:20.592115+00:00",
+  "bytes": 1015914,
+  "sha256": "547fb9e16228e548fca8b7f2c4a7391dd370fc8db17b06fbd4836093e8604c69",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2020-proceedings.gz"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "venue": "EMNLP",
+    "year": 2017,
+    "title": "Natural Language Does Not Emerge ‘Naturally’ in Multi-Agent Dialog",
+    "award": "Best Short Paper",
+    "url": "https://arxiv.org/abs/1706.08502",
+    "discovery_source": "https://aibestpape.rs/",
+    "paper_id": "D17-1321",
+    "reason": "official award announcement not yet verified"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2017,
+    "title": "Bringing Structure into Summaries: Crowdsourcing a Benchmark Corpus of Concept Maps",
+    "award": "Best Resource Paper",
+    "url": "https://arxiv.org/abs/1704.04452",
+    "discovery_source": "https://aibestpape.rs/",
+    "paper_id": "D17-1320",
+    "reason": "official award announcement not yet verified"
+  }
+]

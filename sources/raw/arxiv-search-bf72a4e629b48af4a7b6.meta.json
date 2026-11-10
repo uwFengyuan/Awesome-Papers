@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Recursive+Decomposition+Framework+for+Causal+Structure+Learning+in+the+Presence+of+Latent%22+OR+ti%3A%22A+Systematic+Study+of+Behavioral+Cloning+for+Scientific+Data+Annotation%22+OR+ti%3A%22AI+Engram+In+Search+of+Memory+Traces+in+Artificial+Intelligence%22+OR+ti%3A%22Activation+Oracles+Training+and+Evaluating+LLMs+as+General+Purpose+Activation+Explainers%22+OR+ti%3A%22Agent0+VL+Exploring+Self+Evolving+Agent+for+Tool+Integrated+Vision+Language+Reasoning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Recursive+Decomposition+Framework+for+Causal+Structure+Learning+in+the+Presence+of+Latent%22+OR+ti%3A%22A+Systematic+Study+of+Behavioral+Cloning+for+Scientific+Data+Annotation%22+OR+ti%3A%22AI+Engram+In+Search+of+Memory+Traces+in+Artificial+Intelligence%22+OR+ti%3A%22Activation+Oracles+Training+and+Evaluating+LLMs+as+General+Purpose+Activation+Explainers%22+OR+ti%3A%22Agent0+VL+Exploring+Self+Evolving+Agent+for+Tool+Integrated+Vision+Language+Reasoning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:16.849518+00:00",
+  "bytes": 14554,
+  "sha256": "30515d0341f0ea0e439f0c296d2b1911aad6ac9c70795bf3a9fd184c648e1ae6",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-bf72a4e629b48af4a7b6.gz"
+}

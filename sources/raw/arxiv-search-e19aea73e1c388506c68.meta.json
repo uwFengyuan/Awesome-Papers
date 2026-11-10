@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22RoboMME+Benchmarking+and+Understanding+Memory+for+Robotic+Generalist+Policies%22+OR+ti%3A%22Robust+Contextual+Optimization+with+Missing+Covariates%22+OR+ti%3A%22Robust+Harmful+Features+Under+Jailbreak+Attacks+Mechanistic+Evidence+from+Attention+Head+Specialization+in%22+OR+ti%3A%22SVRG+and+Beyond+via+Posterior+Correction%22+OR+ti%3A%22Scalable+Event+Cloud+Network+for+Event+based+Classification%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22RoboMME+Benchmarking+and+Understanding+Memory+for+Robotic+Generalist+Policies%22+OR+ti%3A%22Robust+Contextual+Optimization+with+Missing+Covariates%22+OR+ti%3A%22Robust+Harmful+Features+Under+Jailbreak+Attacks+Mechanistic+Evidence+from+Attention+Head+Specialization+in%22+OR+ti%3A%22SVRG+and+Beyond+via+Posterior+Correction%22+OR+ti%3A%22Scalable+Event+Cloud+Network+for+Event+based+Classification%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:41.996941+00:00",
+  "bytes": 10602,
+  "sha256": "4fb3cd84b5dbb694443aa39057b4a4059fde17528097d3355c3ef369d65a0e92",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-e19aea73e1c388506c68.gz"
+}

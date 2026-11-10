@@ -1,0 +1,10 @@
+{
+  "url": "https://blog.neurips.cc/2020/12/07/announcing-the-neurips-2020-award-recipients/",
+  "final_url": "https://blog.neurips.cc/2020/12/07/announcing-the-neurips-2020-award-recipients/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:09.208407+00:00",
+  "bytes": 66835,
+  "sha256": "9d41ff6e5b760bf1bd23ec3cb96bead753afcbec6b6f23aca0ff5328bd9bbe8b",
+  "content_type": "text/html; charset=UTF-8",
+  "cache_path": "sources/raw/neurips-2020-blogawards.gz"
+}

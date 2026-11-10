@@ -1,0 +1,10 @@
+{
+  "url": "https://neurips.cc/virtual/2020/papers.html",
+  "final_url": "https://neurips.cc/virtual/2020/papers.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:55.448264+00:00",
+  "bytes": 275744,
+  "sha256": "fadddbfee0fd9f3951fef687640ef2e55b6bf295c57fce5864f684dd7ff02fa6",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2020-papershtml.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual_2020/static/js/schedule.js",
+  "final_url": "https://iclr.cc/virtual_2020/static/js/schedule.js",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:42.699860+00:00",
+  "bytes": 5310,
+  "sha256": "6a145ee13a3c378183f29c54dac0a4d2b0d54ef539b31d9556042daf572971ea",
+  "content_type": "text/javascript",
+  "cache_path": "sources/raw/iclr-2020-schedule-js.gz"
+}

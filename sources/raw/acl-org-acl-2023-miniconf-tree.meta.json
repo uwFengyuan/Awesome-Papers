@@ -1,0 +1,10 @@
+{
+  "url": "https://api.github.com/repos/acl-org/acl-2023-miniconf/git/trees/HEAD?recursive=1",
+  "final_url": "https://api.github.com/repos/acl-org/acl-2023-miniconf/git/trees/HEAD?recursive=1",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:42:56.605591+00:00",
+  "bytes": 82294,
+  "sha256": "924d43002c5bebe3b41a8160dda42217b853565a1d575d3884249d8ea4e36c39",
+  "content_type": "application/json; charset=utf-8",
+  "cache_path": "sources/raw/acl-org-acl-2023-miniconf-tree.gz"
+}

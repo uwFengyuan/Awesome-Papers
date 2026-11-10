@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Large+Scale+GAN+Training+for+High+Fidelity+Natural+Image+Synthesis%22+OR+ti%3A%22Learning+Protein+Structure+with+a+Differentiable+Simulator%22+OR+ti%3A%22Learning+Robust+Representations+by+Projecting+Superficial+Statistics+Out%22+OR+ti%3A%22Learning+deep+representations+by+mutual+information+estimation+and+maximization%22+OR+ti%3A%22Learning+to+Remember+More+with+Less+Memorization%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Large+Scale+GAN+Training+for+High+Fidelity+Natural+Image+Synthesis%22+OR+ti%3A%22Learning+Protein+Structure+with+a+Differentiable+Simulator%22+OR+ti%3A%22Learning+Robust+Representations+by+Projecting+Superficial+Statistics+Out%22+OR+ti%3A%22Learning+deep+representations+by+mutual+information+estimation+and+maximization%22+OR+ti%3A%22Learning+to+Remember+More+with+Less+Memorization%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:46.332800+00:00",
+  "bytes": 9861,
+  "sha256": "7a2bca0f47ed7289f781979762a837957b63a2ddf2fc4d5400746c8d00eeeae4",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-a8c2c39d43a6f8759045.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Cost+Efficient+Fairness+Audit+Under+Partial+Feedback%22+OR+ti%3A%22Economy+of+Minds+Emerging+Multi+Agent+Intelligence+with+Economic+Interactions%22+OR+ti%3A%22From+Chats+to+Markets+AgenticPay+for+LLM+Powered+Negotiation+in+Multi+Agent+Commerce%22+OR+ti%3A%22Generating+Financial+Time+Series+by+Matching+Random+Convolutional+Features%22+OR+ti%3A%22Hermes+A+Multi+Scale+Spatial+Temporal+Hypergraph+Network+for+Stock+Time+Series+Forecasting%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Cost+Efficient+Fairness+Audit+Under+Partial+Feedback%22+OR+ti%3A%22Economy+of+Minds+Emerging+Multi+Agent+Intelligence+with+Economic+Interactions%22+OR+ti%3A%22From+Chats+to+Markets+AgenticPay+for+LLM+Powered+Negotiation+in+Multi+Agent+Commerce%22+OR+ti%3A%22Generating+Financial+Time+Series+by+Matching+Random+Convolutional+Features%22+OR+ti%3A%22Hermes+A+Multi+Scale+Spatial+Temporal+Hypergraph+Network+for+Stock+Time+Series+Forecasting%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:30.968463+00:00",
+  "bytes": 12553,
+  "sha256": "7be6e0d9f350d44cb5042c32c229af8060a30fde51dd3d13acda4967f6300648",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7ff8c60120470d9d3960.gz"
+}

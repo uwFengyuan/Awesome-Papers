@@ -1,0 +1,9 @@
+{
+  "url": "https://neurips.cc/Downloads/2026",
+  "method": "POST read-only Download Data",
+  "http_status": 200,
+  "bytes": 17226284,
+  "sha256": "d6c34f41961dc62e2545a30446affaa02ded0552a648b62b95489a36f1c71a8d",
+  "cache_path": "sources/raw/neurips-2026-download-json.gz",
+  "retrieved_at_utc": "2026-11-01T13:30:31.128013+00:00"
+}

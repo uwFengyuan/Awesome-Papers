@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-2023-miniconf/main/data/acl_2023/data/conference.json",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-2023-miniconf/main/data/acl_2023/data/conference.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.922165+00:00",
+  "bytes": 7755998,
+  "sha256": "8bf1c6c6c7f66b8463769b2ae98980b56776f766003cd37eb461cb80f0f84c68",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/acl-2023-conference-json.gz"
+}

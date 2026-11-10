@@ -1,0 +1,10 @@
+{
+  "url": "https://2019.emnlp.org/",
+  "final_url": "https://2019.emnlp.org/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:48:03.701556+00:00",
+  "bytes": 23363,
+  "sha256": "b71600bba1742ee558e1272a73e3180dab95fdf74add40f394efa390835017ff",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2019-root.gz"
+}

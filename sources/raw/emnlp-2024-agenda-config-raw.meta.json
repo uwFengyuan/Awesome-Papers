@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/emnlp-2024/main/webagenda/config.json",
+  "final_url": "https://raw.githubusercontent.com/acl-org/emnlp-2024/main/webagenda/config.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:10:40.126569+00:00",
+  "bytes": 353,
+  "sha256": "0bdc5b6e2b99924a3626c61f901c97e45b1e5e53f6f116115859fff1ea5d0f62",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2024-agenda-config-raw.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22RefineStat+Efficient+Exploration+for+Probabilistic+Program+Synthesis%22+OR+ti%3A%22Reliable+Weak+to+Strong+Monitoring+of+LLM+Agents%22+OR+ti%3A%22Revela+Dense+Retriever+Learning+via+Language+Modeling%22+OR+ti%3A%22Rodrigues+Network+for+Learning+Robot+Actions%22+OR+ti%3A%22SAFETY+GUIDED+FLOW+SGF+A+UNIFIED+FRAMEWORK+FOR+NEGATIVE+GUIDANCE+IN+SAFE+GENERATION%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22RefineStat+Efficient+Exploration+for+Probabilistic+Program+Synthesis%22+OR+ti%3A%22Reliable+Weak+to+Strong+Monitoring+of+LLM+Agents%22+OR+ti%3A%22Revela+Dense+Retriever+Learning+via+Language+Modeling%22+OR+ti%3A%22Rodrigues+Network+for+Learning+Robot+Actions%22+OR+ti%3A%22SAFETY+GUIDED+FLOW+SGF+A+UNIFIED+FRAMEWORK+FOR+NEGATIVE+GUIDANCE+IN+SAFE+GENERATION%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:04.593803+00:00",
+  "bytes": 13979,
+  "sha256": "fba0c6a294df244fcf673952b16541472e6d2581a5510135bf1bede6022ceedc",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b8ec3387f48181770606.gz"
+}

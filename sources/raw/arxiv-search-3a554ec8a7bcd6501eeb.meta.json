@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ParaRNN+Unlocking+Parallel+Training+of+Nonlinear+RNNs+for+Large+Language+Models%22+OR+ti%3A%22Pareto+Conditioned+Diffusion+Models+for+Offline+Multi+Objective+Optimization%22+OR+ti%3A%22Partition+Generative+Modeling+Masked+Modeling+Without+Masks%22+OR+ti%3A%22PateGAIL+Utility+Optimized+Private+Trajectory+Generation+with+Imitation+Learning%22+OR+ti%3A%22Pinet+Optimizing+hard+constrained+neural+networks+with+orthogonal+projection+layers%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ParaRNN+Unlocking+Parallel+Training+of+Nonlinear+RNNs+for+Large+Language+Models%22+OR+ti%3A%22Pareto+Conditioned+Diffusion+Models+for+Offline+Multi+Objective+Optimization%22+OR+ti%3A%22Partition+Generative+Modeling+Masked+Modeling+Without+Masks%22+OR+ti%3A%22PateGAIL+Utility+Optimized+Private+Trajectory+Generation+with+Imitation+Learning%22+OR+ti%3A%22Pinet+Optimizing+hard+constrained+neural+networks+with+orthogonal+projection+layers%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:52.150516+00:00",
+  "bytes": 10010,
+  "sha256": "3e422c33a9e05f747f83d289981c4b6c4ecfa203d29e7a6181c66f4c3a974fa8",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3a554ec8a7bcd6501eeb.gz"
+}

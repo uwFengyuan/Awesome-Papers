@@ -1,0 +1,15 @@
+# pdfs/main/linguistics/language_tasks/general/EMNLP/2021
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2021 | EMNLP | main | [A surprisal–duration trade-off across and within the world’s languages](https://aclanthology.org/2021.emnlp-main.73/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Language Tasks & Lexical Semantics / 语言任务与词汇语义 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.73__A_surprisal_duration_trade_off_across_and_within_the_world_s_languages.pdf) |
+| 2021 | EMNLP | main | [Fast WordPiece Tokenization](https://aclanthology.org/2021.emnlp-main.160/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Language Tasks & Lexical Semantics / 语言任务与词汇语义 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.160__Fast_WordPiece_Tokenization.pdf) |
+| 2021 | EMNLP | main | [Integrating Deep Event-Level and Script-Level Information for Script Event Prediction](https://aclanthology.org/2021.emnlp-main.777/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Language Tasks & Lexical Semantics / 语言任务与词汇语义 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.777__Integrating_Deep_Event_Level_and_Script_Level_Information_for_Script_Event_Prediction.pdf) |
+| 2021 | EMNLP | main | [Neural Attention-Aware Hierarchical Topic Model](https://aclanthology.org/2021.emnlp-main.80/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Language Tasks & Lexical Semantics / 语言任务与词汇语义 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.80__Neural_Attention_Aware_Hierarchical_Topic_Model.pdf) |
+| 2021 | EMNLP | main | [Semantic Novelty Detection in Natural Language Descriptions](https://aclanthology.org/2021.emnlp-main.66/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Language Tasks & Lexical Semantics / 语言任务与词汇语义 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.66__Semantic_Novelty_Detection_in_Natural_Language_Descriptions.pdf) |
+| 2021 | EMNLP | main | [Tribrid: Stance Classification with Neural Inconsistency Detection](https://aclanthology.org/2021.emnlp-main.547/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Language Tasks & Lexical Semantics / 语言任务与词汇语义 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.547__Tribrid_Stance_Classification_with_Neural_Inconsistency_Detection.pdf) |
+| 2021 | EMNLP | main | [You should evaluate your language model on marginal likelihood over tokenisations](https://aclanthology.org/2021.emnlp-main.161/) | [Long] [Main] [Oral] | Linguistics & Language Understanding / 语言学与语言理解 / Language Tasks & Lexical Semantics / 语言任务与词汇语义 / General / 综合 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.161__You_should_evaluate_your_language_model_on_marginal_likelihood_over_tokenisations.pdf) |

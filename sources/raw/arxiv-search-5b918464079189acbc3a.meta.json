@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Mean+Flows+for+One+step+Generative+Modeling%22+OR+ti%3A%22Memory+Mosaics+at+scale%22+OR+ti%3A%22MokA+Multimodal+Low+Rank+Adaptation+for+MLLMs%22+OR+ti%3A%22On+Linear+Mode+Connectivity+of+Mixture+of+Experts+Architectures%22+OR+ti%3A%22On+the+Closed+Form+of+Flow+Matching+Generalization+Does+Not+Arise+from+Target%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Mean+Flows+for+One+step+Generative+Modeling%22+OR+ti%3A%22Memory+Mosaics+at+scale%22+OR+ti%3A%22MokA+Multimodal+Low+Rank+Adaptation+for+MLLMs%22+OR+ti%3A%22On+Linear+Mode+Connectivity+of+Mixture+of+Experts+Architectures%22+OR+ti%3A%22On+the+Closed+Form+of+Flow+Matching+Generalization+Does+Not+Arise+from+Target%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:48.731761+00:00",
+  "bytes": 11480,
+  "sha256": "be278eddf381c174bf6d7e053b7700cf0d77a40ba2edb532f75d8e60dc7b9526",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5b918464079189acbc3a.gz"
+}

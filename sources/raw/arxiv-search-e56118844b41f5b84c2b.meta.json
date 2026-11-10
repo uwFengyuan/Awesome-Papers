@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MaestroMotif+Skill+Design+from+Artificial+Intelligence+Feedback%22+OR+ti%3A%22Measuring+and+Enhancing+Trustworthiness+of+LLMs+in+RAG+through+Grounded+Attributions+and+Learning%22+OR+ti%3A%22Mind+the+Gap+Examining+the+Self+Improvement+Capabilities+of+Large+Language+Models%22+OR+ti%3A%22MoDeGPT+Modular+Decomposition+for+Large+Language+Model+Compression%22+OR+ti%3A%22MoE+Accelerating+Mixture+of+Experts+Methods+with+Zero+Computation+Experts%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MaestroMotif+Skill+Design+from+Artificial+Intelligence+Feedback%22+OR+ti%3A%22Measuring+and+Enhancing+Trustworthiness+of+LLMs+in+RAG+through+Grounded+Attributions+and+Learning%22+OR+ti%3A%22Mind+the+Gap+Examining+the+Self+Improvement+Capabilities+of+Large+Language+Models%22+OR+ti%3A%22MoDeGPT+Modular+Decomposition+for+Large+Language+Model+Compression%22+OR+ti%3A%22MoE+Accelerating+Mixture+of+Experts+Methods+with+Zero+Computation+Experts%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:43.002492+00:00",
+  "bytes": 13588,
+  "sha256": "40ae3ab962d6ffefbd54437b73b95f38ffda2599efdde80339a6b4403cca436c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-e56118844b41f5b84c2b.gz"
+}

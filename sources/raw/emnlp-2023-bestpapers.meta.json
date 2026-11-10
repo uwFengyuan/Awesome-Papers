@@ -1,0 +1,10 @@
+{
+  "url": "https://2023.emnlp.org/program/best_papers/",
+  "final_url": "https://2023.emnlp.org/program/best_papers/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:42.471884+00:00",
+  "bytes": 17276,
+  "sha256": "9c85f3a0dd1bba98c2c119d985608d4a93ab6d518983996dace00def239b8196",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2023-bestpapers.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Fine+Tuning+can+Distort+Pretrained+Features+and+Underperform+Out+of+Distribution%22+OR+ti%3A%22Finetuned+Language+Models+are+Zero+Shot+Learners%22+OR+ti%3A%22Frame+Averaging+for+Invariant+and+Equivariant+Network+Design%22+OR+ti%3A%22GeoDiff+A+Geometric+Diffusion+Model+for+Molecular+Conformation+Generation%22+OR+ti%3A%22Language+modeling+via+stochastic+processes%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Fine+Tuning+can+Distort+Pretrained+Features+and+Underperform+Out+of+Distribution%22+OR+ti%3A%22Finetuned+Language+Models+are+Zero+Shot+Learners%22+OR+ti%3A%22Frame+Averaging+for+Invariant+and+Equivariant+Network+Design%22+OR+ti%3A%22GeoDiff+A+Geometric+Diffusion+Model+for+Molecular+Conformation+Generation%22+OR+ti%3A%22Language+modeling+via+stochastic+processes%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:41.165971+00:00",
+  "bytes": 13356,
+  "sha256": "1420d8af579bf9a7dca910b29ae4307c86a32b2b4f55bf7f0ad61a04597d0d94",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f84f88f00fc95af14ef4.gz"
+}

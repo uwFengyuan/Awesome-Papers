@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Implementation+Matters+in+Deep+RL+A+Case+Study+on+PPO+and+TRPO%22+OR+ti%3A%22Intrinsically+Motivated+Discovery+of+Diverse+Patterns+in+Self+Organizing+Systems%22+OR+ti%3A%22Learning+Hierarchical+Discrete+Linguistic+Units+from+Visually+Grounded+Speech%22+OR+ti%3A%22Learning+to+Balance+Bayesian+Meta+Learning+for+Imbalanced+and+Out+of+distribution+Tasks%22+OR+ti%3A%22Mathematical+Reasoning+in+Latent+Space%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Implementation+Matters+in+Deep+RL+A+Case+Study+on+PPO+and+TRPO%22+OR+ti%3A%22Intrinsically+Motivated+Discovery+of+Diverse+Patterns+in+Self+Organizing+Systems%22+OR+ti%3A%22Learning+Hierarchical+Discrete+Linguistic+Units+from+Visually+Grounded+Speech%22+OR+ti%3A%22Learning+to+Balance+Bayesian+Meta+Learning+for+Imbalanced+and+Out+of+distribution+Tasks%22+OR+ti%3A%22Mathematical+Reasoning+in+Latent+Space%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:25.828114+00:00",
+  "bytes": 11184,
+  "sha256": "276421c175bb1a682e10fa5c15d529d94e563e1289a79dbce4124bca108bb7a6",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-46a8f7958e98ab5fc31f.gz"
+}

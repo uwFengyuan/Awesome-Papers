@@ -1,0 +1,229 @@
+[
+  {
+    "canonical_id": "neurips-2023-73655",
+    "alias_ids": [
+      "neurips-2023-D1MOK2t2t2"
+    ],
+    "title": "BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73569",
+    "alias_ids": [
+      "neurips-2023-W5If9P1xqO"
+    ],
+    "title": "ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73525",
+    "alias_ids": [
+      "neurips-2023-dVaWCDMBof"
+    ],
+    "title": "DataComp: In search of the next generation of multimodal datasets",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73486",
+    "alias_ids": [
+      "neurips-2023-kaHpo8OZw2"
+    ],
+    "title": "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73597",
+    "alias_ids": [
+      "neurips-2023-Qf8uzIT1OK"
+    ],
+    "title": "Ethical Considerations for Responsible Data Curation",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73510",
+    "alias_ids": [
+      "neurips-2023-g7OX2sOJtn"
+    ],
+    "title": "LeanDojo: Theorem Proving with Retrieval-Augmented Language Models",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73575",
+    "alias_ids": [
+      "neurips-2023-VH1vxapUTs"
+    ],
+    "title": "Mesogeos: A multi-purpose dataset for data-driven wildfire modeling in the Mediterranean",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73497",
+    "alias_ids": [
+      "neurips-2023-j2wasUypqN"
+    ],
+    "title": "MetaBox: A Benchmark Platform for Meta-Black-Box Optimization with Reinforcement Learning",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73573",
+    "alias_ids": [
+      "neurips-2023-VSJotgbPHF"
+    ],
+    "title": "OpenAssistant Conversations - Democratizing Large Language Model Alignment",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2023-73608",
+    "alias_ids": [
+      "neurips-2023-OL2JQoO0kq"
+    ],
+    "title": "Quilt-1M: One Million Image-Text Pairs for Histopathology",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97599",
+    "alias_ids": [
+      "neurips-2024-98019"
+    ],
+    "title": "A Taxonomy of Challenges to Curating Fair Datasets",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97853",
+    "alias_ids": [
+      "neurips-2024-98026"
+    ],
+    "title": "AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97751",
+    "alias_ids": [
+      "neurips-2024-98023"
+    ],
+    "title": "Brain Treebank: Large-scale intracranial recordings from naturalistic language stimuli",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97481",
+    "alias_ids": [
+      "neurips-2024-98017"
+    ],
+    "title": "ChaosBench: A Multi-Channel, Physics-Based Benchmark for Subseasonal-to-Seasonal Climate Prediction",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97798",
+    "alias_ids": [
+      "neurips-2024-98024"
+    ],
+    "title": "CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97423",
+    "alias_ids": [
+      "neurips-2024-98016"
+    ],
+    "title": "DevBench: A multimodal developmental benchmark for language learning",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97552",
+    "alias_ids": [
+      "neurips-2024-98018"
+    ],
+    "title": "Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97604",
+    "alias_ids": [
+      "neurips-2024-98020"
+    ],
+    "title": "LINGOLY: A Benchmark of Olympiad-Level Linguistic Reasoning Puzzles in Low Resource and Extinct Languages",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97666",
+    "alias_ids": [
+      "neurips-2024-98021"
+    ],
+    "title": "MedCalc-Bench: Evaluating Large Language Models for Medical Calculations",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97731",
+    "alias_ids": [
+      "neurips-2024-98022"
+    ],
+    "title": "OpenMathInstruct-1: A 1.8 Million Math Instruction Tuning Dataset",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2024-97804",
+    "alias_ids": [
+      "neurips-2024-98025"
+    ],
+    "title": "The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2025-saDOrrnNTz",
+    "alias_ids": [
+      "neurips-2025-130322",
+      "neurips-2025-2025-Oral--2331-48b687c8"
+    ],
+    "title": "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2025-ii9kVwf95a",
+    "alias_ids": [
+      "neurips-2025-2025-Oral--593-1df1dbbb"
+    ],
+    "title": "BEDLAM2.0: Synthetic humans and cameras in motion",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2025-iRsZHAMNHL",
+    "alias_ids": [
+      "neurips-2025-130323",
+      "neurips-2025-2025-Oral--2229-e62823d9"
+    ],
+    "title": "CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2025-2025-Oral--972-40525b4c",
+    "alias_ids": [
+      "neurips-2025-130325",
+      "neurips-2025-T3UksaPK64"
+    ],
+    "title": "Envisioning Beyond the Pixels: Benchmarking Reasoning-Informed Visual Editing",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2025-DwFDfrPsm8",
+    "alias_ids": [
+      "neurips-2025-2025-Oral--2090-3aaf4714"
+    ],
+    "title": "NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2025-2025-Oral--1689-3b7d094f",
+    "alias_ids": [
+      "neurips-2025-VcUmuGXhaI"
+    ],
+    "title": "OrthoLoC: UAV 6-DoF Localization and Calibration Using Orthographic Geodata",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  },
+  {
+    "canonical_id": "neurips-2025-q2VpjD7k1V",
+    "alias_ids": [
+      "neurips-2025-2025-Oral--347-c520e96a"
+    ],
+    "title": "WebGen-Bench: Evaluating LLMs on Generating Interactive and Functional Websites from Scratch",
+    "reason": "Same NeurIPS venue, year, dataset track, normalized title and overlapping authors; multiple programme events."
+  }
+]

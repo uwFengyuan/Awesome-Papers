@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual/2023/papers.html",
+  "final_url": "https://iclr.cc/virtual/2023/papers.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:55.145174+00:00",
+  "bytes": 237963,
+  "sha256": "52e63a0d6160ca5bd0fe6dcddecb914d725fbc20cf48cf5206716242e57ff690",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/iclr-2023-papershtml.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Depth+Bounds+for+Neural+Networks+via+the+Braid+Arrangement%22+OR+ti%3A%22Discovering+Opinion+Intervals+from+Conflicts+in+Signed+Graphs%22+OR+ti%3A%22Does+Stochastic+Gradient+really+succeed+for+bandits%22+OR+ti%3A%22Dynam3D+Dynamic+Layered+3D+Tokens+Empower+VLM+for+Vision+and+Language+Navigation%22+OR+ti%3A%22Dynamical+Decoupling+of+Generalization+and+Overfitting+in+Large+Two+Layer+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Depth+Bounds+for+Neural+Networks+via+the+Braid+Arrangement%22+OR+ti%3A%22Discovering+Opinion+Intervals+from+Conflicts+in+Signed+Graphs%22+OR+ti%3A%22Does+Stochastic+Gradient+really+succeed+for+bandits%22+OR+ti%3A%22Dynam3D+Dynamic+Layered+3D+Tokens+Empower+VLM+for+Vision+and+Language+Navigation%22+OR+ti%3A%22Dynamical+Decoupling+of+Generalization+and+Overfitting+in+Large+Two+Layer+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:19.575733+00:00",
+  "bytes": 7899,
+  "sha256": "45012cd5dcceca72491a02b63fb299a68641043a38730e26a9db6bfe65237ce1",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-bb53cba30ba575318de1.gz"
+}

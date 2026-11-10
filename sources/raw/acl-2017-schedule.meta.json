@@ -1,0 +1,10 @@
+{
+  "url": "https://2017.aclweb.org/program",
+  "final_url": "https://2017.aclweb.org/program",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.174952+00:00",
+  "bytes": 156414,
+  "sha256": "72aa3617089519deeb81c92c0b525727fd7fb9bcf9d71f4863384e59d5a883fa",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2017-schedule.gz"
+}

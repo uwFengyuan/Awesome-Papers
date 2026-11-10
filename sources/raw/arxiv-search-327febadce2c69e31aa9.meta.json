@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Understanding+and+Robustifying+Differentiable+Architecture+Search%22+OR+ti%3A%22Watch+the+Unobserved+A+Simple+Approach+to+Parallelizing+Monte+Carlo+Tree+Search%22+OR+ti%3A%22Why+Gradient+Clipping+Accelerates+Training+A+Theoretical+Justification+for+Adaptivity%22+OR+ti%3A%22Your+classifier+is+secretly+an+energy+based+model+and+you+should+treat+it%22+OR+ti%3A%22Dynamics+Aware+Unsupervised+Skill+Discovery%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Understanding+and+Robustifying+Differentiable+Architecture+Search%22+OR+ti%3A%22Watch+the+Unobserved+A+Simple+Approach+to+Parallelizing+Monte+Carlo+Tree+Search%22+OR+ti%3A%22Why+Gradient+Clipping+Accelerates+Training+A+Theoretical+Justification+for+Adaptivity%22+OR+ti%3A%22Your+classifier+is+secretly+an+energy+based+model+and+you+should+treat+it%22+OR+ti%3A%22Dynamics+Aware+Unsupervised+Skill+Discovery%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:38.204123+00:00",
+  "bytes": 10365,
+  "sha256": "8347e999ff6fbc1e47217d1820317301f9d86068804b08b87f20e403ef6776a9",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-327febadce2c69e31aa9.gz"
+}

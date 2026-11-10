@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+Convergence+of+FedAvg+on+Non+IID+Data%22+OR+ti%3A%22Optimal+Strategies+Against+Generative+Attacks%22+OR+ti%3A%22Posterior+sampling+for+multi+agent+reinforcement+learning+solving+extensive+games+with+imperfect+information%22+OR+ti%3A%22Principled+Weight+Initialization+for+Hypernetworks%22+OR+ti%3A%22RNA+Secondary+Structure+Prediction+By+Learning+Unrolled+Algorithms%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+Convergence+of+FedAvg+on+Non+IID+Data%22+OR+ti%3A%22Optimal+Strategies+Against+Generative+Attacks%22+OR+ti%3A%22Posterior+sampling+for+multi+agent+reinforcement+learning+solving+extensive+games+with+imperfect+information%22+OR+ti%3A%22Principled+Weight+Initialization+for+Hypernetworks%22+OR+ti%3A%22RNA+Secondary+Structure+Prediction+By+Learning+Unrolled+Algorithms%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:32.005867+00:00",
+  "bytes": 7055,
+  "sha256": "3eb90c5e6fe68a7a21d869b537a4f2f969f2c811b88f7af0c8a7d0ab993ce0b7",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-1d7959690d6de3e0863f.gz"
+}

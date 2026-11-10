@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Sample+Efficient+Reinforcement+Learning+by+Breaking+the+Replay+Ratio+Barrier%22+OR+ti%3A%22Sampling+is+as+easy+as+learning+the+score+theory+for+diffusion+models+with%22+OR+ti%3A%22Selection+Inference+Exploiting+Large+Language+Models+for+Interpretable+Logical+Reasoning%22+OR+ti%3A%22SimPer+Simple+Self+Supervised+Learning+of+Periodic+Targets%22+OR+ti%3A%22Simplified+State+Space+Layers+for+Sequence+Modeling%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Sample+Efficient+Reinforcement+Learning+by+Breaking+the+Replay+Ratio+Barrier%22+OR+ti%3A%22Sampling+is+as+easy+as+learning+the+score+theory+for+diffusion+models+with%22+OR+ti%3A%22Selection+Inference+Exploiting+Large+Language+Models+for+Interpretable+Logical+Reasoning%22+OR+ti%3A%22SimPer+Simple+Self+Supervised+Learning+of+Periodic+Targets%22+OR+ti%3A%22Simplified+State+Space+Layers+for+Sequence+Modeling%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:04.171363+00:00",
+  "bytes": 12324,
+  "sha256": "1216b4c6633b26c900a13091640b8da5400faf2318b18c95264c3f60e015de93",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-e63c48bddfb11f70124f.gz"
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "P19-1082",
+    "path": "pdfs/ACL/2019/P19-1082__Coupling_Retrieval_and_Meta_Learning_for_Context_Dependent_Semantic_Parsing.pdf",
+    "sha256": "dc6f882442ce919dd7143e15a0dc0d88e48cd6d6510da370bbbdccc2e8147f69",
+    "expected_title": "Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing",
+    "observed_pdf_title": "Coupling Retrieval and Meta-Learning for Context-Dependent Semantic Parsing",
+    "method": "visual_first_page_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "首页题名和作者经目视核对一致；字体编码导致自动提取失败。",
+    "preview": "checks/manual_identity_previews/paper-verify-P19-1082.png"
+  },
+  {
+    "id": "2026.acl-long.163",
+    "path": "pdfs/ACL/2026/2026.acl-long.163__A_Comprehensive_Survey_of_Process_Reward_Models_Data_Generation_Model_Construction_and_Usage.pdf",
+    "sha256": "d6fd92213c429a834067643a0b437364257b32771e3206f05c803977f4ae2d28",
+    "expected_title": "A Comprehensive Survey of Process Reward Models: Data Generation, Model Construction, and Usage",
+    "observed_pdf_title": "A Survey of Process Reward Models: From Outcome Signals to Process Supervisions for Large Language Models",
+    "method": "first_page_text_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "会议元数据与 PDF 使用不同题名；首页作者一致，已核对论文身份，保留原始会议题名。",
+    "preview": null
+  },
+  {
+    "id": "2026.acl-long.879",
+    "path": "pdfs/ACL/2026/2026.acl-long.879__Double_Breaking_the_Acceleration_Limit_via_Double_Retrieval_Speculative_Parallelism.pdf",
+    "sha256": "7a39038a0682d7c342c4ee688411a7b73e39d42832916321fa62bd4b8deb073d",
+    "expected_title": "Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism",
+    "observed_pdf_title": "Double: Breaking the Acceleration Limit via Double Retrieval Speculative Parallelism",
+    "method": "visual_first_page_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "首页题名和作者经目视核对一致；字体编码导致自动提取失败。",
+    "preview": "checks/manual_identity_previews/paper-verify-2026.acl-long.879.png"
+  },
+  {
+    "id": "2026.acl-long.696",
+    "path": "pdfs/ACL/2026/2026.acl-long.696__Robertha_Eigenspectrum_Regularized_Attention_for_Robust_Natural_Language_Understanding.pdf",
+    "sha256": "d04bde4f44d7820ea7d5c50bfae51115efb5779b54e7b015ebbc2fa81acd7d38",
+    "expected_title": "Robertha: Eigenspectrum Regularized Attention for Robust Natural Language Understanding",
+    "observed_pdf_title": "Robertha: Eigenspectrum Regularized Attention for Robust Natural Language Understanding",
+    "method": "visual_first_page_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "首页题名和作者经目视核对一致；字体编码导致自动提取失败。",
+    "preview": "checks/manual_identity_previews/paper-verify-2026.acl-long.696.png"
+  },
+  {
+    "id": "D18-1506",
+    "path": "pdfs/EMNLP/2018/D18-1506__A_Co_Attention_Neural_Network_Model_for_Emotion_Cause_Analysis_with_Emotional_Context_Awareness.pdf",
+    "sha256": "a34f6189c5ba6c53bb26549e64553d369b12346c462b57e0d38ab3fbad1e32ca",
+    "expected_title": "A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness",
+    "observed_pdf_title": "A Co-Attention Neural Network Model for Emotion Cause Analysis with Emotional Context Awareness",
+    "method": "visual_first_page_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "首页题名和作者经目视核对一致；字体编码导致自动提取失败。",
+    "preview": "checks/manual_identity_previews/paper-verify-D18-1506.png"
+  },
+  {
+    "id": "2021.emnlp-main.818",
+    "path": "pdfs/EMNLP/2021/2021.emnlp-main.818__Visually_Grounded_Reasoning_across_Languages_and_Cultures.pdf",
+    "sha256": "4a31d16efe49f42d6221640fc8b2358128c82195225dfaba9df950173fc0350f",
+    "expected_title": "Visually Grounded Reasoning across Languages and Cultures",
+    "observed_pdf_title": "Visually Grounded Reasoning across Languages and Cultures",
+    "method": "visual_first_page_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "首页题名和作者经目视核对一致；字体编码导致自动提取失败。",
+    "preview": "checks/manual_identity_previews/paper-verify-2021.emnlp-main.818.png"
+  },
+  {
+    "id": "icml-2019-4183",
+    "path": "pdfs/ICML/2019/icml-2019-4183__Blended_Conditonal_Gradients.pdf",
+    "sha256": "0b9ecd991e50f3af2d417895639f091af91347cabe4d1438049e8463f37d3765",
+    "expected_title": "Blended Conditonal Gradients",
+    "observed_pdf_title": "Blended Conditional Gradients: The Unconditioning of Conditional Gradients",
+    "method": "first_page_text_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "会议元数据与 PDF 使用不同题名；首页作者一致，已核对论文身份，保留原始会议题名。",
+    "preview": null
+  },
+  {
+    "id": "icml-2019-3866",
+    "path": "pdfs/ICML/2019/icml-2019-3866__Competing_Against_Nash_Equilibria_in_Adversarially_Changing_Zero_Sum_Games.pdf",
+    "sha256": "14661cffeae8dd2186bcf37be0145393bb5802138fbfca7aa9739c3cde98ca0b",
+    "expected_title": "Competing Against Nash Equilibria in Adversarially Changing Zero-Sum Games",
+    "observed_pdf_title": "Competing Against Equilibria in Zero-Sum Games with Evolving Payoffs",
+    "method": "first_page_text_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "会议元数据与 PDF 使用不同题名；首页作者一致，已核对论文身份，保留原始会议题名。",
+    "preview": null
+  },
+  {
+    "id": "icml-2019-3924",
+    "path": "pdfs/ICML/2019/icml-2019-3924__EDDI_Efficient_Dynamic_Discovery_of_High_Value_Information_with_Partial_VAE.pdf",
+    "sha256": "8c73c23288909779ba58cb09a9c09b401e1eabda291acdf00217db45f19a9ee5",
+    "expected_title": "EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE",
+    "observed_pdf_title": "EDDI: Efficient Dynamic Discovery of High-Value Information with Partial VAE",
+    "method": "visual_first_page_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "首页题名和作者经目视核对一致；字体编码导致自动提取失败。",
+    "preview": "checks/manual_identity_previews/paper-verify-icml-2019-3924.png"
+  },
+  {
+    "id": "neurips-2018-11742",
+    "path": "pdfs/NeurIPS/2018/neurips-2018-11742__On_Neuronal_Capacity.pdf",
+    "sha256": "fc339f6d21a0239a6b1971dcbc51bca39a1d7b2cf1b4566b5d3567097c7d0c10",
+    "expected_title": "On Neuronal Capacity",
+    "observed_pdf_title": "Neuronal Capacity",
+    "method": "first_page_text_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "会议元数据与 PDF 使用不同题名；首页作者一致，已核对论文身份，保留原始会议题名。",
+    "preview": null
+  },
+  {
+    "id": "neurips-2019-14120",
+    "path": "pdfs/NeurIPS/2019/neurips-2019-14120__Distribution_oblivious_risk_aware_algorithms_for_multi_armed_bandits_with_unbounded_rewards.pdf",
+    "sha256": "f0870519b7e25c8aea9abe785715b9e70aac4c60aa87d4bcac1b90a5214712b9",
+    "expected_title": "Distribution oblivious, risk-aware algorithms for multi-armed   bandits with unbounded rewards",
+    "observed_pdf_title": "Distribution oblivious, risk-aware algorithms for multi-armed   bandits with unbounded rewards",
+    "method": "visual_first_page_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "首页题名和作者经目视核对一致；字体编码导致自动提取失败。",
+    "preview": "checks/manual_identity_previews/paper-verify-neurips-2019-14120.png"
+  },
+  {
+    "id": "neurips-2021-bGfDnD7xo-v",
+    "path": "pdfs/NeurIPS/2021/neurips-2021-bGfDnD7xo-v__Continuized_Accelerations_of_Deterministic_and_Stochastic_Gradient_Descents_and_of_Gossip_Algorithms.pdf",
+    "sha256": "9b696a80ed05f41518eb591e0536931cbecaca127c461379ce5d955d9849dc4d",
+    "expected_title": "Continuized Accelerations of Deterministic and Stochastic Gradient Descents, and of Gossip Algorithms",
+    "observed_pdf_title": "A Continuized View on Nesterov Acceleration for Stochastic Gradient Descent and Randomized Gossip",
+    "method": "first_page_text_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "会议元数据与 PDF 使用不同题名；首页作者一致，已核对论文身份，保留原始会议题名。",
+    "preview": null
+  },
+  {
+    "id": "neurips-2022-iBBcRUlOAPR",
+    "path": "pdfs/NeurIPS/2022/neurips-2022-iBBcRUlOAPR__An_empirical_analysis_of_compute_optimal_large_language_model_training.pdf",
+    "sha256": "1e9f9c9d41306b611ee8dc01745fe38bff2ba9400c38ee0dbd6fdf571c20fd25",
+    "expected_title": "An empirical analysis of compute-optimal large language model training",
+    "observed_pdf_title": "Training Compute-Optimal Large Language Models",
+    "method": "first_page_text_title_and_authors",
+    "resolution": "identity_confirmed",
+    "note_zh": "会议元数据与 PDF 使用不同题名；首页作者一致，已核对论文身份，保留原始会议题名。",
+    "preview": null
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22More+RLHF+More+Trust+On+The+Impact+of+Preference+Alignment+On+Trustworthiness%22+OR+ti%3A%22Navigating+the+Digital+World+as+Humans+Do+Universal+Visual+Grounding+for+GUI+Agents%22+OR+ti%3A%22NeuralPlane+Structured+3D+Reconstruction+in+Planar+Primitives+with+Neural+Fields%22+OR+ti%3A%22No+Pose+No+Problem+Surprisingly+Simple+3D+Gaussian+Splats+from+Sparse+Unposed+Images%22+OR+ti%3A%22OLMoE+Open+Mixture+of+Experts+Language+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22More+RLHF+More+Trust+On+The+Impact+of+Preference+Alignment+On+Trustworthiness%22+OR+ti%3A%22Navigating+the+Digital+World+as+Humans+Do+Universal+Visual+Grounding+for+GUI+Agents%22+OR+ti%3A%22NeuralPlane+Structured+3D+Reconstruction+in+Planar+Primitives+with+Neural+Fields%22+OR+ti%3A%22No+Pose+No+Problem+Surprisingly+Simple+3D+Gaussian+Splats+from+Sparse+Unposed+Images%22+OR+ti%3A%22OLMoE+Open+Mixture+of+Experts+Language+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:46.245630+00:00",
+  "bytes": 12487,
+  "sha256": "55fb3b95d0989fe7497f5e09c729bc8f9d868ffa62f9ca30b4192e71af1b0aa2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-d093bcaab2dcd2c4973c.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22End+to+end+Adversarial+Text+to+Speech%22+OR+ti%3A%22Evolving+Reinforcement+Learning+Algorithms%22+OR+ti%3A%22Federated+Learning+Based+on+Dynamic+Regularization%22+OR+ti%3A%22Free+Lunch+for+Few+shot+Learning+Distribution+Calibration%22+OR+ti%3A%22Geometry+aware+Instance+reweighted+Adversarial+Training%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22End+to+end+Adversarial+Text+to+Speech%22+OR+ti%3A%22Evolving+Reinforcement+Learning+Algorithms%22+OR+ti%3A%22Federated+Learning+Based+on+Dynamic+Regularization%22+OR+ti%3A%22Free+Lunch+for+Few+shot+Learning+Distribution+Calibration%22+OR+ti%3A%22Geometry+aware+Instance+reweighted+Adversarial+Training%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:01.884863+00:00",
+  "bytes": 14642,
+  "sha256": "9e49faef56045f891b54935dd683f1f461df971e6fb052c5d9d921332da5f9fe",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-72d8558029bf29a2ef66.gz"
+}

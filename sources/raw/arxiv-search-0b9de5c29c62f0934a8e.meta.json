@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Confidential+PROFITT+Confidential+PROof+of+FaIr+Training+of+Trees%22+OR+ti%3A%22DaxBench+Benchmarking+Deformable+Object+Manipulation+with+Differentiable+Physics%22+OR+ti%3A%22Dichotomy+of+Control+Separating+What+You+Can+Control+from+What+You+Cannot%22+OR+ti%3A%22Draft+Sketch+and+Prove+Guiding+Formal+Theorem+Provers+with+Informal+Proofs%22+OR+ti%3A%22Efficient+Conditionally+Invariant+Representation+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Confidential+PROFITT+Confidential+PROof+of+FaIr+Training+of+Trees%22+OR+ti%3A%22DaxBench+Benchmarking+Deformable+Object+Manipulation+with+Differentiable+Physics%22+OR+ti%3A%22Dichotomy+of+Control+Separating+What+You+Can+Control+from+What+You+Cannot%22+OR+ti%3A%22Draft+Sketch+and+Prove+Guiding+Formal+Theorem+Provers+with+Informal+Proofs%22+OR+ti%3A%22Efficient+Conditionally+Invariant+Representation+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:37.970101+00:00",
+  "bytes": 11077,
+  "sha256": "daf2b6ced7b1eab0b363cbb73dfd0b966c3d64fb0f230ab774a940864e8a4fe6",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-0b9de5c29c62f0934a8e.gz"
+}

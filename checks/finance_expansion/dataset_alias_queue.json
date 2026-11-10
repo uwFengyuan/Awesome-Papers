@@ -1,0 +1,2363 @@
+[
+  {
+    "id": "2021.emnlp-main.343",
+    "title": "WebSRC: A Dataset for Web-Based Structural Reading Comprehension",
+    "venue": "EMNLP",
+    "year": 2021,
+    "local_path": "pdfs/EMNLP/2021/2021.emnlp-main.343__WebSRC_A_Dataset_for_Web_Based_Structural_Reading_Comprehension.pdf",
+    "evidence": [
+      {
+        "match": "SROIE",
+        "offset": 11568,
+        "numeric_results": false,
+        "excerpt": "e et al. code in the form of semi-structured documents is (2019) proposed FUNSD for form understanding different from the ordinary textual corpus. Re- and Huang et al. (2019) organized SROIE competi- cently, multi-modal MRC has gained the inter- tion for receipt understanding. PubLayNet (Zhong est of researchers. Multi-modal MRC datasets et al., 2019) and DocBank (Li et al., 2020) are with both images and texts are proposed, such as proposed to benchmark the task of layout recog- MovieQA (Tapaswi et al., 2016), TQA (Kembhavi nition in academic papers. However, compa"
+      }
+    ]
+  },
+  {
+    "id": "2022.acl-long.534",
+    "title": "LiLT: A Simple yet Effective Language-Independent Layout Transformer for Structured Document Understanding",
+    "venue": "ACL",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/ACL/2022/2022.acl-long.534.pdf",
+    "evidence": [
+      {
+        "match": "CORD",
+        "offset": 41634,
+        "numeric_results": true,
+        "excerpt": "SelfDoc 93.81% Table 3: Comparison on the semantic entity recogni- TILTBASE 93.50% tion (SER) task of CORD (Park et al., 2019) dataset. LayoutLMv2BASE 95.25% 1 (Garncarek et al., 2021);2 (Powalski et al., 2021). DocFormerBASE 96.17% ⋆ LayoutXLM 95.21% BASE"
+      }
+    ]
+  },
+  {
+    "id": "2026.acl-long.1014",
+    "title": "Markovian Linguistic-Temporal Bridge: Unlocking the Potential of LLMs for Time Series Forecasting",
+    "venue": "ACL",
+    "year": 2026,
+    "local_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.1014.pdf",
+    "evidence": [
+      {
+        "match": "M4-Yearly",
+        "offset": 86560,
+        "numeric_results": false,
+        "excerpt": "Table 6: Statistics of the M4 dataset. Dataset Time Steps Frequency Domain M4-Yearly 23,000 Yearly Demographic M4-Quarterly 24,000 Quarterly Finance M4-Monthly 48,000 Monthly Industry M4-Weekly 359 Weekly Macro"
+      }
+    ]
+  },
+  {
+    "id": "2026.acl-long.1208",
+    "title": "TimeSAF: Towards LLM-Guided Semantic Asynchronous Fusion for Time Series Forecasting",
+    "venue": "ACL",
+    "year": 2026,
+    "local_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.1208.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 55639,
+        "numeric_results": true,
+        "excerpt": "Weather 0.240 0.268 0.249 0.273 0.253 0.283 0.270 0.288 0.253 0.276 0.274 0.290 0.278 0.297 0.257 0.278 0.259 0.281 0.258 0.315 0.308 0.360 Exchange 0.340 0.385 0.356 0.402 0.432 0.446 0.338 0.391 0.363 0.404 0.372 0.416 0.370 0.409 0.360 0.403 0.367 0.404 0.470 0.477 0.518 0.428 Electricity 0.174 0.264 0.175 0.265 0.194 0.287 0.216 0.299 0.215 0.304 0.223 0.309 0.217 0.307 0.178 0.270 0.205 0.290 0.244 0.334 0.213 0.326 back to their own representation spaces through 5 Experiments (T im"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 128849,
+        "numeric_results": true,
+        "excerpt": "192 0.170 0.175 0.178 0.173 The above analysis is based on a linearized one- Exchange 336 0.312 0.323 0.319 0.329 dimensional abstraction and ignores higher-order 720 0.801 0.812 0.802 0.806 nonlinear effects. Nevertheless, it clearly shows 96 0.157 0.156 0.159 0.162 that repeatedly injecting noisy semantic signals at"
+      }
+    ]
+  },
+  {
+    "id": "2026.acl-long.1396",
+    "title": "Towards Interpretable Tabular Reasoning: Enhancing LLM Reasoning on Tabular Data with Pre-Constructed Logic Graph",
+    "venue": "ACL",
+    "year": 2026,
+    "local_path": "checks/finance_expansion/review_pdfs/ACL/2026/2026.acl-long.1396.pdf",
+    "evidence": [
+      {
+        "match": "Credit-g",
+        "offset": 59301,
+        "numeric_results": true,
+        "excerpt": "establishes a new SOTA on tabular data. cial domain, on the Credit-g task, the accuracy improves by 4.00%. This superiority is even more 4.3 Comparison with Top-tier CoT Methods pronounced in regression tasks. As illustrated in Figure 4, LogGER achieves the lowest NRMSE"
+      }
+    ]
+  },
+  {
+    "id": "2026.emnlp-main.1476",
+    "title": "SymboLLM-FE: LLM-Accelerated Symbolic Regression for Automated Feature Engineering on Tabular Data",
+    "venue": "EMNLP",
+    "year": 2026,
+    "local_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1476.pdf",
+    "evidence": [
+      {
+        "match": "Credit-g",
+        "offset": 43721,
+        "numeric_results": true,
+        "excerpt": "under Cf inal . two traditional AutoFE (AutoFeat (Horn et al., 33749 FE Method Credit-g ↑ Spaceship ↑ Cmc ↑ Academic ↑ Ailerons ↓ Tesla ↓ Baseline 77.03±0.47 80.79±1.27 57.85±0.89 77.33±0.67 5.10±0.48 2.39±0.09 AutoFeat 77.83±1.43"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 54352,
+        "numeric_results": true,
+        "excerpt": "-value- Dataset SR Formulas SR Time LLM Calls Tokens per Call based feature pre-sorting. ES. means the expanding- Credit-g 66 4.23 mins 3 2331 sliding window approach. LLM means LLM-based Spaceship 36 2.01 mins 4 1201 feature generation. Cmc 21 0.89 mins 3 1159 Academic 190 25.34 mins 4 3587 5.5 Esti"
+      }
+    ]
+  },
+  {
+    "id": "2026.emnlp-main.1822",
+    "title": "Zero-Shot Tabular Learning via Hypergraph Reasoning with LLMs",
+    "venue": "EMNLP",
+    "year": 2026,
+    "local_path": "checks/finance_expansion/review_pdfs/EMNLP/2026/2026.emnlp-main.1822.pdf",
+    "evidence": [
+      {
+        "match": "Credit-G",
+        "offset": 53547,
+        "numeric_results": true,
+        "excerpt": "s. Comm- Myoca- Method Shot Adult Bank Blood Car Credit-G Diabetes Heart Avg. Rank unities rdial 4 0.7210 0.6370 0.5679 0.6238 0.5268 0.5709 0.7054 0.6745 0.5125 7.00 LogReg 8 0.7602 0.7252 0.6851 0.7205 0.5552 0.6552 0.7812"
+      },
+      {
+        "match": "Credit-G",
+        "offset": 63358,
+        "numeric_results": true,
+        "excerpt": ".8627 0.8820 0.8530 0.8650 Bank 0.6998 0.7092 0.7088 0.6906 0.7202 0.7155 0.6895 Blood 0.7447 0.7471 0.7382 0.7342 0.7572 0.7408 0.7329 Car 0.7799 0.7900 0.7882 0.7830 0.7966 0.7815 0.7814 Credit-G 0.5524 0.5464 0.5658 0.5513 0.5285 0.5587 0.5644 Diabetes 0.7406 0.7511 0.7125 0.7459 0.7716 0.7086 0.7351 Heart 0.8782 0.9002 0.8238 0.8657 0.9114 0.8141 0.8690 Figure 6: Case study of LLM-generated hypergraphs. Commu. 0.7700 0.7727 0.7809 0.7645 0.7778 0.7793 0.7651 Given a diabetic patient, an LLM builds a hypergraph Myocar. 0.5856 0.586"
+      },
+      {
+        "match": "Credit-G",
+        "offset": 70832,
+        "numeric_results": true,
+        "excerpt": "0.76 0.89 Commun. 0.6604 0.7700 0.7725 0.7727 0.7727 0.7778 0.75 0.60 Credit-G 0.4681 0.5524 0.5510 0.5504 0.5464 0.5285 0.74 0.88 0.59 0.1 0.5 0.9 0.1 0.5 0.9 0.1 0.5 0.9 Diabetes 0.6946 0.7406 0.7413 0.7520 0.7511 0.7716 Heart 0.7916 0.8782 0.8828 0.8943 0.9002 0.9114"
+      },
+      {
+        "match": "Credit-G",
+        "offset": 46656,
+        "numeric_results": false,
+        "excerpt": "1: Statistics of the datasets. Cat. and Num. denote Diabetes 3 , Heart 4 , Myocardial (Golovenkin the numbers of categorical and numerical attributes. et al., 2020)), credit assessment (Credit-G (Kadra et al., 2021)), automobile evaluation (Car (Kadra Data # of Rows Cat. Num. Label ratio (%) et al., 2021)), and community-level crime modeling Adult 48,842 7 7 76:24 Bank 45,211 8 8 88:12"
+      }
+    ]
+  },
+  {
+    "id": "iclr-2026-XOPH34Extq",
+    "title": "TabStruct: Measuring Structural Fidelity of Tabular Data",
+    "venue": "ICLR",
+    "year": 2026,
+    "local_path": "pdfs/ICLR/2026/iclr-2026-XOPH34Extq__TabStruct_Measuring_Structural_Fidelity_of_Tabular_Data.pdf",
+    "evidence": [
+      {
+        "match": "Credit-g",
+        "offset": 280949,
+        "numeric_results": true,
+        "excerpt": ",132 3,430 Characters Images OpenML 1459 10,218 8 1277.25 7 1 10 600 1,416 Credit-g Economics OpenML 46378 1,000 21 47.62 7 14 2 300 700 Electricity Economics OpenML 151 45,312 9 5034.67 7 2 2 19,237 26,075 Higgs Physics OpenML 4532 98,050 29 3381.03"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 316117,
+        "numeric_results": true,
+        "excerpt": "ARF Characters 10,218 8 1277.25 SMOTE TabEBM ARF TabDDPM TabSyn TabDiff Credit-g 1,000 21 47.62 SMOTE TabEBM TabDiff TabSyn TabDiff TabDDPM Electricity 45,312 9 5034.67 SMOTE TabEBM TabDiff TabDDPM TabDiff ARF Higgs 98,050"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 391250,
+        "numeric_results": true,
+        "excerpt": "0.10±0.17 52 Published as a conference paper at ICLR 2026 Table 46: Raw benchmark results of 13 tabular generators on “Credit-g” dataset. We report the normalised mean ± std metric values across datasets. We highlight the First, Second and Third best performances for each metric. For visualisation, we abbreviate “conditional independence” as “CI”. SMOTE generally achieves the highest performance in capturing local structure (i.e., local utility or local CI), while diffusion models typically excel at capturing global structure (i.e., global C"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 279738,
+        "numeric_results": false,
+        "excerpt": "ial, meaning that generative models cannot easily achieve evaluation results comparable to those obtained from the reference data. Secondly, the datasets originate from diverse domains. For example, “Credit-g” pertains to business applications, whereas “Plants” relates to biological studies. Thirdly, the datasets were not part of the meta-validation stage for TabPFN, reducing the likelihood that their causal structures were implicitly leaked during the development or pretraining of TabPFN. Table 8: Details of 14 real-world classification datasets."
+      }
+    ]
+  },
+  {
+    "id": "icml-2021-8591",
+    "title": "Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2021,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-8591.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 35207,
+        "numeric_results": true,
+        "excerpt": "n six real world data sets. Mean and standard error metrics for TimeGrad obtained by re-training and evaluating 10 times. Method Exchange Solar Electricity Traffic Taxi Wikipedia VES 0.005±0.000 0.9±0.003 0.88±0.0035 0.35±0.0023 - - VAR 0.005±0.000 0.83±0.006 0.039±0.0005 0.29±0.005 0.292±0.000 3.4±0.003 VAR-Lasso 0.012±0.0002 0.51±0.006 0.025±0.0002 0.15±0.00"
+      }
+    ]
+  },
+  {
+    "id": "icml-2021-8895",
+    "title": "Variance Reduced Training with Stratified Sampling for Forecasting Models",
+    "venue": "ICML",
+    "year": 2021,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2021/icml-2021-8895.pdf",
+    "evidence": [
+      {
+        "match": "Exchange Rate",
+        "offset": 47345,
+        "numeric_results": true,
+        "excerpt": "and 3 hours for each setting, respectively, and present the mean and standard deviation among 5 different runs. All the optimizers are ﬁne tuned in each task. Exchange Rate Trafﬁc Electricity Setting Optimizer Training Test Training Test Training Test SGD -1.825 ± 0.013 -1.715 ± 0.017 -2.387 ± 0.015 -2.443 ± 0.021 6.512 ± 0.028 5.558 ± 0.021 SCSG -2.037 ± 0.009"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 47345,
+        "numeric_results": true,
+        "excerpt": "resent the mean and standard deviation among 5 different runs. All the optimizers are ﬁne tuned in each task. Exchange Rate Trafﬁc Electricity Setting Optimizer Training Test Training Test Training Test SGD -1.825 ± 0.013 -1.715 ± 0.017 -2.387 ± 0.015 -2.443 ± 0.021 6.512 ± 0.028 5.558 ± 0.021 SCSG -2.037 ±"
+      },
+      {
+        "match": "Exchange-Rate",
+        "offset": 50122,
+        "numeric_results": false,
+        "excerpt": "ss (Maharaj et al., 2019). We set the Network (MLP) and N-BEATS. We use three public bench- hidden layer size to be 100 and the depth to be 2. mark datasets: Trafﬁc, Exchange-Rate and Electricity (Lai • Simple FeedForward Network (MLP) with Negative Log et al., 2018), where details are shown as below: Likelihood (NLL) loss (Alexandrov et al., 2019). We set • Trafﬁc: A collection of hourly data from the California the hidden layer size to be 80 and the depth to be 4."
+      },
+      {
+        "match": "Exchange-Rate",
+        "offset": 51325,
+        "numeric_results": false,
+        "excerpt": "= 1 7.1. Warm-up: Synthetic Dataset day (24 hours). We start from training VAR and LSTM on a synthetic • Exchange-Rate: the collection of the daily exchange rates dataset, where we know the ground-truth for stratiﬁcation. of eight foreign countries including Australia, British, We generate the synthetic dataset by repeatedly transform- Canada, Switzerland, China, Japan, New Zealand and ing a linear curve based on simple functions such as sin Singapore ranging from 1990 to 2016. For this"
+      },
+      {
+        "match": "exchange rates",
+        "offset": 51368,
+        "numeric_results": false,
+        "excerpt": "day (24 hours). We start from training VAR and LSTM on a synthetic • Exchange-Rate: the collection of the daily exchange rates dataset, where we know the ground-truth for stratiﬁcation. of eight foreign countries including Australia, British, We generate the synthetic dataset by repeatedly transform- Canada, Switzerland, China, Japan, New Zealand and ing a linear curve based on simple functions such as sin Singapore ranging from 1990 to 2016. For this dataset, and polynomial. For brevity, the d"
+      },
+      {
+        "match": "Exchange-Rate",
+        "offset": 73682,
+        "numeric_results": false,
+        "excerpt": "tricity Dataset N-BEATS - Electricity Dataset Figure 3. SCott Variants on Adam and Adagrad. The \"S-\" denotes SCott version of the optimizer. The results are ﬁne tuned. it results in 70 strata; For Exchange-Rate dataset, we ﬁrst which allows it to converge faster compared to SGD and evenly divide the whole time series into 6 range based on the SCSG. Additionally, w"
+      }
+    ]
+  },
+  {
+    "id": "icml-2022-16594",
+    "title": "TACTiS: Transformer-Attentional Copulas for Time Series",
+    "venue": "ICML",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2022/icml-2022-16594.pdf",
+    "evidence": [
+      {
+        "match": "fred-md",
+        "offset": 51415,
+        "numeric_results": true,
+        "excerpt": "estimator) for the backtesting benchmark, and average rank of each method across datasets (lower is better for both measures). Best results are in bold. Model electricity fred-md kdd-cup solar-10min traffic Avg. Rank Auto-ARIMA 0.077 ± 0.016 0.043 ± 0.005 0.625 ± 0.066 0.994 ± 0.216 0.222 ± 0.005 4.7 ± 0.3 ETS 0.059 ± 0.011 0.037 ± 0.010 0.408 ± 0.030 0.678 ± 0.097 0.353 ± 0.011 4.4 ± 0.3 TempFlow 0.075 ± 0.024 0.095 ± 0.004 0.250 ± 0.010 0.507 ± 0.034 0.242 ± 0.020 3.9 ± 0.2 TimeGrad 0.067 ± 0.028 0.0"
+      },
+      {
+        "match": "fred-md",
+        "offset": 57488,
+        "numeric_results": true,
+        "excerpt": "Ground Truth energy score metrics for various bagging sizes. The results were obtained using TACT i S - TT on the fred-md dataset. Bagging size CRPS CRPS-Sum Energy — — ×105 2 0.046 ± 0.009 0.039 ± 0.008 7.88 ± 1"
+      },
+      {
+        "match": "fred-md",
+        "offset": 106305,
+        "numeric_results": true,
+        "excerpt": "estimator) for the backtesting benchmark, and average rank of each method across datasets (lower is better for both measures). Best results are in bold. Model electricity fred-md kdd-cup solar-10min traffic Avg. Rank Auto-ARIMA 0.129 ± 0.015 0.052 ± 0.005 0.477 ± 0.015 0.636 ± 0.060 0.310 ± 0.004 4.1 ± 0.3 ETS 0.094 ± 0.014 0.050 ± 0.011 0.560 ± 0.028 0.844 ± 0.119 0.437 ± 0.012 4.9 ± 0.2 TempFlow 0.109 ± 0.024 0.110 ± 0.003 0.451 ± 0.005 0.547 ± 0.036 0.320 ± 0.015 4.1 ± 0.3 TimeGrad 0.101 ± 0.027 0.142 ±"
+      },
+      {
+        "match": "fred-md",
+        "offset": 109056,
+        "numeric_results": true,
+        "excerpt": "backtesting benchmark, and average rank of each method across datasets (lower is better for both measures). Best results are in bold. Model electricity fred-md kdd-cup solar-10min traffic Avg. Rank ×104 ×105 ×103 ×102 ×100 — Auto-ARIMA 44.59 ± 8.56 8.72 ± 0.81 18.76 ± 3.31 19.42 ± 3.37"
+      },
+      {
+        "match": "fred-md",
+        "offset": 149179,
+        "numeric_results": true,
+        "excerpt": "- TT is generally superior. Table 14. Means and standard errors of the CPRS-Sum metrics for the ablation experiments. Model electricity fred-md kdd-cup solar-10min traffic TACT i S - TT 0.021 ± 0.005 0.042 ± 0.009 0.237 ± 0.013 0.311 ± 0.061 0.071 ± 0.008 TACT i S - GC 0.054 ± 0.011 0.050 ± 0.011 0.214 ± 0.008 0.283 ± 0.023 0.125 ± 0.010 TACT i S - IC 0.022 ± 0.005 0.042 ± 0.009 0.303 ± 0.009 0.381 ± 0.068 0.080 ±"
+      },
+      {
+        "match": "fred-md",
+        "offset": 149791,
+        "numeric_results": true,
+        "excerpt": "8 0.080 ± 0.011 Table 15. Means and standard errors of the energy score metrics for the ablation experiments. Model electricity fred-md kdd-cup solar-10min traffic ×104 ×105 ×103 ×102 ×100 TACT i S - TT 5.42 ± 0.57 8.18 ± 1.83 2.93 ± 0.22 2.88 ± 0.23 3.10 ± 0.13 TACT i S - GC 8.70 ± 0.89 9.55 ± 1.95 2.65 ± 0.17 2.94 ± 0.05 4.99 ± 0.02"
+      },
+      {
+        "match": "fred-md",
+        "offset": 202002,
+        "numeric_results": true,
+        "excerpt": "2 4 Standardized values Standardized values fred-md 1.0 0.25 0.8 0.20 0.6 0.15 CDF PDF 0.4 0.10"
+      },
+      {
+        "match": "fred-md",
+        "offset": 204010,
+        "numeric_results": true,
+        "excerpt": "Standardized values Figure 25. Cumulative distribution functions (CDF) and probability density functions (PDF) of hand-picked example marginals generated by TACT i S - TT for electricity, fred-md, and traffic. These examples have been selected to show various behaviours of unimodal marginals. The red areas represent the part of the distribution which has been removed from the sampling, as mentioned in §B.2. bagging size of 1. The energy score for a bagging size of 1 is equal to 8.43 ± 1.76, which is very close to the one obtained for a bagging size of 20 (8.30±1.68) and even better than the one obtained fo"
+      },
+      {
+        "match": "fred-md",
+        "offset": 211874,
+        "numeric_results": true,
+        "excerpt": "Transformer-Attentional Copulas for Time Series Figure 29. Average correlation coefficients between all series at the last forecasted time step for the fred-md dataset. The bounds of the color map are set to the 0.02 and 0.98 quantiles of the data. Transformer-Attentional Copulas for Time Series Figure 30. Average correlation coefficients between all series at the last forecasted time step for the kdd-cup dataset. The bounds of the colour map are set to the 0.02 and 0.98 quantiles of the data. The black lines are caused by va"
+      },
+      {
+        "match": "fred-md",
+        "offset": 213313,
+        "numeric_results": true,
+        "excerpt": "Transformer-Attentional Copulas for Time Series Figure 33. Average correlation coefficients between all series at the last forecasted time step for the fred-md dataset for various bagging sizes. The bounds of the color maps are set to the 0.02 and 0.98 quantiles of the data."
+      },
+      {
+        "match": "fred-md",
+        "offset": 54474,
+        "numeric_results": false,
+        "excerpt": "upport for interpolation by showing that the remaining ones. In fact, TACT i S - TT outperforms all deep- TACT i S can correctly estimate the distribution of a gap in ob- learning-based methods on fred-md and outperforms all but served values within a stochastic volatility process (Kim et al., GPVar on solar-10min. Furthermore, it achieves the lowest 1998). Specifically, we train TACT i S to estimate the distribu- average rank (1.6), suggesting that, if one had to choose a tion of missing values centered within a univariate time series method to use without prior knowledge of the data, TAC"
+      },
+      {
+        "match": "fred-md",
+        "offset": 78587,
+        "numeric_results": false,
+        "excerpt": "uency dataset in the benchmark. The prediction length for this dataset was limited to 72 (12 hours) due to a prediction length of 144 (24 hours) being too taxing for the transformer-based models. The fred-md dataset was selected due to the nature of its series: 10 Note that all variants of TACT i S that we consider also support such bagging during training. Transformer-Attentional Copulas for Time Series Table 3. Detailed presentation of the datasets used in our benchmark, along with the short name by which they are referred to in the paper. Clicking on the short nam"
+      }
+    ]
+  },
+  {
+    "id": "icml-2022-17986",
+    "title": "FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting",
+    "venue": "ICML",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2022/icml-2022-17986.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 52439,
+        "numeric_results": true,
+        "excerpt": "ter performance, and the best results are highlighted in bold. ETTm2 Electricity Exchange Traffic Weather ILI Methods Metric 96 192 336 720 96 192 336 720 96 192 336 720 96 192 336 720 96 192 336 720 24 36 48 60 MSE 0.203 0.269 0.325 0.421 0.193 0.201 0.214 0.246 0.148 0.271 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 55271,
+        "numeric_results": true,
+        "excerpt": "tter performance, and the best results are highlighted in bold. ETTm2 Electricity Exchange Traffic Weather ILI Methods Metric 96 192 336 720 96 192 336 720 96 192 336 720 96 192 336 720 96 192 336 720 24 36 48 60 MSE 0.072 0.102 0.130 0.178 0.253 0.282 0.346 0.422 0.154 0.28"
+      }
+    ]
+  },
+  {
+    "id": "icml-2023-23520",
+    "title": "When do Minimax-fair Learning and Empirical Risk Minimization Coincide?",
+    "venue": "ICML",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-23520.pdf",
+    "evidence": [
+      {
+        "match": "German Credit",
+        "offset": 36039,
+        "numeric_results": false,
+        "excerpt": "i Lien, 2009) 30000 33 Sex (2) Communities (Redmond & Baveja, 2002) 1994 123 Race (4) German Credit (Dua & Graff, 2017) 1000 20 Sex & Marital status (4) Heart (Chicco & Jurman, 2020) 299 12 Sex (2) Marketing (Moro et al., 2014) 45211 48 Job (12) such as DX|G , DY |X,G will refer to a hypothetical dataset models for Diana et al."
+      }
+    ]
+  },
+  {
+    "id": "icml-2023-24424",
+    "title": "Learning Deep Time-index Models for Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-24424.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 41255,
+        "numeric_results": true,
+        "excerpt": "0.237 0.092 0.211 0.085 0.204 0.139 0.276 0.197 0.323 0.847 0.752 0.968 0.812 0.136 0.267 Exchange 192 0.151 0.284 0.219 0.335 0.208 0.322 0.182 0.303 0.256 0.369 0.300 0.369 1.204 0.895 1.040 0.851 0.229 0.348 336 0.314 0.412 0.421 0.476 0.371 0.443 0.348 0.428 0.426 0.464 0.509 0.524 1.672 1.036 1.659 1.081 0.372 0.447"
+      }
+    ]
+  },
+  {
+    "id": "icml-2023-24503",
+    "title": "Deep Latent State Space Models for Time-Series Generation",
+    "venue": "ICML",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-24503.pdf",
+    "evidence": [
+      {
+        "match": "FRED-MD",
+        "offset": 40523,
+        "numeric_results": true,
+        "excerpt": "Deep Latent State Space Models for Time-Series Generation Data Metric RNN-VAE GP-VAE ODE2 VAE Latent ODE TimeGAN SDEGAN SaShiMi LS4 (Ours) FRED-MD Marginal ↓ 0.132 0.152 0.122 0.0416 0.0813 0.0841 0.0482 0.0221 Class. ↑ 0.0362 0.0158 0.0282 0.327 0.0294 0.501 0.00119 0.544 Prediction ↓ 1.47 2.05 0.567 0.0132 0.0575 0.677 0.232 0.0373 NN5 Daily Marginal ↓ 0.137"
+      },
+      {
+        "match": "FRED-MD",
+        "offset": 42116,
+        "numeric_results": true,
+        "excerpt": ".00102 0.683 Prediction ↓ 1.25 1.47 0.761 0.973 0.237 0.976 0.578 0.141 Table 1: Generation results on FRED-MD, NN5 Daily, Temperature Rain, and Solar Weekly. data points lie around x-axis with sharp spikes through- out, latent ODE generates mostly closely to the x-axis, thus achieving lower marginal scores, bu"
+      }
+    ]
+  },
+  {
+    "id": "icml-2023-24910",
+    "title": "Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-24910.pdf",
+    "evidence": [
+      {
+        "match": "M4-daily",
+        "offset": 44110,
+        "numeric_results": true,
+        "excerpt": "and ensembling strategies on real-world open-source time series datasets over 5 runs. Base Learner / Ensemble Strategy Elec Kaggle M4-daily Traf Wiki ARIMA 0.105 ± 0.0 0.1201 ± 0.0 0.0341 ± 0.0 0.2219 ± 0.0 0.6008 ± 0.0 DeepAR 0.0585 ± 0.0011 0.2478 ± 0.0056 0.035 ± 0.0009 0.0987 ± 0.0014 0.3311 ± 0.0095 ETS 0.0796 ± 0.0203 0.1193 ± 0.0004 0.033 ± 0.0005 0.2999 ± 0.0 N/A"
+      },
+      {
+        "match": "M4-daily",
+        "offset": 46086,
+        "numeric_results": true,
+        "excerpt": "here Gaussian noise is added to the base learner predictions across time over 5 runs. Base Learner / Ensemble Strategy Elec Kaggle M4-daily Traf Wiki ARIMA 1.9146 ± 0.1236 1.102 ± 0.0038 0.0367 ± 0.0001 2.9926 ± 0.0089 0.7672 ± 0.0018 DeepAR 1.3185 ± 0.0826 3.0007 ± 0.0359 0.0355 ± 0.0008 2.1192 ± 0.0161 0.464 ± 0.0058 ETS 0.5137 ± 0.0758 0.2298 ± 0.0042 0.0332 ± 0.0004 1.2715 ± 0.0071 N/A"
+      },
+      {
+        "match": "M4-daily",
+        "offset": 51937,
+        "numeric_results": true,
+        "excerpt": "re Gaussian noise is added to the base learner predictions across items over 5 runs. Base Learner / Ensemble Strategy Elec Kaggle M4-daily Traf Wiki ARIMA 0.2026 ± 0.0019 0.1223 ± 0.0001 0.0348 ± 0.0001 0.3707 ± 0.0012 0.6081 ± 0.0004 DeepAR 0.283 ± 0.011 0.2758 ± 0.0051 0.0353 ± 0.0008 0.4442 ± 0.0053 0.3564 ± 0.0085 ETS 0.3534 ± 0.031 0.1212 ± 0.0005 0.0337 ± 0.0005 0.6846 ± 0.0027 N/A"
+      },
+      {
+        "match": "M4-daily",
+        "offset": 53894,
+        "numeric_results": true,
+        "excerpt": "aussian noise is added to the base learner predictions across quantiles over 5 runs. Base Learner / Ensemble Strategy Elec Kaggle M4-daily Traf Wiki ARIMA 0.2347 ± 0.0067 0.1269 ± 0.0001 0.0344 ± 0.0 0.3877 ± 0.0008 0.606 ± 0.0005 DeepAR 0.789 ± 0.0573 0.3571 ± 0.0069 0.0369 ± 0.0007 1.2155 ± 0.013 0.4525 ± 0.004 ETS 0.4443 ± 0.0687 0.1201 ± 0.0003 0.0359 ± 0.0004 0.9363 ± 0.0111 N/A"
+      }
+    ]
+  },
+  {
+    "id": "icml-2023-25084",
+    "title": "Non-autoregressive Conditional Diffusion Models for Time Series Prediction",
+    "venue": "ICML",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2023/icml-2023-25084.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 43796,
+        "numeric_results": true,
+        "excerpt": "best is underlined. NorPool Caiso Weather ETTm1 Wind Traffic Electricity ETTh1 Exchange avg rank TimeDiff 0.636 (2) 0.122 (3) 0.002 (2) 0.040 (2) 2.407 (9) 0.121 (1) 0.232 (1) 0.066 (1) 0.017 (3) 2.7 TimeGrad 1.129 (15) 0.325 (15) 0.002 (2) 0.048 (6.5) 2.530 (12) 1.223 (16) 0.920 (16) 0.078 (8) 0.041 (13.5) 11.6 CSDI 0.967 (14) 0.192 (9) 0.002 (2) 0.050 (10) 2.434 (10.5) 0.393 (13)"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 46567,
+        "numeric_results": true,
+        "excerpt": "ic and Electricity. NorPool Caiso Weather ETTm1 Wind Traffic Electricity ETTh1 Exchange avg rank TimeDiff 0.665 (2) 0.136 (2) 0.311(1) 0.336 (1) 0.896 (1) 0.564 (3) 0.193 (1) 0.407 (1) 0.018 (3) 1.7 TimeGrad 1.152 (15) 0.258 (14) 0.392 (10) 0.874 (14) 1.209 (15) 1.745 (15) 0.736 (15) 0.993 (15) 0.079 (13) 13.9 CSDI 1.011 (14) 0.253 (13) 0.356 (5) 0.529 (11) 1.066 (5) -"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 51764,
+        "numeric_results": true,
+        "excerpt": ", 2021; Tashiro et al., 2021), the time series diffusion models are evaluated by averaging over future mixup AR Caiso Electricity Exchange ETTh1 10 predictions. All experiments are run on a Nvidia RTX ✓ ✓ 0.122 0.232 0.017 0.066 A6000 GPU with 40GB memory. More implementation ✓ ✗ 0.149 0.328 0.020 0.086 details can be found in Appendix B. ✗ ✓ 0.160 0.295 0.022 0.162"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 56158,
+        "numeric_results": true,
+        "excerpt": "rategies in future mixup. Table 7. MSEs of CSDI and SSSD with and without future mixup τ Caiso Electricity Exchange ETTh1 / autoregressive (AR) initialization. soft-mixup - 0.122 0.232 0.017 0.066 future mixup AR ETTh1 ETTm1 0.1 0.146 0.289 0.031 0.161 ✗ ✗ 0.083 0.050 0.3 0.123 0.318 0.021 0.143 ✓"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 58219,
+        "numeric_results": true,
+        "excerpt": "across all the H values. In particular, TimeGrad is the denoising strategy Caiso Electricity Exchange ETTh1 slowest due to its use of auto-regressive decoding. xθ 0.122 0.232 0.017 0.66 ϵθ 0.134 0.317 0.021 0.077 Table 8. Inference time (ms) on the univariate ETTh1 with different p"
+      },
+      {
+        "match": "exchange rates",
+        "offset": 36320,
+        "numeric_results": false,
+        "excerpt": "1; (vi) Exchange(Lai observations, sampling frequency, and prediction length used in the experiments. et al., 2018), which describes the daily exchange rates of eight countries (Australia, British, Canada, Switzerland, dataset dim #observations freq. H (steps) China, Japan, New Zealand, and Singapore); (vii)-(viii) NorPool 18 70,128 1 hour 1 month (720) ETTh1 and ETTm1, which contain two years of electricity Caiso 10"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-32697",
+    "title": "An Analysis of Linear Time Series Forecasting Models",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-32697.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 50935,
+        "numeric_results": true,
+        "excerpt": "0000 96 0.142 0.144 ±0.0002 0.145 ±0.0017 0.145 ±0.0011 0.141 0.142 ±0.0000 0.142 ±0.0006 0.143 ±0.0005 0.144 ±0.0004 Exchange Weather 192 0.185 0.188 ±0.0013 0.188 ±0.0029 0.189 ±0.0028 0.184 0.185 ±0.0001 0.185 ±0.0008 0.185 ±0.0007 0.187 ±0.0010 336 0.235 0.238 ±0.0003 0.235 ±0.0004 0.238 ±0.0019 0.234 0.236 ±0.0001 0.235 ±0.0003 0.235 ±0.0005 0.235 ±0.0002 720 0.304 0.304 ±0.0004 0.308 ±0.0005 0.310 ±0.0018 0.307 0.307 ±0.0001 0.310 ±0.0004 0.309 ±0.0"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-33464",
+    "title": "Large Language Models Can Automatically Engineer Features for Few-Shot Tabular Learning",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33464.pdf",
+    "evidence": [
+      {
+        "match": "Credit-g",
+        "offset": 36204,
+        "numeric_results": true,
+        "excerpt": "67.86±0.49 67.57±3.44 65.53±8.00 87.43±2.56 73.26±1.46 16 82.42±4.13 72.26±4.43 75.77±2.71 71.35±5.33 75.56±2.88 76.94±3.04 74.02±1.01 88.65±2.63 79.43±1.24 Credit-g 4 52.68±4.46 50.00±0.00 48.92±4.60 54.00±7.34 48.80±6.76 52.99±4.08 54.33±6.54 51.90±9.40 55.94±1.10 8 55.52±8.88 52.22±4.90 55.26±3.92 52.58±11.27 54.50±8.25 52.43±4.36 52.90±5.79 56.42±12.89 57.42±3.10 16 58.26±5.17 56.23±4.37 59.22±11.38 58.91±8.04 57.63±7.58 55.29±4.80 51.65±4.02 60.38±14.03 56.60±2.22 Diabetes 4 57.09±18"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 42900,
+        "numeric_results": true,
+        "excerpt": "68.01±1.97 Communities 1994 103 (1/102) 34:33:33 RandomForest 66.09±10.52 71.16±4.61 71.66±4.81 Credit-g 1000 20 (12/8) 70:30 SCARF 66.18±9.13 72.69±3.79 73.09±2.84 Diabetes 768 8 (0/8) 65:35 STUNT 66.87±14.10 76.36±4.55 77.29±2.56 Heart 918 11 (4/7) 45:5"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 54984,
+        "numeric_results": true,
+        "excerpt": "for model parallelism. Table 5 provides the Communities 0.767 0.889 Credit-g 0.643 0.802 runtime comparisons. Notably, FeatLLM shows a relatively Diabetes 0.974 0.972 low inference time, comparable to that of conventional Heart 0.800 0.924 methods. In contrast, other LLM-based approaches, such as"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 84446,
+        "numeric_results": true,
+        "excerpt": "Car 1.67 Communities 1.00 Credit-g 40.33 Diabetes 1.67 Heart 2.67 Myocardial 13.00 Cultivars 12.85 NHANES 0.00"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 89540,
+        "numeric_results": true,
+        "excerpt": "2.09 32 76.85±1.38 78.92±2.17 64 78.62±1.39 79.38±1.66 Credit-g 4 55.94±1.10 54.00±5.91 8 57.42±3.10 54.20±3.50 16 56.60±2.22 57.35±6.20 32 61.79±10.25 58.49±5.18 64 66.43±2.90 66.09±7.29 Dia"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 95877,
+        "numeric_results": true,
+        "excerpt": "PctHousOwnOcc is within [0.4, 0.8] Low Numllleg <= 0.01 PctImmigRec8 <= 0.2 PctHousOwnOcc >= 0.8 Credit-g No existing credits >2 property magnitude in [life insurance, no known property] housing in [rent, for free] Yes num dependents <= 1 housing not in [rent, for free] existing credits <= 2 Diabetes No Glucose <100"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 103338,
+        "numeric_results": true,
+        "excerpt": "78.60±2.59 N/A N/A N/A 76.85±1.38 64 77.78±5.16 78.33±4.52 79.05±3.80 77.79±3.43 N/A 79.00±1.61 N/A N/A N/A 78.62±1.39 Credit-g 4 52.68±4.46 50.00±0.00 57.00±10.75 48.92±4.60 54.00±7.34 48.80±6.76 52.99±4.08 54.33±6.54 51.90±9.40 55.94±1.10 8 55.52±8.88 52.22±4.90 59.84±7.33 55.26±3.92 52.58±11.27 54.50±8.25 52.43±4.36 52.90±5.79 56.42±12.89 57.42±3.10 16 58.26±5.17 56.23±4.37 58.42±8.36 59.22±11.38 58.91±8.04 57.63±7.58 55.29±4.80 51.65±4.02 60.38±14.03 56.60±2.22 32"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 111721,
+        "numeric_results": true,
+        "excerpt": "32 76.85±1.38 71.64±4.71 66.53±5.82 77.61±1.11 77.39±1.72 64 78.62±1.39 75.80±0.29 70.50±4.94 78.87±1.81 79.10±2.38 Credit-g 4 55.94±1.10 55.70±1.93 53.56±5.24 53.64±2.03 50.76±0.87 8 57.42±3.10 53.51±4.26 53.08±7.09 54.13±1.76 49.02±2.68 16 56.60±2.22 55.48±3.48 54.24±7.03 54.96±8.64 56.99±3.67 32 61.79±10.25 53.30±3.76 55.51±8.61 62.14±4.61 62.22±2.49 64 66.43±2.90 57.57±2.88 5"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-33594",
+    "title": "SIN: Selective and Interpretable Normalization for Long-Term Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-33594.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 69171,
+        "numeric_results": true,
+        "excerpt": "0.305 0.198 0.322 0.209 0.293 0.183 0.414 0.329 0.319 0.217 Exchange 0.509 0.522 0.492 0.445 0.496 0.506 0.494 0.448 1.007 1.632 0.472 0.462 Solar 0.653 0.728 0.398 0.315 0.426 0.353 0.343 0.263 0.257 0.233 0.252 0.226"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 80096,
+        "numeric_results": true,
+        "excerpt": "Trend Traffic Solar Exchange Horizon 96 192 336 720 96 192 336 720 96 192 336 720 RevIN 0.355 0.361 0.363 0.378 0.389 0.388 0.448 0.435 0.275 0.373 0.488 0.779 MAE SIN 0.323 0.336 0.337 0.355 0.315 0.345 0.353 0.359 0.292 0.372 0.466 0.846 RevIN"
+      },
+      {
+        "match": "Exchange-Rate",
+        "offset": 77055,
+        "numeric_results": false,
+        "excerpt": "r SIN framework. v ′ as the unit vector. The mean shifting line is located at On the trended dataset like Exchange-Rate, the mean shift- (u′ )⊤ X ⊤ Y v ′ , which proportion to the Lloc inv +Lglo var , (3) ing operation is especially useful because it achieves nearly The mid-right and the bottom-left shows the first three left the largest singular value for"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-34011",
+    "title": "Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34011.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 42433,
+        "numeric_results": true,
+        "excerpt": ".031 0.136 48 0.715 0.682 0.063 0.191 0.164 0.328 0.054 0.175 0.090 0.243 0.052 0.171 Exchange 96 0.782 0.710 0.142 0.274 0.214 0.381 0.111 0.240 0.142 0.291 0.107 0.235 192 0.708 0.701 0.236 0.369 0.709 0.716 0.213 0.349 0.364 0.468 0.226 0.351 336 1.587 1.063 0.546 0.591 2.158 1.231 0.471 0.500 0.512 0.540 0.465 0.486 720"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 49879,
+        "numeric_results": true,
+        "excerpt": "Time-Series Forecasting for Out-of-Distribution Generalization Using Invariant Learning Dataset Exchange ILI ETTh1 ETTh2 Type Env. Known? Method MSE MAE MSE MAE MSE MAE MSE MAE Base No ERM 0.782 0.710 3.974 1.722 0.965 0.892 3.070 1.628 GroupDRO 0.781 0.715 3.721 1.888 0.88"
+      },
+      {
+        "match": "exchange rates",
+        "offset": 37741,
+        "numeric_results": false,
+        "excerpt": "pendix B. Datasets. We conduct experiments on four popular real- world datasets commonly used as benchmarks: the daily re- ported exchange rates dataset (Exchange) (Lai et al., 2018), 5.2. Results the weekly reported ratios of patients seen with influenza- As shown in Table 1, we present results for both original like illness dataset (ILI) (Kamarthi et al., 2021a), and two versions and corresponding FOIL equipped versions of back- hourly reported electricity transformer temperature datasets bones, yielding the following o"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-34691",
+    "title": "TSLANet: Rethinking Transformers for Time Series Representation Learning",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34691.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 34666,
+        "numeric_results": true,
+        "excerpt": ") 0.337 0.377 0.330 0.372 0.383 0.399 0.347 0.378 0.685 0.578 0.408 0.428 0.465 0.459 0.380 0.392 0.369 0.398 0.391 0.404 0.350 0.382 0.689 0.597 Exchange 0.369 0.404 - - 0.360 0.403 0.367 0.404 0.940 0.707 0.519 0.429 0.613 0.539 0.378 0.417 0.297 0.378 0.416 0.443 0.370 0.406 0.750 0.626 Traffic 0.396 0.271 0.388 0.264 0.428 0.282 0.420 0.277 0.550 0.304 0.610 0.376 0.628 0.379 0.626 0.378 0.433 0.295 0.620 0.336 0.414 0.294 0.804 0.509 Weather 0.228 0.264 0.225 0.257 0.258 0.279 0.238 0.268 0.259 0.315 0.309 0.360 0.338 0.382 0.272 0.291 0.246 0.30"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 47415,
+        "numeric_results": true,
+        "excerpt": "0 TSLANet w/o Adaptive Filter 70 TSLANet w/o Adaptive Filter FordA UWaveGL ETTh1 Exchange Transformer Transformer 0 0.5 1 1.5 2 2.5 0 0.5 1 1.5 2 2.5 w/o ASB 87.3 77.5 0.421 0.380 Noise level"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-34729",
+    "title": "Probabilistic Time Series Modeling with Decomposable Denoising Diffusion Model",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34729.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 63359,
+        "numeric_results": true,
+        "excerpt": "rion of CRPSsum of the methods on six real-world datasets (lower is better). All the values are obtained by 10 runs. Method Exchange Solar Electricity Traffic Taxi Wikipedia GP scaling 0.010±0.000 0.364±0.009 0.024±0.001 0.075±0.001 0.176±0.026 1.413±0.962 GP Copula 0.007±0.001 0.341±0.022 0.023±0.004 0.079±0.003 0.213±0.013 0.089±0.002"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 119680,
+        "numeric_results": true,
+        "excerpt": "tasets (lower is better). All the values are obtained by 3 runs. Method Exchange Solar Electricity Traffic Taxi Wikipedia TimeGrad 0.011±0.001 0.611±0.018 0.038±0.002"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-34815",
+    "title": "Loss Shaping Constraints for Long-Term Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-34815.pdf",
+    "evidence": [
+      {
+        "match": "Exchange Rate",
+        "offset": 55764,
+        "numeric_results": true,
+        "excerpt": "ith the ERM curve for reference. The setting is an Autoformer model for the Exchange Rate dataset, with a predictive window 0.55 length of 720 steps. The gray line is the constraint, with a value of √ 0.50"
+      },
+      {
+        "match": "Exchange Rate",
+        "offset": 28298,
+        "numeric_results": false,
+        "excerpt": "datasets across different models, datasets and predictive windows. The top row shows results for the Weather dataset with a predictive window length of 96 steps, and the second row corresponds to the Exchange Rate dataset with a predictive window length of 720 steps. Each column corresponds to a different architecture, and each curve represents a different training algorithm, we include both the ERM baseline and our method using a constant constraint across the window for all models. 5. Experiments only perform"
+      },
+      {
+        "match": "Exchange Rate",
+        "offset": 30702,
+        "numeric_results": false,
+        "excerpt": "tional experiment details Explicitly, the datasets are: Electricity Consumption Load can be found on Appendix C. (ECL), Weather, Exchange Rate (Lai et al., 2018), Traffic, Electricity Transformer Temperature (ETT) (two hourly 5.1. Loss Shaping datasets and two every 15 minutes) (Zhou et al., 2021), and Influenza Like Illness (ILI). Following the literature, In"
+      },
+      {
+        "match": "Exchange Rate",
+        "offset": 50525,
+        "numeric_results": false,
+        "excerpt": "overall MSE for a flatter error sibility issues in training –like those mentioned in the previ- across the window. In other cases, like the Exchange Rate ous section– by relaxing the most difficult constraints. As dataset for the Informer and Transformer models, in addi- shown in Figure 7, when comparing hard constraints with tion to showing flatter landscapes, the constrained models resi"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-35137",
+    "title": "CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2024/icml-2024-35137.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 50722,
+        "numeric_results": true,
+        "excerpt": "use 73.0% 70.2% 109.0% 86.2% 178.3% 450.7% 100.0% of independent linear layers for each ATS/OTS first-stage Exchange (0.251) (0.242) (0.375) (0.297) (0.613) (1.550) (0.344) Multi 59.6% 64.9% 114.7% 84.1% 164.4% 137.7% 100.0% prediction. Mean fills the corresponding LP region for each (0.168) (0.177) (0.313) (0.230) (0.449) (0.376) (0.273) ATS/OTS with its mean valu"
+      }
+    ]
+  },
+  {
+    "id": "icml-2024-35563",
+    "title": "SAMformer: Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention",
+    "venue": "ICML",
+    "year": 2024,
+    "local_path": "pdfs/ICML/2024/icml-2024-35563__SAMformer_Unlocking_the_Potential_of_Transformers_in_Time_Series_Forecasting_with_Sharpness_Aware_Minimiz.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 33871,
+        "numeric_results": true,
+        "excerpt": "mers ETTh1 Exchange ETTh1 Exchange 1013 1013 0.57 0.38 max Test MSE Sharpness 1011 1011 0.46 0.25"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 37955,
+        "numeric_results": true,
+        "excerpt": "performs PatchTST by 11.13%. For best multivariate transformer-based model FEDformer every horizon and dataset (except Exchange), SAMformer by 12.36%. In addition, it improves over Transformer is ranked either first or second. Notably, SAM’s integration by 16.96%. SAMformer also outperforms the very re- improves the generalization capacity of TSMixer, result- cent iTransformer, a transformer-based approach that ing in an average enhancement of 9.58%."
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 43276,
+        "numeric_results": true,
+        "excerpt": "36 0.233 96 0.161±0.007 0.233±0.016 0.292±0.045 0.343±0.082 0.086 0.088 0.847 0.197 0.139 Exchange 192 0.246±0.009 0.342±0.031 0.372±0.035 0.342±0.031 0.177 0.176 1.204 0.300 0.256 336 0.368±0.006 0.474±0.014 0.494±0.033 0.484±0.062 0.331 0.301 1.672 0.509 0.426 720 1.003±0.018 1.078±0.179 1.323±0.192 1.204±0.028 0.847 0.901 2.478 1.447 1.090 96 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 53730,
+        "numeric_results": true,
+        "excerpt": "Unlocking the Potential of Transformers ETTh1 Exchange ETTh1 Exchange 0.63 1.46 0.43 1.0 Test MSE Test MSE 0.51 0.82"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 53819,
+        "numeric_results": true,
+        "excerpt": "ETTh1 Exchange ETTh1 Exchange 0.63 1.46 0.43 1.0 Test MSE Test MSE 0.51 0.82 0.41 0.59 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 67889,
+        "numeric_results": true,
+        "excerpt": "nths on the ETT datasets and 70%/20%/10% on the other datasets. We use a look-back window L = 512 and use a sliding Dataset ETT Electricity Exchange Traffic Weather window with stride 1 to create the sequences. The training loss is the Learning rate 0.001 0.0001 0.001 0.0001 0.0001 MSE on the multivariate time series (Eq. (1)). Training is performed during 300 epochs and we use early stopping with a patience of 5 epochs. For each dataset, baselines, and prediction horizon H ∈ {96, 192, 336, 720}, each experiment is run 5 times with different seeds, and we d"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 69022,
+        "numeric_results": true,
+        "excerpt": "SMixer achieve their best performance on the benchmarks. H Model ETTh1 ETTh2 ETTm1 ETTm2 Electricity Exchange Traffic Weather SAMformer 0.5 0.5 0.6 0.2 0.5 0.7 0.8 0.4 96 TSMixer 1.0 0.9 1.0 1.0 0.9 1.0 0.0 0.5 SAMformer 0.6 0.8 0.9 0.9 0.6 0.8 0.1 0.4 192"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 77981,
+        "numeric_results": true,
+        "excerpt": "0.342 0.344 96 0.306±0.006 0.363±0.013 0.369±0.049 0.436±0.054 0.206 0.205 0.752 0.323 0.276 Exchange 192 0.371±0.008 0.437±0.021 0.416±0.041 0.437±0.021 0.299 0.299 0.895 0.369 0.369 336 0.453±0.004 0.515±0.006 0.491±0.036 0.523±0.029 0.417 0.397 1.036 0.524 0.464 720 0.750±0.006 0.777±0.064 0.823±0.040 0.818±0.007 0.691 0.714 1.310 0.941 0.800 96 0.292±0."
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 80603,
+        "numeric_results": true,
+        "excerpt": "ficant at the level 0.05 (p-value < 0.05). H Model ETTh1 ETTh2 ETTm1 ETTm2 Electricity Exchange Traffic Weather SAMformer 0.381±0.003 0.295±0.002 0.329±0.001 0.181±0.005 0.155±0.002 0.161±0.007 0.407±0.001 0.197±0.001 96 TSMixer 0.388±0.001 0.305±0.007 0.327±0.002 0.190±0.003 0.171±0.001 0.233±0.016 0.409±0.016 0.189±0.003 SAMformer 0.409±0.002 0.340±0.002 0.353±0.006 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 86575,
+        "numeric_results": true,
+        "excerpt": "Transformer SAMformer Transformer SAMformer Transformer SAMformer Electricity Exchange Traffic Weather 0.19 0.38 0.5 0.24 Test MSE 0.17 0.25 0.44 0.22 0.15 0.13 0.38"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 88079,
+        "numeric_results": true,
+        "excerpt": "Transformer SAMformer Transformer SAMformer Transformer SAMformer Electricity Exchange Traffic Weather 0.29 0.42 0.53 0.29 Test MSE 0.22 0.32 0.46 0.26 0.15 0.21 0.4"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 90909,
+        "numeric_results": true,
+        "excerpt": "Transformer SAMformer Transformer SAMformer Transformer SAMformer Electricity Exchange Traffic Weather 0.24 0.56 0.83 0.28 Test MSE 0.21 0.44 0.6 0.28 0.17 0.33 0.36"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-5DSj3MfWrB",
+    "title": "VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-5DSj3MfWrB.pdf",
+    "evidence": [
+      {
+        "match": "M4 Monthly",
+        "offset": 85784,
+        "numeric_results": true,
+        "excerpt": "699.3 798.38 M3 Other 315.85 300.3 263.54 278.43 277.83 215.35 189.42 194.98 193.02 234.43 318.13 240.17 247.56 221.85 245.29 239.24 M4 Monthly 666.54 728.27 597.6 671.27 625.24 563.58 589.52 582.6 575.36 596.19 611.69 612.52 615.22 578.48 655.51 780.47 M4 Weekly 404.23 518.44 339.76 347.99 336.82 333.32 296.15 335.66 321.61 293.21 364.65 338.37 351.78 277.73 359.46 378.89 M4 Daily 215.63 266.52 189.1 180.83 178"
+      },
+      {
+        "match": "M4 Weekly",
+        "offset": 85965,
+        "numeric_results": true,
+        "excerpt": "245.29 239.24 M4 Monthly 666.54 728.27 597.6 671.27 625.24 563.58 589.52 582.6 575.36 596.19 611.69 612.52 615.22 578.48 655.51 780.47 M4 Weekly 404.23 518.44 339.76 347.99 336.82 333.32 296.15 335.66 321.61 293.21 364.65 338.37 351.78 277.73 359.46 378.89 M4 Daily 215.63 266.52 189.1 180.83 178.27 178.86 176.6 193.26 179.67 181.92 231.36 177.91 299.79 190.44 189.47 201.08 M4 Hourly 288.37 576.06 268.04 1218.06 1218"
+      },
+      {
+        "match": "M4 Daily",
+        "offset": 86146,
+        "numeric_results": true,
+        "excerpt": "655.51 780.47 M4 Weekly 404.23 518.44 339.76 347.99 336.82 333.32 296.15 335.66 321.61 293.21 364.65 338.37 351.78 277.73 359.46 378.89 M4 Daily 215.63 266.52 189.1 180.83 178.27 178.86 176.6 193.26 179.67 181.92 231.36 177.91 299.79 190.44 189.47 201.08 M4 Hourly 288.37 576.06 268.04 1218.06 1218.06 1220.97 386.27 3358.1 1310.85 257.39 285.35 385.49 886.02 425.75 393.63 320.54 Tourism Quarterly 12931.88 16918.86 18352.44 15845.1 150"
+      },
+      {
+        "match": "FRED-MD",
+        "offset": 88677,
+        "numeric_results": true,
+        "excerpt": "19.34 20.34 Carparts 0.58 0.44 0.53 0.65 0.55 0.53 0.58 0.56 0.56 0.41 0.53 0.39 0.39 0.98 0.4 0.39 FRED-MD 1893.67 2804.64 2568.48 2825.67 2798.22 3492.84 1989.97 2041.42 2957.11 8921.94 2475.68 2339.57 4264.36 2557.8 2508.4 4666.04 Traffic Hourly 0.01 0.03 0.02 0.03 0.03 0.03 0.04 0.03 0.04 0.02 0.02 0.01 0.01 0.02 0.02 0.01 Traffic Weekly 1.14 1.15 1.17 1.19"
+      },
+      {
+        "match": "M4 Monthly",
+        "offset": 53163,
+        "numeric_results": false,
+        "excerpt": "ng accuracy. Monash Benchmark Following Woo et al. (2024), we tested 29 Monash datasets (Godahewa et al., 2021) using GluonTS (Alexandrov et al., 2020), including M1 Monthly, M3 Monthly, M3 Other, M4 Monthly, M4 Weekly, M4 Daily, M4 Hourly, Tourism Quarterly, Tourism Monthly, CIF 2016, Australian Electricity Demand, Bitcoin, Pedestrian Counts, Vehicle Trips, KDD Cup, Weather, NN5 Daily, NN5 Weekly, Carparts, FRED-MD, Traffic Hourly, Traffic Weekly, Rideshare, Hospital, COVID Deaths, Temperature Rain, Sunspot, Saugeen River Flow, and US Births. Performance is assessed using MAE. GIFT-Eval Benchmark Aksu et al. (2024"
+      },
+      {
+        "match": "M4 Weekly",
+        "offset": 53175,
+        "numeric_results": false,
+        "excerpt": "Monash Benchmark Following Woo et al. (2024), we tested 29 Monash datasets (Godahewa et al., 2021) using GluonTS (Alexandrov et al., 2020), including M1 Monthly, M3 Monthly, M3 Other, M4 Monthly, M4 Weekly, M4 Daily, M4 Hourly, Tourism Quarterly, Tourism Monthly, CIF 2016, Australian Electricity Demand, Bitcoin, Pedestrian Counts, Vehicle Trips, KDD Cup, Weather, NN5 Daily, NN5 Weekly, Carparts, FRED-MD, Traffic Hourly, Traffic Weekly, Rideshare, Hospital, COVID Deaths, Temperature Rain, Sunspot, Saugeen River Flow, and US Births. Performance is assessed using MAE. GIFT-Eval Benchmark Aksu et al. (2024) introduce"
+      },
+      {
+        "match": "M4 Daily",
+        "offset": 53186,
+        "numeric_results": false,
+        "excerpt": "enchmark Following Woo et al. (2024), we tested 29 Monash datasets (Godahewa et al., 2021) using GluonTS (Alexandrov et al., 2020), including M1 Monthly, M3 Monthly, M3 Other, M4 Monthly, M4 Weekly, M4 Daily, M4 Hourly, Tourism Quarterly, Tourism Monthly, CIF 2016, Australian Electricity Demand, Bitcoin, Pedestrian Counts, Vehicle Trips, KDD Cup, Weather, NN5 Daily, NN5 Weekly, Carparts, FRED-MD, Traffic Hourly, Traffic Weekly, Rideshare, Hospital, COVID Deaths, Temperature Rain, Sunspot, Saugeen River Flow, and US Births. Performance is assessed using MAE. GIFT-Eval Benchmark Aksu et al. (2024) introduces the Gene"
+      },
+      {
+        "match": "FRED-MD",
+        "offset": 53380,
+        "numeric_results": false,
+        "excerpt": "ekly, M4 Daily, M4 Hourly, Tourism Quarterly, Tourism Monthly, CIF 2016, Australian Electricity Demand, Bitcoin, Pedestrian Counts, Vehicle Trips, KDD Cup, Weather, NN5 Daily, NN5 Weekly, Carparts, FRED-MD, Traffic Hourly, Traffic Weekly, Rideshare, Hospital, COVID Deaths, Temperature Rain, Sunspot, Saugeen River Flow, and US Births. Performance is assessed using MAE. GIFT-Eval Benchmark Aksu et al. (2024) introduces the General Time Series Forecasting Model Evaluation, GIFT-Eval, encompasses 23 datasets over 144,000 time series and 177 million data points, spanning seven domains, 10 frequencies, multivariate inp"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-71Mm8GDGYd",
+    "title": "$K^2$VAE: A Koopman-Kalman Enhanced Variational AutoEncoder for Probabilistic Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-71Mm8GDGYd.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 38427,
+        "numeric_results": true,
+        "excerpt": "eans and standard errors are based on 5 independent runs of retraining and evaluation. Red: the best, Blue: the 2nd best. Model Metric Exchange-S Solar-S Electricity-S Traffic-S ETTh1-S ETTh2-S ETTm1-S ETTm2-S CRPS 0.012±0.002 0.516±0.011 0.068±0.003 0.298±0.022 0.320±0.017 0.212±0.012 0.193±0.005 0.199±0.003 FITS NMAE 0.017±0.003 0.701±0.014 0.092±0.004 0.392±0.028 0.423±0.033 0.278±0.009 0.249±0.007 0.260±0.011"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 44656,
+        "numeric_results": true,
+        "excerpt": "10 in Appendix C.5. Model Metric ETTm1-L ETTm2-L ETTh1-L ETTh2-L Electricity-L Traffic-L Weather-L Exchange-L ILI-L CRPS 0.305±0.024 0.449±0.034 0.348±0.025 0.314±0.022 0.115±0.024 0.374±0.004 0.267±0.003 0.074±0.011 0.211±0.011 FITS NMAE 0.406±0.072 0.540±0.052 0.468±0.012 0.401±0.022 0.149±0.012 0.453±0.022 0.317±0.021 0.097±0.011 0.245±0.017 CRPS 0.304±0.029 0.229±0.036 0.323±0.020 0.304±0.018 0.127±0.015"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 53416,
+        "numeric_results": true,
+        "excerpt": "Electricity-L ETTm1-L Exchange-S Solar-S in KalmanNet (L = 720) (L = 720) (L = 30) (L = 24) a wrong direction, which often occurs in long-term proba- CRPS 0.082±0.011 0.359±0.024 0.015±0.002 0.398±0.005"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 56495,
+        "numeric_results": true,
+        "excerpt": "able 12 in Appendix C.6. As the most important modules, the KoopmanNet and Koopman Electricity-L ETTm1-L Exchange-S Solar-S KalmanNet jointly contribute to state-of-the-art perfor- Metrics Operator (L = 720) (L = 720) (L = 30) (L = 24) mance of K 2 VAE. To evaluate their impactment, we con- CRPS - - 0.012±0.002 0.450±0.012 Kloc NMAE - - 0.014±0.002 0.566±0.015"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 58887,
+        "numeric_results": true,
+        "excerpt": "Electricity-L ETTm1-L Exchange-S Solar-S (L = 720) (L = 720) (L = 30) (L = 24) the non-linear residual into the control input of KalmanNet, CRPS 0.074±0.009 0.443±0.034 0.014±0.002 0.385±0.008"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-GUDnecJdJU",
+    "title": "Retrieval Augmented Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-GUDnecJdJU.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 37277,
+        "numeric_results": true,
+        "excerpt": ".327 1.410 Electricity 0.160 0.182 0.216 0.193 0.196 0.225 0.214 0.193 0.227 0.311 Exchange 0.441 0.386 0.564 0.416 0.315 0.643 1.195 0.461 1.447 2.478 Illness 2.097 2.024 1.480 2.139 2.664 2.169 2.847 2.077 3.006 5.137 Solar 0.231 0.216 0.287 0.403 0.283 0.330 0.328 0.350 0.586 0.331 Traffic 0.434 0.484"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-GhTdNOMfOD",
+    "title": "TimeBase: The Power of Minimalism in Efficient Long-term Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-GhTdNOMfOD.pdf",
+    "evidence": [
+      {
+        "match": "Exchange Rate",
+        "offset": 22273,
+        "numeric_results": true,
+        "excerpt": "et al., 2018), Wind (Li et al., 2022), , METR-LA (Li et al., G = X⊤ basis Xbasis (5) 2017), Exchange Rate (Lai et al., 2018), ZafNoo (Poy- atos et al., 2020) and CzeLan (Poyatos et al., 2020), 2 AQShunyi (Zhang et al., 2017), AQWan (Zhang et al., 2017), Lorth = ∥G − diag(G)∥F (6) and 4 very large datasets: CA (4.52B), GLA (2.02B), GBA"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 26082,
+        "numeric_results": true,
+        "excerpt": "207 34,272 720 96∼720 5mins 7.1M the number of basis components. The parameter scale of Exchange 8 7,588 720 96∼720 1day 60.7K TimeBase can be expressed as: AQshunyi 11 35,064 720 96∼720 1hour 0.4M AQWan 11 35,064 720 96∼720 1hour 0.4M"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 32527,
+        "numeric_results": true,
+        "excerpt": ".426 ZafNoo 0.495 0.445 0.531 0.490 0.505 0.464 0.520 0.480 0.540 0.500 0.540 0.495 0.510 0.469 0.545 0.502 0.601 0.539 0.667 0.635 0.726 0.696 Exchange 0.309 0.392 0.316 0.410 0.330 0.426 0.302 0.400 0.301 0.401 0.312 0.410 0.308 0.400 0.326 0.425 0.380 0.472 0.447 0.589 0.432 0.581 METR-LA 1.253 0.754 1.302 0.764 1.270 0.740 1.296 0.760 1.253 0.734 1.300 0.759 1.210 0.706 1.390 0.812 1.550 0.876 1.639 0.974 1.894 1.146 PM2.5 0.428 0.437 0.467 0.477 0.465 0.474 0.460 0.469 0.480 0.492 0.449 0.457 0.458 0.466 0.466 0.475 0.560 0.547 0.621 0.650 0.636 0.663"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-LLk1qYQatJ",
+    "title": "LETS Forecast: Learning Embedology for Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-LLk1qYQatJ.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 47295,
+        "numeric_results": true,
+        "excerpt": "48 0.042 0.142 0.042 0.143 0.128 0.271 0.045 0.147 0.044 0.144 0.045 0.148 0.044 0.144 0.043 0.143 0.043 0.145 0.054 0.180 0.117 0.248 0.042 0.139 Exchange 96 0.088 0.205 0.083 0.207 0.294 0.394 0.093 0.213 0.089 0.209 0.095 0.219 0.085 0.204 0.084 0.203 0.084 0.220 0.113 0.261 0.108 0.251 0.081 0.196 144 0.133 0.255 0.130 0.261 0.597 0.578 0.151 0.274 0.144 0.267 0.154 0.283 0.132 0.260 0.146 0.270 0.132 0.253 0.133 0.258 0.152 0.301 0.122 0.244 192 0.178 0.301 0.184 0.309 0.654 0.595 0.205 0.323 0.207 0.322 0.212 0.334 0.174 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 55638,
+        "numeric_results": true,
+        "excerpt": "0.0388 0.1290 0.0459 0.1420 0.0431 0.1370 0.0428 0.1390 Exchange based models such as iTransformer and PatchTST. Addi- 96 0.0783 0.1860 0.0936 0.2120 0.0828 0.1930 0.0912 0.2030 144 0.1330 0.2390 0.1725 0.2820 0.1279 0.2490 0.1772 0.2800 tionally, we also benchmark the Naı̈ve baseline as described 192 0.1754"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 60136,
+        "numeric_results": true,
+        "excerpt": ", β = 2.667, train-test split, we also partition the time series (variates) and initial conditions: (0.0, 1.0, 1.05), where the ground- in ETT, Exchange, and Weather into disjoint training and truth states xt ∈ R3 are known. To satisfy the univariate testing sets, ensuring no overlap in sequence identity. For embedding requirement of Takens’ theorem, we consider a 8 LETS Forecast: Learning Embedology for Time Series Forecasting Table 3. Model"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 62151,
+        "numeric_results": true,
+        "excerpt": "0.5001±0.0001 0.3226±0.0007 0.4521±0.0016 0.3104±0.0014 0.3930±0.0023 0.2683±0.0015 0.4001±0.0004 0.2663±0.0001 Exchange 0.1097±0.0004 0.2247±0.0005 0.1110±0.0015 0.2262±0.0011 0.1122±0.0023 0.2278±0.0019 0.1090±0.0011 0.2247±0.0015 ILI 2.0240±0.0540 0.9271±0.0163 1.9827±0.0762 0.8864±0.0271 1.6857±0.0311 0.7977±0.0091 1.6779±0.0391 0.7935±0.0087 Weather 0.1955±0.0003 0.2249±0.0011 0.1899±0.0002 0.2198±0.0003 0.1660±0.0007"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-PqpPrlAQqa",
+    "title": "Channel Normalization for Time Series Channel Identification",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-PqpPrlAQqa.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 34051,
+        "numeric_results": true,
+        "excerpt": "PEMS08 .254 .306 .159 .223 .153 .221 37.4% 39.8% .277 .333 .247 .308 .187 .279 10.8% 32.5% Exchange .368 .409 .352 .401 .349 .398 4.4% 5.2% .356 .403 .355 .400 .353 .399 0.3% 0.8% Weather .260 .281 .247 .273 .245 .271 5.0% 5.8% .272 .292 .249 .274 .246 .273 8.5% 9.6% Solar .234 .261 .228 .258 .220 .253 2.6% 6.0% .261 .313 .248 .276 .242 .277 5.0%"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 36276,
+        "numeric_results": true,
+        "excerpt": "PEMS08 .157 .242 .133 .216 .121 .216 15.3% 22.9% .186 .275 .167 .250 .167 .258 10.2% 10.2% Exchange .364 .407 .362 .405 .357 .402 0.5% 1.9% .365 .406 .358 .402 .356 .400 1.9% 2.5% Weather .252 .277 .246 .273 .247 .274 2.4% 2.0% .260 .285 .246 .274 .242 .272 5.4% 6.9% Solar .244 .275 .230 .262 .228 .261 5.7% 6.6% .255 .294 .246 .267 .245 .274 3.5%"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 106149,
+        "numeric_results": true,
+        "excerpt": "Avg. ETTh1 ETTh2 ETTm1 ETTm2 PEMS03 PEMS04 PEMS07 PEMS08 Exchange Weather Solar ECL 0.05 .439 .376 .396 .288 .099 .088 .087 .156 .351 .245 .221 .159 .242 0.1 .439 .376 .396 .288 .099 .088 .085 .156 .351 .246 .222 .158 .242 0.2 .439 .375 .395 .289 .099 .088 .086 .154 .350 .246 .223 .158 .242"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 107306,
+        "numeric_results": true,
+        "excerpt": "Avg. ETTh1 ETTh2 ETTm1 ETTm2 PEMS03 PEMS04 PEMS07 PEMS08 Exchange Weather Solar ECL 0.05 .449 .375 .394 .285 .108 .093 .075 .122 .358 .248 .228 .164 .241 0.1 .449 .375 .394 .285 .107 .095 .074 .127 .358 .248 .229 .168 .241 0.2 .449 .375 .395 .285 .108 .095 .076 .129 .358 .249 .230 .163 .241"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 108460,
+        "numeric_results": true,
+        "excerpt": "Avg. ETTh1 ETTh2 ETTm1 ETTm2 PEMS03 PEMS04 PEMS07 PEMS08 Exchange Weather Solar ECL 0.05 .453 .387 .391 .280 .130 .112 .105 .178 .356 .242 .248 .174 .255 0.1 .453 .387 .391 .280 .124 .109 .103 .177 .356 .242 .247 .174 .254 0.2 .453 .388 .391 .280 .120 .109 .103 .168 .356 .242 .246 .175 .253"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 109612,
+        "numeric_results": true,
+        "excerpt": "Avg. ETTh1 ETTh2 ETTm1 ETTm2 PEMS03 PEMS04 PEMS07 PEMS08 Exchange Weather Solar ECL 0.05 .449 .378 .384 .277 .162 .164 .136 .200 .354 .246 .244 .189 .265 0.1 .450 .377 .384 .277 .159 .157 .131 .187 .354 .246 .243 .189 .263 0.2 .450 .377 .383 .277 .160 .157 .131 .188 .353 .247 .251 .189 .264"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 140623,
+        "numeric_results": true,
+        "excerpt": "192 .239 .342 .202 .323 .221 .337 .207 .329 Exchange 336 .479 .486 .383 .446 .387 .453 .366 .441 ILI 60 2.48 .944 1.93 .895 2.45 .994 2.14 .940 96 .496 .325 .483 .320 .502 .330 .481 .318"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-VfoKOD65Zq",
+    "title": "LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-VfoKOD65Zq.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 57615,
+        "numeric_results": true,
+        "excerpt": "0.201 0.118 0.246 0.087 0.202 0.083 0.203 0.087 0.208 0.084 0.201 0.088 0.205 0.107 0.234 Exchange 192 0.175 0.300 0.218 0.338 0.253 0.357 0.175 0.298 0.212 0.332 0.178 0.298 0.178 0.299 0.178 0.302 0.178 0.299 0.176 0.299 0.226 0.344 336 0.329 0.412 0.367 0.443 0.390 0.452 0.329 0.409 0.360 0.438 0.329 0.413 0.328 0.415 0.338"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 65222,
+        "numeric_results": true,
+        "excerpt": "ts. Table 18 shows the full results. ETTm1 ETTm2 ETTh1 ETTh2 Electricity Exchange Weather Method MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE LangTime 0.401 0.392 0.287 0.324 0.440 0.427 0.379 0.395 0.230 0.312 0.361 0.403 0.259 0.274 LangTimeSFT 0.399 0.391 0.285 0.321 0.447 0.423 0.378 0.391 0.211 0.29"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-Z5FJsp1U3Z",
+    "title": "LightGTS: A Lightweight General Time Series Forecasting Model",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-Z5FJsp1U3Z.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 48004,
+        "numeric_results": true,
+        "excerpt": "0.266 0.208 0.256 0.292 0.313 0.26 0.275 0.288 0.309 - - 0.270 0.300 Exchange 0.345 0.395 0.347 0.396 0.392 0.425 0.385 0.417 0.370 0.412 0.390 0.417 0.432 0.454 Solar 0.219 0.305 0.191 0.271 0.771 0.604 0.714 0.704 0.393 0.319 0.500 0.397 0.411 0.428 Electricity 0.233 0.319 0.213 0.308 0.297 0.375 0.18"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 50499,
+        "numeric_results": true,
+        "excerpt": "7 0.244 0.227 0.263 0.232 0.270 0.225 0.258 0.244 0.281 0.225 0.263 0.224 0.261 Exchange 0.347 0.396 0.322 0.383 0.350 0.397 0.321 0.384 0.384 0.414 0.349 0.396 0.385 0.418 0.322 0.385 Solar 0.191 0.271 0.179 0.220 0.200 0.263 0.202 0.260 0.204 0.228 0.232 0.268 0.203 0.261 0.200 0.284 Electricity 0.213 0.308 0.156"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-goVzfYtj58",
+    "title": "Exploring Representations and Interventions in Time Series Foundation Models",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-goVzfYtj58.pdf",
+    "evidence": [
+      {
+        "match": "Exchange rate",
+        "offset": 122860,
+        "numeric_results": true,
+        "excerpt": "18 0.107 0.178 0.076 0.220 0.112 Electricity 0.372 0.250 0.446 0.342 0.716 0.757 0.428 0.327 0.727 0.819 Exchange rate 0.125 0.034 0.124 0.032 0.170 0.061 0.111 0.027 0.174 0.067 Illness 0.393 0.421 0.448 0.502 0.547 0.669 0.423 0.446 0.552 0.648 Traffic 0.492 0.790 0.552 0.906 0.861 1.562 0.606 0.940 0.878 1.633 Weather 0.129 0.079"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 122860,
+        "numeric_results": true,
+        "excerpt": "12 Electricity 0.372 0.250 0.446 0.342 0.716 0.757 0.428 0.327 0.727 0.819 Exchange rate 0.125 0.034 0.124 0.032 0.170 0.061 0.111 0.027 0.174 0.067 Illness 0.393 0.421 0.448 0.502 0.547 0.669 0.423 0.446 0.552 0.648 Traffic 0.492 0.790 0.552 0.906 0.861 1.562 0.606 0.940 0.878 1.633 Weather 0.129 0.0"
+      },
+      {
+        "match": "exchange rate",
+        "offset": 124841,
+        "numeric_results": true,
+        "excerpt": ".332 0.835 0.337 0.886 0.359 3 ercot 0.627 0.020 0.694 0.022 0.697 0.027 0.624 0.018 0.909 0.024 1.281 0.042 4 exchange rate 2.310 0.012 2.394 0.014 2.061 0.013 2.256 0.014 1.877 0.012 1.713 0.013 5 m4 quarterly 1.217 0.082 1.255 0.084 1.193 0.081 1.223 0.082 1.213 0.082 1.270 0.085 6 m4 yearly 3.559 0.133 3.537 0.132 3.495 0.129 3.507 0.131 3.502 0.129 3.359 0"
+      },
+      {
+        "match": "m4 quarterly",
+        "offset": 124989,
+        "numeric_results": true,
+        "excerpt": ".018 0.909 0.024 1.281 0.042 4 exchange rate 2.310 0.012 2.394 0.014 2.061 0.013 2.256 0.014 1.877 0.012 1.713 0.013 5 m4 quarterly 1.217 0.082 1.255 0.084 1.193 0.081 1.223 0.082 1.213 0.082 1.270 0.085 6 m4 yearly 3.559 0.133 3.537 0.132 3.495 0.129 3.507 0.131 3.502 0.129 3.359 0.123 7 m5 0.943 0.586 0.942 0.586 0.954 0.591 0.939 0.587 0.941 0.622 0.956"
+      },
+      {
+        "match": "m4 yearly",
+        "offset": 125137,
+        "numeric_results": true,
+        "excerpt": ".014 1.877 0.012 1.713 0.013 5 m4 quarterly 1.217 0.082 1.255 0.084 1.193 0.081 1.223 0.082 1.213 0.082 1.270 0.085 6 m4 yearly 3.559 0.133 3.537 0.132 3.495 0.129 3.507 0.131 3.502 0.129 3.359 0.123 7 m5 0.943 0.586 0.942 0.586 0.954 0.591 0.939 0.587 0.941 0.622 0.956 0.644 8 monash australian electricity 1.427 0.076 1.417 0.077 1.372 0.073 1.445 0.083 1.638 0.084 2.593"
+      },
+      {
+        "match": "exchange rate",
+        "offset": 134262,
+        "numeric_results": true,
+        "excerpt": "02 mean 0.727 0.819 0.012 0.023 0.446 0.342 0.006 0.007 0.716 0.757 0.009 0.016 0.428 0.327 0.006 0.009 0.372 0.250 0.007 0.008 exchange rate 0.125 0.164 0.059 0.010 0.014 0.129 0.035 0.007 0.006 0.178 0.065 0.010 0.008 0.109 0.027 0.010 0.002 0.131 0.037 0.010 0.006 0.25 0.172 0.064 0.010 0.012 0.122 0.031 0.006 0.003 0.167 0.059 0.001 0.002 0.108 0.025 0.007 0.001 0.122 0.033 0.008 0.004 0.375 0.178"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-gwlJgoq5QZ",
+    "title": "Slimming the Fat-Tail: Morphing-Flow for Adaptive Time Series Modeling",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-gwlJgoq5QZ.pdf",
+    "evidence": [
+      {
+        "match": "Exchange-Rate",
+        "offset": 9877,
+        "numeric_results": true,
+        "excerpt": "itor by 6.3% on average, achieving 21.7% gains fat-tailed distributions. on datasets with pronounced heavy-tailed behavior (e.g., Exchange-Rate). The MOF operates as a plug-and-play Visualization of the training process is shown in Figure 2. module, requiring no architectural modifications to existing The fat-tailed nature of Cauchy distributions (evident in the models. Q-Q plots and PDFs of Figure 2) has a significant impact on"
+      },
+      {
+        "match": "Exchange Rate",
+        "offset": 26978,
+        "numeric_results": false,
+        "excerpt": "and ETTm2) (Zhou et al., 2021), Electricity, Traffic, Feed xflow into the temporal morph module: Weather (Wu et al., 2021), and Exchange Rate. To en- xmod = Morph(xflow ) sure consistency, we follow the standard protocol (Liu et al., // xmod has shape B × 2 2023) and split the datasets into training, validation, and test Transform the sequence using the modified parameters: sets with a 6:2:2 ratio for ETT datasets and a 7:1:2 ratio for x′ ="
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-ih2WuBT1Fn",
+    "title": "Context is Key: A Benchmark for Forecasting with Essential Textual Information",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-ih2WuBT1Fn.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 244387,
+        "numeric_results": true,
+        "excerpt": "0.409 0.465 ETTm2 0.181 0.248 0.315 0.417 Exchange 0.090 0.180 0.322 0.862 Weather 0.179 0.224 0.278 0.354 Electricity 0.198 0.202 0.217 0.257 24 36 48 60 Illness 2.284 2.515 2.5"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-kcUNMKqrCg",
+    "title": "Conditional Diffusion Model with Nonlinear Data Transformation for Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-kcUNMKqrCg.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 33683,
+        "numeric_results": true,
+        "excerpt": "tricity. Results of all baselines are from (Shen et al., 2024) Method NorPool Caiso Traffic Electricity Weather Exchange ETTh1 ETTm1 Wind Rank Ours 0.531(1) 0.094(1) 0.374(2) 0.145(1) 0.296(1) 0.016(1) 0.405(1) 0.340(2) 0.988(5) 1.7 mr-Diff 0.645(3) 0.127(4) 0.474(7) 0.155(4) 0.296(1) 0.016(1) 0.411(4) 0.340(2) 0.881(1) 3.0 TimeDiff 0.665(5) 0.136(7) 0.564(8) 0.193(6) 0.311(3) 0.018(7)"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 41107,
+        "numeric_results": true,
+        "excerpt": "rank). Results of all other models are from (Shen et al., 2024). Method NorPool Caiso Traffic Electricity Weather Exchange ETTh1 ETTm1 Wind Rank Ours 0.606(2) 0.118(2) 0.126(4) 0.234(3) 0.002(1) 0.015(1) 0.066(1) 0.038(1) 2.171(3) 2.0 mr-Diff 0.667(5) 0.122(4) 0.119(1) 0.234(3) 0.002(1) 0.016(2) 0.066(1) 0.039(3) 2.182(5) 2.8 TimeDiff 0.636(3) 0.122(4) 0.121(2) 0.232(2) 0.002(1) 0.017(5) 0.066(1"
+      },
+      {
+        "match": "exchange rates",
+        "offset": 31002,
+        "numeric_results": false,
+        "excerpt": "focus on prediction tasks - eight years of hourly energy production data from various with suitable prediction lengths based on the characteristics European countries; (7) Exchange7 - daily exchange rates of the dataset (Shen & Kwok, 2023; Shen et al., 2024). for eight countries: Australia, United Kingdom, Canada, Switzerland, China, Japan, New Zealand and Singapore (Lai 4.1.2. I MPLEMENTATION DETAILS et al., 2018); (8) ETTh1 and (9) ETTm18 are benchmarks for China’s electricity transformer temperature data, over Our CN-Diff model is trained using the Adam optimizer two years, ETTh"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-p1KkW2kgDp",
+    "title": "Patch-wise Structural Loss for Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-p1KkW2kgDp.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 44933,
+        "numeric_results": true,
+        "excerpt": "0.420 0.355 0.436 0.345 0.427 0.386 0.454 0.332 0.417 0.333 0.441 0.325 0.432 0.393 0.462 0.377 0.450 Exchange 720 0.853 0.696 0.860 0.700 0.903 0.712 0.904 0.713 0.928 0.727 0.917 0.719 0.898 0.725 0.811 0.690 1.011 0.768 1.010 0.768 Avg 0.364 0.407 0.366 0.407 0.386 0.419 0.381 0.414 0.397 0.423 0.380 0.411 0.381 0.420 0.373 0.412 0.435 0.454 0.427 0.448 Table 2. LLM-based long-t"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-s69Ei2VrIW",
+    "title": "TimePro: Efficient Multivariate Long-term Time Series Forecasting with Variable- and Time-Aware Hyper-state",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-s69Ei2VrIW.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 36046,
+        "numeric_results": true,
+        "excerpt": "AE ECL 0.169 0.262 0.170 0.265 0.174 0.264 0.178 0.270 0.189 0.276 0.244 0.334 0.251 0.344 0.192 0.295 0.212 0.300 0.268 0.365 0.193 0.296 Exchange 0.352 0.399 0.367 0.408 0.361 0.402 0.360 0.403 0.367 0.404 0.940 0.707 0.370 0.413 0.416 0.443 0.354 0.414 0.750 0.626 0.461 0.454 Weather 0.251 0.276 0.251 0.276 0.255 0.278 0.258 0.278 0.256 0.279 0.259 0.315 0.271 0.320 0.259 0.287 0.265 0.317 0.292 0.363 0.288 0.314 Solar-Energy 0.232 0.266 0.240 0.273 0.229 0.256 0.233 0.262 0.236 0.266 0.641 0.639 0.347 0.417 0.301 0.319 0.330 0.401 0.282 0.375 0.261"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 43697,
+        "numeric_results": true,
+        "excerpt": "atch length can significantly improve performance, while for others, the effect may be less pronounced. For the ECL Exchange ETTh1 Variant MSE MAE MSE MAE dataset, increasing the patch length (from 8 to 32) reduces Non-Adaptive 0.360 0.402 0.451 0.441 the MAE, with significant performance"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 44283,
+        "numeric_results": true,
+        "excerpt": "ment due Adaptive 0.352 0.399 0.438 0.438 to patch length. For the Exchange dataset, the impact of patch length on MAE is relatively small, with only minor performance changes, indicating that this dataset has a lower in Table 3. An optional strategy is to integrate the variables demand for patch length. For the Weather dataset, the im- states along the time dimension using a linear projection, i.e., pact of patch length is more complex, with an initial increase non-"
+      }
+    ]
+  },
+  {
+    "id": "icml-2025-uRD6wkqulN",
+    "title": "BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modeling",
+    "venue": "ICML",
+    "year": 2025,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2025/icml-2025-uRD6wkqulN.pdf",
+    "evidence": [
+      {
+        "match": "Fred-MD",
+        "offset": 48135,
+        "numeric_results": true,
+        "excerpt": "NN5 0.591 ± 0.029 0.628 ± 0.021 0.748 ± 0.134 1.424 ± 0.043 2.758 ± 0.142 2.121 ± 0.094 2.871 ± 0.045 Fred-MD 0.258 ± 0.045 0.271 ± 0.056 0.359 ± 0.097 2.932 ± 0.133 4.028 ± 0.130 4.026 ± 0.087 2.902 ± 0.215 Exchange 0.374 ± 0.053 0.376 ± 0.058 0.382 ± 0.041 0.993 ± 0.058 1.553 ± 0.122 1.355 ± 0.072 1.331 ± 0.042 Electricity 0.011 ± 0.010 0.014 ± 0.013 0.01"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 48319,
+        "numeric_results": true,
+        "excerpt": "0.271 ± 0.056 0.359 ± 0.097 2.932 ± 0.133 4.028 ± 0.130 4.026 ± 0.087 2.902 ± 0.215 Exchange 0.374 ± 0.053 0.376 ± 0.058 0.382 ± 0.041 0.993 ± 0.058 1.553 ± 0.122 1.355 ± 0.072 1.331 ± 0.042 Electricity 0.011 ± 0.010 0.014 ± 0.013 0.013 ± 0.005 0.185 ± 0.018 0.395 ± 0.121 0.415 ± 0.040 0.580 ± 0.005 Solar 0.007 ± 0.002 0.007 ± 0.003 0.015"
+      },
+      {
+        "match": "Fred-MD",
+        "offset": 50363,
+        "numeric_results": true,
+        "excerpt": "NN5 0.010 ± 0.008 0.013 ± 0.008 0.016 ± 0.007 0.603 ± 0.107 4.054 ± 1.592 1.372 ± 0.180 1.284 ± 0.058 Fred-MD 0.024 ± 0.019 0.028 ± 0.029 0.033 ± 0.029 0.712 ± 0.054 5.371 ± 1.455 3.509 ± 0.299 0.376 ± 0.025 Exchange 0.083 ± 0.056 0.088 ± 0.065 0.088 ± 0.077 1.984 ± 0.836 4.376 ± 0.664 1.583 ± 0.932 2.011 ± 0.433 Table 1: Generation results on various univariate datasets, evaluated using Marginal Distri"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 50547,
+        "numeric_results": true,
+        "excerpt": ".028 ± 0.029 0.033 ± 0.029 0.712 ± 0.054 5.371 ± 1.455 3.509 ± 0.299 0.376 ± 0.025 Exchange 0.083 ± 0.056 0.088 ± 0.065 0.088 ± 0.077 1.984 ± 0.836 4.376 ± 0.664 1.583 ± 0.932 2.011 ± 0.433 Table 1: Generation results on various univariate datasets, evaluated using Marginal Distribution Distance (MDD) and K-L divergence (K-L). Lower values indicate better performance. Best results are in red, and second best in blue. The KL divergence results further underscor"
+      },
+      {
+        "match": "Fred-MD",
+        "offset": 58105,
+        "numeric_results": true,
+        "excerpt": "0.550 3.3 4.0 0.677 3.3 3.4 4.708 3.6 3.9 Rain NN5 Fred-MD Exchange J-FTSD HE-Rank HE-Mixed J-FTSD HE-Rank HE-Mixed J-FTSD HE-Rank HE-Mixed J-FTSD HE-Rank HE-Mixed B RIDGE 0.147 1.9 1.9 0.972 2.5 2.8 0.260 2.5 2.8 1.581 1.9 1.9 w/o Prototype 0.141 3.2 3.2 1.115 3.1 3.5"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 58147,
+        "numeric_results": true,
+        "excerpt": "3.6 3.9 Rain NN5 Fred-MD Exchange J-FTSD HE-Rank HE-Mixed J-FTSD HE-Rank HE-Mixed J-FTSD HE-Rank HE-Mixed J-FTSD HE-Rank HE-Mixed B RIDGE 0.147 1.9 1.9 0.972 2.5 2.8 0.260 2.5 2.8 1.581 1.9 1.9 w/o Prototype 0.141 3.2 3.2 1.115 3.1 3.5 0.341 2.7 3.0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 67176,
+        "numeric_results": true,
+        "excerpt": "ty. In the NN5 dataset, MDD increases from 0.591 to 0.628, and in the Exchange dataset, K-L diver- 5.5. Performance Analysis on Individual Components of gence rises from 0.083 to 0.088. The removal of prototypes Multi-Agent System (B RIDGE w/o Prototypes) causes the most significant per- formance decline. As shown in Table 10 in"
+      }
+    ]
+  },
+  {
+    "id": "icml-2026-B8bAYc4COx",
+    "title": "What if Tomorrow is the World Cup Final? Counterfactual Time Series Forecasting with Textual Conditions",
+    "venue": "ICML",
+    "year": 2026,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-B8bAYc4COx.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 49340,
+        "numeric_results": true,
+        "excerpt": "1±0.22 81.38±0.15 ↓ MAE 0.15±0.00 0.14±0.00 0.14±0.00 0.21±0.00 0.15±0.00 0.22±0.00 0.23±0.01 0.12±0.00 0.15±0.01 Exchange ↓ MSE 0.04±0.00 0.04±0.00 0.04±0.00 0.10±0.00 0.04±0.00 0.08±0.00 0.10±0.01 0.04±0.00 0.04±0.00 ↑ DTTC-I 16.62±0.02 16.78±0.17 17.04±0.02 15.62±0.03 16.62±0.02 16.03±0.03 15.71±0.02 16.33±0.03 17.37±0.04 ↑ DTTC-E 204.90±0.17 208.68±0.67 206.49±0.31 212.13±0.12 204.64±0.10 184.25±1.58 199.23±1.38 209.12±0.33 216.03±3.11 ↓ MAE 0.26±0.00 0.19±"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 51363,
+        "numeric_results": true,
+        "excerpt": "2±0.24 78.58±0.06 ↑ DTTC-I 16.61±0.02 16.79±0.17 17.03±0.01 15.29±0.06 16.79±0.08 16.25±0.17 15.67±0.04 16.31±0.05 17.30±0.04 Exchange ↑ DTTC-E 200.45±0.04 201.30±1.08 200.57±0.13 211.37±0.61 201.84±0.39 196.16±2.10 194.49±0.85 199.65±0.26 213.94±2.18 ↑ DTTC-I 26.79±0.01 26.83±0.02 26.83±0.00 24.43±0.05 26.84±0.00 26.75±0.11 26.25±0.29 26.53±0.01 26.93±0.04 Weather ↑ DTTC-E 29.04±0.03 29.25±0.05 28.91±0.01 30.16±0.05 29.00±0.01 29.30±0.18 29.23±0.18 29.18±0.01 30.99±0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 68410,
+        "numeric_results": true,
+        "excerpt": "1.0 Exchange quence and aligns more closely with the semantics of future 0.8 0.8 0.8 0.8 text, leading to more accurate and reasonable forecasts. 0.6 0.6"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 70454,
+        "numeric_results": true,
+        "excerpt": "Dataset Synth ETTm1 Traffic Exchange Weather Exchange (right) datasets. DTTC-I 84.57% 55.06% 91.90% 84.60% 79.96%"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 70471,
+        "numeric_results": true,
+        "excerpt": "Dataset Synth ETTm1 Traffic Exchange Weather Exchange (right) datasets. DTTC-I 84.57% 55.06% 91.90% 84.60% 79.96%"
+      }
+    ]
+  },
+  {
+    "id": "icml-2026-JabkBcaoa9",
+    "title": "Dynamic TMoE: A Drift-Aware Dynamic Mixture of Experts Framework for Non-Stationary Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2026,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-JabkBcaoa9.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 34909,
+        "numeric_results": true,
+        "excerpt": "0.293 0.271 0.311 0.240 0.272 0.249 0.277 0.258 0.281 0.259 0.287 0.267 0.317 0.309 0.360 Exchange 0.351 0.397 0.395 0.414 0.408 0.432 0.407 0.418 0.374 0.411 0.353 0.400 0.385 0.411 0.416 0.443 0.337 0.402 0.519 0.500 ETTh1 0.429 0.430 0.448 0.443 0.432 0.433 0.432 0.438 0.447 0.440 0.439 0.429 0.451 0.441 0.458 0.450 0.459 0.452 0.440 0.460"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 54109,
+        "numeric_results": true,
+        "excerpt": "ECL 24.01 3.2829 388.79 898.38 2.7727 7052.74 0.22 0.6436 686.49 4.83 2.9624 3039.94 Exchange 13.81 0.8655 74.65 12.23 0.3646 108.25 0.22 2.2163 27.81 27.89 0.8535 1434.66 ILI 115.40 5.1590 466.24 1.01 2.7145 16.80 0.01 13.5581 11.24 1.28 3.5924 1398.28 Traffic 128.69 8.6058 1218.54 2360.83 4.6406 18547.39 0.22 1.0597 1901.79 9.04"
+      }
+    ]
+  },
+  {
+    "id": "icml-2026-XAyI76nJRt",
+    "title": "Beyond Extrapolation: Knowledge Utilization Paradigm with Bidirectional Inspiration for Time Series Forecasting",
+    "venue": "ICML",
+    "year": 2026,
+    "local_path": "checks/finance_expansion/review_pdfs/ICML/2026/icml-2026-XAyI76nJRt.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 42102,
+        "numeric_results": true,
+        "excerpt": "ILI 2.347 1.089 2.336 1.086 2.292 1.069 1.580 0.852 1.520 0.825 1.496 0.807 2.438 0.955 2.328 0.984 2.114 0.900 1.383 0.718 1.366 0.713 1.365 0.712 Exchange 0.369 0.418 0.362 0.416 0.313 0.390 0.394 0.426 0.390 0.418 0.371 0.410 0.415 0.440 0.399 0.434 0.383 0.427 0.364 0.403 0.363 0.403 0.358 0.402 making its effect more sensitive to the backbone–horizon Table 2. Performance comparison of retrieval-based continuation construction and PBCC on the ETT datasets with a DL"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 44188,
+        "numeric_results": true,
+        "excerpt": "ETTm2 0.283 0.345 0.281 0.345 0.284 0.346 style auxiliary signals, especially on challenging datasets such as ETTh2 and Exchange. TimesNet shows substantial improvements on complex and unstable datasets such as ILI, suggesting that the structural constraints introduced by KUP- complex. In contrast, retrieval-based construction benefits BI can effectively mitigate long-horizon uncertainty and er- from real continuations observed in the training data, which ror accumulation. In comparison, PatchTST and xPatch"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 50463,
+        "numeric_results": true,
+        "excerpt": "and alignment, leading to more consistent and robust im- Exchange 0.363 0.403 0.367 0.405 provements. Parameter-level ablations Specifically, we consider three Component-level ablations Specifically, we consider four ablation variants at the parameter level. w/o α removes the structural variants. Concatenation removes gated fusion r"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 53977,
+        "numeric_results": true,
+        "excerpt": "ILI 1.366 0.713 1.929 0.887 1.382 0.716 1.389 0.719 spectively. Full results are listed in Appendix F.4. Exchange 0.363 0.403 0.376 0.415 0.363 0.403 0.366 0.404 xPatch Model KUP-BI Concatenation Random Retrieval DC Target As shown in Table 5, removing or weakening these design Metric MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE ETTh1 0.431 0.438 0.411 0.433 0.443 0.440 0.462 0.452 0.466 0.462"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 55046,
+        "numeric_results": true,
+        "excerpt": "across datasets. ILI 1.366 0.713 1.713 0.827 1.378 0.715 1.393 0.720 1.382 0.718 For example, the MSE on ETTh1 increases from 0.431 to Exchange 0.363 0.403 0.376 0.407 0.366 0.404 0.368 0.405 0.355 0.398 0.457, ETTm1 from 0.352 to 0.412, and ILI sharply from 1.366 to 1.929. This indicates that α provides an important As shown in Table 4, KUP-BI generally outperforms the res"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 57024,
+        "numeric_results": true,
+        "excerpt": "asets, such as ETTh2 from 0.340 to relevant candidates. Third, the Target variant is competitive 0.341, ILI from 1.366 to 1.389, and Exchange from 0.363 in several settings and even outperforms KUP-BI on Ex- to 0.366, while remaining neutral on others. This suggests 7 KUP-BI that aggregating multiple candidates reduces the risk of re- and its amplitude and rhythm of periodic fluctuations"
+      },
+      {
+        "match": "Exchange Rate",
+        "offset": 39840,
+        "numeric_results": false,
+        "excerpt": "erate joint optimization can further the ETT family (ETTh1, ETTh2, ETTm1, ETTm2) (Zhou unlock the full performance potential. The plugin-only set- et al., 2021), ILI1 , and Exchange Rate (Lai et al., 2018). ting yields moderate average gains. This may be because Detailed dataset statistics and preprocessing procedures are the auxiliary signal is injected into the feature processing 1 pipeline rather than used as a simple post-hoc correction, https://gis.cdc.gov/grasp/fluview/flupor"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2021-J4gRj6d5Qm",
+    "title": "Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2021,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-J4gRj6d5Qm.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 36216,
+        "numeric_results": true,
+        "excerpt": "9 2.568 1.238 3.105 1.348 720 0.422 0.419 3.379 1.388 3.048 1.328 2.631 1.242 3.171 1.368 2.720 1.287 3.135 1.354 Exchange Electricity 96 0.201 0.317 0.274 0.368 0.258 0.357 0.312 0.402 0.680 0.645 0.375 0.437 0.985 0.813 192 0.222 0.334 0.296 0.386 0.266 0.368 0.348 0.433 0.725 0.676 0.442 0.473 0.996 0.821 336 0.231 0.338 0.300 0.394 0.280 0.380 0.350 0.433 0.828 0.727 0.439 0.473 1.000 0.824 720"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 42330,
+        "numeric_results": true,
+        "excerpt": "332 0.468 0.534 0.593 0.366 0.487 96 0.241 0.387 0.156 0.299 0.591 0.615 0.279 0.441 1.327 0.944 0.417 0.515 0.828 0.762 0.112 0.245 Exchange 192 0.273 0.403 0.669 0.665 1.183 0.912 1.950 1.048 1.258 0.924 0.813 0.735 0.909 0.974 0.304 0.404 336 0.508 0.539 0.611 0.605 1.367 0.984 2.438 1.262 2.179 1.296 1.331 0.962 1.304 0.988 0.736 0.598 720 0.991 0.768 1.111 0.860 1.872 1.072 2.010 1.247 1.280 0.953 1.894 1.181 3.238 1.566 1.871 0.935 4.1 Main Results To compare performances under differen"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 43412,
+        "numeric_results": true,
+        "excerpt": "to previous state-of-the-art results, Autoformer gives 74% (1.334→0.339) MSE reduction in ETT, 18% (0.280→0.231) in Electricity, 61% (1.357→0.509) in Exchange, 15% (0.733→0.622) in Traffic and 21% (0.455→0.359) in Weather. For the input- 36-predict-60 setting of ILI, Autoformer makes 43% (4.882→2.770) MSE reduction. Overall, Autoformer yields a 38% averaged MSE reduction among above settings. Note that Autoformer still provides remarkable improvements in the Exchange dataset that is without obvious periodicity. See supplementary materials for detailed showcases. Besides,"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 44533,
+        "numeric_results": true,
+        "excerpt": "icular, for the input-96-predict-336 setting, our model achieves 14% (0.180→0.145) MSE reduction on the ETT dataset with obvious periodicity. For the Exchange dataset without obvious periodicity, Autoformer surpasses other baselines by 17% (0.611→0.508) and shows greater long-term forecasting capacity. Also, we find that ARIMA [1] performs best in the input-96-predict-96 setting of the Exchange dataset but fails in the long-term setting. This situation of ARIMA can be benefited from its inherent capacity for non-stationary economic data but is limited by the intricate tem"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 44772,
+        "numeric_results": true,
+        "excerpt": "(0.611→0.508) and shows greater long-term forecasting capacity. Also, we find that ARIMA [1] performs best in the input-96-predict-96 setting of the Exchange dataset but fails in the long-term setting. This situation of ARIMA can be benefited from its inherent capacity for non-stationary economic data but is limited by the intricate temporal patterns of real-world series. 4.2 Ablation studies Table 3: Ablation of decomposition in multivariate ETT with MSE metric. Ours adopts our progres- sive architecture into other models. Sep employs two models to forecast p"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2021-VD3TMzyxKK",
+    "title": "Probabilistic Forecasting: A Level-Set Approach",
+    "venue": "NeurIPS",
+    "year": 2021,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-VD3TMzyxKK.pdf",
+    "evidence": [
+      {
+        "match": "m4_daily",
+        "offset": 37148,
+        "numeric_results": true,
+        "excerpt": "NN-QR electricity [13] 0.0499 0.1478 0.0785 0.0592 0.0601 parts [34] 0.9709 0.7584 0.9617 0.9877 0.7566 m4_daily [24] 0.0148 0.0281 0.0188 0.0239 0.0154 traffic [13] 0.1212 0.1062 0.1289 0.0913 0.1134 wiki10k 0.2926 0.2534 0.3069 0.2421 0.2482 dcrideshare [8] 0.3381 0.3171 0.3929 0.2837 0.2820 Table 3: Mean Weighted Quantile Lo"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2021-bYi_2708mKK",
+    "title": "Retiring Adult: New Datasets for Fair Machine Learning",
+    "venue": "NeurIPS",
+    "year": 2021,
+    "local_path": "pdfs/NeurIPS/2021/neurips-2021-bYi_2708mKK__Retiring_Adult_New_Datasets_for_Fair_Machine_Learning.pdf",
+    "evidence": [
+      {
+        "match": "German credit",
+        "offset": 9839,
+        "numeric_results": false,
+        "excerpt": "[12] from 2009. The availability of sensitive attributes contributed to the choice of the dataset for the purposes of this work. An earlier paper in this context by Pedreschi et al. [29] used the UCI German credit dataset, which is smaller and ended up being less widely used in the community. Another highly cited paper on algorithmic fairness that popularized UCI Adult is the work of Zemel et al. [34] on learning fair representations (LFR). Published in 2013, the work introduced the idea of changing the data representation to achieve a particular fairness criterion, in this case, demographic parity, while representing the ori"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2021-d3k38LTDCyO",
+    "title": "Well-tuned Simple Nets Excel on Tabular Datasets",
+    "venue": "NeurIPS",
+    "year": 2021,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2021/neurips-2021-d3k38LTDCyO.pdf",
+    "evidence": [
+      {
+        "match": "credit-g",
+        "offset": 29555,
+        "numeric_results": true,
+        "excerpt": "37.991 38.704 48.779 46.850 43.562 N/A 48.934 61.461 mfeat. 2000 / 217 97.750 98.000 98.000 97.500 97.250 97.250 98.000 98.000 credit-g 1000 / 21 69.405 68.095 68.929 71.191 61.190 73.095 69.643 74.643 vehicle 846 / 19 83.766 82.603 74.973 80.165 79.654 75.541 83.793 82.576 kc1 2109 / 22 70.274 72.980 66.846 63.353 52.517 55.803 67.270 74.381 adult 48842 / 15 76.893 78.520 79.824 79.830 77"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2022-65022",
+    "title": "Multivariate Time-Series Forecasting with Temporal Polynomial Graph Neural Networks",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-65022.pdf",
+    "evidence": [
+      {
+        "match": "Exchange-Rate",
+        "offset": 23743,
+        "numeric_results": true,
+        "excerpt": "rformance on both short-term and long-term predictions. Dataset Solar-Energy Traffi Electricity Exchange-Rate Horizon Horizon Horizon Horizon Methods Metric 3 6 12 24 3 6 12 24 3 6 12 24 3 6 12 24 VARMLP RSE 0.1922 0.2679 0.4244 0.6841 0.5582 0.6579 0.6023 0.6146"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 23743,
+        "numeric_results": true,
+        "excerpt": "ions. Dataset Solar-Energy Traffi Electricity Exchange-Rate Horizon Horizon Horizon Horizon Methods Metric 3 6 12 24 3 6 12 24 3 6 12 24 3 6 12 24 VARMLP RSE 0.1922 0.2679 0.4244 0.6841 0.5582 0.6579 0.6023 0.61"
+      },
+      {
+        "match": "exchange-rate",
+        "offset": 30098,
+        "numeric_results": true,
+        "excerpt": "R by 2.21% on average over the four horizons of the Traffic. Moreover, we lower the RSE by 15.82% on average over the four horizons of Electricity. Our method fails to achieve SOTA performance on the exchange-rate data. We think the main reason is the small sample size, which causes difficulties in capturing the dynamic variable dependence. The second row of Table 2 concludes the results of the multi-step forecasting task, which demonstrates that TPGNN achieves SOTA performance on the two datasets with prior structure. On the PEMS-BAY, TPGNN lowers the MAPE by 5.47% on average over the three horizons. Besides, The RMSE is red"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2022-AyajSjTAzmg",
+    "title": "SCINet: Time Series Modeling and Forecasting with Sample Convolution and Interaction",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-AyajSjTAzmg.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 29080,
+        "numeric_results": true,
+        "excerpt": "0.9787 0.0400 0.9458 0.1392 0.9473 0.0689 0.9759 0.0217 0.9693 0.0202 0.9712 0.0226 0.9735 0.0174 0.979 1.72% Exchange 6 0.0240 0.9704 0.0481 0.9197 0.1548 0.9207 0.0806 0.9671 0.0263 0.9633 0.0257 0.9628 0.0280 0.9658 0.0241 0.9709 0.41% Rate 12 0.0331 0.9553 0.0638 0.9054 0.1793 0.8817 0.0893 0.9476 0.0393 0.9531 0.0352 0.9501 0.0356 0.9511 0.0341 0.9564 2.93% 24 0.0436 0.9396 0.0651 0.8952 0.1998 0.7715 0.1"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 31538,
+        "numeric_results": true,
+        "excerpt": "0.061 0.188 0.197 0.323 1.748 1.105 0.847 0.752 0.559 0.587 0.968 0.812 1.065 0.829 68.98% Exchange 192 0.106 0.244 0.300 0.369 1.874 1.151 1.204 0.895 1.168 0.835 1.040 0.851 1.188 0.906 64.70% Rate 336 0.181 0.323 0.509 0.524 1.943 1.172 1.672 1.036 1.423 0.949 1.659 1.081 1.357 0.976 64.36% 720 0.525 0.571 1.447 0.941 2.085 1.206"
+      },
+      {
+        "match": "Exchange-Rate",
+        "offset": 22879,
+        "numeric_results": false,
+        "excerpt": "own in the Appendix. 4.1 Datasets We conduct experiments on 11 popular time series datasets: (1) Electricity Transformer Tempera- ture [42] (ETTh) (2) Traffic (3) Solar-Energy (4) Electricity (5) Exchange-Rate (6) PeMS (PEMS03, PEMS04, PEMS07 and PEMS08). A brief description of these datasets is listed in Table 1. All the experiments on these datasets in this section are conducted under multi-variate TSF setting. To make a fair comparison, we follow existing experimental settings, and use the same evaluation metrics as the original publications [17, 26, 40, 19] in each dataset."
+      },
+      {
+        "match": "Exchange-Rate",
+        "offset": 25073,
+        "numeric_results": false,
+        "excerpt": "l time series forecasting. Short-term Time Series Forecasting: we evaluate the performance of the SCINet in short-term TSF tasks with other baseline methods on Traffic, Solar-Energy, Electricity and Exchange-Rate datasets. The experimental setting is the same as [19], which uses the input length of 168 to forecast different future horizons{3, 6, 12, 24}. As can be seen in Table 2, the proposed SCINet outperforms existing RNN/TCN-based (LSTNet [19], TPA-LSTM [34], TCN [4], TCN† ) and Transformer-based [38, 42, 37] TSF solutions in most cases, especially for the Solar-Energy and Exchange-Rate datasets. Note that, TCN† denotes"
+      },
+      {
+        "match": "Exchange Rate",
+        "offset": 30015,
+        "numeric_results": false,
+        "excerpt": "† denotes the variant with normal convolutions. Long-term Time Series Forecasting: many real-world applications also require to predict long-term events. Therefore, we conduct the experiments on Exchange Rate, Electricity ,Traffic and ETT datasets to evaluate the performance of SCINet on long-term TSF tasks. In this experiment, we only compare SCINet with Transformer-based methods [38, 18, 21, 42, 37, 25], since they are more popular in recent long-term TSF research. As can be seen from Table 3, the SCINet achieves state-of-the-art performances in most benchmarks and prediction length settings. Overall, SCINet yields 39."
+      }
+    ]
+  },
+  {
+    "id": "neurips-2022-C9yUwd72yy",
+    "title": "Learning Latent Seasonal-Trend Representations for Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-C9yUwd72yy.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 308952,
+        "numeric_results": true,
+        "excerpt": "0.033 0.122 0.033 0.127 0.108 0.252 0.105 0.236 0.064 0.178 0.060 0.178 0.611 0.626 2.483 1.327 Exchange 48 0.056 0.162 0.058 0.165 0.200 0.341 0.162 0.270 0.133 0.262 0.091 0.222 0.680 0.644 2.328 1.256 168 0.190 0.320 0.198 0.327 0.412 0.492 0.397 0.480 0.334 0.432 0.405 0.473 1.097 0.825 2.372 1.279 336 0.430 0.482 0.512 0.523 1.339 0.901 1.008 0.8"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2022-ucNDIDRNjjv",
+    "title": "Non-stationary Transformers: Exploring the Stationarity in Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-ucNDIDRNjjv.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 135004,
+        "numeric_results": true,
+        "excerpt": "tatistic indicates more stationary dataset. Dataset Variable Number Sampling Frequency Total Observations ADF Test Statistic Exchange 8 1 Day 7,588 -1.889 ILI 7 1 Week 966 -5.406 ETTm2 7 15 Minutes 69,680 -6.225 Electricity 321 1 Hour 26,304 -8.483 Traffic 862 1 Hou"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 137582,
+        "numeric_results": true,
+        "excerpt": "impressively on datasets characterized by high non-stationarity: under the prediction length of 336, we achieve 17% MSE reduction (0.509 → 0.421) on Exchange and 25% (2.669 → 2.010) on ILI compared to previous state-of-the-art results, which indicates that the potential of deep model is still constrained on non-stationary data. We also list the univariate results of two typical datasets with different stationarity in Table 3. Non-stationary Transformer still realizes remarkable forecasting performance. Table 2: Forecasting results comparison under different prediction l"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 138362,
+        "numeric_results": true,
+        "excerpt": "toformer [35] Pyraformer [21] Informer [37] LogTrans [20] Reformer [17] LSTNet [18] Metric MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE Exchange 96 0.111 0.237 0.197 0.323 0.852 0.780 0.847 0.752 0.968 0.812 1.065 0.829 1.551 1.058 192 0.219 0.335 0.300 0.369 0.993 0.858 1.204 0.895 1.040 0.851 1.188 0.906 1.477 1.028 336 0.421 0.476 0.509 0.524 1.240 0.958 1.672 1.036 1.659 1.081 1.357 0.976 1.507 1.031 720 1.092 0.769 1.447 0.941 1.711 1.093 2.478"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 142702,
+        "numeric_results": true,
+        "excerpt": "0.104 0.235 0.114 0.248 0.156 0.299 0.241 0.387 0.290 0.439 0.591 0.615 1.327 0.944 0.112 0.245 Exchange 192 0.230 0.375 0.250 0.387 0.669 0.665 0.273 0.403 0.594 0.644 1.183 0.912 1.258 0.924 0.304 0.404 336 0.432 0.509 0.434 0.516 0.611 0.605 0.508 0.539 0.962 0.824 1.367 0.984 2.179 1.296 0.736 0.598 720 0.782 0.682 1.061 0.773 1.111 0.860 0.991 0."
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 144272,
+        "numeric_results": true,
+        "excerpt": "k. Full results (under all prediction lengths and promotion on ETSformer [34], FEDformer [38]) can be found in Appendix. Dataset Exchange ILI ETTm2 Electricity Traffic Weather Model MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE Transformer 1.425 0.915 4.864 1.460 1.501 0.869 0.277 0.372 0.665 0.363 0.657 0.573 + Ours 0.457 0.449 2.077 0.914 0.3"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 149549,
+        "numeric_results": true,
+        "excerpt": "Stationarization Metric MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE Exchange 0.567 0.487 0.569 0.488 0.461 0.454 0.469 0.472 0.470 0.473 0.462 0.468 ILI 2.205 0.934 2.206 0.934 2.077 0.914 3.024 1.096 3.023 1.096 2.865 1.065 ETTm2 0.460 0.416 0.461 0.416 0.306 0.347 0.542 0.459 0.537 0.459 0.493 0.441 Electricity 0.197 0.298 0.197 0.298 0.193 0.296 0.208 0.309 0.207 0.309 0.206 0.308 Traffic 0.643 0.352 0.641 0.352 0.628 0.345 0.687 0.378 0.691 0.380 0."
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 150834,
+        "numeric_results": true,
+        "excerpt": "n all six benchmarks. The MSE reduction brought by De-stationary Attention becomes significant, especially when the dataset is highly non-stationary (Exchange: 0.569 → 0.461, ETTm2: 0.461 → 0.306). The comparison reveals that simply stationarizing time series still limits the predictive capability of Transformers, and the complementary mechanisms in Non-stationary Transformers can properly release the models’ potential for non-stationary series forecasting. 4.3 Model Analysis Over-stationarization problem To verify the over-stationarization problem from a statistica"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 154259,
+        "numeric_results": true,
+        "excerpt": "Stat + DeFF Stat + DeAttn Metric MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE Exchange 96 0.567 0.591 0.136 0.258 0.784 0.696 0.611 0.613 0.116 0.243 0.111 0.237 192 1.150 0.825 0.239 0.348 1.162 0.866 1.202 0.840 0.280 0.383 0.219 0.335 336 1.792 1.084 0.425 0.479 1.346 0.963 1.516 0.981 0.371 0.452 0.421 0.476 720 2.191 1.159 1.475 0.865 2.042"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2022-vsNQkquutZk",
+    "title": "WaveBound: Dynamic Error Bounds for Stable Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-vsNQkquutZk.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 23221,
+        "numeric_results": true,
+        "excerpt": "96 0.153 0.285 0.146 0.274 0.604 0.624 0.615 0.627 0.979 0.791 0.878 0.765 0.483 0.518 0.357 0.432 Exchange 192 0.297 0.397 0.262 0.373 0.982 0.806 0.953 0.797 1.147 0.854 1.136 0.859 0.706 0.646 0.621 0.593 336 0.438 0.490 0.425 0.483 1.264 0.934 1.263 0.944 1.592 1.014 1.461 0.992 1.055 0.800 0.837 0.691 720 1.207 0.860 1.088 0.810 1.663 1.051 1.562 1.016 2.540 1.306 2.496 1.294 2"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2022-zTQdHSQUQWc",
+    "title": "FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2022,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2022/neurips-2022-zTQdHSQUQWc.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 34537,
+        "numeric_results": true,
+        "excerpt": "96 0.086 0.204 0.086 0.208 0.087 0.210 Exchange 192 0.188 0.292 0.187 0.318 0.207 0.340 336 0.356 0.433 0.358 0.437 0.353 0.461 720 0.727 0.669 0.788 0.680 0.748 0.674"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 42887,
+        "numeric_results": true,
+        "excerpt": "T as input sequence length. T is the predicted sequence length Dataset ETTm2 Electricity Exchange Traffic Weather Illness Metric MSE Relative MSE Relative MSE Relative MSE Relative MSE Relative MSE Relative Original 0.301 +16% 0.195 +4.8% 0.534 + 60% 0.528 +19% 0.264 +4.9% 3.55 + 80% Method"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2023-70010",
+    "title": "CrossGNN: Confronting Noisy Multivariate Time Series Via Cross Interaction Refinement",
+    "venue": "NeurIPS",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70010.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 34442,
+        "numeric_results": true,
+        "excerpt": "0.362 0.365 0.359 0.368 0.378 0.365 0.367 0.352 0.288 0.345 0.381 0.403 0.428 0.419 0.428 1.420 0.934 0.409 0.371 Exchange 96 0.084 0.203 0.107 0.234 0.097 0.214 0.108 0.223 0.085 0.204 0.088 0.218 0.148 0.278 0.197 0.323 1.748 1.105 0.102 0.228 192 0.171 0.294 0.226 0.344 0.190 0.310 0.197 0.316 0.182 0.303 0.176 0.315 0.271 0.380 0.300 0.369 1.874 1.151 0.267 0.335 336 0.319 0.407 0.367 0.448 0.36"
+      },
+      {
+        "match": "Exchange Rate",
+        "offset": 35363,
+        "numeric_results": true,
+        "excerpt": "0.811 4 Experiment 4.1 Datasets And Experiment Setup Datasets We conduct extensive experiments on 8 real-world datasets following [27], including Weather, Traffic, Exchange Rate, Electricty and 4 ETT datasets(ETTh1, ETTh2, ETTm1 and ETTm2). We follow the standard protocol in [27] and split datasets into training, validation and test set by the ratio of 6:2:2 for the last 4 ETT datasets, and 7:1:2 for the other datasets. Baselines and Setup We compare our method with 9 state-of-the-art methods, including Times- Net [26]; 6 Transformer-based methods: PatchTST [12], Crossformer [34], ETSforme"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2023-70200",
+    "title": "ForecastPFN: Synthetically-Trained Zero-Shot Forecasting",
+    "venue": "NeurIPS",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70200.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 32408,
+        "numeric_results": true,
+        "excerpt": "for these series, only the length 36 input. ECL ETTh1 ETTh2 Exchange Illness Traffic Weather Arima 1.840 0.341 1.610 1.175 5.045 2.738 0.042 Autoformer 1.289 0.570 1.107 0.331 1.353 2.119 0.520 Data Budget = 50 FEDformer"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2023-70377",
+    "title": "Predict, Refine, Synthesize: Self-Guiding Diffusion Models for Probabilistic Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70377.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 28214,
+        "numeric_results": true,
+        "excerpt": "The best and second best models have been shown as bold and underlined, respectively. Method Solar Electricity Traffic Exchange M4-Hourly UberTLC-Hourly KDDCup Wikipedia Seasonal Naive 0.512±0.000 0.069±0.000 0.221±0.000 0.011±0.000 0.048±0.000 0.299±0.000 0.561±0.000 0.410±0.000 ARIMA 0.545±0.006 - - 0.008±0.000 0.044±0.001 0.284±0.001 0.547±0.003 - ETS 0.611±0.040 0.072±0.004 0.433±0.050 0.008±0.000 0.042±0.00"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 35580,
+        "numeric_results": true,
+        "excerpt": "ng values results on six benchmark datasets. Method Solar Electricity Traffic Exchange UberTLC-Hourly KDDCup TSDiff-Cond 0.357±0.023 0.052±0.001 0.097±0.003 0.012±0.004 0.180±0.015 0.757±0.024 BM-E BM-B RM TSDiff-Q 0.387±0.015 0.052±0.001 0.110±0.004 0.013±0.000 0.183±0.002 0.397±0.042 TSDiff-Co"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 38486,
+        "numeric_results": true,
+        "excerpt": "ettings have been shown as bold and underlined, respectively. Setting Solar Electricity Traffic Exchange M4-Hourly UberTLC-Hourly KDDCup Wikipedia Seasonal Naive Base 0.512±0.000 0.069±0.000 0.221±0.000 0.011±0.000 0.048±0.000 0.299±0.000 0.561±0.000 0.410±0.000 LMC-MS 0.480±0.009 0.059±0.004 0.126±0.001 0.013±0.001 0.040±0.002 0.186±0.005 0.505±0.027 0.339±0.001"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 42105,
+        "numeric_results": true,
+        "excerpt": "generative models on eight benchmark datasets. Best scores are shown in bold. Generator Solar Electricity Traffic Exchange M4-Hourly UberTLC-Hourly KDDCup Wikipedia Real 0.569±0.021 0.088±0.008 0.179±0.003 0.011±0.001 0.039±0.001 0.360±0.023 0.513±0.011 1.624±1.114 Linear (LPS) TimeVAE 0.933±0.147 0.128±0.005 0.236±0.010 0.024±0.004 0.074±0.003 0.354±0.020 1.020±0.179 0.643±0.068 TimeGAN 1.140±0.583 0.234±0.064 0.398"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 53390,
+        "numeric_results": true,
+        "excerpt": "• Traffic [29, 11] is a dataset of the hourly occupancy rates on the San Francisco Bay area freeways from 2015 to 2016.7 • Exchange [29] consists of daily exchange rates of eight countries including Australia, British, Canada, Switzerland, China, Japan, New Zealand, and Singapore from 1990 to 2016.8 • M4-Hourly [37] is the hourly subset from the M4 competition.9 • KDDCup [16] is a dataset of the air quality indices (AQIs) of Beijing and London used in the KDD Cup 2018.10 • U"
+      },
+      {
+        "match": "exchange rates",
+        "offset": 53422,
+        "numeric_results": true,
+        "excerpt": "stomers.6 • Traffic [29, 11] is a dataset of the hourly occupancy rates on the San Francisco Bay area freeways from 2015 to 2016.7 • Exchange [29] consists of daily exchange rates of eight countries including Australia, British, Canada, Switzerland, China, Japan, New Zealand, and Singapore from 1990 to 2016.8 • M4-Hourly [37] is the hourly subset from the M4 competition.9 • KDDCup [16] is a dataset of the air quality indices (AQIs) of Beijing and London used in the KDD Cup 2018.10 • UberTLC-Hourly [13] is a dataset of Ube"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 65934,
+        "numeric_results": true,
+        "excerpt": "on of the gradient of a neural network (see the Eq. 10). Table 8: Comparison of inference times of TSDiff-Cond and observation self-guidance on the Exchange dataset. Model Inference Time (seconds) TSDiff-Cond 162.97 TSDiff-MS 201.08 TSDiff-Q 201.67 Refinement Representative Step. As discussed in Sec. 3.2, we use a representative diffu"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2023-70726",
+    "title": "Frequency-domain MLPs are More Effective Learners in Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-70726.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 37558,
+        "numeric_results": true,
+        "excerpt": "0.203 720 0.055 0.099 0.056 0.102 0.065 0.106 0.064 0.109 0.065 0.110 0.132 0.175 0.173 0.228 Exchange 96 0.037 0.051 0.039 0.052 0.038 0.052 0.050 0.067 0.050 0.066 0.066 0.084 0.126 0.146 192 0.050 0.067 0.055 0.074 0.053 0.069 0.064 0.082 0.063 0.083 0.068 0.088 0.147 0.169 336 0.062 0.082 0.071 0.093 0.064 0.085 0.080 0.105 0.075 0.101 0.093 0.127 0.157"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 43024,
+        "numeric_results": true,
+        "excerpt": "rt-term Long-term and long-term experimental settings. Dataset Electricity METR-LA Exchange Weather We consider two variants: FreCL: I/O 12/12 12/12 96/336 96/336 we remove the frequency temporal Metrics MAE RMSE MAE RMSE MAE RMSE MAE RMSE learner from FreTS, and FreTL: we FreCL 0.054 0.080 0.086 0.168 0.067 0.086 0.051 0.094 remove the frequency channel learner FreTL 0.058 0.086 0.085 0.167 0.065 0.085 0.047 0.091 from FreTS. From"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 44780,
+        "numeric_results": true,
+        "excerpt": "nt with our FreMLP. Quantitatively, incorporating FreMLP into the DLinear model brings an average improvement of 6.4% in MAE and 11.4% in RMSE on the Exchange dataset, and 4.9% in MAE and 3.5% in RMSE on the Weather dataset. A similar improvement has also been achieved on the two datasets with regard to NLinear, according to Table 4. These results confirm the effectiveness of FreMLP compared to MLP again and we include more implementation details and analysis in Appendix B.5. Table 4: Ablation study on the Exchange and Weather datasets with a lookback window size of 96 a"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 66136,
+        "numeric_results": true,
+        "excerpt": "or the model performances. Table 7: Investigation the impacts of real/imaginary parts Dataset Exchange ETTh1 I/O 96/96 96/192 96/96 96/192 Metrics MAE RMSE MAE RMSE MAE RMSE MAE RMSE Inputreal 0.048 0.062 0.058 0.074 0.080 0.111 0.083 0.113 Inputimag 0.143 0.185 0.143 0.184 0.130 0.156 0.130 0.156 W(Wr )"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2023-72562",
+    "title": "Koopa: Learning Non-stationary Time Series Dynamics with Koopman Predictors",
+    "venue": "NeurIPS",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-72562.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 866430,
+        "numeric_results": true,
+        "excerpt": "1 0.441 0.456 0.352 0.397 0.457 0.461 192 0.356 0.393 0.383 0.406 0.394 0.434 0.385 0.418 0.455 0.464 0.528 0.503 0.361 0.410 0.503 0.491 Exchange 48 0.042 0.143 0.044 0.144 0.059 0.172 0.043 0.145 0.117 0.248 0.128 0.271 0.071 0.192 0.125 0.252 96 0.083 0.207 0.085 0.204 0.120 0.255 0.084 0.220 0.108 0.251 0.294 0.394 0.112 0.245 0.280 0.386 144 0.130 0.261 0.132 0.260 0.206 0.334 0.132 0.253 0.152 0.301 0.597 0.578 0.174 0.306 0.520 0.523 192 0.184 0.309 0.174 0.300 0.377 0.463 0.178 0.299 0.187 0.331 0.6"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 971550,
+        "numeric_results": true,
+        "excerpt": "tch changes the order of KPs on disentangled components. The averaged results are listed here. Dataset ECL ETTh2 Exchange ILI Traffic Weather Metric MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE Only Kinv 0.148 0.250 0.312 0.358 0.120 0.241 2.146 0.963 0.740 0.446 0.170 0.213 Only Kvar 1.547 0.782 0.371 0.405 0.205 0.316 2.370 1.006 0.947 0.544 0.180 0.232 Truncated Filter 0.155 0.255 0.311 0.362 0."
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 973276,
+        "numeric_results": true,
+        "excerpt": "arning blocks implemented by our proposed Koopman Predictor (Koopa) and the canonical Koopman Autoencoder [29](KAE). Dataset ETTh2 Exchange ECL Traffic Weather ILI Model MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE MSE MAE Koopa 0.303 0.356 0.110 0.230 0.143 0.243 0.404 0.277 0.161 0.210 1.734 0.862 KAE 0.312 0.361 0.129 0.248 0.169 0.269 0.463 0.329 0.170 0.217 2.189 0.974 Promotion 2.88% 14.73%"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 1006399,
+        "numeric_results": true,
+        "excerpt": "6, 48, 60} for ILI and {48, 96, 144, 192} for others. Dataset ECL ETTh2 Exchange Horizon MSE MAE MSE MAE MSE MAE H1 0.130±0.003 0.234±0.003 0.226±0.003 0.300±0.003 0.042±0.002 0.143±0.003 H2 0.136±0.004 0.236±0.005 0.297±0.004 0.349±0.004 0.083±0.004 0.207±0.004 H3 0.149±0.003 0.247±0.003 0.333±0.004 0.381±0.003"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 1017279,
+        "numeric_results": true,
+        "excerpt": "% training time and 3.6% memory footprint respectively in ECL, 37.8% training time and 26.8% memory in ETTh2, 23.5% training time and 37.3% memory in Exchange, 50.9% training time and 47.8% memory in ILI, 3.5% training time and 2.9% memory in Traffic, and 5.4% training time and 25.4% memory in Weather, leading to the averaged 77.3% and 76.0% saving of training time and memory footprint in all six datasets. The remarkable efficiency can be attributed to Koopa with MLPs as the building blocks, and we find the budget saving becoming more significant on datasets with more ser"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 1020692,
+        "numeric_results": true,
+        "excerpt": "0.393 0.363 0.397 0.402 0.437 0.363 0.400 0.384 0.420 Exchange 48 0.042 0.143 0.046 0.150 0.065 0.184 0.048 0.150 0.055 0.165 96 0.083 0.207 0.083 0.210 0.147 0.274 0.087 0.210 0.151 0.277 144 0.130"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2023-72816",
+    "title": "Adaptive Normalization for Non-stationary Time Series Forecasting: A Temporal Slice Perspective",
+    "venue": "NeurIPS",
+    "year": 2023,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2023/neurips-2023-72816.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 28221,
+        "numeric_results": true,
+        "excerpt": "Length Slicing Length ADF∗ Electricity 321 1 Hour 26,304 24 -8.44 Exchange 8 1 Day 7,588 6 -1.90 Traffic 862 1 Hour 17,544 24 -15.02 Weather 21 10 Minutes 52,696 12 -26.68 ILI 7 1 Week 966 6 -5.33 ETTh1&ETTh2"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 32669,
+        "numeric_results": true,
+        "excerpt": "96 0.086 0.213 0.085 0.214 0.152 0.281 0.079 0.205 0.152 0.283 0.082 0.208 0.126 0.269 0.082 0.200 Exchange 192 0.161 0.297 0.177 0.317 0.273 0.380 0.156 0.295 0.369 0.437 0.157 0.296 0.266 0.392 0.169 0.293 336 0.338 0.437 0.294 0.407 0.452 0.498 0.260 0.384 0.534 0.544 0.262 0.385 0.574 0.541 0.320 0.409 720 0.999 0.755 0.726 0.649 1.151 0.830 0.697 0.633 1.222 0.848 0.689 0.629 1.1"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 35974,
+        "numeric_results": true,
+        "excerpt": "Electricity 0.191 0.200 0.198 0.203 3.54 0.204 0.219 0.213 0.231 4.23 Exchange 0.298 0.474 0.480 0.704 37.13 0.297 0.495 0.494 1.008 39.88 Traffic 0.572 0.647 0.649 0.652 11.59 0.594 0.666 0.664 0.677 10.54 Weather 0.279 0.268 0.267 0.398 -4.49 0.305 0.290 0.290 0.433 -5.17 IL"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 37983,
+        "numeric_results": true,
+        "excerpt": "wo aspects. Firstly, SAN mitigates the impact of non-stationary factors, as demonstrated by the performance on three typical non-stationary datasets (Exchange, ILI and ETTh2, determined by ADF test results). Specifically, under all experimental forecasting lengths with DLinear, SAN achieves an average MSE reduction of 7.67% in the Exchange dataset, 11.13% in the ILI dataset and 21.29% in the ETTh2 dataset. This conclusion applies to other backbone models as well and the enhancement is even more pronounced. Secondly, even in long-term forecasting scenarios where the diffic"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 38166,
+        "numeric_results": true,
+        "excerpt": "ed by ADF test results). Specifically, under all experimental forecasting lengths with DLinear, SAN achieves an average MSE reduction of 7.67% in the Exchange dataset, 11.13% in the ILI dataset and 21.29% in the ETTh2 dataset. This conclusion applies to other backbone models as well and the enhancement is even more pronounced. Secondly, even in long-term forecasting scenarios where the difficulty of forecasting increases significantly with the length of the forecast, SAN imposes constraints on"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-93257",
+    "title": "FilterNet: Harnessing Frequency Filters for Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93257.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 34979,
+        "numeric_results": true,
+        "excerpt": "720 0.210 0.309 0.242 0.319 0.225 0.317 0.246 0.324 0.246 0.355 0.220 0.320 0.242 0.329 0.257 0.331 0.255 0.327 Exchange 96 0.091 0.211 0.083 0.202 0.086 0.206 0.088 0.205 0.148 0.278 0.107 0.234 0.085 0.210 0.093 0.217 0.084 0.203 192 0.186 0.305 0.174 0.296 0.177 0.299 0.176 0.299 0.271 0.315 0.226 0.344 0.178 0.299 0.184 0.307 0.177 0.298 336 0.380 0.449 0.326 0.413 0.331 0.417 0.301 0.397 0.460 0.427"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 59269,
+        "numeric_results": true,
+        "excerpt": "0.8GB, 21.0s 0.8GB, 37.8s 0.5GB, 1.5s 0.7GB, 3.8s Figure 6: Model effectiveness and efficiency comparison on the Exchange and Electricity datasets. 6 Conclusion Remarks In this paper, we explore an interesting direction from a signal processing perspective and make a new attempt to apply frequency filters directly for time series forecasting. We propose a simple yet effective architecture, FilterNet, built upon our proposed two kinds of frequency filters to accomplish the forecasting. Our comprehensive empirical experiment"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 64500,
+        "numeric_results": true,
+        "excerpt": "0.278 720 0.210 0.309 0.242 0.319 0.254 0.361 0.373 0.439 0.376 0.445 0.212 0.321 0.220 0.315 Exchange 96 0.091 0.211 0.083 0.202 0.197 0.323 0.847 0.752 0.376 1.105 0.102 0.235 0.091 0.217 192 0.186 0.305 0.174 0.296 0.300 0.369 1.204 0.895 1.748 1.151 0.172 0.316 0.175 0.310 336 0.380 0.449 0.326 0.413 0.509 0.524 1.672 1.036 1.874 1.172 0.272 0.407"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 67813,
+        "numeric_results": true,
+        "excerpt": "18 720 0.425 0.423 0.427 0.423 0.443 0.439 0.421 0.419 0.449 0.443 Exchange 96 0.087 0.216 0.085 0.209 0.099 0.226 0.093 0.213 0.117 0.253 192 0.163 0.301 0.162 0.296 0.216 0.337 0.194 0.315 0.298 0.410 336 0.287 0.399 0.350 0.445 0.395 0.466 0.354 0.435 0.456 0.513"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-93264",
+    "title": "ElasTST: Towards Robust Varied-Horizon Forecasting with Elastic Time-Series Transformer",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93264.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 33647,
+        "numeric_results": true,
+        "excerpt": ".001 0.434.010 96 0.026.000 0.039.000 0.025.000 0.039.000 0.023.000 0.036.000 0.024.000 0.037.000 0.032.000 0.049.000 Exchange 192 0.033.000 0.050.000 0.036.000 0.056.000 0.034.000 0.054.000 0.035.000 0.055.000 0.041.000 0.065.000 336 0.041.000 0.062.000 0.048.000 0.072.000 0.048.000 0.076.000 0.048.001 0.072.001 0.056.000 0.091.000 720 0.059.000 0.089.000 0.076.000 0.114.000 0.072.000 0.106.001 0.075.002 0.118.004 0.112.002 0.164.004 Comparing"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 65626,
+        "numeric_results": true,
+        "excerpt": "434 0.113 0.324 96 0.026 0.039 0.025 0.039 0.023 0.036 0.024 0.037 0.040 0.055 0.032 0.049 0.030 0.045 Exchange 192 0.033 0.050 0.036 0.056 0.034 0.054 0.035 0.055 0.052 0.072 0.041 0.065 0.037 0.055 336 0.041 0.062 0.048 0.072 0.048 0.076 0.048 0.072 0.067 0.092 0.056 0.091 0.049 0.074 720 0.059 0.089 0.076 0.114 0.072 0.106 0.075 0.118 0.091 0.128 0.112 0.164 0.085 0.120 D.2 Performance Gains"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 82934,
+        "numeric_results": true,
+        "excerpt": "Weather 0.075 2.145 23.560 3.366 2.240 Exchange 0.075 0.135 23.286 3.366 2.240 ETTm1 0.002 0.009 0.227 0.026 0.024 Electricity 0.060 0.068 0.246 0.037 0.112 Max GPU Mem."
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 83684,
+        "numeric_results": true,
+        "excerpt": "Weather 0.004 0.012 0.228 0.027 0.028 Exchange 0.002 0.002 0.227 0.026 0.024 In Table 6, we compare the memory usage of ElasTST with other baseline models. The comparison reveals that ElasTST does not require more computational resources than other Transformer-based models. F.2 Memory Usage Introduced by TRoPE In Table 7, we compare the memory usage of ElasTST with different position en"
+      },
+      {
+        "match": "exchange rates",
+        "offset": 53847,
+        "numeric_results": false,
+        "excerpt": "26,304 Electricity consumption (Kwh) Trafﬁc 862 (0,1) H 17,544 Road occupancy rates Exchange 8 R+ Busi. Day 7,588 Daily exchange rates of 8 countries Weather 21 R+ 10min 52,696 Local climatological data C.2 Implementation Details ElasTST is implemented using PyTorch Lightning [12]. Training consists of 100 batches per epoch, capped at 20 epochs, with the NMAE metric used for model checkpointing. We use the Adam optimizer with a learning rate of 0.001, and experiments are conducted on NVIDIA Tesla V100 GPUs w"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-93316",
+    "title": "From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93316.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 42848,
+        "numeric_results": true,
+        "excerpt": "rent prompt designs. Red font indicates the best. Electricity Exchange RMSE MSE×10−3 MAE MAPE RMSE×103 MSE×105 MAE×103 MAPE Only Numeric Prompt 337.10 113.64 204.89 5.27% 7.80 6.10 5.74 0.77% Textual Prompt without News 336.41 113.17 206.08 5.29% 7.41 5.49 5.44 0.73% Textual Prompt with Non-Filtered"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 46893,
+        "numeric_results": true,
+        "excerpt": "ormance degradation. Electricity Exchange RMSE MSE×10−3 MAE MAPE RMSE×103 MSE×105 MAE×103 MAPE 1. Initial selection 313.89 98.53 190.79 5.36% 6.61 4.37 4.83 0.65% 2. The second selection 287.35 82.57 180.49"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 49909,
+        "numeric_results": true,
+        "excerpt": "0.42 1.36 4.76 0.91 0.45 0.77 0.45 3.55 0.77 1.28 4.01 Exchange RMSE×102 0.65 1.17 2.18 9.52 0.671 0.875 0.673 1.88 0.875 1.13 2.00 MAPE 0.65% 1.23% 2.32% 0.92% 0.68% 0.85% 0.70% 1.94% 0.90% 1.21% 1.34% MAE×102 1.43 2.49 4.44 1.70"
+      },
+      {
+        "match": "exchange rate",
+        "offset": 11332,
+        "numeric_results": false,
+        "excerpt": "ion in time series research. • Our experiment results demonstrate the effective integration of news data, achieving superior prediction accuracy across diverse domains such as energy, exchange rate, traffic, and bitcoin domains. Our findings demonstrate that incorporating news is highly adept at navigating com- plexities, especially in energy demand patterns. 2 Related Work Time series forecasting. The traditional method of time series forecasting relies on analyzing historical data and utilizing statistical models to predict future trends, with an assumption that past patterns will persist in"
+      },
+      {
+        "match": "exchange rate",
+        "offset": 39299,
+        "numeric_results": false,
+        "excerpt": "d by human activities and social events to test our method’s ability to capture complex human-driven dynamics during forecast- ing. These domains include Traffic [39] (traffic volume), Exchange [29] (exchange rate), Bitcoin [15] (Bitcoin price), and Electricity[15] (Australian electricity demand). To avoid bias from pre-trained language models, we updated the Exchange and Electricity datasets up to 2022. We use half-hourly electricity demand data from the Australian Energy Market Operator (AEMO) (aemo.com.au) and daily exchange rate data from the Exchange Rates API (exchangeratesapi.io). These datasets vary in frequency, incl"
+      },
+      {
+        "match": "exchange rate",
+        "offset": 39624,
+        "numeric_results": false,
+        "excerpt": "ined language models, we updated the Exchange and Electricity datasets up to 2022. We use half-hourly electricity demand data from the Australian Energy Market Operator (AEMO) (aemo.com.au) and daily exchange rate data from the Exchange Rates API (exchangeratesapi.io). These datasets vary in frequency, including daily, hourly, and half-hourly updates, allowing us to evaluate the algorithms’ effectiveness across different temporal resolutions. More details are in Appendix A.1. News collection. Since there are no public datasets that pair time series data with news events, we have collect news specifically for the above time se"
+      },
+      {
+        "match": "Exchange Rates",
+        "offset": 39652,
+        "numeric_results": false,
+        "excerpt": "ated the Exchange and Electricity datasets up to 2022. We use half-hourly electricity demand data from the Australian Energy Market Operator (AEMO) (aemo.com.au) and daily exchange rate data from the Exchange Rates API (exchangeratesapi.io). These datasets vary in frequency, including daily, hourly, and half-hourly updates, allowing us to evaluate the algorithms’ effectiveness across different temporal resolutions. More details are in Appendix A.1. News collection. Since there are no public datasets that pair time series data with news events, we have collect news specifically for the above time series to facilitate our resear"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-93680",
+    "title": "Chimera: Effectively Modeling Multivariate Time Series with 2-Dimensional State Space Models",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-93680.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 35191,
+        "numeric_results": true,
+        "excerpt": "59 0.515 ECL 0.154 0.249 0.169 - 0.185 0.274 0.156 0.253 0.178 0.270 0.219 0.298 0.205 0.290 0.244 0.334 0.251 0.344 0.192 0.295 0.212 0.300 Exchange 0.311 0.358 0.443 - - - 0.302 0.366 0.360 0.403 0.378 0.417 0.367 0.404 0.940 0.707 0.370 0.413 0.416 0.443 0.354 0.414 Traffic 0.403 0.286 0.420 - 0.493 0.291 0.398 0.270 0.428 0.282 0.626 0.378 0.481 0.304 0.550 0.304 0.760 0.473 0.620 0.336 0.625 0.383 Weather 0.219 0.258 0.239 - 0.255 0.280 0.224 0.264 0.258 0.278 0.272 0.291 0.259 0.281 0.259 0.315 0.271 0.320 0.259 0.287 0.265 0.317 1st Co"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 79435,
+        "numeric_results": true,
+        "excerpt": "- 0.080 0.196 0.086 0.206 0.093 0.217 0.088 0.205 0.256 0.367 0.094 0.218 0.107 0.234 0.088 0.218 0.267 0.396 0.148 0.278 0.111 0.237 0.197 0.323 Exchange 192 0.159 0.270 0.229 - - - 0.166 0.288 0.177 0.299 0.184 0.307 0.176 0.299 0.470 0.509 0.184 0.307 0.226 0.344 0.176 0.315 0.351 0.459 0.271 0.315 0.219 0.335 0.300 0.369 336 0.311 0.344 0.383 - - - 0.307 0.398 0.331 0.417 0.351 0.432 0.301 0.397 1.268 0.883 0.349 0.431 0.367 0.448 0.313 0.427 1.324 0.853 0.460 0.427 0.421 0.476 0.509 0.524 720 0.697 0."
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 101189,
+        "numeric_results": true,
+        "excerpt": ".156. Similarly, in ETTh2, Chimera achieves 0.262, 0.309, 0.320 for (h = 96, 144, 192), while Koopa achieves 0.297, 0.333, 0.356. Similarly, in Exchange, Chimera achieves 0.077, 0.126, 0.159 for (h = 96, 144, 192), while Koopa achieves 0.083, 0.130, 0.184. Since Liu et al. [84] has focused on these datasets and values for the horizon, we use the same setting for Chimera. The results for Koopa are from its original paper. 26 Table 12: Ablation Stu"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 101703,
+        "numeric_results": true,
+        "excerpt": "26 Table 12: Ablation Study on additional datasets. BVFC Exchange Traffic Method Acc. % MSE MAE MSE MAE Chimera 58.99 0.077 0.198 0.366 0.248 Uni.-directional 57.29 0.091 0.203 0.369 0.255 w/o Gating 56.18 0.094 0.210 0.373 0.259 Input"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-94220",
+    "title": "Attractor Memory for Long-Term Time Series Forecasting: A Chaos Perspective",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-94220.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 30555,
+        "numeric_results": true,
+        "excerpt": "0.398 0.403 0.406 ETTm2 0.280 0.324 0.299 0.343 0.289 0.333 0.285 0.330 0.294 0.339 0.281 0.326 0.291 0.335 0.283 0.329 0.345 0.396 Exchange 0.349 0.395 0.364 0.405 0.364 0.407 0.406 0.439 0.371 0.409 0.390 0.424 0.366 0.416 0.383 0.416 0.346 0.416 Crypto 0.187 0.157 0.193 0.162 0.198 0.163 0.190 0.159 0.196 0.164 0.199 0.165 0.196 0.164 0.192 0.161 0.201 0.176 Weather 0.246 0.271 0.258 0.280 0.252 0.277 0.256 0.280 0.279 0.279 0.247 0.273 0.260 0.280 0.258 0.280 0.267 0.319 Table 2: Prediction results on the artificial (Lo"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 72183,
+        "numeric_results": true,
+        "excerpt": "6: Maximal Lyapunov Exponents for Various Datasets in Multivariate Long-Term Forecasting Dataset ETTh1 ETTh2 ETTm1 ETTm2 Exchange Weather Electricity Traffic MLE 0.064437 0.059833 0.071673 0.082791 0.039670 0.242649 0.014613 0.189311 23 E.3 Simulation for Lorenz96 (Case Study) Lorenz63 System The Lorenz63 system, introduced by Edward Lorenz in 1963, is a simplified mathematical model for atmospheric convection. The model is a system of th"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 82449,
+        "numeric_results": true,
+        "excerpt": "00 0.086 0.205 0.087 0.209 0.129 0.256 0.091 0.212 0.093 0.215 0.097 0.222 0.093 0.212 0.094 0.227 Exchange 192 0.171 0.294 0.173 0.297 0.180 0.303 0.231 0.346 0.183 0.304 0.189 0.313 0.184 0.309 0.201 0.319 0.185 0.325 336 0.331 0.415 0.340 0.423 0.330 0.417 0.380 0.448 0.328 0.417 0.371 0.443 0.327 0.416 0.338 0.422 0.330 0.437 720 0.810 0.669"
+      },
+      {
+        "match": "exchange rates",
+        "offset": 63970,
+        "numeric_results": false,
+        "excerpt": "d every 15 minutes, yielding 69,680 time steps. ETTh1 and ETTh2 represent the hourly equivalents of ETTm1 and ETTm2, each containing 17,420 time steps. • Exchange3 dataset details the daily foreign exchange rates of eight countries, including Australia, British, Canada, Switzerland, China, Japan, New Zealand, and Singapore from 1990 to 2016. • Weather4 dataset is a meteorological collection featuring 21 variates, gathered in the United States over a four-year span. • Lorenz96 dataset is an artificial dataset. We simulate the data of 30,000 time steps with an initial dimension of 40d according to the Lorenz96 equation a"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-94305",
+    "title": "Introducing Spectral Attention for Long-Range Dependency in Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-94305.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 36751,
+        "numeric_results": true,
+        "excerpt": "icates p-value < 0.05 in paired t-test. Abbreviations are as follows, We.; Weather, Tr.: Traffic, Eh1: ETTh1, Eh2: ETTh2, Em1: ETTm1, Em2: ETTm2, Ex.:Exchange, PE.: PEMS03, En.: EnergyData, Il.: Illness. Full results are provided in Appendix B.1. Model Metric We. Tr. ECL Eh1 Eh2 Em1 Em2 Ex. PE. En. Il. Avg. MSE 0.244 0.737 0.227 0.529 0.349 0.462 0.248 0.088 0.436 0.874 2.849 0.640 base MAE 0.308 0.451 0.3"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 41302,
+        "numeric_results": true,
+        "excerpt": "96, 192, 336, and 720. Train, validation, and test split ratio are 0.6, 0.2, 0.2 for the ETT dataset and 0.7, 0.1, 0.2 for the Weather, Traffic, ECL, Exchange, PEMS03, EnergyData, and Illness datasets. The Weather, Traffic, and ECL datasets settings follow the TimesNet paper [48]. Details on datasets are provided in Appendix A.1. Baseline models. As a benchmark, we apply BSA to 7 recent or well-known forecasting models. (1) Linear based models: DLinear [53], RLinear [28], FreTS [52] (2) Convolution based methods: TimesNet [48] (3) Transformer based methods: iTransformer ["
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-94440",
+    "title": "Multivariate Probabilistic Time Series Forecasting with Correlated Errors",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-94440.pdf",
+    "evidence": [
+      {
+        "match": "exchange_rate",
+        "offset": 37576,
+        "numeric_results": true,
+        "excerpt": "AR GARCH GPVar Transformer w/o w/ w/o w/ exchange_rate 0.0033±0.0000 0.0435±0.0001 0.0068±0.0004 0.0117±0.0004 0.0055±0.0002 0.0042±0.0002 solar 0.7663±0.0050 0.8752±0.0015 0.7103±0.0065 0.6929±0.0039 0.4960±0.0034 0.4132±0.0027 electricity 0.1264±0.0006 0.2847±0.0015 0.0430±0.0005 0.0403±0.0004 0.0494±0.0004 0.0638±0.0003 traffic 3.5241±0.0084 0.4459±0.0005 0.1095±0.0002 0.0649±0.0002"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-95063",
+    "title": "Frequency Adaptive Normalization For Non-stationary Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95063.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 25785,
+        "numeric_results": true,
+        "excerpt": "204 96 0.164 0.052 0.167 0.053 0.260 0.112 0.186 0.062 0.532 0.412 0.189 0.066 0.218 0.085 0.169 0.055 Exchange 168 0.219 0.090 0.217 0.088 0.312 0.163 0.222 0.090 0.582 0.491 0.257 0.128 0.266 0.126 0.221 0.093 336 0.288 0.155 0.297 0.162 0.456 0.338 0.336 0.198 0.721 0.847 0.333 0.191 0.337 0.203 0.303 0.167 720 0.453 0.352 0.406 0.292 0.669 0.661 0.436 0.329 0.889 1.210 0.513 0.474 0.502"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 29161,
+        "numeric_results": true,
+        "excerpt": "nce of all four backbone models, by a large margin, achieving state-of-the-art performance on five datasets. Specifically, on the ETTm2, Electricity, Exchange, Traffic, and Weather datasets, the average MSE performance improvements are rather significant: 10.81%, 21.49%, 51.27%, 21.97%, and 21.55% respectively. It clearly shows that frequency residual learning of FAN effectively mitigates the impacts of evolving seasonal and trend patterns and enhances the stationarity that simplifies the prediction for backbones. FAN demonstrates increasing performance improvements as th"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 32311,
+        "numeric_results": true,
+        "excerpt": "0.122 0.112 Electricity 0.193 0.200 0.201 0.207 0.164 0.169 0.181 0.180 0.167 0.191 0.219 0.190 0.177 0.175 0.207 0.164 Exchange 0.149 0.172 0.265 0.190 0.170 0.192 0.333 0.267 0.168 0.265 0.472 0.238 0.162 0.174 0.281 0.183 Traffic 0.432 0.514 0.591 0.652 0.408 0.395 0.433 0.424 0.400 0.515 0.446 0.894 0.419 0.431 0.489 0.442 Weather 0.249 0.250 0.269 0.272 0.295 0.272 0.562 0.280 0.254 0.256 0.322 0.275 0.242 0.242 0.250 0.251 Show Cases. Fig. 3 illustra"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 35907,
+        "numeric_results": true,
+        "excerpt": "-8.92 ETTm1 -11.78 0 -11.07 -8.49 Exchange ETTm2 -7.40 Electricity (a) Stationarity Analysis (b) Model Efficiency (c) Various Input length Figure 4: Comparison with other normalization methods. (a) ADF test after normalization, the smaller the value, the higher the stationarity. (b) Model efficiency compariso"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 62529,
+        "numeric_results": true,
+        "excerpt": "0.268 0.140 4.18% 11.46% 96 0.359 0.256 0.248 0.154 31.05% 39.90% 0.278 0.181 0.264 0.179 5.08% 1.30% Exchange Electricity 168 0.370 0.264 0.253 0.157 31.67% 40.60% 0.283 0.189 0.272 0.181 3.80% 4.15% 336 0.382 0.272 0.268 0.165 29.85% 39.31% 0.304 0.209 0.294 0.196 3.28% 6.30% 720 0.400 0.292 0.288 0.180 27.79% 38.53% 0.341 0.251 0.331 0.230 2.93% 8.57% 96 0.507 0.380 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 72626,
+        "numeric_results": true,
+        "excerpt": "7 MAE 0.217 0.213 0.277 0.216 0.222 0.216 0.366 0.267 0.239 0.238 0.364 0.295 0.220 0.213 0.303 0.218 Exchange 168 MSE 0.088 0.087 0.127 0.088 0.090 0.089 0.221 0.130 0.105 0.110 0.279 0.157 0.092 0.087 0.186 0.089 MAE 0.297 0.304 0.332 0.312 0.336 0.301 0.415 0.364 0.329 0.406 0.566 0.375 0.303 0.305 0.439 0.314 336 MSE 0.162 0.171 0.190 0.178 0.198 0.166 0.274 0.231"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-95288",
+    "title": "Interpretable Mesomorphic Networks for Tabular Data",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95288.pdf",
+    "evidence": [
+      {
+        "match": "Credit-g",
+        "offset": 37372,
+        "numeric_results": true,
+        "excerpt": "he time is additionally train a local explainer around that reported in seconds. point by predicting with the black-box model multiple times. In stark contrast, our method Method Name Credit-g Adult Christine combines prediction models and explainers as IMN 0.01 0.02 0.02 an all-in-one neural network. To generate an ex- TabNet 0.11 1.30 0.43 SHAP (TabResNet) 17.69 565.11 228.31 plainable model for a data point xn , IMN does SHAP (CatBoost) 4.55 66.89 4317.61 not need to t"
+      },
+      {
+        "match": "Credit-g",
+        "offset": 38137,
+        "numeric_results": false,
+        "excerpt": "quantify the difference in runtime between our method and other interpretable methods we compare the runtimes on a few datasets from the benchmark with a varying number of instances/features such as Credit-g (1000/21), Adult (48842/15), and Christine (5418/1637). Table 4 presents the results, where, as observed IMN has the fastest infer- ence times, being 11-65x faster compared to TabNet which employs attention, 1710-11400x faster compared to SHAP that uses the same (TabResNet) backbone, and 455-215850x faster compared to SHAP that uses CatBoost as a backbone."
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-95835",
+    "title": "Time-FFM: Towards LM-Empowered Federated Foundation Model for Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95835.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 30770,
+        "numeric_results": true,
+        "excerpt": "ther 0.270 0.288 0.282 0.310 0.282 0.308 0.287 0.309 0.253 0.276 0.293 0.309 0.304 0.323 0.259 0.287 0.265 0.317 0.309 0.360 0.338 0.382 0.634 0.548 Exchange 0.338 0.391 0.389 0.423 0.382 0.419 0.380 0.417 0.364 0.404 0.421 0.446 0.411 0.444 0.416 0.443 0.354 0.414 0.519 0.500 0.613 0.539 1.550 0.998 ILI 2.107 0.924 4.423 1.448 5.247 1.621 5.251 1.600 2.137 0.929 3.678 1.372 4.210 1.480 2.139 0.931 2.616 1.090 2.847 1.144 3.006 1.161 5.137 1.544 Average 0.555 0.434 0.910 0.547 1.015 0.569 1.009 0.561 0.559 0.437 0.800 0.521 0.916 0.553 0.569 0.445 0.652 0.487"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 33212,
+        "numeric_results": true,
+        "excerpt": "314 0.296 0.320 0.284 0.311 0.287 0.315 0.272 0.299 0.300 0.322 0.297 0.316 Exchange 0.230 0.336 0.238 0.339 0.227 0.334 0.230 0.335 0.220 0.331 0.242 0.344 0.220 0.330 Average 0.334 0.366 0.349 0.374 0.380 0.403 0.384 0.404 0.327 0.361 0.345 0.367 0.459 0.423 1st Count 2 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 35285,
+        "numeric_results": true,
+        "excerpt": "0.303 0.325 0.292 0.317 0.300 0.322 0.288 0.313 0.288 0.314 0.301 0.324 Exchange 0.167 0.289 0.171 0.291 0.166 0.288 0.166 0.287 0.442 0.493 0.168 0.290 0.171 0.293 Average 0.329 0.367 0.344 0.374 0.348 0.376 0.346 0.375 0.411 0.420 0.332 0.364 0.334 0.369 1st Count 5 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 52648,
+        "numeric_results": true,
+        "excerpt": "0.270 0.288 0.288 0.317 0.339 0.402 Exchange 0.338 0.391 0.404 0.440 0.830 0.723 Average 0.333 0.364 0.450 0.446 0.701 0.602 We further compare the forecasting performance with three baselines, i.e., iTransformer [52], N- BEATS [53],"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 54188,
+        "numeric_results": true,
+        "excerpt": "0.288 0.258 0.278 0.263 0.282 0.259 0.315 Exchange 0.338 0.391 0.360 0.403 0.481 0.455 0.940 0.707 Average 0.298 0.337 0.302 0.338 0.346 0.361 0.652 0.544"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 63695,
+        "numeric_results": true,
+        "excerpt": "1 0.201 0.102 0.225 0.100 0.221 0.098 0.218 0.086 0.209 0.142 0.261 0.137 0.260 0.107 0.234 0.088 0.218 0.148 0.278 0.197 0.323 0.847 0.752 Exchange 192 0.168 0.293 0.198 0.317 0.193 0.312 0.196 0.314 0.174 0.299 0.224 0.339 0.222 0.341 0.226 0.344 0.176 0.315 0.271 0.380 0.300 0.369 1.204 0.895 336 0.299 0.396 0.350 0.430 0.345 0.426 0.345 0.425 0.319 0.408 0.377 0.448 0.372 0.447 0.367 0.448 0.313 0.427 0.460 0.500 0.509 0.524 1.672 1.036 720 0.805 0.674 0.905 0.721 0.889 0.715"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 70220,
+        "numeric_results": true,
+        "excerpt": "0.212 0.331 0.218 0.333 0.209 0.329 0.211 0.329 0.208 0.328 0.221 0.337 0.197 0.321 Exchange 336 0.362 0.438 0.378 0.447 0.358 0.435 0.364 0.439 0.335 0.424 0.384 0.451 0.347 0.428 720 - - - - - - - - - - - - - - AVG 0.230 0.336 0.238 0.339 0.227 0.334 0."
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 77023,
+        "numeric_results": true,
+        "excerpt": "0.215 0.334 0.221 0.337 0.215 0.333 0.215 0.333 0.498 0.528 0.216 0.334 0.220 0.337 Exchange 336 - - - - - - - - - - - - - - 720 - - - - - - - - - - - - - - AVG 0.167 0.289 0.171 0.291 0.166 0.288"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 82549,
+        "numeric_results": true,
+        "excerpt": "8±0.030 0.457±0.032 Weather 0.274±0.005 0.291±0.004 0.284±0.002 0.310±0.001 0.283±0.002 0.310±0.003 0.285±0.002 0.311±0.002 Exchange 0.349±0.017 0.396±0.008 0.389±0.002 0.423±0.001 0.384±0.002 0.421±0.002 0.380±0.001 0.418±0.001 ILI 2.250±0.146 0.969±0.048 4.712±0.250 1.510±0.054 4.557±0.621 1.516±0.093 4.658±0.518 1.517±0.072 21 NeurIPS Paper Checklist 1. Claims Question: Do the main claims made in the abstract and intro"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-95975",
+    "title": "AutoTimes: Autoregressive Time Series Forecasters via Large Language Models",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-95975.pdf",
+    "evidence": [
+      {
+        "match": "M4 Monthly",
+        "offset": 286065,
+        "numeric_results": false,
+        "excerpt": "t datasets. We train a model on the source dataset and apply the model on the target dataset for predictions directly. Notably, the zero-shot scenarios are conducted respectively on the subsets (e.g. M4 Monthly → M3 Monthly) and the subsets are divided by the sampling frequency but follow different distributions [25]. For M4 → M3, which means training on M4 and testing on M3, we directly utilize the same model in the short-term forecasting experiments reported in Table 11. Considering different horizons in subsets, for M3 Yearly, M3 Quarterly, and M3 Monthly, we directly employ models trained on corresponding subsets of M4"
+      },
+      {
+        "match": "M4 Quarterly",
+        "offset": 286562,
+        "numeric_results": false,
+        "excerpt": "nt horizons in subsets, for M3 Yearly, M3 Quarterly, and M3 Monthly, we directly employ models trained on corresponding subsets of M4 for testing. As for M3 Others, we test using the model trained on M4 Quarterly to keep the same horizon. For M3 → M4, similarly, for M4 Yearly, M4 Quarterly, and M4 Monthly, we directly employ models trained on corresponding subsets of M3 for testing. For the remaining subsets, M4 Weekly, M4 Daily, and M4 Hourly, we perform inference using the model trained on M3 Monthly. Table 16 shows the detailed result. Table 16: Results of zero-shot forecasting. We adopt the same protocol as FPT [49]. M4"
+      },
+      {
+        "match": "M4 Yearly",
+        "offset": 286629,
+        "numeric_results": false,
+        "excerpt": ", we directly employ models trained on corresponding subsets of M4 for testing. As for M3 Others, we test using the model trained on M4 Quarterly to keep the same horizon. For M3 → M4, similarly, for M4 Yearly, M4 Quarterly, and M4 Monthly, we directly employ models trained on corresponding subsets of M3 for testing. For the remaining subsets, M4 Weekly, M4 Daily, and M4 Hourly, we perform inference using the model trained on M3 Monthly. Table 16 shows the detailed result. Table 16: Results of zero-shot forecasting. We adopt the same protocol as FPT [49]. M4 → M3 means training forecasters on M4 datasets and evaluating t"
+      },
+      {
+        "match": "M4 Quarterly",
+        "offset": 286640,
+        "numeric_results": false,
+        "excerpt": "ly employ models trained on corresponding subsets of M4 for testing. As for M3 Others, we test using the model trained on M4 Quarterly to keep the same horizon. For M3 → M4, similarly, for M4 Yearly, M4 Quarterly, and M4 Monthly, we directly employ models trained on corresponding subsets of M3 for testing. For the remaining subsets, M4 Weekly, M4 Daily, and M4 Hourly, we perform inference using the model trained on M3 Monthly. Table 16 shows the detailed result. Table 16: Results of zero-shot forecasting. We adopt the same protocol as FPT [49]. M4 → M3 means training forecasters on M4 datasets and evaluating the performance"
+      },
+      {
+        "match": "M4 Monthly",
+        "offset": 286658,
+        "numeric_results": false,
+        "excerpt": "rained on corresponding subsets of M4 for testing. As for M3 Others, we test using the model trained on M4 Quarterly to keep the same horizon. For M3 → M4, similarly, for M4 Yearly, M4 Quarterly, and M4 Monthly, we directly employ models trained on corresponding subsets of M3 for testing. For the remaining subsets, M4 Weekly, M4 Daily, and M4 Hourly, we perform inference using the model trained on M3 Monthly. Table 16 shows the detailed result. Table 16: Results of zero-shot forecasting. We adopt the same protocol as FPT [49]. M4 → M3 means training forecasters on M4 datasets and evaluating the performance on M3, and vice"
+      },
+      {
+        "match": "M4 Monthly",
+        "offset": 303776,
+        "numeric_results": false,
+        "excerpt": "23 AutoTimes Time-LLM FPT PatchTST Figure 11: Visualization of input-36-predict-18 results on the M4 Monthly dataset. Figure 12: Showcases of zero-shot and in-context forecasting. For in-context forecasting, beyond the lookback window, we uniformly adopt the first 2F time points that belong to the same sequence as the prompt and concatenate them as the prediction context, which achieves a more accurate prediction. F Broader Impact F.1 Impact on Real-world Applications This paper copes with general-purpose ti"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-96026",
+    "title": "Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96026.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 32799,
+        "numeric_results": true,
+        "excerpt": "3 720 0.861 0.616 0.719 0.561 0.225 0.340 0.221 0.274 0.242 0.334 0.225 0.309 0.233 0.333 0.232 0.327 Exchange 96 0.735 0.728 0.223 0.391 0.051 0.164 0.046 0.155 0.076 0.198 0.066 0.177 0.058 0.172 0.051 0.158 192 1.016 0.861 0.421 0.547 0.099 0.238 0.093 0.225 0.135 0.272 0.115 0.242 0.113 0.245 0.108 0.231"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 37392,
+        "numeric_results": true,
+        "excerpt": "observations, resulting in performance enhancements of 19.5% and 15.7%, respectively. For the non-stationary datasets [25], such as ETTh2, ETTm2, and Exchange, the Robust Denormalizer effectively alleviates the impact of data drift, thereby augmenting prediction accuracy by 12.1%, 12.1%, and 16.4%, respectively. Regarding common datasets like ETTh1, ETTm1, Weather, and ILI, although the performance of GLAFF may not be as remarkable, it still yields improvements of 8.8%, 8.1%, 9.6%, and 9.6%, respectively. Given the burgeoning interest in leveraging LLMs for time series, w"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 39837,
+        "numeric_results": true,
+        "excerpt": "0.142±0.001 0.257±0.001 0.120±0.001 0.235±0.002 0.142±0.002 0.256±0.002 0.119±0.002 0.233±0.002 Exchange 0.110±0.001 0.238±0.002 0.090±0.002 0.219±0.002 0.106±0.001 0.234±0.001 0.088±0.001 0.216±0.001 ILI 1.585±0.041 0.900±0.019 1.393±0.024 0.782±0.023 1.494±0.012 0.854±0.010 1.396±0.026 0.778±0.018 Traffic 0.370±0.002 0.309±0.002 0.296±0.002 0.256±0.001 0.371"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-96039",
+    "title": "Addressing Spatial-Temporal Heterogeneity: General Mixed Time Series Analysis via Latent Continuity Recovery and Alignment",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96039.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 55245,
+        "numeric_results": true,
+        "excerpt": "ather 0.326 0.268 0.334 0.279 0.328 0.269 0.348 0.296 0.332 0.276 0.338 0.257 0.356 0.278 0.354 0.277 0.346 0.274 0.353 0.291 0.386 0.322 0.357 0.274 Exchange 0.445 0.398 0.452 0.412 0.448 0.403 0.503 0.498 0.453 0.417 0.596 0.632 0.412 0.323 0.459 0.402 0.409 0.318 0.449 0.398 0.564 0.599 0.650 0.679 ILI 0.779 1.482 0.995 2.132 0.922 1.957 0.891 2.015 0.973 2.140 1.140 2.962 1.358 2.360 1.734 5.432 1.340 3.197 1.188 2.702 1.267 3.003 1.096 2.747 Electric. 0.260 0.168 0.293 0.207 0.270 0.174 0.288 0.187 0.295 0.207 0.326 0.237 0.295 0.185 0.339 0.240 0.314 0.220"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 89235,
+        "numeric_results": true,
+        "excerpt": "96 0.221 0.094 0.227 0.098 0.225 0.097 0.266 0.131 0.224 0.095 0.345 0.225 0.236 0.101 0.264 0.120 0.238 0.103 0.251 0.112 0.324 0.187 0.481 0.390 Exchange 192 0.327 0.194 0.335 0.211 0.333 0.205 0.369 0.246 0.341 0.219 0.503 0.443 0.339 0.198 0.384 0.248 0.336 0.198 0.340 0.213 0.430 0.325 0.577 0.528 336 0.445 0.339 0.455 0.366 0.460 0.369 0.501 0.429 0.452 0.360 0.690 0.762 0.432 0.311 0.473 0.370 0.433 0.321 0.447 0.358 0.552 0.519 0.721 0.815 720 0.788 0.963 0.790 0.974 0.774 0.942 0.876 1.186 0.795 0.99"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 96843,
+        "numeric_results": true,
+        "excerpt": "76.27 75.49 96 51.16 48.16 48.21 49.17 49.17 48.62 48.42 48.34 49.91 49.26 46.44 49.92 Exchange 192 52.71 51.21 52.08 49.42 50.82 48.32 48.14 50.06 51.36 49.07 44.38 50.28 336 52.51 49.90 48.59 50.67 50.84 45.24 44.33 51.42 51.26 49.55 42.63 50.53 720 59.49 49.45 58.88 55.37 50.65 41.11 54.49 56.49 51.28 51.87 49.05 57.09 Avg."
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-96119",
+    "title": "Scaling Law for Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96119.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 69480,
+        "numeric_results": true,
+        "excerpt": "features trained on Mixed Dataset. The 2-layer 512-dimension MLP is trained under Channel Independent setting on a mixed dataset of Traffic, Weather, Exchange, ETTh1, ETTh2, ETTm1, ETTm2 and ECL. The mixed feature shows a well-aligned Zip-f law for features of higher rankings. AiC, BiC Traffic Weather ETTh1 ETTh2 f -103.9,-103.4 -87.2,-87.0 -69.5,-69.6 -64.7,-65.3 g1 -95.3,-94.9 -79.1,-79.0 -60.6,-60.7 -45.6,-46.0 g2 -94.6,-63.3 -71.1,-71.0 -"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-96209",
+    "title": "Rethinking Fourier Transform from A Basis Functions Perspective for Long-term Time Series Forecasting",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96209.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 34531,
+        "numeric_results": true,
+        "excerpt": ".226 0.096 0.196 0.098 0.219 0.104 0.227 0.128 0.254 0.119 0.247 0.147 0.274 0.093 0.211 0.109 0.235 0.209 0.350 Exchange 192 0.195 0.309 0.210 0.326 0.196 0.312 0.203 0.316 0.210 0.325 0.241 0.353 0.238 0.354 0.312 0.406 0.188 0.305 0.229 0.350 0.346 0.437 336 0.347 0.421 0.398 0.460 0.353 0.425 0.356 0.426 0.366 0.435 0.393 0.459 0.417 0.472 0.522 0.532 0.363 0.430 0.400 0.463 0.634 0.583 720 0.965 0.732 1."
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-96575",
+    "title": "Peri-midFormer: Periodic Pyramid Transformer for Time Series Analysis",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96575.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 32317,
+        "numeric_results": true,
+        "excerpt": ".217 0.314 0.299 0.391 Traffic 0.392 0.270 0.414 0.294 0.397 0.272 0.388 0.264 0.420 0.287 0.433 0.305 0.392 0.270 0.622 0.332 0.705 0.401 Exchange 0.346 0.393 0.373 0.410 0.365 0.410 0.371 0.409 0.393 0.429 0.495 0.493 0.418 0.433 0.701 0.593 1.157 0.844 Average 0.308 0.337 0.324 0.346 0.320 0.341 0.308 0.334 0.322 0.344 0.361 0.375 0.331 0.350 0.422 0.402 1.147 0.711 Results From Table 1, it is evident that Peri-midFormer performs exceptionally well, even completely outperforms GPT4TS and closely approaching the state-of-the-art method Time-LLM. Whil"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 68166,
+        "numeric_results": true,
+        "excerpt": "0.282 96 0.081 0.197 0.089 0.207 0.082 0.201 0.088 0.208 0.100 0.225 0.110 0.252 0.101 0.224 0.206 0.342 0.654 0.659 0.095 0.221 Exchange 192 0.171 0.292 0.185 0.305 0.171 0.293 0.182 0.303 0.201 0.326 0.238 0.373 0.215 0.335 0.391 0.472 0.741 0.691 0.200 0.323 336 0.311 0.402 0.335 0.421 0.319 0.407 0.334 0.419 0.350 0.437 0.466 0.525 0.296 0.399 0.606 0.595 1.042 0.835 0.369 0.444 720 0.822 0.682 0.884 0.705 0.888 0.739 0.879 0.704 0.920 0.728 1.166 0.821 1.058 0.775 1.601 0.961 2.190 1.189 0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 76987,
+        "numeric_results": true,
+        "excerpt": "0.206 0.087 0.208 0.088 0.218 0.088 0.205 0.107 0.234 1.748 1.105 0.148 0.278 0.197 0.323 0.111 0.237 0.085 0.204 0.116 0.262 0.847 0.752 1.065 0.829 Exchange 192 0.172 0.295 0.177 0.299 0.178 0.302 0.176 0.315 0.175 0.298 0.226 0.344 1.874 1.151 0.271 0.380 0.300 0.369 0.219 0.335 0.182 0.303 0.215 0.359 1.204 0.895 1.188 0.906 336 0.319 0.407 0.331 0.417 0.325 0.413 0.313 0.427 0.302 0.398 0.367 0.448 1.943 1.172 0.460 0.500 0.509 0.524 0.421 0.476 0.348 0.428 0.377 0.466 1.672 1.036 1.357 0.976 720 0.846 0"
+      }
+    ]
+  },
+  {
+    "id": "neurips-2024-96850",
+    "title": "ANT: Adaptive Noise Schedule for Time Series Diffusion Models",
+    "venue": "NeurIPS",
+    "year": 2024,
+    "local_path": "checks/finance_expansion/review_pdfs/NeurIPS/2024/neurips-2024-96850.pdf",
+    "evidence": [
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 26783,
+        "numeric_results": true,
+        "excerpt": "he quality of probabilistic forecasts. We conduct experiments on eight TS datasets from different domains – Solar [17], Electricity [3], Traffic [3], Exchange [17], M4 [23], UberTLC [7], KDDCup [10], and Wikipedia [8]. We present the mean and standard deviations calculated from three independent trials. 5 Method Solar Electricity Traffic Exchange M4 UberTLC KDDCup Wikipedia DeepAR 0.389±0.001 0.054±0.000"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 27082,
+        "numeric_results": true,
+        "excerpt": "ials. 5 Method Solar Electricity Traffic Exchange M4 UberTLC KDDCup Wikipedia DeepAR 0.389±0.001 0.054±0.000 0.099±0.001 0.011±0.003 0.052±0.006 0.161±0.002 0.414±0.027 0.231±0.008 DeepState 0.379±0.002 0.075±0.004 0.146±0.018 0.011±0.001 0.041±0.002 0.288±0.087 - 0.318±0.019 Transformer 0.419±0.0"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 28617,
+        "numeric_results": true,
+        "excerpt": "(a) TS forecasting task: Standard horizon H. TSDiff α Solar Traffic Electricity Exchange M4 UberTLC KDDCup Wikipedia 1/4 - - 0.044±0.000 0.007±0.000 0.033±0.000 0.156±0.003 0.275±0.000 0.182±0.000 1/2 0.184±0.001 0.100±0.000 0.047±0.000 0.012±0.000 0.041±0.000 0.157±0.002 0.452±0.003 0.189±0.000 w/o ANT 2"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 30282,
+        "numeric_results": true,
+        "excerpt": "Table 2: Results of TS forecasting. TSDiff Refinement Solar Electricity Traffic Exchange M4 UberTLC KDDCup LMC-MS 0.494±0.019 0.059±0.004 0.113±0.001 0.013±0.001 0.040±0.002 0.187±0.007 0.458±0.015 LMC-Q 0.516±0.020 0.055±0.003 0.119±0.002 0.009±0.000 0.034±0.001 0.228±0.010 0.346±0.010 w/o ANT ML-MS 0.503±0.016"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 34688,
+        "numeric_results": true,
+        "excerpt": "6 Generator Solar Traffic Exchange M4 UberTLC KDDCup Wikipedia TimeVAE 0.933±0.147 0.236±0.010 0.024±0.004 0.074±0.003 0.354±0.020 1.020±0.179 0.643±0.068 TimeGAN 1.140±0.583 0.398±0.092 0.011±0.000 0.140±0.053 0.665±0.104 0.713±0.009 0.421±0.023 Linear"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 41368,
+        "numeric_results": true,
+        "excerpt": "0.399 while models trained with a non-linear schedule perform Exchange 0.5 50 0.010 0.009 0.012 Cosine better when trained with DE. Based on these findings, Electricity 2.0 75 0.050 0.047 0.049 Wikipedia 2.0 75 0.206 0.206 0.221 we do not use DE when employing a linear schedu"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 42784,
+        "numeric_results": true,
+        "excerpt": "7 ANT components Solar Electricity Traffic Exchange M4 UberTLC KDDCup Wikipedia λlinear λnoise λstep ✓ Lin(75) Cos(10,1.0) Lin(20) Cos(50,0.5) Cos(10,0.5) Lin(20) Lin(50) Cos(75,2.0) ✓ ✓ Lin(75) Cos(10,1.0) Lin(20) Cos(50,0.5) Cos(10,0.5) Lin(20) Lin(50) Cos(75,2.0) ✓"
+      },
+      {
+        "match": "Exchange benchmark (currency series)",
+        "offset": 48971,
+        "numeric_results": true,
+        "excerpt": "ANT vs. Oracle (per T) vs. Base T Solar Electricity Traffic Exchange M4 UberTLC KDDCup Wikipedia TSDiff 0.399 0.049 0.105 0.012 0.036 0.172 0.335 0.221 TSDiff+ANT 0.326 0.047 0.101 0.009 0.026 0.163 0.325 0.206 10 0.371 0.062 0.127 0.011 0.039 0.190 0.387"
+      }
+    ]
+  }
+]

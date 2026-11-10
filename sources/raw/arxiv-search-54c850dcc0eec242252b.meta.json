@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Certifying+Some+Distributional+Robustness+with+Principled+Adversarial+Training%22+OR+ti%3A%22Characterizing+Adversarial+Subspaces+Using+Local+Intrinsic+Dimensionality%22+OR+ti%3A%22Continuous+Adaptation+via+Meta+Learning+in+Nonstationary+and+Competitive+Environments%22+OR+ti%3A%22Emergence+of+Linguistic+Communication+from+Referential+Games+with+Symbolic+and+Pixel+Input%22+OR+ti%3A%22Learning+Deep+Mean+Field+Games+for+Modeling+Large+Population+Behavior%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Certifying+Some+Distributional+Robustness+with+Principled+Adversarial+Training%22+OR+ti%3A%22Characterizing+Adversarial+Subspaces+Using+Local+Intrinsic+Dimensionality%22+OR+ti%3A%22Continuous+Adaptation+via+Meta+Learning+in+Nonstationary+and+Competitive+Environments%22+OR+ti%3A%22Emergence+of+Linguistic+Communication+from+Referential+Games+with+Symbolic+and+Pixel+Input%22+OR+ti%3A%22Learning+Deep+Mean+Field+Games+for+Modeling+Large+Population+Behavior%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:30.543184+00:00",
+  "bytes": 11945,
+  "sha256": "31553fb8c6cc2301033ae3fc3e51a351b0ce3dd4a495a76cdbf0ba82bfb348dc",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-54c850dcc0eec242252b.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://icml.cc/virtual/2024/awards_detail",
+  "final_url": "https://icml.cc/virtual/2024/awards_detail",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:42.713114+00:00",
+  "bytes": 96357,
+  "sha256": "4ae71d11f7680f8441d632b90b2cdfb754ceb01621aee96231cd45813e99b1e4",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/icml-2024-awardorigin-0.gz"
+}

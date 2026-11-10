@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ProtoRes+Proto+Residual+Network+for+Pose+Authoring+via+Learned+Inverse+Kinematics%22+OR+ti%3A%22Provably+Filtering+Exogenous+Distractors+using+Multistep+Inverse+Dynamics%22+OR+ti%3A%22Pyraformer+Low+Complexity+Pyramidal+Attention+for+Long+Range+Time+Series+Modeling+and+Forecasting%22+OR+ti%3A%22RISP+Rendering+Invariant+State+Predictor+with+Differentiable+Simulation+and+Rendering+for+Cross+Domain%22+OR+ti%3A%22Real+Time+Neural+Voice+Camouflage%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ProtoRes+Proto+Residual+Network+for+Pose+Authoring+via+Learned+Inverse+Kinematics%22+OR+ti%3A%22Provably+Filtering+Exogenous+Distractors+using+Multistep+Inverse+Dynamics%22+OR+ti%3A%22Pyraformer+Low+Complexity+Pyramidal+Attention+for+Long+Range+Time+Series+Modeling+and+Forecasting%22+OR+ti%3A%22RISP+Rendering+Invariant+State+Predictor+with+Differentiable+Simulation+and+Rendering+for+Cross+Domain%22+OR+ti%3A%22Real+Time+Neural+Voice+Camouflage%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:05.259907+00:00",
+  "bytes": 8149,
+  "sha256": "2cedefac0c74bac75ca76c984ed004c5a8483ccf0c1ea8097dc05a677ea0a00f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-db4882c4571ce4325acd.gz"
+}

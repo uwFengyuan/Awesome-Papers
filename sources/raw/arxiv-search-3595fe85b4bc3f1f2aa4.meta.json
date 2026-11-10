@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Helix+Evolutionary+Reinforcement+Learning+for+Open+Ended+Scientific+Problem+Solving%22+OR+ti%3A%22InfoMosaic+Bench+Evaluating+Multi+Source+Information+Seeking+in+Tool+Augmented+Agents%22+OR+ti%3A%22Learning+Facts+at+Scale+with+Active+Reading%22+OR+ti%3A%22MCP+Bench+Benchmarking+Tool+Using+LLM+Agents+with+Complex+Real+World+Tasks+via%22+OR+ti%3A%22Self+Jailbreaking+Language+Models+Can+Reason+Themselves+Out+of+Safety+Alignment+After+Benign%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Helix+Evolutionary+Reinforcement+Learning+for+Open+Ended+Scientific+Problem+Solving%22+OR+ti%3A%22InfoMosaic+Bench+Evaluating+Multi+Source+Information+Seeking+in+Tool+Augmented+Agents%22+OR+ti%3A%22Learning+Facts+at+Scale+with+Active+Reading%22+OR+ti%3A%22MCP+Bench+Benchmarking+Tool+Using+LLM+Agents+with+Complex+Real+World+Tasks+via%22+OR+ti%3A%22Self+Jailbreaking+Language+Models+Can+Reason+Themselves+Out+of+Safety+Alignment+After+Benign%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:12.253469+00:00",
+  "bytes": 14195,
+  "sha256": "2f01f54359612967450588332f3b31ef11464b81ce75280d7d46152e29d433df",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3595fe85b4bc3f1f2aa4.gz"
+}

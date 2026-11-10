@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Unprocessing+Seven+Years+of+Algorithmic+Fairness%22+OR+ti%3A%22ValUES+A+Framework+for+Systematic+Validation+of+Uncertainty+Estimation+in+Semantic+Segmentation%22+OR+ti%3A%22W+rstchen+An+Efficient+Architecture+for+Large+Scale+Text+to+Image+Diffusion+Models%22+OR+ti%3A%22Zipformer+A+faster+and+better+encoder+for+automatic+speech+recognition%22+OR+ti%3A%22A+Computational+Framework+for+Modeling+Emergence+of+Color+Vision+in+the+Human+Brain%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Unprocessing+Seven+Years+of+Algorithmic+Fairness%22+OR+ti%3A%22ValUES+A+Framework+for+Systematic+Validation+of+Uncertainty+Estimation+in+Semantic+Segmentation%22+OR+ti%3A%22W+rstchen+An+Efficient+Architecture+for+Large+Scale+Text+to+Image+Diffusion+Models%22+OR+ti%3A%22Zipformer+A+faster+and+better+encoder+for+automatic+speech+recognition%22+OR+ti%3A%22A+Computational+Framework+for+Modeling+Emergence+of+Color+Vision+in+the+Human+Brain%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:18.369071+00:00",
+  "bytes": 11055,
+  "sha256": "398782e6f9d570b3e546a5cf314f63c7cee7604fdfcf7ea10fdb583c816a5264",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f008c5c51570521f7d8a.gz"
+}

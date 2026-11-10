@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Online+Portfolio+Selection+with+ML+Predictions%22+OR+ti%3A%22PANGEA+Projection+Based+Augmentation+with+Non+Relevant+General+Data+for+Enhanced+Domain+Adaptation%22+OR+ti%3A%22PANTHER+Generative+Pretraining+Beyond+Language+for+Sequential+User+Behavior+Modeling%22+OR+ti%3A%22Reinforcement+Learning+with+Imperfect+Transition+Predictions+A+Bellman+Jensen+Approach%22+OR+ti%3A%22Robust+Reinforcement+Learning+in+Finance+Modeling+Market+Impact+with+Elliptic+Uncertainty+Sets%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Online+Portfolio+Selection+with+ML+Predictions%22+OR+ti%3A%22PANGEA+Projection+Based+Augmentation+with+Non+Relevant+General+Data+for+Enhanced+Domain+Adaptation%22+OR+ti%3A%22PANTHER+Generative+Pretraining+Beyond+Language+for+Sequential+User+Behavior+Modeling%22+OR+ti%3A%22Reinforcement+Learning+with+Imperfect+Transition+Predictions+A+Bellman+Jensen+Approach%22+OR+ti%3A%22Robust+Reinforcement+Learning+in+Finance+Modeling+Market+Impact+with+Elliptic+Uncertainty+Sets%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:40.945412+00:00",
+  "bytes": 8982,
+  "sha256": "32b1bacb6e317226cf9959000e3560b1b515bc45c847c6c521e820fd304f64b8",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-05c50263d683a78f3892.gz"
+}

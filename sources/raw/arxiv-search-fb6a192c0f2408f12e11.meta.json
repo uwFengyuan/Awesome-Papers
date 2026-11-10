@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Reformer+The+Efficient+Transformer%22+OR+ti%3A%22Restricting+the+Flow+Information+Bottlenecks+for+Attribution%22+OR+ti%3A%22Rotation+invariant+clustering+of+neuronal+responses+in+primary+visual+cortex%22+OR+ti%3A%22SEED+RL+Scalable+and+Efficient+Deep+RL+with+Accelerated+Central+Inference%22+OR+ti%3A%22Target+Embedding+Autoencoders+for+Supervised+Representation+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Reformer+The+Efficient+Transformer%22+OR+ti%3A%22Restricting+the+Flow+Information+Bottlenecks+for+Attribution%22+OR+ti%3A%22Rotation+invariant+clustering+of+neuronal+responses+in+primary+visual+cortex%22+OR+ti%3A%22SEED+RL+Scalable+and+Efficient+Deep+RL+with+Accelerated+Central+Inference%22+OR+ti%3A%22Target+Embedding+Autoencoders+for+Supervised+Representation+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:35.105460+00:00",
+  "bytes": 9191,
+  "sha256": "e776e226b2d4cd0cc72f196be9fad45924cae8f4a78fb7fe3238bb28bf1bcd17",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-fb6a192c0f2408f12e11.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FlashSketch+Sketch+Kernel+Co+Design+for+Fast+Sparse+Sketching+on+GPUs%22+OR+ti%3A%22FlatLand+Personalized+Graph+Federated+Learning+via+Tailored+Lorentz+Space%22+OR+ti%3A%22Focus+and+Dilution+The+Multi+stage+Learning+Process+of+Attention%22+OR+ti%3A%22Foundations+of+Equivariant+Deep+Learning+Unifying+Graph+and+Sheaf+Neural+Networks%22+OR+ti%3A%22From+Abstraction+to+Instantiation+Learning+Behavioral+Representation+for+Vision+Language+Action+Model%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FlashSketch+Sketch+Kernel+Co+Design+for+Fast+Sparse+Sketching+on+GPUs%22+OR+ti%3A%22FlatLand+Personalized+Graph+Federated+Learning+via+Tailored+Lorentz+Space%22+OR+ti%3A%22Focus+and+Dilution+The+Multi+stage+Learning+Process+of+Attention%22+OR+ti%3A%22Foundations+of+Equivariant+Deep+Learning+Unifying+Graph+and+Sheaf+Neural+Networks%22+OR+ti%3A%22From+Abstraction+to+Instantiation+Learning+Behavioral+Representation+for+Vision+Language+Action+Model%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:48.229849+00:00",
+  "bytes": 12823,
+  "sha256": "fb13cd38ebe9d01506646146236192cdc0b83a6339328fefd47bf7c0b48c69fc",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-31289a77c220615fc448.gz"
+}

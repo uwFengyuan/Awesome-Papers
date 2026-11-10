@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22CycleMLP+A+MLP+like+Architecture+for+Dense+Prediction%22+OR+ti%3A%22DISCOVERING+AND+EXPLAINING+THE+REPRESENTATION+BOTTLENECK+OF+DNNS%22+OR+ti%3A%22Data+Efficient+Graph+Grammar+Learning+for+Molecular+Generation%22+OR+ti%3A%22Diffusion+Based+Voice+Conversion+with+Fast+Maximum+Likelihood+Sampling+Scheme%22+OR+ti%3A%22Domino+Discovering+Systematic+Errors+with+Cross+Modal+Embeddings%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22CycleMLP+A+MLP+like+Architecture+for+Dense+Prediction%22+OR+ti%3A%22DISCOVERING+AND+EXPLAINING+THE+REPRESENTATION+BOTTLENECK+OF+DNNS%22+OR+ti%3A%22Data+Efficient+Graph+Grammar+Learning+for+Molecular+Generation%22+OR+ti%3A%22Diffusion+Based+Voice+Conversion+with+Fast+Maximum+Likelihood+Sampling+Scheme%22+OR+ti%3A%22Domino+Discovering+Systematic+Errors+with+Cross+Modal+Embeddings%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:34.927538+00:00",
+  "bytes": 13244,
+  "sha256": "4b681b16b648c58b6a030a64675c60aab0e13c2822fbdba98164a5d7c6cb4106",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-8fe0d5dda2629c778801.gz"
+}

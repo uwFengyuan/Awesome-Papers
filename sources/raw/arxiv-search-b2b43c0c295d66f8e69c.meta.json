@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Reasoning+Elicitation+in+Language+Models+via+Counterfactual+Feedback%22+OR+ti%3A%22Representation+Alignment+for+Generation+Training+Diffusion+Transformers+Is+Easier+Than+You+Think%22+OR+ti%3A%22Residual+Deep+Gaussian+Processes+on+Manifolds%22+OR+ti%3A%22Restructuring+Vector+Quantization+with+the+Rotation+Trick%22+OR+ti%3A%22Rethinking+Reward+Modeling+in+Preference+based+Large+Language+Model+Alignment%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Reasoning+Elicitation+in+Language+Models+via+Counterfactual+Feedback%22+OR+ti%3A%22Representation+Alignment+for+Generation+Training+Diffusion+Transformers+Is+Easier+Than+You+Think%22+OR+ti%3A%22Residual+Deep+Gaussian+Processes+on+Manifolds%22+OR+ti%3A%22Restructuring+Vector+Quantization+with+the+Rotation+Trick%22+OR+ti%3A%22Rethinking+Reward+Modeling+in+Preference+based+Large+Language+Model+Alignment%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:11.777853+00:00",
+  "bytes": 10517,
+  "sha256": "ef289146bf85463ab89f2c8e20f524667ef67790e0052a0c8bb090258b16de69",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b2b43c0c295d66f8e69c.gz"
+}

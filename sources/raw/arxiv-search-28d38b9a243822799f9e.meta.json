@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Improving+Probabilistic+Diffusion+Models+With+Optimal+Diagonal+Covariance+Matching%22+OR+ti%3A%22Inference+Scaling+for+Long+Context+Retrieval+Augmented+Generation%22+OR+ti%3A%22Influence+Functions+for+Scalable+Data+Attribution+in+Diffusion+Models%22+OR+ti%3A%22Instant+Policy+In+Context+Imitation+Learning+via+Graph+Diffusion%22+OR+ti%3A%22Interpreting+Emergent+Planning+in+Model+Free+Reinforcement+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Improving+Probabilistic+Diffusion+Models+With+Optimal+Diagonal+Covariance+Matching%22+OR+ti%3A%22Inference+Scaling+for+Long+Context+Retrieval+Augmented+Generation%22+OR+ti%3A%22Influence+Functions+for+Scalable+Data+Attribution+in+Diffusion+Models%22+OR+ti%3A%22Instant+Policy+In+Context+Imitation+Learning+via+Graph+Diffusion%22+OR+ti%3A%22Interpreting+Emergent+Planning+in+Model+Free+Reinforcement+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:14.105454+00:00",
+  "bytes": 13108,
+  "sha256": "32b91d48044a3a8ee1f0112959ca34faf596fef911c235828a680e6b647a8291",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-28d38b9a243822799f9e.gz"
+}

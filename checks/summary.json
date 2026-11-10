@@ -1,0 +1,53 @@
+{
+  "papers": 10967,
+  "curated": 9737,
+  "finance": 1497,
+  "finance_main": 1310,
+  "finance_findings": 187,
+  "best": 82,
+  "outstanding": 299,
+  "oral": 9590,
+  "local_pdfs": 10162,
+  "unique_pdf_paths": 10162,
+  "missing_pdf_records": 805,
+  "by_venue": {
+    "AAAI": 1758,
+    "ACL": 2287,
+    "EMNLP": 2206,
+    "ICLR": 936,
+    "ICML": 2875,
+    "NeurIPS": 905
+  },
+  "by_track": {
+    "main": 10739,
+    "findings": 187,
+    "datasets_benchmarks": 30,
+    "evaluations": 11
+  },
+  "leaf_folders": 1029,
+  "largest_leaf_folders": [
+    [
+      "pdfs/main/agents/agent_multi/multi_agent",
+      100
+    ],
+    [
+      "pdfs/main/representations/contrastive/general",
+      100
+    ],
+    [
+      "pdfs/main/social_human/social_economics/general",
+      98
+    ],
+    [
+      "pdfs/main/vision/vision_recognition/general",
+      95
+    ],
+    [
+      "pdfs/main/security_privacy/privacy/general",
+      94
+    ]
+  ],
+  "long_paper_rule": "Official long/full-paper track or verified main-text evidence; short and unverified types withheld.",
+  "source_snapshot": "2026-11-10",
+  "reference_finance_repository": "Awesome-AI4Finance-Papers"
+}

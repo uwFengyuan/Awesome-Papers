@@ -1,0 +1,10 @@
+{
+  "url": "https://2026.emnlp.org/program/awards/",
+  "final_url": "https://2026.emnlp.org/program/awards/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:06.536993+00:00",
+  "bytes": 32038,
+  "sha256": "1830ed065202c72c7642d1901288c80e7c457e3292cea70381f9ff21299ced52",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2026-awards.gz"
+}

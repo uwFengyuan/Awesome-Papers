@@ -1,0 +1,10 @@
+{
+  "url": "https://icml.cc/Conferences/2018/Awards",
+  "final_url": "https://icml.cc/Conferences/2018/Awards",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:38:53.388225+00:00",
+  "bytes": 46398,
+  "sha256": "fa54f07917fe6e35ff5906274ee48fc1d9b3521531966496de1c6e35b4aebe0d",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/icml-2018-awards.gz"
+}

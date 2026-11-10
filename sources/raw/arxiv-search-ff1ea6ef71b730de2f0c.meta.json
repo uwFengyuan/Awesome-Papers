@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Gene+Regulatory+Network+Inference+in+the+Presence+of+Dropouts+a+Causal+View%22+OR+ti%3A%22Generative+Modeling+with+Phase+Stochastic+Bridge%22+OR+ti%3A%22Ghost+on+the+Shell+An+Expressive+Representation+of+General+3D+Shapes%22+OR+ti%3A%22Graph+Neural+Networks+for+Learning+Equivariant+Representations+of+Neural+Networks%22+OR+ti%3A%22How+I+Warped+Your+Noise+a+Temporally+Correlated+Noise+Prior+for+Diffusion+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Gene+Regulatory+Network+Inference+in+the+Presence+of+Dropouts+a+Causal+View%22+OR+ti%3A%22Generative+Modeling+with+Phase+Stochastic+Bridge%22+OR+ti%3A%22Ghost+on+the+Shell+An+Expressive+Representation+of+General+3D+Shapes%22+OR+ti%3A%22Graph+Neural+Networks+for+Learning+Equivariant+Representations+of+Neural+Networks%22+OR+ti%3A%22How+I+Warped+Your+Noise+a+Temporally+Correlated+Noise+Prior+for+Diffusion+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:33.279880+00:00",
+  "bytes": 14079,
+  "sha256": "730f3a4d2e31338eaa299aaf7526dd1dcf0ac5083d81bcbcb4f463c60243ee62",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-ff1ea6ef71b730de2f0c.gz"
+}

@@ -1,0 +1,25 @@
+{
+  "finance_rows": 1178,
+  "finance_pdf_records": 1128,
+  "finance_missing_pdfs": 50,
+  "financial_time_series": 252,
+  "workbook_data_rows": {
+    "catalog.xlsx": {
+      "All Papers": 9600,
+      "AI for Finance": 1178,
+      "Coverage": 50,
+      "Missing PDFs": 251
+    },
+    "finance_catalog.xlsx": {
+      "Confirmed Finance": 1178,
+      "Time Series": 252,
+      "By Venue and Year": 50,
+      "Missing PDFs": 50
+    }
+  },
+  "local_markdown_links_checked": 13609,
+  "broken_local_links": [],
+  "sources_checked": 844,
+  "source_problems": [],
+  "all_finance_ids_verified_in_main_universe": true
+}

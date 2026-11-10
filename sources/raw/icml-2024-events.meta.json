@@ -1,0 +1,10 @@
+{
+  "url": "https://icml.cc/static/virtual/data/icml-2024-orals-posters.json",
+  "final_url": "https://icml.cc/static/virtual/data/icml-2024-orals-posters.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:50.662240+00:00",
+  "bytes": 11354731,
+  "sha256": "77eb6ee09ee69875743c67c3e06bf47eef06c4838299392481feaeb8241cb8e9",
+  "content_type": "application/json",
+  "cache_path": "sources/raw/icml-2024-events.gz"
+}

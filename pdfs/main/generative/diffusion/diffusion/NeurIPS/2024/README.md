@@ -1,0 +1,14 @@
+# pdfs/main/generative/diffusion/diffusion/NeurIPS/2024
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2024 | NeurIPS | main | [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/89e4433fec4b99f1d859db57af1e0a0f-Abstract-Conference.html) | [Long] [Main] [Oral] [Poster] | Generative Models / 生成模型 / Diffusion & Score Models / 扩散与分数模型 / Diffusion / 扩散 | [PDF](2024_NeurIPS_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__neurips-2024-95046__CAT3D_Create_Anything_in_3D_with_Multi_View_Diffusion_Models.pdf) |
+| 2024 | NeurIPS | main | [Guiding a Diffusion Model with a Bad Version of Itself](https://openreview.net/forum?id=bg6fVPVs3s) | [Long] [Main] [Oral] [Poster] | Generative Models / 生成模型 / Diffusion & Score Models / 扩散与分数模型 / Diffusion / 扩散 | [PDF](2024_NeurIPS_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__neurips-2024-bg6fVPVs3s__Guiding_a_Diffusion_Model_with_a_Bad_Version_of_Itself.pdf) |
+| 2024 | NeurIPS | main | [Improved Distribution Matching Distillation for Fast Image Synthesis](https://proceedings.neurips.cc/paper_files/paper/2024/hash/54dcf25318f9de5a7a01f0a4125c541e-Abstract-Conference.html) | [Long] [Main] [Oral] [Poster] | Generative Models / 生成模型 / Diffusion & Score Models / 扩散与分数模型 / Diffusion / 扩散 | [PDF](2024_NeurIPS_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__neurips-2024-93335__Improved_Distribution_Matching_Distillation_for_Fast_Image_Synthesis.pdf) |
+| 2024 | NeurIPS | main | [Learning diffusion at lightspeed](https://openreview.net/forum?id=y10avdRFNK) | [Long] [Main] [Oral] [Poster] | Generative Models / 生成模型 / Diffusion & Score Models / 扩散与分数模型 / Diffusion / 扩散 | [PDF](2024_NeurIPS_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__neurips-2024-y10avdRFNK__Learning_diffusion_at_lightspeed.pdf) |
+| 2024 | NeurIPS | main | [Maximum Entropy Inverse Reinforcement Learning of Diffusion Models with Energy-Based Models](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2bed6c14cd5ea97a9bc1e6094941bde7-Abstract-Conference.html) | [Long] [Main] [Oral] [Poster] | Generative Models / 生成模型 / Diffusion & Score Models / 扩散与分数模型 / Diffusion / 扩散 | [PDF](2024_NeurIPS_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__neurips-2024-94930__Maximum_Entropy_Inverse_Reinforcement_Learning_of_Diffusion_Models_with_Energy_Based_Models.pdf) |
+| 2024 | NeurIPS | main | [Stylus: Automatic Adapter Selection for Diffusion Models](https://openreview.net/forum?id=3Odq2tGSpp) | [Long] [Main] [Oral] [Poster] | Generative Models / 生成模型 / Diffusion & Score Models / 扩散与分数模型 / Diffusion / 扩散 | [PDF](2024_NeurIPS_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__neurips-2024-3Odq2tGSpp__Stylus_Automatic_Adapter_Selection_for_Diffusion_Models.pdf) |

@@ -1,0 +1,15 @@
+# TsLLM: Augmenting LLMs for General Time Series Understanding and Prediction
+
+ICML 2026 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：that provide rich contextual information for time series analysis. Financial Dataset Development For our data collection efforts, we focused particularly on the financial domain, creating a novel dataset that combines S&P 500 daily closing prices with corresponding news articles. This pairing enables exploration of contextual forecasting tasks where models must consider both numerical trends and relevant textual information when making predictions. Our financial dataset construction process involves several key steps: first, we collect historical S&P 500 price data; se
+
+[Paper](https://openreview.net/forum?id=ti6RAEh2ep)
+
+Classification / 分类：Time Series / 时间序列 → Forecasting / 序列预测 → Forecasting / 预测
+
+## Abstract / 摘要
+
+Time series data is fundamental to decision-making across many domains including healthcare, finance, power systems, and logistics. However, analyzing this data correctly often requires incorporating unstructured contextual information, answering domain-specific questions, and generating natural language explanations – capabilities that traditional time series models lack. While Large Language Models (LLMs) excel at contextual reasoning and knowledge integration, they struggle with numerical time series due to inefficient text-based representations and limited exposure to numerical data during pretraining. We address this gap by augmenting an LLM with specialized time series perception through a patch-based encoder-decoder architecture. We train this time series-augmented LLM (TsLLM) on a large corpus of over 25 billion tokens of interleaved time series and text spanning diverse tasks: forecasting with contextual information, question-answering, anomaly detection, classification, report generation, and more, all unified as autoregressive next token prediction. This training enables TsLLM to leverage both its natural language skills and newly acquired understanding of numerical time series signals. While not designed to surpass specialized models on traditional benchmarks, TsLLM demonstrates strong performance on tasks requiring the integration of time series analysis with natural language – capabilities that conventional approaches cannot provide. It also exhibits strong zero-shot and few-shot performance, showing it can adapt to new data without additional training.

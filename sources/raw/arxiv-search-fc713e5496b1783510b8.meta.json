@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Toward+Guidance+Free+AR+Visual+Generation+via+Condition+Contrastive+Alignment%22+OR+ti%3A%22Towards+Understanding+Why+FixMatch+Generalizes+Better+Than+Supervised+Learning%22+OR+ti%3A%22Towards+a+Complete+Logical+Framework+for+GNN+Expressiveness%22+OR+ti%3A%22Tractable+Multi+Agent+Reinforcement+Learning+through+Behavioral+Economics%22+OR+ti%3A%22Training+Language+Models+to+Self+Correct+via+Reinforcement+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Toward+Guidance+Free+AR+Visual+Generation+via+Condition+Contrastive+Alignment%22+OR+ti%3A%22Towards+Understanding+Why+FixMatch+Generalizes+Better+Than+Supervised+Learning%22+OR+ti%3A%22Towards+a+Complete+Logical+Framework+for+GNN+Expressiveness%22+OR+ti%3A%22Tractable+Multi+Agent+Reinforcement+Learning+through+Behavioral+Economics%22+OR+ti%3A%22Training+Language+Models+to+Self+Correct+via+Reinforcement+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:41.926796+00:00",
+  "bytes": 9504,
+  "sha256": "b31e6801fce5d81ea7c0c4f29716bd581a75c64955696da0323817a8207245a3",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-fc713e5496b1783510b8.gz"
+}

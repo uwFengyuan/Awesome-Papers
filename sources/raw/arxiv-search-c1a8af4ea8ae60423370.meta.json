@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Video+Based+Optimal+Transport+for+Feedback+Efficient+Offline+Preference+Based+Reinforcement+Learning%22+OR+ti%3A%22WeDLM+Reconciling+Diffusion+Language+Models+with+Standard+Causal+Attention+for+Fast+Inference%22+OR+ti%3A%22What+Preferences+Can+and+Cannot+Predict+in+Multi+Agent+Online+Learning%22+OR+ti%3A%22When+the+Prompt+Becomes+Visual+Vision+Centric+Jailbreak+Attacks+for+Large+Image+Editing%22+OR+ti%3A%22Which+Algorithms+Can+Graph+Neural+Networks+Learn%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Video+Based+Optimal+Transport+for+Feedback+Efficient+Offline+Preference+Based+Reinforcement+Learning%22+OR+ti%3A%22WeDLM+Reconciling+Diffusion+Language+Models+with+Standard+Causal+Attention+for+Fast+Inference%22+OR+ti%3A%22What+Preferences+Can+and+Cannot+Predict+in+Multi+Agent+Online+Learning%22+OR+ti%3A%22When+the+Prompt+Becomes+Visual+Vision+Centric+Jailbreak+Attacks+for+Large+Image+Editing%22+OR+ti%3A%22Which+Algorithms+Can+Graph+Neural+Networks+Learn%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:58.072821+00:00",
+  "bytes": 14242,
+  "sha256": "5fb56bf7c0e9db555b44b38810d17bc9ecc8abd6a3430717986a87bb4ca221b2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c1a8af4ea8ae60423370.gz"
+}

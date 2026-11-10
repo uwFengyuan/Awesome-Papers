@@ -1,0 +1,13 @@
+# Portfolio & Investment / 投资组合与投资管理
+
+
+
+Papers / 论文：**5**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2025 | ACL | findings | [Are LLMs Rational Investors? A Study on the Financial Bias in LLMs](https://aclanthology.org/2025.findings-acl.1239/) | [Long] [Findings] [Finance] | Portfolio & Investment / 投资组合与投资管理 / Investment Evaluation & Decisions / 投资评价与决策 / General / 综合 | [PDF](../../../pdfs/finance/findings/portfolio/investment_evaluation/general/2025_ACL_%5BLong%5D%5BFindings%5D%5BFinance%5D__2025.findings-acl.1239__Are_LLMs_Rational_Investors_A_Study_on_the_Financial_Bias_in_LLMs.pdf) |
+| 2025 | ACL | findings | [Domaino1s: Guiding LLM Reasoning for Explainable Answers in High-Stakes Domains](https://aclanthology.org/2025.findings-acl.171/) | [Long] [Findings] [Finance] | Portfolio & Investment / 投资组合与投资管理 / Investment Evaluation & Decisions / 投资评价与决策 / General / 综合 | [PDF](../../../pdfs/finance/findings/portfolio/investment_evaluation/general/2025_ACL_%5BLong%5D%5BFindings%5D%5BFinance%5D__2025.findings-acl.171__Domaino1s_Guiding_LLM_Reasoning_for_Explainable_Answers_in_High_Stakes_Domains.pdf) |
+| 2026 | ACL | findings | [Analyze Like a Venture Capitalist: Information-Gain and Knowledge Enhanced Graph Reasoning for Startup Success Prediction](https://aclanthology.org/2026.findings-acl.1555/) | [Long] [Findings] [Finance] | Corporate Finance & Accounting / 公司金融与会计 / General / 综合 / General / 综合 | [PDF](../../../pdfs/finance/findings/corporate_finance/general/general/2026_ACL_%5BLong%5D%5BFindings%5D%5BFinance%5D__2026.findings-acl.1555__Analyze_Like_a_Venture_Capitalist_Information_Gain_and_Knowledge_Enhanced_Graph_Reasoning_for_Startu.pdf) |
+| 2023 | EMNLP | findings | [Semantic Similarity Covariance Matrix Shrinkage](https://aclanthology.org/2023.findings-emnlp.668/) | [Long] [Findings] [Finance] | Portfolio & Investment / 投资组合与投资管理 / Portfolio Selection & Optimization / 组合选择与优化 / General / 综合 | [PDF](../../../pdfs/finance/findings/portfolio/selection/general/2023_EMNLP_%5BLong%5D%5BFindings%5D%5BFinance%5D__2023.findings-emnlp.668__Semantic_Similarity_Covariance_Matrix_Shrinkage.pdf) |
+| 2026 | EMNLP | findings | [AEL: Evolving Agent Harness in Open-Ended Environments](https://aclanthology.org/2026.findings-emnlp.1316/) | [Long] [Findings] [Finance] | Financial Agents / 金融Agent与决策 / General / 综合 / General / 综合 | [PDF](../../../pdfs/finance/findings/financial_agents/general/general/2026_EMNLP_%5BLong%5D%5BFindings%5D%5BFinance%5D__2026.findings-emnlp.1316__AEL_Evolving_Agent_Harness_in_Open_Ended_Environments.pdf) |

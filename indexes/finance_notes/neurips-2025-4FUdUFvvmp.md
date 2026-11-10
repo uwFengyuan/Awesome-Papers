@@ -1,0 +1,15 @@
+# PANTHER: Generative Pretraining Beyond Language for Sequential User Behavior Modeling
+
+NeurIPS 2025 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：PANTHER introduces: (1) Structured Tokenization to compress multi-dimensional transaction attributes into an interpretable vocabulary; (2) Sequence Pattern Recognition Module (SPRM) for modeling periodic transaction motifs; (3) a Unified User-Profile Embedding that fuses static demographics with dynamic transaction histories, enabling both personalized predictions and population-level knowledge transfer; and (4) Real-time scalability enabled by offline caching of pre-trained embeddings for millisecond-level inference.Fully deployed and operational online at WeChat Pay, PANTHER delivers a 25.6\% boost in next-transaction prediction HitRate@1 and a 38.6\% relative improvement in fraud detection recall over baselines.
+
+[Paper](https://openreview.net/forum?id=4FUdUFvvmp)
+
+Classification / 分类：Fraud & AML / 欺诈检测与反洗钱 → Payment & Transaction Fraud / 支付与交易欺诈 → General / 综合
+
+## Abstract / 摘要
+
+Large language models (LLMs) have shown that generative pretraining can distill vast world knowledge into compact token representations. While LLMs encapsulate extensive world knowledge, they remain limited in modeling the behavioral knowledge contained within user interaction histories. User behavior forms a distinct modality, where each action—defined by multi-dimensional attributes such as time, context, and transaction type—constitutes a behavioral token. Modeling these high-cardinality, sparse, and irregular sequences is challenging, and discriminative models often falter under limited supervision. To bridge this gap, we extend generative pretraining to user behavior, learning transferable representations from unlabeled behavioral data analogous to how LLMs learn from text. We present PANTHER, a hybrid generative–discriminative framework that unifies user behavior pretraining and downstream adaptation, enabling large-scale sequential user representation learning and real-time inference. PANTHER introduces: (1) Structured Tokenization to compress multi-dimensional transaction attributes into an interpretable vocabulary; (2) Sequence Pattern Recognition Module (SPRM) for modeling periodic transaction motifs; (3) a Unified User-Profile Embedding that fuses static demographics with dynamic transaction histories, enabling both personalized predictions and population-level knowledge transfer; and (4) Real-time scalability enabled by offline caching of pre-trained embeddings for millisecond-level inference.Fully deployed and operational online at WeChat Pay, PANTHER delivers a 25.6\% boost in next-transaction prediction HitRate@1 and a 38.6\% relative improvement in fraud detection recall over baselines. Cross-domain evaluations on public benchmarks (CCT, MBD, MovieLens-1M, Yelp) show strong generalization, achieving up to 21\% HitRate@1 gains over transformer baselines, establishing PANTHER as a scalable, high-performance framework for industrial user sequential behavior modeling.

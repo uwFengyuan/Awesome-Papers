@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MotionStream+Real+Time+Video+Generation+with+Interactive+Motion+Controls%22+OR+ti%3A%22MrRoPE+Mixed+radix+Rotary+Position+Embedding%22+OR+ti%3A%22Multi+Domain+Riemannian+Graph+Gluing+for+Building+Graph+Foundation+Models%22+OR+ti%3A%22Multimodal+Aligned+Semantic+Knowledge+for+Unpaired+Image+text+Matching%22+OR+ti%3A%22Multiplayer+Nash+Preference+Optimization%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MotionStream+Real+Time+Video+Generation+with+Interactive+Motion+Controls%22+OR+ti%3A%22MrRoPE+Mixed+radix+Rotary+Position+Embedding%22+OR+ti%3A%22Multi+Domain+Riemannian+Graph+Gluing+for+Building+Graph+Foundation+Models%22+OR+ti%3A%22Multimodal+Aligned+Semantic+Knowledge+for+Unpaired+Image+text+Matching%22+OR+ti%3A%22Multiplayer+Nash+Preference+Optimization%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:34.072829+00:00",
+  "bytes": 11738,
+  "sha256": "fb59f44e59fed6b14e71c679b1269d6b18f6668696658a6079f66fb5401b7c6d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-15b24a478e9d1e1f5d00.gz"
+}

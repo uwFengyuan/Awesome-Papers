@@ -1,0 +1,10 @@
+{
+  "url": "https://2026.aclweb.org/program/accepted_papers/",
+  "final_url": "https://2026.aclweb.org/program/accepted_papers/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:06.365839+00:00",
+  "bytes": 537291,
+  "sha256": "9cdff0a5d103330d9da3226134ac50b1698d3d2a892b0fdba73f437e8b80cb2d",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2026-accepted_papers.gz"
+}

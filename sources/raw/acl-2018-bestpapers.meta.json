@@ -1,0 +1,10 @@
+{
+  "url": "https://2018.aclweb.org/2018/06/10/best-papers/",
+  "final_url": "https://2018.aclweb.org/2018/06/10/best-papers/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:48:03.786615+00:00",
+  "bytes": 9756,
+  "sha256": "5880b76b511ce7120aeaffffb792e263a994d63d452cab955e9c403ea2367e8d",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2018-bestpapers.gz"
+}

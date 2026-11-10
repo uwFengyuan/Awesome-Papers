@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Training+on+the+Test+Task+Confounds+Evaluation+and+Emergence%22+OR+ti%3A%22Transformers+Provably+Solve+Parity+Efficiently+with+Chain+of+Thought%22+OR+ti%3A%22Transfusion+Predict+the+Next+Token+and+Diffuse+Images+with+One+Multi+Modal+Model%22+OR+ti%3A%22Trust+or+Escalate+LLM+Judges+with+Provable+Guarantees+for+Human+Agreement%22+OR+ti%3A%22Turning+Up+the+Heat+Min+p+Sampling+for+Creative+and+Coherent+LLM+Outputs%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Training+on+the+Test+Task+Confounds+Evaluation+and+Emergence%22+OR+ti%3A%22Transformers+Provably+Solve+Parity+Efficiently+with+Chain+of+Thought%22+OR+ti%3A%22Transfusion+Predict+the+Next+Token+and+Diffuse+Images+with+One+Multi+Modal+Model%22+OR+ti%3A%22Trust+or+Escalate+LLM+Judges+with+Provable+Guarantees+for+Human+Agreement%22+OR+ti%3A%22Turning+Up+the+Heat+Min+p+Sampling+for+Creative+and+Coherent+LLM+Outputs%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:00.433869+00:00",
+  "bytes": 12528,
+  "sha256": "296bb5e0d9b9c74f9fc1c96944b69945a17727b568c08a6377541dcd66600506",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b3cea0503174010c82e3.gz"
+}

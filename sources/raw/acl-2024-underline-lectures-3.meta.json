@@ -1,0 +1,10 @@
+{
+  "url": "https://app.underline.io/api/v1/thin_lectures?filter[event_id]=466&filter[scope]=all&include=event_session&page[size]=500&page[number]=3",
+  "final_url": "https://app.underline.io/api/v1/thin_lectures?filter%5Bevent_id%5D=466&filter%5Bscope%5D=all&include=event_session&page%5Bsize%5D=500&page%5Bnumber%5D=3",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:43.332555+00:00",
+  "bytes": 2399406,
+  "sha256": "e72251dfa9d2d2878a4baa882dfbe407614dc3a5cfaaf66f7dcae710b2b46023",
+  "content_type": "application/vnd.api+json; charset=utf-8",
+  "cache_path": "sources/raw/acl-2024-underline-lectures-3.gz"
+}

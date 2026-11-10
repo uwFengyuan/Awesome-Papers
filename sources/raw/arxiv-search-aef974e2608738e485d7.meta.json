@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Your+Mixture+of+Experts+LLM+Is+Secretly+an+Embedding+Model+for+Free%22+OR+ti%3A%22miniCTX+Neural+Theorem+Proving+with+Long+Contexts%22+OR+ti%3A%22PhyWorldBench+A+Comprehensive+Evaluation+of+Physical+Realism+in+Text+to+Video+Models%22+OR+ti%3A%22p+less+Sampling+A+Robust+Hyperparameter+Free+Approach+for+LLM+Decoding%22+OR+ti%3A%22A+Representer+Theorem+for+Hawkes+Processes+via+Penalized+Least+Squares+Minimization%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Your+Mixture+of+Experts+LLM+Is+Secretly+an+Embedding+Model+for+Free%22+OR+ti%3A%22miniCTX+Neural+Theorem+Proving+with+Long+Contexts%22+OR+ti%3A%22PhyWorldBench+A+Comprehensive+Evaluation+of+Physical+Realism+in+Text+to+Video+Models%22+OR+ti%3A%22p+less+Sampling+A+Robust+Hyperparameter+Free+Approach+for+LLM+Decoding%22+OR+ti%3A%22A+Representer+Theorem+for+Hawkes+Processes+via+Penalized+Least+Squares+Minimization%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:10.213692+00:00",
+  "bytes": 13570,
+  "sha256": "6409d41ceafdc735debbe3a64dca1f2b818c7bd5c312057997d9d715e338c7a5",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-aef974e2608738e485d7.gz"
+}

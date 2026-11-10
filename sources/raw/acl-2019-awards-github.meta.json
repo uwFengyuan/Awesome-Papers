@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-2019/master/EN/winners-of-acl-2019-best-paper-awards.xhtml.html",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-2019/master/EN/winners-of-acl-2019-best-paper-awards.xhtml.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:10:40.126485+00:00",
+  "bytes": 10474,
+  "sha256": "c87be7aa26d3d67b5852b24c6736f955c3fcbb91e6a1f5ed5cc12520bb72b35d",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/acl-2019-awards-github.gz"
+}

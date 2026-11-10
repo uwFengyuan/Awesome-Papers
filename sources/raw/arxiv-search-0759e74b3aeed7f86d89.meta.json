@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Characterizing+the+Discrete+Geometry+of+ReLU+Networks%22+OR+ti%3A%22Common+Corpus+The+Largest+Collection+of+Ethical+Data+for+LLM+Pre+Training%22+OR+ti%3A%22Compactness+and+Consistency+A+Conjoint+Framework+for+Deep+Graph+Clustering%22+OR+ti%3A%22Compositional+Diffusion+with+Guided+search+for+Long+Horizon+Planning%22+OR+ti%3A%22Conformal+Robustness+Control+A+New+Strategy+for+Robust+Decision%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Characterizing+the+Discrete+Geometry+of+ReLU+Networks%22+OR+ti%3A%22Common+Corpus+The+Largest+Collection+of+Ethical+Data+for+LLM+Pre+Training%22+OR+ti%3A%22Compactness+and+Consistency+A+Conjoint+Framework+for+Deep+Graph+Clustering%22+OR+ti%3A%22Compositional+Diffusion+with+Guided+search+for+Long+Horizon+Planning%22+OR+ti%3A%22Conformal+Robustness+Control+A+New+Strategy+for+Robust+Decision%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:23.675200+00:00",
+  "bytes": 11581,
+  "sha256": "c3566c966af090c440cb2929d4f61055b7e3cf894350b81cc1ac7c2a55143939",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-0759e74b3aeed7f86d89.gz"
+}

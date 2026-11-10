@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Planner+Aware+Path+Learning+in+Diffusion+Language+Models+Training%22+OR+ti%3A%22Plug+and+Play+Compositionality+for+Boosting+Continual+Learning+with+Foundation+Models%22+OR+ti%3A%22Pre+training+under+infinite+compute%22+OR+ti%3A%22Premise+Selection+for+a+Lean+Hammer%22+OR+ti%3A%22Probabilistic+Kernel+Function+for+Fast+Angle+Testing%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Planner+Aware+Path+Learning+in+Diffusion+Language+Models+Training%22+OR+ti%3A%22Plug+and+Play+Compositionality+for+Boosting+Continual+Learning+with+Foundation+Models%22+OR+ti%3A%22Pre+training+under+infinite+compute%22+OR+ti%3A%22Premise+Selection+for+a+Lean+Hammer%22+OR+ti%3A%22Probabilistic+Kernel+Function+for+Fast+Angle+Testing%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:55.227501+00:00",
+  "bytes": 11089,
+  "sha256": "a2eac9878de19f1ea55da0e584860fa441ad7cc80a807ace33e9d4728529ce42",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3c12a3dc3cb73731bb0b.gz"
+}

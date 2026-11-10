@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Distributional+Equivalence+in+Linear+Non+Gaussian+Latent+Variable+Cyclic+Causal+Models+Characterization+and%22+OR+ti%3A%22EditBench+Evaluating+LLM+Abilities+to+Perform+Real+World+Instructed+Code+Edits%22+OR+ti%3A%22EditVerse+Unifying+Image+and+Video+Editing+and+Generation+with+In+Context+Learning%22+OR+ti%3A%22Efficient+Resource+Constrained+Training+of+Transformers+via+Subspace+Optimization%22+OR+ti%3A%22EigenBench+A+Comparative+Behavioral+Measure+of+Value+Alignment%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Distributional+Equivalence+in+Linear+Non+Gaussian+Latent+Variable+Cyclic+Causal+Models+Characterization+and%22+OR+ti%3A%22EditBench+Evaluating+LLM+Abilities+to+Perform+Real+World+Instructed+Code+Edits%22+OR+ti%3A%22EditVerse+Unifying+Image+and+Video+Editing+and+Generation+with+In+Context+Learning%22+OR+ti%3A%22Efficient+Resource+Constrained+Training+of+Transformers+via+Subspace+Optimization%22+OR+ti%3A%22EigenBench+A+Comparative+Behavioral+Measure+of+Value+Alignment%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:36.191090+00:00",
+  "bytes": 11086,
+  "sha256": "f5c4ce468f6e41280c19b1b7e46aba8de6af0385d6b862858e739f7eefe15017",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-865e6b8e0d9420bb4598.gz"
+}

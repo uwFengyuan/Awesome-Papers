@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+Role+of+Attention+Heads+in+Large+Language+Model+Safety%22+OR+ti%3A%22One+Step+Diffusion+via+Shortcut+Models%22+OR+ti%3A%22Open+Vocabulary+Customization+from+CLIP+via+Data+Free+Knowledge+Distillation%22+OR+ti%3A%22Open+World+Reinforcement+Learning+over+Long+Short+Term+Imagination%22+OR+ti%3A%22Open+YOLO+3D+Towards+Fast+and+Accurate+Open+Vocabulary+3D+Instance+Segmentation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+Role+of+Attention+Heads+in+Large+Language+Model+Safety%22+OR+ti%3A%22One+Step+Diffusion+via+Shortcut+Models%22+OR+ti%3A%22Open+Vocabulary+Customization+from+CLIP+via+Data+Free+Knowledge+Distillation%22+OR+ti%3A%22Open+World+Reinforcement+Learning+over+Long+Short+Term+Imagination%22+OR+ti%3A%22Open+YOLO+3D+Towards+Fast+and+Accurate+Open+Vocabulary+3D+Instance+Segmentation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:52.370425+00:00",
+  "bytes": 11730,
+  "sha256": "9d6762dd6c37c38cc19295dba424967e6ad8821a3a606910c6a44370ae2f3d10",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-cf0c9d9c4b06e04088f2.gz"
+}

@@ -1,0 +1,17 @@
+{
+  "catalog_rows": 8993,
+  "unique_ids": 8993,
+  "unique_local_pdf_files": 8762,
+  "file_integrity_failures": 0,
+  "title_checks": {
+    "exact_normalized": 8583,
+    "word_match": 167,
+    "manual_review": 12
+  },
+  "finance_rows": 344,
+  "track_values": [
+    "main"
+  ],
+  "manual_identity_checks_resolved": 12,
+  "unresolved_identity_checks": 0
+}

@@ -1,0 +1,15 @@
+# Latent Variable Estimation in Bayesian Black-Litterman Models
+
+ICML 2025 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：We revisit the Bayesian Black–Litterman (BL) portfolio model and remove its reliance on subjective investor views. / Classical BL requires an investor “view”: a forecast vector $q$ and its uncertainty matrix $\Omega$ that describe how much a chosen portfolio should outperform the market.Our key idea is to treat $(q,\Omega)$ as latent variables and learn them from market data within a single Bayesian network.Consequently, the resulting posterior estimation admits closed-form expression, enabling fast inference and stable portfolio weights.Building on these, we propose two mechanisms to capture how features interact with returns: shared-latent parametrization and feature-influenced views; both recover classical BL and Markowitz portfolios as special cases.Empirically, on 30-year Dow-Jones and 20-year sector-ETF data, we improve Sharpe ratios by 50\% and cut turnover by 55\% relative to Markowitz and the index baselines.This work turns BL into a fully data-driven, view-free, and coherent Bayesian framework for portfolio optimization.
+
+[Paper](https://openreview.net/forum?id=v8ipdsBPEx)
+
+Classification / 分类：Portfolio & Investment / 投资组合与投资管理 → Asset Allocation / 资产配置 → General / 综合
+
+## Abstract / 摘要
+
+We revisit the Bayesian Black–Litterman (BL) portfolio model and remove its reliance on subjective investor views. Classical BL requires an investor “view”: a forecast vector $q$ and its uncertainty matrix $\Omega$ that describe how much a chosen portfolio should outperform the market.Our key idea is to treat $(q,\Omega)$ as latent variables and learn them from market data within a single Bayesian network.Consequently, the resulting posterior estimation admits closed-form expression, enabling fast inference and stable portfolio weights.Building on these, we propose two mechanisms to capture how features interact with returns: shared-latent parametrization and feature-influenced views; both recover classical BL and Markowitz portfolios as special cases.Empirically, on 30-year Dow-Jones and 20-year sector-ETF data, we improve Sharpe ratios by 50\% and cut turnover by 55\% relative to Markowitz and the index baselines.This work turns BL into a fully data-driven, view-free, and coherent Bayesian framework for portfolio optimization.

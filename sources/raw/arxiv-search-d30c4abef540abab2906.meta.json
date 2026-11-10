@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Scaling+Laws+and+Spectra+of+Shallow+Neural+Networks+in+the+Feature+Learning+Regime%22+OR+ti%3A%22Seeing+Through+the+Brain+New+Insights+from+Decoding+Visual+Stimuli+with+fMRI%22+OR+ti%3A%22Semi+Supervised+Preference+Optimization+with+Limited+Feedback%22+OR+ti%3A%22Sequences+of+Logits+Reveal+the+Low+Rank+Structure+of+Language+Models%22+OR+ti%3A%22Shoot+First+Ask+Questions+Later+Building+Rational+Agents+that+Explore+and+Act+Like%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Scaling+Laws+and+Spectra+of+Shallow+Neural+Networks+in+the+Feature+Learning+Regime%22+OR+ti%3A%22Seeing+Through+the+Brain+New+Insights+from+Decoding+Visual+Stimuli+with+fMRI%22+OR+ti%3A%22Semi+Supervised+Preference+Optimization+with+Limited+Feedback%22+OR+ti%3A%22Sequences+of+Logits+Reveal+the+Low+Rank+Structure+of+Language+Models%22+OR+ti%3A%22Shoot+First+Ask+Questions+Later+Building+Rational+Agents+that+Explore+and+Act+Like%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:16.904222+00:00",
+  "bytes": 13658,
+  "sha256": "73fca2e042569382f079e1e6e1392a7d90d2876b7a17ea21e6534801d6fe3212",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-d30c4abef540abab2906.gz"
+}

@@ -1,0 +1,15 @@
+# pdfs/main/datasets_evaluation/benchmarks/general/ACL/2019
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2019 | ACL | main | [CONAN - COunter NArratives through Nichesourcing: a Multilingual Dataset of Responses to Fight Online Hate Speech](https://aclanthology.org/P19-1271/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2019_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P19-1271__CONAN_COunter_NArratives_through_Nichesourcing_a_Multilingual_Dataset_of_Responses_to_Fight_Online_H.pdf) |
+| 2019 | ACL | main | [Evaluating Gender Bias in Machine Translation](https://aclanthology.org/P19-1164/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2019_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P19-1164__Evaluating_Gender_Bias_in_Machine_Translation.pdf) |
+| 2019 | ACL | main | [HEAD-QA: A Healthcare Dataset for Complex Reasoning](https://aclanthology.org/P19-1092/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2019_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P19-1092__HEAD_QA_A_Healthcare_Dataset_for_Complex_Reasoning.pdf) |
+| 2019 | ACL | main | [LSTMEmbed: Learning Word and Sense Representations from a Large Semantically Annotated Corpus with Long Short-Term Memories](https://aclanthology.org/P19-1165/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2019_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P19-1165__LSTMEmbed_Learning_Word_and_Sense_Representations_from_a_Large_Semantically_Annotated_Corpus_with_Lo.pdf) |
+| 2019 | ACL | main | [Multi-News: A Large-Scale Multi-Document Summarization Dataset and Abstractive Hierarchical Model](https://aclanthology.org/P19-1102/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2019_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P19-1102__Multi_News_A_Large_Scale_Multi_Document_Summarization_Dataset_and_Abstractive_Hierarchical_Model.pdf) |
+| 2019 | ACL | main | [SherLIiC: A Typed Event-Focused Lexical Inference Benchmark for Evaluating Natural Language Inference](https://aclanthology.org/P19-1086/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2019_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P19-1086__SherLIiC_A_Typed_Event_Focused_Lexical_Inference_Benchmark_for_Evaluating_Natural_Language_Inference.pdf) |
+| 2019 | ACL | main | [TWEETQA: A Social Media Focused Question Answering Dataset](https://aclanthology.org/P19-1496/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2019_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P19-1496__TWEETQA_A_Social_Media_Focused_Question_Answering_Dataset.pdf) |

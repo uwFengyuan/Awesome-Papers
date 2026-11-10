@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Scalable+Signature+Kernel+Computations+via+Local+Neumann+Series+Expansions%22+OR+ti%3A%22Smooth+Quadratic+Prediction+Markets%22+OR+ti%3A%22TwinMarket+A+Scalable+Behavioral+and+Social+Simulation+for+Financial+Markets%22+OR+ti%3A%22Win+Fast+or+Lose+Slow+Balancing+Speed+and+Accuracy+in+Latency+Sensitive+Decisions%22+OR+ti%3A%22A+Set+Sequence+Model+for+Time+Series%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Scalable+Signature+Kernel+Computations+via+Local+Neumann+Series+Expansions%22+OR+ti%3A%22Smooth+Quadratic+Prediction+Markets%22+OR+ti%3A%22TwinMarket+A+Scalable+Behavioral+and+Social+Simulation+for+Financial+Markets%22+OR+ti%3A%22Win+Fast+or+Lose+Slow+Balancing+Speed+and+Accuracy+in+Latency+Sensitive+Decisions%22+OR+ti%3A%22A+Set+Sequence+Model+for+Time+Series%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:44.045225+00:00",
+  "bytes": 10772,
+  "sha256": "5d0574d04103732307835ab51c9558152ebbac2bb1cc20c9ffd5f3f492d03334",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-efa99bba9ab57c4a8e17.gz"
+}

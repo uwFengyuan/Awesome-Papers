@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22How+Do+Transformers+Learn+to+Associate+Tokens+Gradient+Leading+Terms+Bring+Mechanistic+Interpretability%22+OR+ti%3A%22How+Learning+Rate+Decay+Wastes+Your+Best+Data+in+Curriculum+Based+LLM+Pretraining%22+OR+ti%3A%22How+Reliable+is+Language+Model+Micro+Benchmarking%22+OR+ti%3A%22Hubble+a+Model+Suite+to+Advance+the+Study+of+LLM+Memorization%22+OR+ti%3A%22Huxley+G+odel+Machine+Human+Level+Coding+Agent+Development+by+an+Approximation+of%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22How+Do+Transformers+Learn+to+Associate+Tokens+Gradient+Leading+Terms+Bring+Mechanistic+Interpretability%22+OR+ti%3A%22How+Learning+Rate+Decay+Wastes+Your+Best+Data+in+Curriculum+Based+LLM+Pretraining%22+OR+ti%3A%22How+Reliable+is+Language+Model+Micro+Benchmarking%22+OR+ti%3A%22Hubble+a+Model+Suite+to+Advance+the+Study+of+LLM+Memorization%22+OR+ti%3A%22Huxley+G+odel+Machine+Human+Level+Coding+Agent+Development+by+an+Approximation+of%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:02.997042+00:00",
+  "bytes": 11904,
+  "sha256": "9a7f21c3e3d29b4401a1c74524a5e2747fa8cb119d3188ef08a9e6fbbfee039f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-d0bf3e58cbfc434d6d47.gz"
+}

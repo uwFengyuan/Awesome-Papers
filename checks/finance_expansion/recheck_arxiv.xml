@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/ipvDkYCbUX3TUD+9oLamWzHnFGg</id>
+  <title>arXiv Query: search_query=ti:"Context level Language Modeling by Learning Predictive Context Embeddings" OR ti:"Mitigating Label Shift in Tabular In Context Learning via Test Time Posterior Adjustment" OR ti:"Reward Redistribution for CVaR MDPs using a Bellman Operator on L infinity" OR ti:"Optimal Transport Group Counterfactual Explanations" OR ti:"FutureOmni Evaluating Future Forecasting from Omni Modal Context for Multimodal LLMs" OR ti:"Robust Strategic Classification under Decision Dependent Cost Uncertainty" OR ti:"StretchTime Adaptive Time Series Forecasting via Symplectic Attention" OR ti:"Video in the Loop Span Grounded Long Video QA with Interleaved Reasoning" OR ti:"LagLLM LLM empowered lead lag dependency learning for spatial temporal time series forecasting" OR ti:"KineFlow Kinematic Second Order Flow Matching for Time Series Forecasting" OR ti:"Delving into Non Exchangeability for Conformal Prediction in Graph Structured Multivariate Time Series" OR ti:"TSFAdv Frequency Guided Black Box Adversarial Attacks on Time Series Forecasting"&amp;id_list=&amp;start=0&amp;max_results=100</title>
+  <updated>2026-11-01T15:28:24Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=ti:%22Context+level+Language+Modeling+by+Learning+Predictive+Context+Embeddings%22+OR+(ti:%22Mitigating+Label+Shift+in+Tabular+In+Context+Learning+via+Test+Time+Posterior+Adjustment%22+OR+(ti:%22Reward+Redistribution+for+CVaR+MDPs+using+a+Bellman+Operator+on+L+infinity%22+OR+(ti:%22Optimal+Transport+Group+Counterfactual+Explanations%22+OR+(ti:%22FutureOmni+Evaluating+Future+Forecasting+from+Omni+Modal+Context+for+Multimodal+LLMs%22+OR+(ti:%22Robust+Strategic+Classification+under+Decision+Dependent+Cost+Uncertainty%22+OR+(ti:%22StretchTime+Adaptive+Time+Series+Forecasting+via+Symplectic+Attention%22+OR+(ti:%22Video+in+the+Loop+Span+Grounded+Long+Video+QA+with+Interleaved+Reasoning%22+OR+(ti:%22LagLLM+LLM+empowered+lead+lag+dependency+learning+for+spatial+temporal+time+series+forecasting%22+OR+(ti:%22KineFlow+Kinematic+Second+Order+Flow+Matching+for+Time+Series+Forecasting%22+OR+(ti:%22Delving+into+Non+Exchangeability+for+Conformal+Prediction+in+Graph+Structured+Multivariate+Time+Series%22+OR+ti:%22TSFAdv+Frequency+Guided+Black+Box+Adversarial+Attacks+on+Time+Series+Forecasting%22))))))))))&amp;start=0&amp;max_results=100&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>100</opensearch:itemsPerPage>
+  <opensearch:totalResults>9</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2601.13836v2</id>
+    <title>FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs</title>
+    <updated>2026-06-17T10:28:13Z</updated>
+    <link href="https://arxiv.org/abs/2601.13836v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.13836v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Although Multimodal Large Language Models (MLLMs) demonstrate strong omni-modal perception, their ability to forecast future events from audio-visual cues remains largely unexplored, as existing benchmarks focus mainly on retrospective understanding. To bridge this gap, we introduce FutureOmni, the first benchmark designed to evaluate omni-modal future forecasting from audio-visual environments. The evaluated models are required to perform cross-modal causal and temporal reasoning, as well as effectively leverage internal knowledge to predict future events. FutureOmni is constructed via a scalable LLM-assisted, human-in-the-loop pipeline and contains 919 videos and 1,034 multiple-choice QA pairs across 8 primary domains. Evaluations on 13 omni-modal and 7 video-only models show that current systems struggle with audio-visual future prediction, particularly in speech-heavy scenarios, with the best accuracy of 64.8% achieved by Gemini 3 Flash. To mitigate this limitation, we curate a 7K-sample instruction-tuning dataset and propose an Omni-Modal Future Forecasting (OFF) training strategy. Evaluations on FutureOmni and popular audio-visual and video-only benchmarks demonstrate that OFF enhances future forecasting and generalization. We publicly release all code (https://github.com/OpenMOSS/FutureOmni) and datasets (https://huggingface.co/datasets/OpenMOSS-Team/FutureOmni).</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.MM" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-20T10:47:20Z</published>
+    <arxiv:comment>Accepted by ICML 2026</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Qian Chen</name>
+    </author>
+    <author>
+      <name>Jinlan Fu</name>
+    </author>
+    <author>
+      <name>Changsong Li</name>
+    </author>
+    <author>
+      <name>Min Zhang</name>
+    </author>
+    <author>
+      <name>See-Kiong Ng</name>
+    </author>
+    <author>
+      <name>Xipeng Qiu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.03778v2</id>
+    <title>Reward Redistribution for CVaR MDPs using a Bellman Operator on L-infinity</title>
+    <updated>2026-06-30T15:15:04Z</updated>
+    <link href="https://arxiv.org/abs/2602.03778v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.03778v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Tail-end risk measures such as static conditional value-at-risk (CVaR) are used in safety-critical applications to prevent rare, yet catastrophic events. Unlike risk-neutral objectives, the static CVaR of the return depends on entire trajectories without admitting a recursive Bellman decomposition in the underlying Markov decision process. A classical resolution relies on state augmentation with a continuous variable. However, unless restricted to a specialized class of admissible value functions, this formulation induces sparse rewards and degenerate fixed points. In this work, we propose a novel formulation of the static CVaR objective based on augmentation. Our alternative approach leads to a Bellman operator with: (1) dense per-step rewards; (2) contracting properties on the full space of bounded value functions. Building on this theoretical foundation, we develop risk-averse value iteration and model-free Q-learning algorithms that rely on discretized augmented states. We further provide convergence guarantees and approximation error bounds due to discretization. Empirical results demonstrate that our algorithms successfully learn CVaR-sensitive policies and achieve effective performance-safety trade-offs.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-03T17:39:45Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Aneri Muni</name>
+    </author>
+    <author>
+      <name>Vincent Taboga</name>
+    </author>
+    <author>
+      <name>Esther Derman</name>
+    </author>
+    <author>
+      <name>Pierre-Luc Bacon</name>
+    </author>
+    <author>
+      <name>Erick Delage</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.04363v2</id>
+    <title>Mitigating Label Shift in Tabular In-Context Learning via Test-Time Posterior Adjustment</title>
+    <updated>2026-05-24T03:30:57Z</updated>
+    <link href="https://arxiv.org/abs/2605.04363v2" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.04363v2" rel="related" type="application/pdf" title="pdf"/>
+    <summary>TabPFN has recently gained attention as a foundation model for tabular datasets, achieving strong performance by leveraging in-context learning on synthetic data. However, we find that TabPFN is vulnerable to label shift, often overfitting to the majority class in the training dataset. To address this limitation, we propose DistPFN, the first test-time posterior adjustment method designed for tabular foundation models. DistPFN rescales predicted class probabilities by downweighting the influence of the training prior (i.e., the class distribution of the context) and emphasizing the contribution of the model's predicted posterior, without architectural modification or additional training. We further introduce DistPFN-T, which incorporates temperature scaling to adaptively control the adjustment strength based on the discrepancy between prior and posterior. We evaluate our methods on over 250 OpenML datasets, demonstrating substantial improvements for various TabPFN-based models in classification tasks under label shift, while maintaining strong performance in standard settings without label shift. Code is available at this repository: https://github.com/seunghan96/DistPFN.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-06T00:01:47Z</published>
+    <arxiv:comment>ICML 2026</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Seunghan Lee</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2510.04022v3</id>
+    <title>Video-in-the-Loop: Span-Grounded Long Video QA with Interleaved Reasoning</title>
+    <updated>2025-10-08T04:05:20Z</updated>
+    <link href="https://arxiv.org/abs/2510.04022v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.04022v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We present \emph{Video-in-the-Loop} (ViTL), a two-stage long-video QA framework that preserves a fixed token budget by first \emph{localizing} question-relevant interval(s) with a low-fps skim and then \emph{answering} via span-aware reallocation of visual tokens at higher effective frame rate, emitting an interleaved output with both spans and the final option for direct attribution. We also introduce \dataname{}, which converts description based event graphs into \emph{span-grounded} multiple-choice QA by pairing each question with \emph{ground-truth} time span(s) and related reasoning. ViTL is trained end-to-end with an interleaved group-relative objective that couples temporal IoU for localization with answer correctness, allowing credit to flow from answers back to spans without increasing compute. Under fixed token budgets, ViTL attains up to 8.6% with 50% less frame input on long-video QA and temporal grounding (e.g., Charades-STA, ActivityNet-Captions) and ablations show that span-aware token reallocation consistently surpasses uniform sampling. Together, \dataname{} and ViTL provide an interpretable, compute-efficient recipe for scalable long-video QA.</summary>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-05T04:03:31Z</published>
+    <arxiv:primary_category term="cs.CV"/>
+    <author>
+      <name>Chendong Wang</name>
+    </author>
+    <author>
+      <name>Donglin Bai</name>
+    </author>
+    <author>
+      <name>Yifan Yang</name>
+    </author>
+    <author>
+      <name>Xiao Jin</name>
+    </author>
+    <author>
+      <name>Anlan Zhang</name>
+    </author>
+    <author>
+      <name>Rui Wang</name>
+    </author>
+    <author>
+      <name>Shiqi Jiang</name>
+    </author>
+    <author>
+      <name>Yuqing Yang</name>
+    </author>
+    <author>
+      <name>Hao Wu</name>
+    </author>
+    <author>
+      <name>Qi Dai</name>
+    </author>
+    <author>
+      <name>Chong Luo</name>
+    </author>
+    <author>
+      <name>Ting Cao</name>
+    </author>
+    <author>
+      <name>Lili Qiu</name>
+    </author>
+    <author>
+      <name>Suman Banerjee</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2605.04957v1</id>
+    <title>Delving into Non-Exchangeability for Conformal Prediction in Graph-Structured Multivariate Time Series</title>
+    <updated>2026-05-06T14:19:16Z</updated>
+    <link href="https://arxiv.org/abs/2605.04957v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2605.04957v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Point forecasting for graph-structured multivariate time series is a fundamental problem, but rigorous uncertainty quantification for such predictions is still underexplored. Conformal prediction (CP) offers uncertainty estimation with a solid coverage guarantee under the exchangeability assumption, which requires the joint data distribution to be unchanged under permutation. However, in graph-structured time series, inherent cross-node coupling can violate the exchangeability condition, making direct application of CP unreliable. Inspired by the spectral graph theory, such coupling resides in global trends and can be characterized by the low-frequency components, while high-frequency components are nearly exchangeable. Therefore, we propose a novel concept named Spectral Graph Conditional Exchangeability (SGCE), which conditions exchangeable high-frequency components on low-frequency ones to preserve global trends and enable effective CP in the spectral domain. Based on SGCE, we further propose Spectral Conformal prediction via wAveLEt transform (SCALE). SCALE uses graph wavelets to decompose low/high-frequency components and conformalizes high-frequency residuals via adaptive gating over a low-frequency embedding. Experimental results on real-world traffic datasets show that SCALE not only achieves valid coverage but also consistently improves the coverage-efficiency trade-off over the state-of-the-art CP methods.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-05-06T14:19:16Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Ruichao Guo</name>
+    </author>
+    <author>
+      <name>Xingyao Han</name>
+    </author>
+    <author>
+      <name>Luo Wenshui</name>
+    </author>
+    <author>
+      <name>Zhe Liu</name>
+    </author>
+    <author>
+      <name>Chen Gong</name>
+    </author>
+    <author>
+      <name>Hesheng Wang</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2602.08983v1</id>
+    <title>StretchTime: Adaptive Time Series Forecasting via Symplectic Attention</title>
+    <updated>2026-02-09T18:29:25Z</updated>
+    <link href="https://arxiv.org/abs/2602.08983v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2602.08983v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Transformer architectures have established strong baselines in time series forecasting, yet they typically rely on positional encodings that assume uniform, index-based temporal progression. However, real-world systems, from shifting financial cycles to elastic biological rhythms, frequently exhibit "time-warped" dynamics where the effective flow of time decouples from the sampling index. In this work, we first formalize this misalignment and prove that rotary position embedding (RoPE) is mathematically incapable of representing non-affine temporal warping. To address this, we propose Symplectic Positional Embeddings (SyPE), a learnable encoding framework derived from Hamiltonian mechanics. SyPE strictly generalizes RoPE by extending the rotation group $\mathrm{SO}(2)$ to the symplectic group $\mathrm{Sp}(2,\mathbb{R})$, modulated by a novel input-dependent adaptive warp module. By allowing the attention mechanism to adaptively dilate or contract temporal coordinates end-to-end, our approach captures locally varying periodicities without requiring pre-defined warping functions. We implement this mechanism in StretchTime, a multivariate forecasting architecture that achieves state-of-the-art performance on standard benchmarks, demonstrating superior robustness on datasets exhibiting non-stationary temporal dynamics.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-02-09T18:29:25Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Yubin Kim</name>
+    </author>
+    <author>
+      <name>Viresh Pati</name>
+    </author>
+    <author>
+      <name>Jevon Twitty</name>
+    </author>
+    <author>
+      <name>Vinh Pham</name>
+    </author>
+    <author>
+      <name>Shihao Yang</name>
+    </author>
+    <author>
+      <name>Jiecheng Lu</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2606.30136v1</id>
+    <title>Robust Strategic Classification under Decision-Dependent Cost Uncertainty</title>
+    <updated>2026-06-29T11:15:11Z</updated>
+    <link href="https://arxiv.org/abs/2606.30136v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2606.30136v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Humans facing algorithmic decision systems have been found to ``game'' them by altering their input data (at a cost to them) in order to favorably change the algorithmic outcomes they receive (at a cost to the algorithm). The growing literature on strategic classification seeks to develop robust machine learning algorithms that account for, and reduce, unwanted strategic behavior. A limitation of these existing works is that they assume the cost of strategic behavior to be fixed and independent of the classifier's decision. In practice, however, manipulation costs evolve and depend on past algorithmic decisions: today's decisions influence tomorrow's costs. This paper proposes and analyzes a two-stage robust optimization framework with a decision-dependent uncertainty set to capture such dependencies. We highlight that awareness of policy-dependent costs not only reduces uncertainty, but also better curtails gaming of the algorithmic system over time.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.GT" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-06-29T11:15:11Z</published>
+    <arxiv:comment>29 pages, 7 figures, accepted for publication at ICML 2026</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Sura Alhanouti</name>
+    </author>
+    <author>
+      <name>Güzin Bayraksan</name>
+    </author>
+    <author>
+      <name>Parinaz Naghizadeh</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2510.20280v3</id>
+    <title>Context-level Language Modeling by Learning Predictive Context Embeddings</title>
+    <updated>2026-02-11T15:16:11Z</updated>
+    <link href="https://arxiv.org/abs/2510.20280v3" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2510.20280v3" rel="related" type="application/pdf" title="pdf"/>
+    <summary>We propose ContextLM, a framework that implicitly learns multi-token prediction by augmenting standard pretraining with an intrinsic next-context prediction objective. ContextLM builds a language model on top of context embeddings that span multiple tokens, enabling better next-token prediction by predicting the next context. Our model is fully compatible with standard autoregressive, token-by-token evaluation paradigms (e.g., perplexity). Extensive experiments with GPT-2 and Pythia backbones (up to 1.5B parameters and 300B training tokens) reveal that ContextLM shifts the Pareto frontier of scaling laws, exhibiting superior efficiency in parameters, training tokens, and FLOPs. Our results show that ContextLM could already achieve the baseline perplexity using 39\% fewer parameters and demonstrates robust generalization improvements on extensive downstream tasks under equivalent parameter counts.</summary>
+    <category term="cs.CL" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2025-10-23T07:09:45Z</published>
+    <arxiv:comment>19pages,6 figures, 13 Tables</arxiv:comment>
+    <arxiv:primary_category term="cs.CL"/>
+    <author>
+      <name>Beiya Dai</name>
+    </author>
+    <author>
+      <name>Yuliang Liu</name>
+    </author>
+    <author>
+      <name>Daozheng Xue</name>
+    </author>
+    <author>
+      <name>Yunchong Song</name>
+    </author>
+    <author>
+      <name>Qipeng Guo</name>
+    </author>
+    <author>
+      <name>Kai Chen</name>
+    </author>
+    <author>
+      <name>Xinbing Wang</name>
+    </author>
+    <author>
+      <name>Bowen Zhou</name>
+    </author>
+    <author>
+      <name>Zhouhan Lin</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2601.20692v1</id>
+    <title>Optimal Transport Group Counterfactual Explanations</title>
+    <updated>2026-01-28T15:22:20Z</updated>
+    <link href="https://arxiv.org/abs/2601.20692v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2601.20692v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Group counterfactual explanations find a set of counterfactual instances to explain a group of input instances contrastively. However, existing methods either (i) optimize counterfactuals only for a fixed group and do not generalize to new group members, (ii) strictly rely on strong model assumptions (e.g., linearity) for tractability or/and (iii) poorly control the counterfactual group geometry distortion. We instead learn an explicit optimal transport map that sends any group instance to its counterfactual without re-optimization, minimizing the group's total transport cost. This enables generalization with fewer parameters, making it easier to interpret the common actionable recourse. For linear classifiers, we prove that functions representing group counterfactuals are derived via mathematical optimization, identifying the underlying convex optimization type (QP, QCQP, ...). Experiments show that they accurately generalize, preserve group geometry and incur only negligible additional transport cost compared to baseline methods. If model linearity cannot be exploited, our approach also significantly outperforms the baselines.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2026-01-28T15:22:20Z</published>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Enrique Valero-Leal</name>
+    </author>
+    <author>
+      <name>Bernd Bischl</name>
+    </author>
+    <author>
+      <name>Pedro Larrañaga</name>
+    </author>
+    <author>
+      <name>Concha Bielza</name>
+    </author>
+    <author>
+      <name>Giuseppe Casalicchio</name>
+    </author>
+  </entry>
+</feed>

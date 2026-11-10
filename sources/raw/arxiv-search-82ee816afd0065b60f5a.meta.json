@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Dynamical+Low+Rank+Compression+of+Neural+Networks+with+Robustness+under+Adversarial+Attacks%22+OR+ti%3A%22ElasticMM+Efficient+Multimodal+LLMs+Serving+with+Elastic+Multimodal+Parallelism%22+OR+ti%3A%22EvoLM+In+Search+of+Lost+Language+Model+Training+Dynamics%22+OR+ti%3A%22Exploring+Diffusion+Transformer+Designs+via+Grafting%22+OR+ti%3A%22From+Condensation+to+Rank+Collapse+A+Two+Stage+Analysis+of+Transformer+Training+Dynamics%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Dynamical+Low+Rank+Compression+of+Neural+Networks+with+Robustness+under+Adversarial+Attacks%22+OR+ti%3A%22ElasticMM+Efficient+Multimodal+LLMs+Serving+with+Elastic+Multimodal+Parallelism%22+OR+ti%3A%22EvoLM+In+Search+of+Lost+Language+Model+Training+Dynamics%22+OR+ti%3A%22Exploring+Diffusion+Transformer+Designs+via+Grafting%22+OR+ti%3A%22From+Condensation+to+Rank+Collapse+A+Two+Stage+Analysis+of+Transformer+Training+Dynamics%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:22.532824+00:00",
+  "bytes": 13284,
+  "sha256": "05a61d4ed32c2f67d52119a99b11cacd0a811f9f9194209ea0eb32f6cab345fd",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-82ee816afd0065b60f5a.gz"
+}

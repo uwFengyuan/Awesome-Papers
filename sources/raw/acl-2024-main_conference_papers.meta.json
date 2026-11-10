@@ -1,0 +1,10 @@
+{
+  "url": "https://2024.aclweb.org/program/main_conference_papers/",
+  "final_url": "https://2024.aclweb.org/program/main_conference_papers/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:06.313280+00:00",
+  "bytes": 202063,
+  "sha256": "879001f74f2748756ff415df1afdb4becdb3a5dcc24b5a5c7dca006510b47703",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2024-main_conference_papers.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ThreadWeaver+Adaptive+Threading+for+Efficient+Parallel+Reasoning+in+Language+Models%22+OR+ti%3A%22TokSuite+Measuring+the+Impact+of+Tokenizer+Choice+on+Language+Model+Behavior%22+OR+ti%3A%22Towards+Hierarchy+Uniformity+Equilibrium+Recovering+Semantic+Depth+in+Hypergraph+Contrastive+Learning%22+OR+ti%3A%22Towards+Long+Horizon+Interpretability+Efficient+and+Faithful+Multi+Token+Attribution+for+Reasoning+LLMs%22+OR+ti%3A%22Towards+Sub+Second+Molecular+Docking+as+a+Structural+Primitive+A+Quantized+Consistency+Diffusion%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ThreadWeaver+Adaptive+Threading+for+Efficient+Parallel+Reasoning+in+Language+Models%22+OR+ti%3A%22TokSuite+Measuring+the+Impact+of+Tokenizer+Choice+on+Language+Model+Behavior%22+OR+ti%3A%22Towards+Hierarchy+Uniformity+Equilibrium+Recovering+Semantic+Depth+in+Hypergraph+Contrastive+Learning%22+OR+ti%3A%22Towards+Long+Horizon+Interpretability+Efficient+and+Faithful+Multi+Token+Attribution+for+Reasoning+LLMs%22+OR+ti%3A%22Towards+Sub+Second+Molecular+Docking+as+a+Structural+Primitive+A+Quantized+Consistency+Diffusion%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:51.707056+00:00",
+  "bytes": 8993,
+  "sha256": "862315aa96af9016dbc298a77719e9b0e3cfe6963670ae53f9bab002ca241856",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-11d695110bcc26d50cc8.gz"
+}

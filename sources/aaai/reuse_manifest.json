@@ -1,0 +1,326 @@
+[
+  {
+    "path": "sources/aaai/crossref_2017_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2017_00000.json.gz",
+    "sha256": "98aae895f06d2975ce3ed91c07b6adfaa9e5cc12db849d52133c0ae6c66398b6",
+    "bytes": 446619
+  },
+  {
+    "path": "sources/aaai/crossref_2017_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2017_00000.json.gz.meta.json",
+    "sha256": "c2935c936f9bf98e3ef81205499332f4df8a549d6065e2e3501d465111b4e2cf",
+    "bytes": 341
+  },
+  {
+    "path": "sources/aaai/crossref_2018_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2018_00000.json.gz",
+    "sha256": "9de46306b8f76b21f3f5abb06d17c031e316215af95dfdb50b78794994130ae6",
+    "bytes": 585937
+  },
+  {
+    "path": "sources/aaai/crossref_2018_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2018_00000.json.gz.meta.json",
+    "sha256": "88bf7094cdf613126a03463e0b9fecbb7dcc97215b9703fe630d572e7a5c834b",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2018_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2018_01000.json.gz",
+    "sha256": "50fb3fefc44b42350d916b253e9bcdcb5bec2dc595540858977b16121a0892ce",
+    "bytes": 59294
+  },
+  {
+    "path": "sources/aaai/crossref_2018_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2018_01000.json.gz.meta.json",
+    "sha256": "52e0b17d53b296e4f5532820a226292df78fe5953a4e49ef76ba6d8325997097",
+    "bytes": 345
+  },
+  {
+    "path": "sources/aaai/crossref_2019_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2019_00000.json.gz",
+    "sha256": "43f8097c51077844b3080e319ce8cdc388fc6d4539cebbcd7a7b1a31ec128843",
+    "bytes": 620961
+  },
+  {
+    "path": "sources/aaai/crossref_2019_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2019_00000.json.gz.meta.json",
+    "sha256": "3fc489c9c99e2477e63e310170322dc8be956d8c97bbe22edc42a5ec28df1c40",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2019_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2019_01000.json.gz",
+    "sha256": "b95dc2701f2fe5381c0e60c31d3717b7025fee18ce7ef81451c2e7be47fd1964",
+    "bytes": 215826
+  },
+  {
+    "path": "sources/aaai/crossref_2019_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2019_01000.json.gz.meta.json",
+    "sha256": "dbb1ac7343b212c0caea499627a00b2971e55c51d2aeba7ad326e43a30afba1f",
+    "bytes": 345
+  },
+  {
+    "path": "sources/aaai/crossref_2020_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2020_00000.json.gz",
+    "sha256": "366355888c9cf33896289fc4966d830a05c82b8fbdb36a1d9147569cc9c2a277",
+    "bytes": 631822
+  },
+  {
+    "path": "sources/aaai/crossref_2020_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2020_00000.json.gz.meta.json",
+    "sha256": "3fc86da3d60d1f2876577ca58fdfdfd09e329f8dd9aea8af45bb8a7a10c8d631",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2020_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2020_01000.json.gz",
+    "sha256": "21604841b0e186d326aa9aa7dc77b48ea1743fe55e5edcd87a5ac4e4f87e3260",
+    "bytes": 545238
+  },
+  {
+    "path": "sources/aaai/crossref_2020_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2020_01000.json.gz.meta.json",
+    "sha256": "6997bb4f011757e537f27859c14c974f4ec17e00717a254489e9664f57bc021f",
+    "bytes": 345
+  },
+  {
+    "path": "sources/aaai/crossref_2021_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2021_00000.json.gz",
+    "sha256": "45ef5a8ff56973481766ad9f331d15794d594298ad65926bb7a7ff8885ede0a3",
+    "bytes": 629489
+  },
+  {
+    "path": "sources/aaai/crossref_2021_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2021_00000.json.gz.meta.json",
+    "sha256": "b801336836cf4c1aeff025587b389c97992ac02f04ac5f4e21a324152f82a347",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2021_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2021_01000.json.gz",
+    "sha256": "051f886e8c255d7ef15732819754c5c7e684a362f3e22f3e97df7509e57dd291",
+    "bytes": 633330
+  },
+  {
+    "path": "sources/aaai/crossref_2021_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2021_01000.json.gz.meta.json",
+    "sha256": "be22ed088ac8387b116e4e78c0f3f591ded64148211174e4b1072123ba2bb6cd",
+    "bytes": 346
+  },
+  {
+    "path": "sources/aaai/crossref_2021_02000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2021_02000.json.gz",
+    "sha256": "95f1a9b12f52617a63f9fcdd7a2eba6acbc343472728e24f4c3440b5f763c7e2",
+    "bytes": 211789
+  },
+  {
+    "path": "sources/aaai/crossref_2021_02000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2021_02000.json.gz.meta.json",
+    "sha256": "4d236714dfcf211c842a4bbec3ccd1774c19f3416c7da84e5e64a3b5ff606a87",
+    "bytes": 345
+  },
+  {
+    "path": "sources/aaai/crossref_2022_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2022_00000.json.gz",
+    "sha256": "d3ea0bb8288455800b78c17244243196b14386eb5b8e1ffac31336ce7e482f04",
+    "bytes": 643736
+  },
+  {
+    "path": "sources/aaai/crossref_2022_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2022_00000.json.gz.meta.json",
+    "sha256": "f3576a2e0783267c1c6ba68d7c4f516b1a6817b2d8a294ef3a78706890df1279",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2022_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2022_01000.json.gz",
+    "sha256": "f46254f75fb3b0c4174845aafbdf6cd37c1254d1fe760dde243a56181f766a99",
+    "bytes": 404522
+  },
+  {
+    "path": "sources/aaai/crossref_2022_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2022_01000.json.gz.meta.json",
+    "sha256": "25091425c508b789227e03914dfd849f8a7cee287e5513874c2dd884089b8457",
+    "bytes": 345
+  },
+  {
+    "path": "sources/aaai/crossref_2023_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2023_00000.json.gz",
+    "sha256": "9c05af31752e5f86ffd78396cc76c4cf20c4d04039d878fd5e2b8f890920363a",
+    "bytes": 653825
+  },
+  {
+    "path": "sources/aaai/crossref_2023_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2023_00000.json.gz.meta.json",
+    "sha256": "e8b9207ce703dafd407655e4a7d9672ec6fa5becadc041f909a3031c79126ea1",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2023_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2023_01000.json.gz",
+    "sha256": "bad4084f24911acc749d0f6b800f60ee1186d21e05c5aa111e2568f7c0bea49a",
+    "bytes": 662604
+  },
+  {
+    "path": "sources/aaai/crossref_2023_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2023_01000.json.gz.meta.json",
+    "sha256": "ac25c0185217858fb62ebe0c300b09798104475cf8ddab3cc9b1dc1c693225d8",
+    "bytes": 346
+  },
+  {
+    "path": "sources/aaai/crossref_2023_02000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2023_02000.json.gz",
+    "sha256": "4fd461c4534ec0ac522ed15c9524d3fd4a0036e459a3130444e6ebe794f70367",
+    "bytes": 16149
+  },
+  {
+    "path": "sources/aaai/crossref_2023_02000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2023_02000.json.gz.meta.json",
+    "sha256": "0c2d537e590ce18abefa034401a3618efe95562928cedc1d364115032bf2c8fc",
+    "bytes": 344
+  },
+  {
+    "path": "sources/aaai/crossref_2024_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2024_00000.json.gz",
+    "sha256": "040475e1895f967e6da57c212bcc15ebea3d9a1dcdf20af016506b6fdbf6cce4",
+    "bytes": 685902
+  },
+  {
+    "path": "sources/aaai/crossref_2024_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2024_00000.json.gz.meta.json",
+    "sha256": "f7c6d7e1b7c3de166d5269b6f8601eedbc1526c403eb821d1f7dbd769a7bbfc1",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2024_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2024_01000.json.gz",
+    "sha256": "6009914b1eed2e94f872c865314520a836e34bb0a9fc2b84d31dfa2406b3dca9",
+    "bytes": 687844
+  },
+  {
+    "path": "sources/aaai/crossref_2024_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2024_01000.json.gz.meta.json",
+    "sha256": "d90a6b3399681662e7e9d5f14dadc8793b2d242a74f2b9fca67051a2e2f78682",
+    "bytes": 346
+  },
+  {
+    "path": "sources/aaai/crossref_2024_02000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2024_02000.json.gz",
+    "sha256": "71433ee3f6a89dd315b44756c6cb11801d94b83839d4170475a9dfe0dac079e8",
+    "bytes": 603767
+  },
+  {
+    "path": "sources/aaai/crossref_2024_02000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2024_02000.json.gz.meta.json",
+    "sha256": "aafbbb8d69fd37a0d3f5c4ae0fac2500e776cd99024019e9837a5207e1d47f2c",
+    "bytes": 345
+  },
+  {
+    "path": "sources/aaai/crossref_2025_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2025_00000.json.gz",
+    "sha256": "f8abc7d4a98b6903e48aec33d3bb4139aa919d79413ae2335d2e409ffd6ac1de",
+    "bytes": 680918
+  },
+  {
+    "path": "sources/aaai/crossref_2025_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2025_00000.json.gz.meta.json",
+    "sha256": "097bc8b70f7d680549424e00ac66ce165753159e8fcbc4be3f2ec2d0c8bc93b0",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2025_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2025_01000.json.gz",
+    "sha256": "57b3b939fcd97f4ed50c6f05962c01d7a7446ad0ad740f205c96e69e4ac21c5b",
+    "bytes": 682635
+  },
+  {
+    "path": "sources/aaai/crossref_2025_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2025_01000.json.gz.meta.json",
+    "sha256": "b79a7b80623e0a517093eaf644000eb4f12cf9943a7ba25154691b02e681cd10",
+    "bytes": 346
+  },
+  {
+    "path": "sources/aaai/crossref_2025_02000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2025_02000.json.gz",
+    "sha256": "a11b8c0577cdfd4383779e958727d8ffcb49c54d8872108531579dab083f5127",
+    "bytes": 682880
+  },
+  {
+    "path": "sources/aaai/crossref_2025_02000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2025_02000.json.gz.meta.json",
+    "sha256": "6804e838c97a7df572aae9d0db2b07ead686aba383ac3fc2c5509f326797c725",
+    "bytes": 346
+  },
+  {
+    "path": "sources/aaai/crossref_2025_03000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2025_03000.json.gz",
+    "sha256": "058321cae2e0e3d7da387df34a21af3108e157e7dc9c900c73921bebcbb6907e",
+    "bytes": 330348
+  },
+  {
+    "path": "sources/aaai/crossref_2025_03000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2025_03000.json.gz.meta.json",
+    "sha256": "2ae3bb166b026198f9010f03d19b3521bb83f6894022f99ddfa1147db1cc781a",
+    "bytes": 345
+  },
+  {
+    "path": "sources/aaai/crossref_2026_00000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_00000.json.gz",
+    "sha256": "453644012a765ffc099e3f980f43ccdab36e9c87d7f1bcbc7a39f7dbe3dc9ad8",
+    "bytes": 712505
+  },
+  {
+    "path": "sources/aaai/crossref_2026_00000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_00000.json.gz.meta.json",
+    "sha256": "dda4916d8b17dee5ac8a39c7492507e3180bda40d5512af4e3894d358efa7757",
+    "bytes": 343
+  },
+  {
+    "path": "sources/aaai/crossref_2026_01000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_01000.json.gz",
+    "sha256": "cdd87161c70da6127b594659f0d8230f92ccb422a9dde60e2416addb2f03178b",
+    "bytes": 706732
+  },
+  {
+    "path": "sources/aaai/crossref_2026_01000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_01000.json.gz.meta.json",
+    "sha256": "681d1f37ceac236e8d741a1464b4129c48afc383a341abaefd09dd912d13e26c",
+    "bytes": 346
+  },
+  {
+    "path": "sources/aaai/crossref_2026_02000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_02000.json.gz",
+    "sha256": "a0a2b3c787af7080dbb79a40f5c0ab606c64200ef28e3ed0c92216eb10b2f9c5",
+    "bytes": 710122
+  },
+  {
+    "path": "sources/aaai/crossref_2026_02000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_02000.json.gz.meta.json",
+    "sha256": "67c0c9ea73379f994fa573ca20a4bd479d2711031bc49cd107608813272b8014",
+    "bytes": 346
+  },
+  {
+    "path": "sources/aaai/crossref_2026_03000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_03000.json.gz",
+    "sha256": "37f31aa7bf24d5c576deca0e00dec51cbf260ddbfcb20fb0a4732576fb2bcaaa",
+    "bytes": 711833
+  },
+  {
+    "path": "sources/aaai/crossref_2026_03000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_03000.json.gz.meta.json",
+    "sha256": "4c1feb1eb718bb9c535e9826f28f8e15294fdc9cac22ba32e7803daf8e719c5c",
+    "bytes": 346
+  },
+  {
+    "path": "sources/aaai/crossref_2026_04000.json.gz",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_04000.json.gz",
+    "sha256": "9e28765a470fde161d25ea9b3ad7c0dd16eca187c338f583fbe461addac7671e",
+    "bytes": 651704
+  },
+  {
+    "path": "sources/aaai/crossref_2026_04000.json.gz.meta.json",
+    "reference_path": "/home/qi/aiagent/Awesome-AI4Finance-Papers/main/sources/aaai/crossref_2026_04000.json.gz.meta.json",
+    "sha256": "c9591828246e75aa1b03eb4c67858f4145f14ff02bfc8ea7f84b722e91276abe",
+    "bytes": 345
+  }
+]

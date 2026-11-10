@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Comparing+Rewinding+and+Fine+tuning+in+Neural+Network+Pruning%22+OR+ti%3A%22Contrastive+Learning+of+Structured+World+Models%22+OR+ti%3A%22Convolutional+Conditional+Neural+Processes%22+OR+ti%3A%22Cyclical+Stochastic+Gradient+MCMC+for+Bayesian+Deep+Learning%22+OR+ti%3A%22Data+dependent+Gaussian+Prior+Objective+for+Language+Generation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Comparing+Rewinding+and+Fine+tuning+in+Neural+Network+Pruning%22+OR+ti%3A%22Contrastive+Learning+of+Structured+World+Models%22+OR+ti%3A%22Convolutional+Conditional+Neural+Processes%22+OR+ti%3A%22Cyclical+Stochastic+Gradient+MCMC+for+Bayesian+Deep+Learning%22+OR+ti%3A%22Data+dependent+Gaussian+Prior+Objective+for+Language+Generation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:16.526486+00:00",
+  "bytes": 20746,
+  "sha256": "4c95e177ce7c24bd5b214690f98ef2931ceb483082bd377427fc96c8645abfa1",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b2318b22b88d1dc66932.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22BizFinBench+v2+Towards+Reliable+LLMs+in+Finance+via+Real+User+Data+and+Offline%22+OR+ti%3A%22Decision+focused+Sparse+Tangent+Portfolio+Optimization%22+OR+ti%3A%22Decomposition+Based+Modular+Conformal+Prediction+for+Two+Stage+Modeling%22+OR+ti%3A%22Design+Linear+Constrained+Neural+Layers+with+Implicit+Convex+Optimization%22+OR+ti%3A%22ECSEL+Explainable+Classification+via+Signomial+Equation+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22BizFinBench+v2+Towards+Reliable+LLMs+in+Finance+via+Real+User+Data+and+Offline%22+OR+ti%3A%22Decision+focused+Sparse+Tangent+Portfolio+Optimization%22+OR+ti%3A%22Decomposition+Based+Modular+Conformal+Prediction+for+Two+Stage+Modeling%22+OR+ti%3A%22Design+Linear+Constrained+Neural+Layers+with+Implicit+Convex+Optimization%22+OR+ti%3A%22ECSEL+Explainable+Classification+via+Signomial+Equation+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:16.646442+00:00",
+  "bytes": 7578,
+  "sha256": "0e5b20e260f9734507613c60bbf87e0b46b76a11ea21b0266004786a9045542e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-1981fe03187b500e8a6d.gz"
+}

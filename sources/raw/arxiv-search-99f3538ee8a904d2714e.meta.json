@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+the+ESG+Geometry+with+Domain+Aware+Language+Models%22+OR+ti%3A%22Loss+aware+distributionally+robust+optimization+via+trainable+optimal+transport+ambiguity+sets%22+OR+ti%3A%22MAFE+Enabling+Equitable+Algorithm+Design+in+Multi+Agent+Multi+Stage+Decision+Making+Systems%22+OR+ti%3A%22MarketSim+Simulating+Stock+Markets+with+Large+Scale+Generative+Agents%22+OR+ti%3A%22Mining+Useful+General+Data+for+Low+Resource+Domain+Adaptation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+the+ESG+Geometry+with+Domain+Aware+Language+Models%22+OR+ti%3A%22Loss+aware+distributionally+robust+optimization+via+trainable+optimal+transport+ambiguity+sets%22+OR+ti%3A%22MAFE+Enabling+Equitable+Algorithm+Design+in+Multi+Agent+Multi+Stage+Decision+Making+Systems%22+OR+ti%3A%22MarketSim+Simulating+Stock+Markets+with+Large+Scale+Generative+Agents%22+OR+ti%3A%22Mining+Useful+General+Data+for+Low+Resource+Domain+Adaptation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:26.156449+00:00",
+  "bytes": 8676,
+  "sha256": "fa48ea6c068442071897a72df6ee79468c7621ee9fb8bab9e4ba9931f538457e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-99f3538ee8a904d2714e.gz"
+}

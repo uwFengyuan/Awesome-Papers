@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Gated+Attention+for+Large+Language+Models+Non+linearity+Sparsity+and+Attention+Sink+Free%22+OR+ti%3A%22Optimal+Mistake+Bounds+for+Transductive+Online+Learning%22+OR+ti%3A%22Superposition+Yields+Robust+Neural+Scaling%22+OR+ti%3A%22Why+Diffusion+Models+Don+t+Memorize+The+Role+of+Implicit+Dynamical+Regularization+in%22+OR+ti%3A%22Amortised+MAP+Inference+for+Image+Super+resolution%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Gated+Attention+for+Large+Language+Models+Non+linearity+Sparsity+and+Attention+Sink+Free%22+OR+ti%3A%22Optimal+Mistake+Bounds+for+Transductive+Online+Learning%22+OR+ti%3A%22Superposition+Yields+Robust+Neural+Scaling%22+OR+ti%3A%22Why+Diffusion+Models+Don+t+Memorize+The+Role+of+Implicit+Dynamical+Regularization+in%22+OR+ti%3A%22Amortised+MAP+Inference+for+Image+Super+resolution%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:18.127251+00:00",
+  "bytes": 11721,
+  "sha256": "925b4daaaff948700f88432e62f88f98f0d627a7745c64480166ea8e83a8e40e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5f46255cfebe3ab24498.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://huggingface.co/datasets/ai-conferences/AAAI2026/resolve/main/data/train-00000-of-00001.parquet",
+  "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/6a71d7f5e9f3b3d615490ad0/54790e60237513a23d6cf81753fcb61e21cf2dafb07642b9ce7adce91e08c41b?X-Xet-Cas-Uid=public&user_id=public&xip=EiBd5D2RFdY&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27train-00000-of-00001.parquet%3B+filename%3D%22train-00000-of-00001.parquet%22%3B&Expires=1794284605&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNmE3MWQ3ZjVlOWYzYjNkNjE1NDkwYWQwLzU0NzkwZTYwMjM3NTEzYTIzZDZjZjgxNzUzZmNiNjFlMjFjZjJkYWZiMDc2NDJiOWNlN2FkY2U5MWUwOGM0MWJcXD9YLVhldC1DYXMtVWlkPXB1YmxpYyZ1c2VyX2lkPXB1YmxpYyZ4aXA9RWlCZDVEMlJGZFkmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyN3RyYWluLTAwMDAwLW9mLTAwMDAxLnBhcnF1ZXQlM0IrZmlsZW5hbWUlM0QlMjJ0cmFpbi0wMDAwMC1vZi0wMDAwMS5wYXJxdWV0JTIyJTNCIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJFcG9jaFRpbWUiOjE3OTQyODQ2MDV9fX1dfQ__&Signature=MEUCIQCE1mufj8cKjtpuLsa8iOY48ThsmegE3XZL2BUuHnm~fAIgAmntTnj9XvRI46lj-H~MdTPpXyJ52~4azs5oQIVKKFQ_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-10T03:23:25.577303+00:00",
+  "bytes": 3875500,
+  "sha256": "b2317efdc856dd2f53942883de9de597c9864ca78700f0d08d12e807de40cd73",
+  "content_type": "application/octet-stream",
+  "cache_path": "sources/raw/aaai-2026-author-version-discovery.gz"
+}

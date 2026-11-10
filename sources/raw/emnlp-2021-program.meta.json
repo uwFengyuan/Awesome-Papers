@@ -1,0 +1,10 @@
+{
+  "url": "https://2021.emnlp.org/program/",
+  "final_url": "https://2021.emnlp.org/program/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:42.290988+00:00",
+  "bytes": 28589,
+  "sha256": "ba6a808bbd476ff2e5432fefe406d40ae214cc47c86e65667db640fe683e7038",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2021-program.gz"
+}

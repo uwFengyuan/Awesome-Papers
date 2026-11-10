@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MarS+a+Financial+Market+Simulation+Engine+Powered+by+Generative+Foundation+Model%22+OR+ti%3A%22Operator+Deep+Smoothing+for+Implied+Volatility%22+OR+ti%3A%22Teaching+LLMs+How+to+Learn+with+Contextual+Fine+Tuning%22+OR+ti%3A%22A2ASecBench+A+Protocol+Aware+Security+Benchmark+for+Agent+to+Agent+Multi+Agent+Systems%22+OR+ti%3A%22Agentic+Context+Engineering+Evolving+Contexts+for+Self+Improving+Language+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MarS+a+Financial+Market+Simulation+Engine+Powered+by+Generative+Foundation+Model%22+OR+ti%3A%22Operator+Deep+Smoothing+for+Implied+Volatility%22+OR+ti%3A%22Teaching+LLMs+How+to+Learn+with+Contextual+Fine+Tuning%22+OR+ti%3A%22A2ASecBench+A+Protocol+Aware+Security+Benchmark+for+Agent+to+Agent+Multi+Agent+Systems%22+OR+ti%3A%22Agentic+Context+Engineering+Evolving+Contexts+for+Self+Improving+Language+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:12:56.015856+00:00",
+  "bytes": 12096,
+  "sha256": "7193d717eab09dc72cfe81e8a26041410e45cc5b411da2f26358ae8b69b63f7c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b00034fd2882365032a5.gz"
+}

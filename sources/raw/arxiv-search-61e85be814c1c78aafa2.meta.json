@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FuXi+Ocean+A+Global+Ocean+Forecasting+System+with+Sub+Daily+Resolution%22+OR+ti%3A%22Generalized+Gradient+Norm+Clipping+Non+Euclidean+L+0+L+1+Smoothness%22+OR+ti%3A%22Generalized+Linear+Mode+Connectivity+for+Transformers%22+OR+ti%3A%22GnnXemplar+Exemplars+to+Explanations+Natural+Language+Rules+for+Global+GNN+Interpretability%22+OR+ti%3A%22High+Dimensional+Calibration+from+Swap+Regret%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FuXi+Ocean+A+Global+Ocean+Forecasting+System+with+Sub+Daily+Resolution%22+OR+ti%3A%22Generalized+Gradient+Norm+Clipping+Non+Euclidean+L+0+L+1+Smoothness%22+OR+ti%3A%22Generalized+Linear+Mode+Connectivity+for+Transformers%22+OR+ti%3A%22GnnXemplar+Exemplars+to+Explanations+Natural+Language+Rules+for+Global+GNN+Interpretability%22+OR+ti%3A%22High+Dimensional+Calibration+from+Swap+Regret%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:26.011344+00:00",
+  "bytes": 11637,
+  "sha256": "3ad5e147569baa2d0cb0447c3682a31d1ed893fddbeac5527746983393c2543c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-61e85be814c1c78aafa2.gz"
+}

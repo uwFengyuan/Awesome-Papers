@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Information+Flow+Reveals+When+to+Trust+Language+Models%22+OR+ti%3A%22Is+Your+LLM+Overcharging+You+Tokenization+Transparency+and+Incentives%22+OR+ti%3A%22Jailbreak+Foundry+From+Papers+to+Runnable+Attacks+for+Reproducible+Benchmarking%22+OR+ti%3A%22Joint+Learning+in+the+Gaussian+Single+Index+Model%22+OR+ti%3A%22LASER+Learning+Active+Sensing+for+Continuum+Field+Reconstruction%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Information+Flow+Reveals+When+to+Trust+Language+Models%22+OR+ti%3A%22Is+Your+LLM+Overcharging+You+Tokenization+Transparency+and+Incentives%22+OR+ti%3A%22Jailbreak+Foundry+From+Papers+to+Runnable+Attacks+for+Reproducible+Benchmarking%22+OR+ti%3A%22Joint+Learning+in+the+Gaussian+Single+Index+Model%22+OR+ti%3A%22LASER+Learning+Active+Sensing+for+Continuum+Field+Reconstruction%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:00.421401+00:00",
+  "bytes": 11163,
+  "sha256": "056a46be4de44f7acb20ddf2cb1ae3cecbdcc84b2e62623b8a07eedcf6ed99be",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-aad79b371031328c39dd.gz"
+}

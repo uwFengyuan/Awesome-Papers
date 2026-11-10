@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/acl/acl2021.json",
+  "final_url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/acl/acl2021.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:40.899055+00:00",
+  "bytes": 2644158,
+  "sha256": "a45dd16bf88c69763bd0db42d28e5ae5dd322cd1cecfc114597709be7c6d877e",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/acl-2021-copilot.gz"
+}

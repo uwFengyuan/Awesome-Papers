@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ASID+Active+Exploration+for+System+Identification+in+Robotic+Manipulation%22+OR+ti%3A%22Accelerating+Distributed+Stochastic+Optimization+via+Self+Repellent+Random+Walks%22+OR+ti%3A%22Amortizing+intractable+inference+in+large+language+models%22+OR+ti%3A%22An+Analytical+Solution+to+Gauss+Newton+Loss+for+Direct+Image+Alignment%22+OR+ti%3A%22Approximating+Nash+Equilibria+in+Normal+Form+Games+via+Stochastic+Optimization%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ASID+Active+Exploration+for+System+Identification+in+Robotic+Manipulation%22+OR+ti%3A%22Accelerating+Distributed+Stochastic+Optimization+via+Self+Repellent+Random+Walks%22+OR+ti%3A%22Amortizing+intractable+inference+in+large+language+models%22+OR+ti%3A%22An+Analytical+Solution+to+Gauss+Newton+Loss+for+Direct+Image+Alignment%22+OR+ti%3A%22Approximating+Nash+Equilibria+in+Normal+Form+Games+via+Stochastic+Optimization%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:17.624941+00:00",
+  "bytes": 10551,
+  "sha256": "a4d8b108a37425fdccf887953652891958157d26f8589e060dd1f141ec2e2a5c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-afdb1924a519a67afe93.gz"
+}

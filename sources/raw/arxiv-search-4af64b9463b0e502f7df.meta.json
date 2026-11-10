@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ParetoSlider+Diffusion+Models+Post+Training+for+Continuous+Reward+Control%22+OR+ti%3A%22Polar+Transformers+SO+2+K+Equivariant+Angular+Attention+for+Cryo+EM+Image+Set%22+OR+ti%3A%22Prediction+Under+Imperfect+Compression+A+Theory+of+Approximate+MDL%22+OR+ti%3A%22Proactive+Instance+Navigation+with+Comparative+Judgment+for+Ambiguous+User+Queries%22+OR+ti%3A%22Pruning+and+Distilling+Mixture+of+Experts+into+Dense+Language+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ParetoSlider+Diffusion+Models+Post+Training+for+Continuous+Reward+Control%22+OR+ti%3A%22Polar+Transformers+SO+2+K+Equivariant+Angular+Attention+for+Cryo+EM+Image+Set%22+OR+ti%3A%22Prediction+Under+Imperfect+Compression+A+Theory+of+Approximate+MDL%22+OR+ti%3A%22Proactive+Instance+Navigation+with+Comparative+Judgment+for+Ambiguous+User+Queries%22+OR+ti%3A%22Pruning+and+Distilling+Mixture+of+Experts+into+Dense+Language+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:59.932381+00:00",
+  "bytes": 11253,
+  "sha256": "bf20142b1599c3ce70ad195948023169aca5d3f4d4bf092a567c2d42b5e09a50",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4af64b9463b0e502f7df.gz"
+}

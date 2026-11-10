@@ -1,0 +1,10 @@
+{
+  "url": "https://neurips.cc/Conferences/2019/Awards",
+  "final_url": "https://neurips.cc/Conferences/2019/Awards",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:38:54.413959+00:00",
+  "bytes": 45080,
+  "sha256": "d46295e3c89aa55a5500ed9a73c8bc4c37952f4118732daee9d483a14fdf2d59",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2019-awards.gz"
+}

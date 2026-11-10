@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Score+Based+Generative+Modeling+through+Stochastic+Differential+Equations%22+OR+ti%3A%22Self+training+For+Few+shot+Transfer+Across+Extreme+Task+Differences%22+OR+ti%3A%22SenSeI+Sensitive+Set+Invariance+for+Enforcing+Individual+Fairness%22+OR+ti%3A%22Share+or+Not+Learning+to+Schedule+Language+Specific+Capacity+for+Multilingual+Translation%22+OR+ti%3A%22Theoretical+Analysis+of+Self+Training+with+Deep+Networks+on+Unlabeled+Data%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Score+Based+Generative+Modeling+through+Stochastic+Differential+Equations%22+OR+ti%3A%22Self+training+For+Few+shot+Transfer+Across+Extreme+Task+Differences%22+OR+ti%3A%22SenSeI+Sensitive+Set+Invariance+for+Enforcing+Individual+Fairness%22+OR+ti%3A%22Share+or+Not+Learning+to+Schedule+Language+Specific+Capacity+for+Multilingual+Translation%22+OR+ti%3A%22Theoretical+Analysis+of+Self+Training+with+Deep+Networks+on+Unlabeled+Data%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:23.415640+00:00",
+  "bytes": 9809,
+  "sha256": "9b8dc402be1fd1b03b74a7538f6227861d711f9b712c2b4f108c73e19866575e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c3d8ed9bbefbd9bf3588.gz"
+}

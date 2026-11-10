@@ -1,0 +1,25 @@
+PDF queue 1177
+50 / 1177 {'downloaded': 50}
+100 / 1177 {'downloaded': 100}
+150 / 1177 {'downloaded': 150}
+200 / 1177 {'downloaded': 200}
+250 / 1177 {'downloaded': 250}
+300 / 1177 {'downloaded': 300}
+350 / 1177 {'downloaded': 350}
+400 / 1177 {'downloaded': 400}
+450 / 1177 {'downloaded': 445, 'access_blocked': 5}
+500 / 1177 {'downloaded': 491, 'access_blocked': 9}
+550 / 1177 {'downloaded': 537, 'access_blocked': 13}
+600 / 1177 {'downloaded': 585, 'access_blocked': 15}
+650 / 1177 {'downloaded': 635, 'access_blocked': 15}
+700 / 1177 {'downloaded': 685, 'access_blocked': 15}
+750 / 1177 {'downloaded': 735, 'access_blocked': 15}
+800 / 1177 {'downloaded': 784, 'access_blocked': 16}
+850 / 1177 {'downloaded': 826, 'access_blocked': 24}
+900 / 1177 {'downloaded': 873, 'access_blocked': 27}
+950 / 1177 {'downloaded': 923, 'access_blocked': 27}
+1000 / 1177 {'downloaded': 973, 'access_blocked': 27}
+1050 / 1177 {'downloaded': 1023, 'access_blocked': 27}
+1100 / 1177 {'downloaded': 1068, 'access_blocked': 32}
+1150 / 1177 {'downloaded': 1104, 'access_blocked': 46}
+COMPLETE {'downloaded': 1125, 'access_blocked': 52}

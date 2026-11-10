@@ -1,0 +1,10 @@
+{
+  "url": "https://2022.emnlp.org/conference-program/main/program.html",
+  "final_url": "https://2022.emnlp.org/conference-program/main/program.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.462356+00:00",
+  "bytes": 181111,
+  "sha256": "0e3bdeb38b5eef0bfdda1fd2a40a5f0ab8121de19e0006ae53e8b1a939cdec37",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2022-schedule.gz"
+}

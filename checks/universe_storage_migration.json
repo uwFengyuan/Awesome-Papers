@@ -1,0 +1,63 @@
+{
+  "format": "gzip-compressed UTF-8 JSON",
+  "compression_level": 6,
+  "files": [
+    {
+      "original_path": "sources/main_universe.json",
+      "compressed_path": "sources/main_universe.json.gz",
+      "original_bytes": 192393590,
+      "compressed_bytes": 46754837,
+      "records": 84182,
+      "original_sha256": "c469430ada9c8cf00ad3edc36f76e6f23b26804e87d36732096756096c49a374",
+      "decompressed_sha256": "c469430ada9c8cf00ad3edc36f76e6f23b26804e87d36732096756096c49a374",
+      "compressed_sha256": "bcf6cd169afd8240bf9672143b283bcefd41e8cd450259adbc654bcbed2a0a8a",
+      "byte_identical_after_decompression": true,
+      "json_content_equal": true
+    },
+    {
+      "original_path": "sources/enriched_universe.json",
+      "compressed_path": "sources/enriched_universe.json.gz",
+      "original_bytes": 192748113,
+      "compressed_bytes": 46789285,
+      "records": 84140,
+      "original_sha256": "dd4942671547ba4ebbf584b8676bf3b2f473ae5e2df03fd90baec941cf5759f9",
+      "decompressed_sha256": "dd4942671547ba4ebbf584b8676bf3b2f473ae5e2df03fd90baec941cf5759f9",
+      "compressed_sha256": "25f77f3f8b3d9007d8449b01069697c333478209a7defc40ac80601d6e0443d3",
+      "byte_identical_after_decompression": true,
+      "json_content_equal": true
+    },
+    {
+      "original_path": "sources/resolved_universe.json",
+      "compressed_path": "sources/resolved_universe.json.gz",
+      "original_bytes": 205903319,
+      "compressed_bytes": 49519005,
+      "records": 85756,
+      "original_sha256": "9da2cbce8b23b326b25dccd059c57104c5a8c0d5b83161846f8842a4c2f1073e",
+      "decompressed_sha256": "9da2cbce8b23b326b25dccd059c57104c5a8c0d5b83161846f8842a4c2f1073e",
+      "compressed_sha256": "50de3b0e99ef346f8700820177384c3ebdf4419f8a32d382b50b37aef2c68b27",
+      "byte_identical_after_decompression": true,
+      "json_content_equal": true
+    }
+  ],
+  "original_total_bytes": 591045022,
+  "compressed_total_bytes": 143063127,
+  "saved_bytes": 447981895,
+  "scripts_compile_passed": true,
+  "plain_and_compressed_json_roundtrip_passed": true,
+  "originals_removed_after_verification": true,
+  "build_library_passed": true,
+  "export_sha256_unchanged": {
+    "catalog.csv": "8358a22a08a97dfff2b584c84e399ea6a6fdc6723ad23c30d3c6aaf7bf56286c",
+    "catalog.jsonl": "0d628bc269e9583ba4de1b69864823f7b34e8bcb8dd4ba47824032d360243847",
+    "finance_catalog.csv": "3a1e075990db42d6f9d6da4a3bc6731531c3fc8cc4d929f54d018a24fa03f325",
+    "references.bib": "737494e5008c967abc36be3049917589e126a019b9836b7091d96290210ce7f8",
+    "finance_references.bib": "696a992adb6d9d4b7f150277902b1f55bcb23d9401116039f0ca5d3b7f643e69",
+    "checks/summary.json": "757f39ec75bbedac15594720f6c6eda2a71b083d66f682ad44b5522f6483e870"
+  },
+  "workbook_zip_integrity_passed": true,
+  "readme_local_links_passed": true,
+  "all_universe_read_write_calls_updated": {
+    "reads": 22,
+    "writes": 8
+  }
+}

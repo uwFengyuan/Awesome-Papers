@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Statistical+Guarantees+in+the+Search+for+Less+Discriminatory+Algorithms%22+OR+ti%3A%22The+Tool+Decathlon+Benchmarking+Language+Agents+for+Diverse+Realistic+and+Long+Horizon+Task%22+OR+ti%3A%22Type+Compliant+Adaptation+Cascades%22+OR+ti%3A%22ANCHOR+Automated+Alignment+Auditing+for+CLI+Agents+on+Real+World+Harm%22+OR+ti%3A%22Algorithmic+Recourse+of+In+Context+Learning+for+Tabular+Data%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Statistical+Guarantees+in+the+Search+for+Less+Discriminatory+Algorithms%22+OR+ti%3A%22The+Tool+Decathlon+Benchmarking+Language+Agents+for+Diverse+Realistic+and+Long+Horizon+Task%22+OR+ti%3A%22Type+Compliant+Adaptation+Cascades%22+OR+ti%3A%22ANCHOR+Automated+Alignment+Auditing+for+CLI+Agents+on+Real+World+Harm%22+OR+ti%3A%22Algorithmic+Recourse+of+In+Context+Learning+for+Tabular+Data%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:15.345188+00:00",
+  "bytes": 14766,
+  "sha256": "404f6dbe98323206267b5565b2807ed0a719d09c32c7481126cbf1455ba04788",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-aa87add947d911db1e63.gz"
+}

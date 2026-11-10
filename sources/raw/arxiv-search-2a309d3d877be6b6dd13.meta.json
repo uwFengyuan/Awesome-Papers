@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Neural+Collapse+Under+MSE+Loss+Proximity+to+and+Dynamics+on+the+Central+Path%22+OR+ti%3A%22DreamFusion+Text+to+3D+using+2D+Diffusion%22+OR+ti%3A%22Emergence+of+Maps+in+the+Memories+of+Blind+Navigation+Agents%22+OR+ti%3A%22Rethinking+the+Expressive+Power+of+GNNs+via+Graph+Biconnectivity%22+OR+ti%3A%22Universal+Few+shot+Learning+of+Dense+Prediction+Tasks+with+Visual+Token+Matching%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Neural+Collapse+Under+MSE+Loss+Proximity+to+and+Dynamics+on+the+Central+Path%22+OR+ti%3A%22DreamFusion+Text+to+3D+using+2D+Diffusion%22+OR+ti%3A%22Emergence+of+Maps+in+the+Memories+of+Blind+Navigation+Agents%22+OR+ti%3A%22Rethinking+the+Expressive+Power+of+GNNs+via+Graph+Biconnectivity%22+OR+ti%3A%22Universal+Few+shot+Learning+of+Dense+Prediction+Tasks+with+Visual+Token+Matching%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:02.644409+00:00",
+  "bytes": 14522,
+  "sha256": "c6ef78e3195e155de5371a2f455bfad2db2465db44186f4bd42d228232c74088",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-2a309d3d877be6b6dd13.gz"
+}

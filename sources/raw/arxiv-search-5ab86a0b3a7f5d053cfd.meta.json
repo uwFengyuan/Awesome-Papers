@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Guaranteed+Optimal+Compositional+Explanations+for+Neurons%22+OR+ti%3A%22High+accuracy+and+dimension+free+sampling+with+diffusions%22+OR+ti%3A%22Holi+Spatial+Evolving+Video+Streams+into+Holistic+3D+Spatial+Intelligence%22+OR+ti%3A%22How+Many+Different+Outputs+Can+a+Transformer+Generate%22+OR+ti%3A%22Incentivizing+Truthfulness+and+Collaborative+Fairness+in+Bayesian+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Guaranteed+Optimal+Compositional+Explanations+for+Neurons%22+OR+ti%3A%22High+accuracy+and+dimension+free+sampling+with+diffusions%22+OR+ti%3A%22Holi+Spatial+Evolving+Video+Streams+into+Holistic+3D+Spatial+Intelligence%22+OR+ti%3A%22How+Many+Different+Outputs+Can+a+Transformer+Generate%22+OR+ti%3A%22Incentivizing+Truthfulness+and+Collaborative+Fairness+in+Bayesian+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:54.657907+00:00",
+  "bytes": 13639,
+  "sha256": "77e02de1bf857783dd38dc761433310497958008afc493ca3cd065cd0e5c8fe4",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5ab86a0b3a7f5d053cfd.gz"
+}

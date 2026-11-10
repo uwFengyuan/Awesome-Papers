@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual/2020/papers.html",
+  "final_url": "https://iclr.cc/virtual/2020/papers.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:54.896028+00:00",
+  "bytes": 123895,
+  "sha256": "840e18546fac66d2c30dae05f65ab9d86f2b50a7eab410ad196e34b394f6494a",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/iclr-2020-papershtml.gz"
+}

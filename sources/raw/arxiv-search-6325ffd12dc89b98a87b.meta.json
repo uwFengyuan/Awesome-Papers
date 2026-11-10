@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+mapping+between+Hopfield+networks+and+Restricted+Boltzmann+Machines%22+OR+ti%3A%22Optimal+Rates+for+Averaged+Stochastic+Gradient+Descent+under+Neural+Tangent+Kernel+Regime%22+OR+ti%3A%22Parrot+Data+Driven+Behavioral+Priors+for+Reinforcement+Learning%22+OR+ti%3A%22Randomized+Automatic+Differentiation%22+OR+ti%3A%22Rao+Blackwellizing+the+Straight+Through+Gumbel+Softmax+Gradient+Estimator%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+mapping+between+Hopfield+networks+and+Restricted+Boltzmann+Machines%22+OR+ti%3A%22Optimal+Rates+for+Averaged+Stochastic+Gradient+Descent+under+Neural+Tangent+Kernel+Regime%22+OR+ti%3A%22Parrot+Data+Driven+Behavioral+Priors+for+Reinforcement+Learning%22+OR+ti%3A%22Randomized+Automatic+Differentiation%22+OR+ti%3A%22Rao+Blackwellizing+the+Straight+Through+Gumbel+Softmax+Gradient+Estimator%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:16.988987+00:00",
+  "bytes": 11649,
+  "sha256": "f4848cbea1ff54d2a2c66e53da2558f47bba280343b4e3a49725a41a0a8dce52",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-6325ffd12dc89b98a87b.gz"
+}

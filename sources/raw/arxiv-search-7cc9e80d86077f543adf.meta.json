@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+to+Audit+ML+Models+with+Theory+of+Mind%22+OR+ti%3A%22LittleLearner+Language+Models+Under+Pedagogically+Controlled+Knowledge+Exposure%22+OR+ti%3A%22LoRAcles+Self+Supervised+Weight+Space+Interpretability+at+Scale%22+OR+ti%3A%22MaxSketch+Robust+Distinct+Counting+in+Streams+via+Random+Projections%22+OR+ti%3A%22Mechanism+Aware+Ensemble+Conditioning+for+Data+Limited+Emulation+of+Extreme+Events%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+to+Audit+ML+Models+with+Theory+of+Mind%22+OR+ti%3A%22LittleLearner+Language+Models+Under+Pedagogically+Controlled+Knowledge+Exposure%22+OR+ti%3A%22LoRAcles+Self+Supervised+Weight+Space+Interpretability+at+Scale%22+OR+ti%3A%22MaxSketch+Robust+Distinct+Counting+in+Streams+via+Random+Projections%22+OR+ti%3A%22Mechanism+Aware+Ensemble+Conditioning+for+Data+Limited+Emulation+of+Extreme+Events%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:53.755128+00:00",
+  "bytes": 9055,
+  "sha256": "8ff3a3c39fbe3117ba2fc33734188b178204bf1e048362db01b140467667a0f5",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7cc9e80d86077f543adf.gz"
+}

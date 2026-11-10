@@ -1,0 +1,15 @@
+{
+  "url": "https://neurips.cc/Downloads/2018",
+  "method": "POST read-only Download Data",
+  "form": {
+    "resource": "0",
+    "format": "5",
+    "posters": "on",
+    "submitaction": "Download Data"
+  },
+  "http_status": 200,
+  "sha256": "c73c06431a0a418a05108c1418751d363d7adf2e1856974a9da3cf640e468be5",
+  "bytes": 1430709,
+  "cache_path": "sources/raw/neurips-2018-download-json.gz",
+  "retrieved_at_utc": "2026-11-01T12:42:47.722345+00:00"
+}

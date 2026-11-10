@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Accelerated+training+through+iterative+gradient+propagation+along+the+residual+path%22+OR+ti%3A%22Advantage+Alignment+Algorithms%22+OR+ti%3A%22AlphaEdit+Null+Space+Constrained+Knowledge+Editing+for+Language+Models%22+OR+ti%3A%22Amortized+Control+of+Continuous+State+Space+Feynman+Kac+Model+for+Irregular+Time+Series%22+OR+ti%3A%22Artificial+Kuramoto+Oscillatory+Neurons%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Accelerated+training+through+iterative+gradient+propagation+along+the+residual+path%22+OR+ti%3A%22Advantage+Alignment+Algorithms%22+OR+ti%3A%22AlphaEdit+Null+Space+Constrained+Knowledge+Editing+for+Language+Models%22+OR+ti%3A%22Amortized+Control+of+Continuous+State+Space+Feynman+Kac+Model+for+Irregular+Time+Series%22+OR+ti%3A%22Artificial+Kuramoto+Oscillatory+Neurons%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:27.305994+00:00",
+  "bytes": 15374,
+  "sha256": "e79b701b8fbf072e4e428cfc9cfe63f17f71942b2308bc5df2c4dec11e57f688",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c5ef0711688474a30806.gz"
+}

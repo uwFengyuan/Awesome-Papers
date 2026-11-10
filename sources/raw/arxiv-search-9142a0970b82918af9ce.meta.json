@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Distributional+Adversarial+Attacks+and+Training+in+Deep+Hedging%22+OR+ti%3A%22Distributionally+Robust+Performative+Optimization%22+OR+ti%3A%22In+Context+Learning+of+Stochastic+Differential+Equations+with+Foundation+Inference+Models%22+OR+ti%3A%22Memory+Decoder+A+Pretrained+Plug+and+Play+Memory+for+Large+Language+Models%22+OR+ti%3A%22OPHR+Mastering+Volatility+Trading+with+Multi+Agent+Deep+Reinforcement+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Distributional+Adversarial+Attacks+and+Training+in+Deep+Hedging%22+OR+ti%3A%22Distributionally+Robust+Performative+Optimization%22+OR+ti%3A%22In+Context+Learning+of+Stochastic+Differential+Equations+with+Foundation+Inference+Models%22+OR+ti%3A%22Memory+Decoder+A+Pretrained+Plug+and+Play+Memory+for+Large+Language+Models%22+OR+ti%3A%22OPHR+Mastering+Volatility+Trading+with+Multi+Agent+Deep+Reinforcement+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:37.843472+00:00",
+  "bytes": 11467,
+  "sha256": "1c6739473e82a947a929691bb9062b8c2376853eec62d4282fae8c0af05a6daf",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-9142a0970b82918af9ce.gz"
+}

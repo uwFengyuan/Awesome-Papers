@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Efficiently+Modeling+Long+Sequences+with+Structured+State+Spaces%22+OR+ti%3A%22Einops+Clear+and+Reliable+Tensor+Manipulations+with+Einstein+like+Notation%22+OR+ti%3A%22Extending+the+WILDS+Benchmark+for+Unsupervised+Adaptation%22+OR+ti%3A%22F8Net+Fixed+Point+8+bit+Only+Multiplication+for+Network+Quantization%22+OR+ti%3A%22Filtered+CoPhy+Unsupervised+Learning+of+Counterfactual+Physics+in+Pixel+Space%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Efficiently+Modeling+Long+Sequences+with+Structured+State+Spaces%22+OR+ti%3A%22Einops+Clear+and+Reliable+Tensor+Manipulations+with+Einstein+like+Notation%22+OR+ti%3A%22Extending+the+WILDS+Benchmark+for+Unsupervised+Adaptation%22+OR+ti%3A%22F8Net+Fixed+Point+8+bit+Only+Multiplication+for+Network+Quantization%22+OR+ti%3A%22Filtered+CoPhy+Unsupervised+Learning+of+Counterfactual+Physics+in+Pixel+Space%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:38.002344+00:00",
+  "bytes": 13054,
+  "sha256": "00101629f922276288afd5e42f084c4c17ffb327defd199052d74d25fc70a0d2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-46450660c1af0544177d.gz"
+}

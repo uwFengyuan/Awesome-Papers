@@ -1,0 +1,10 @@
+{
+  "url": "https://2025.aclweb.org/program/main_papers/",
+  "final_url": "https://2025.aclweb.org/program/main_papers/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:06.301243+00:00",
+  "bytes": 371470,
+  "sha256": "419aaa1e35fce230c0070ecaea11d24ddfe635a6641c6a23da1a74e624595562",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2025-main_papers.gz"
+}

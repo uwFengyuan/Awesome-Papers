@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22WSM+Decay+Free+Learning+Rate+Schedule+via+Checkpoint+Merging+for+LLM+Pre+training%22+OR+ti%3A%22Watch+your+steps+Dormant+Adversarial+Behaviors+that+Activate+upon+LLM+Finetuning%22+OR+ti%3A%22WebDevJudge+Evaluating+M+LLMs+as+Critiques+for+Web+Development+Quality%22+OR+ti%3A%22What+s+In+My+Human+Feedback+Learning+Interpretable+Descriptions+of+Preference+Data%22+OR+ti%3A%22Why+DPO+is+a+Misspecified+Estimator+and+How+to+Fix+It%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22WSM+Decay+Free+Learning+Rate+Schedule+via+Checkpoint+Merging+for+LLM+Pre+training%22+OR+ti%3A%22Watch+your+steps+Dormant+Adversarial+Behaviors+that+Activate+upon+LLM+Finetuning%22+OR+ti%3A%22WebDevJudge+Evaluating+M+LLMs+as+Critiques+for+Web+Development+Quality%22+OR+ti%3A%22What+s+In+My+Human+Feedback+Learning+Interpretable+Descriptions+of+Preference+Data%22+OR+ti%3A%22Why+DPO+is+a+Misspecified+Estimator+and+How+to+Fix+It%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:00.391896+00:00",
+  "bytes": 10948,
+  "sha256": "7588c6fb7c0fc9855c3a4b2c3b81e97808a481ae5dd975c08685bd9b9a8bddb9",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-25cb12377d07c7ef5d6f.gz"
+}

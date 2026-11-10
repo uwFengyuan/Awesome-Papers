@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Visual+Classification+via+Description+from+Large+Language+Models%22+OR+ti%3A%22What+learning+algorithm+is+in+context+learning+Investigations+with+linear+models%22+OR+ti%3A%22WikiWhy+Answering+and+Explaining+Cause+and+Effect+Questions%22+OR+ti%3A%22What+Data+Benefits+My+Classifier+Enhancing+Model+Performance+and+Interpretability+through+Influence+Based%22+OR+ti%3A%22A+Real+World+WebAgent+with+Planning+Long+Context+Understanding+and+Program+Synthesis%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Visual+Classification+via+Description+from+Large+Language+Models%22+OR+ti%3A%22What+learning+algorithm+is+in+context+learning+Investigations+with+linear+models%22+OR+ti%3A%22WikiWhy+Answering+and+Explaining+Cause+and+Effect+Questions%22+OR+ti%3A%22What+Data+Benefits+My+Classifier+Enhancing+Model+Performance+and+Interpretability+through+Influence+Based%22+OR+ti%3A%22A+Real+World+WebAgent+with+Planning+Long+Context+Understanding+and+Program+Synthesis%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:14.567536+00:00",
+  "bytes": 10979,
+  "sha256": "21d381369adab015a114360f246295899babb63451f411b17fcc7f4291573a20",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-ebeab51a2bbc7b72e978.gz"
+}

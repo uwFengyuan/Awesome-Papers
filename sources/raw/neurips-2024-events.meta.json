@@ -1,0 +1,10 @@
+{
+  "url": "https://neurips.cc/static/virtual/data/neurips-2024-orals-posters.json",
+  "final_url": "https://neurips.cc/static/virtual/data/neurips-2024-orals-posters.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:52.637155+00:00",
+  "bytes": 24537777,
+  "sha256": "fe4cee02e95b1883f5ee2ddc121b3eb9e253dc67d9407f1aa9dfdedd298f0652",
+  "content_type": "application/json",
+  "cache_path": "sources/raw/neurips-2024-events.gz"
+}

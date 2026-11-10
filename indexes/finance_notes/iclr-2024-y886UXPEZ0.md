@@ -1,0 +1,15 @@
+# Adapting Large Language Models via Reading Comprehension
+
+ICLR 2024 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：Our method, highly scalable and applicable to any pre-training corpora, consistently enhances performance across various tasks in three different domains: biomedicine, finance, and law.
+
+[Paper](https://openreview.net/forum?id=y886UXPEZ0)
+
+Classification / 分类：Financial Models & Benchmarks / 金融模型与评测资源 → Cross-Task Financial Evaluation / 跨任务金融综合评测 → General / 综合
+
+## Abstract / 摘要
+
+We explore how continued pre-training on domain-specific corpora influences large language models, revealing that training on the raw corpora endows the model with domain knowledge, but drastically hurts its prompting ability for question answering. Taken inspiration from human learning via reading comprehension--practice after reading improves the ability to answer questions based on the learned knowledge--we propose a simple method for transforming raw corpora into reading comprehension texts. Each raw text is enriched with a series of tasks related to its content. Our method, highly scalable and applicable to any pre-training corpora, consistently enhances performance across various tasks in three different domains: biomedicine, finance, and law. Notably, our 7B language model achieves competitive performance with domain-specific models of much larger scales, such as BloombergGPT-50B. Furthermore, we demonstrate that domain-specific reading comprehension texts can improve the model's performance even on general benchmarks, showing the potential to develop a general model across even more domains. Our model, code, and data are available at https://github.com/microsoft/LMOps.

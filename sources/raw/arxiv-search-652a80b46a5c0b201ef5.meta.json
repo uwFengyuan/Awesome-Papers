@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Energy+based+Backdoor+Defense+Against+Federated+Graph+Learning%22+OR+ti%3A%22Exploring+The+Loss+Landscape+Of+Regularized+Neural+Networks+Via+Convex+Duality%22+OR+ti%3A%22Faster+Cascades+via+Speculative+Decoding%22+OR+ti%3A%22Feedback+Favors+the+Generalization+of+Neural+ODEs%22+OR+ti%3A%22Feedback+Schr+dinger+Bridge+Matching%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Energy+based+Backdoor+Defense+Against+Federated+Graph+Learning%22+OR+ti%3A%22Exploring+The+Loss+Landscape+Of+Regularized+Neural+Networks+Via+Convex+Duality%22+OR+ti%3A%22Faster+Cascades+via+Speculative+Decoding%22+OR+ti%3A%22Feedback+Favors+the+Generalization+of+Neural+ODEs%22+OR+ti%3A%22Feedback+Schr+dinger+Bridge+Matching%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:59.843868+00:00",
+  "bytes": 7711,
+  "sha256": "3ee0e8bacac3a658ab18bc8d60c92f7a07eaee514879f20bd6dbb8c7714ab3f1",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-652a80b46a5c0b201ef5.gz"
+}

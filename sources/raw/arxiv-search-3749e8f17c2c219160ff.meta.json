@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Performative+Risk+Control+Calibrating+Models+for+Reliable+Deployment+under+Performativity%22+OR+ti%3A%22A+Locally+Tokenized+Generative+Model+for+Robust+Time+Series+Watermarking%22+OR+ti%3A%22AMARIS+Merging+Generalist+and+Specialist+LLMs+via+Adaptive+Subspace+Inheritance%22+OR+ti%3A%22Beyond+Suspicious+Steps+Ontological+Trust+in+Long+Horizon+Agents%22+OR+ti%3A%22Combating+Camouflage+and+Forgetting+Spatio+Temporal+Dual+Denoising+for+Money+Laundering+Detection%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Performative+Risk+Control+Calibrating+Models+for+Reliable+Deployment+under+Performativity%22+OR+ti%3A%22A+Locally+Tokenized+Generative+Model+for+Robust+Time+Series+Watermarking%22+OR+ti%3A%22AMARIS+Merging+Generalist+and+Specialist+LLMs+via+Adaptive+Subspace+Inheritance%22+OR+ti%3A%22Beyond+Suspicious+Steps+Ontological+Trust+in+Long+Horizon+Agents%22+OR+ti%3A%22Combating+Camouflage+and+Forgetting+Spatio+Temporal+Dual+Denoising+for+Money+Laundering+Detection%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:27.884514+00:00",
+  "bytes": 8334,
+  "sha256": "e0dea6957b4899e600b1bc853ba4d2a48e61e4453d38f9f9f6e558d777136752",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3749e8f17c2c219160ff.gz"
+}

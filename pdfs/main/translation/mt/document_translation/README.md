@@ -1,0 +1,15 @@
+# pdfs/main/translation/mt/document_translation
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2018 | ACL | main | [Document Context Neural Machine Translation with Memory Networks](https://aclanthology.org/P18-1118/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Document translation / 文档翻译 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1118__Document_Context_Neural_Machine_Translation_with_Memory_Networks.pdf) |
+| 2021 | ACL | main | [Do Context-Aware Translation Models Pay the Right Attention?](https://aclanthology.org/2021.acl-long.65/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Document translation / 文档翻译 | [PDF](2021_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2021.acl-long.65__Do_Context_Aware_Translation_Models_Pay_the_Right_Attention.pdf) |
+| 2021 | ACL | main | [G-Transformer for Document-Level Machine Translation](https://aclanthology.org/2021.acl-long.267/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Document translation / 文档翻译 | [PDF](2021_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2021.acl-long.267__G_Transformer_for_Document_Level_Machine_Translation.pdf) |
+| 2021 | ACL | main | [Measuring and Increasing Context Usage in Context-Aware Machine Translation](https://aclanthology.org/2021.acl-long.505/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Document translation / 文档翻译 | [PDF](2021_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2021.acl-long.505__Measuring_and_Increasing_Context_Usage_in_Context_Aware_Machine_Translation.pdf) |
+| 2022 | ACL | main | [Divide and Rule: Effective Pre-Training for Context-Aware Multi-Encoder Translation Models](https://aclanthology.org/2022.acl-long.312/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Document translation / 文档翻译 | [PDF](2022_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2022.acl-long.312__Divide_and_Rule_Effective_Pre_Training_for_Context_Aware_Multi_Encoder_Translation_Models.pdf) |
+| 2019 | EMNLP | main | [Enhancing Context Modeling with a Query-Guided Capsule Network for Document-level Translation](https://aclanthology.org/D19-1164/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Document translation / 文档翻译 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1164__Enhancing_Context_Modeling_with_a_Query_Guided_Capsule_Network_for_Document_level_Translation.pdf) |
+| 2019 | EMNLP | main | [Hierarchical Modeling of Global Context for Document-Level Neural Machine Translation](https://aclanthology.org/D19-1168/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Document translation / 文档翻译 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1168__Hierarchical_Modeling_of_Global_Context_for_Document_Level_Neural_Machine_Translation.pdf) |

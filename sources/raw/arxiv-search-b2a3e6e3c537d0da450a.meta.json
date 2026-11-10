@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ExeDec+Execution+Decomposition+for+Compositional+Generalization+in+Neural+Program+Synthesis%22+OR+ti%3A%22Fine+tuning+Aligned+Language+Models+Compromises+Safety+Even+When+Users+Do+Not+Intend%22+OR+ti%3A%22Finetuning+Text+to+Image+Diffusion+Models+for+Fairness%22+OR+ti%3A%22Flow+Matching+on+General+Geometries%22+OR+ti%3A%22GNNCert+Deterministic+Certification+of+Graph+Neural+Networks+against+Adversarial+Perturbations%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ExeDec+Execution+Decomposition+for+Compositional+Generalization+in+Neural+Program+Synthesis%22+OR+ti%3A%22Fine+tuning+Aligned+Language+Models+Compromises+Safety+Even+When+Users+Do+Not+Intend%22+OR+ti%3A%22Finetuning+Text+to+Image+Diffusion+Models+for+Fairness%22+OR+ti%3A%22Flow+Matching+on+General+Geometries%22+OR+ti%3A%22GNNCert+Deterministic+Certification+of+Graph+Neural+Networks+against+Adversarial+Perturbations%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:29.968472+00:00",
+  "bytes": 11151,
+  "sha256": "3778835dc8c861ed9eda7823219c09434270e2ae8d397282255f45e09da26376",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b2a3e6e3c537d0da450a.gz"
+}

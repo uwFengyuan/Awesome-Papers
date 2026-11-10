@@ -1,0 +1,43 @@
+﻿topic_id,topic,papers,primary_papers,best_or_outstanding,oral,finance,nonfinance,pdfs,definition
+language_models,Language Models & Foundations / 语言模型与基础模型,3085,722,192,2634,474,2611,3010,语言建模、预训练、上下文学习、模型架构与缩放。
+agents,Agents & Tool Use / Agent与工具使用,351,126,13,269,93,258,335,自主Agent、多Agent、工具调用与记忆。
+reasoning,Reasoning & Planning / 推理与规划,744,195,27,658,96,648,721,数学逻辑、多步推理、规划和搜索。
+alignment,Alignment & Preferences / 对齐与偏好学习,180,79,8,169,18,162,174,人类反馈、偏好优化、奖励模型和模型行为对齐。
+retrieval,Retrieval & RAG / 信息检索与RAG,394,195,12,302,117,277,387,检索、重排、稠密检索与检索增强生成。
+translation,Translation & Multilingual NLP / 翻译与多语言,810,544,56,749,34,776,805,机器翻译、多语言、跨语言和低资源语言。
+text_generation,"Text Generation, Summarization & Dialogue / 文本生成、摘要与对话",890,468,37,840,53,837,883,摘要、对话、文本生成、改写和数据到文本。
+information_extraction,Information Extraction & Knowledge / 信息抽取与知识,487,316,15,453,45,442,486,实体、关系、事件、知识图谱和结构化信息抽取。
+question_answering,QA & Reading Comprehension / 问答与阅读理解,429,204,17,378,61,368,423,抽取、开放域、表格、对话与多跳问答。
+linguistics,Linguistics & Language Understanding / 语言学与语言理解,1926,789,97,1795,117,1809,1912,句法语义、篇章、词汇、语用、语料语言学和语言理解任务。
+speech_audio,Speech & Audio / 语音与音频,228,125,16,210,12,216,222,语音识别合成、说话人、声学、音乐与音频。
+multimodal,Multimodal & Vision-Language / 多模态与视觉语言,682,261,22,589,110,572,659,视觉语言、跨模态、多模态对齐与多模态推理。
+vision,Computer Vision / 计算机视觉,351,157,12,330,16,335,333,图像、视频、三维视觉、检测分割与视觉识别。
+generative,Generative Models / 生成模型,684,304,27,603,81,603,650,扩散、流匹配、GAN、VAE和概率生成。
+reinforcement,RL & Bandits / 强化学习与Bandit,969,395,22,878,80,889,938,强化学习、决策过程、Bandit、探索与离线RL。
+optimization,Optimization / 优化,963,465,29,861,95,868,935,梯度、凸非凸优化、组合优化与优化层。
+learning_theory,Learning Theory / 学习理论,948,227,39,847,99,849,922,泛化、样本复杂度、统计学习、在线学习与理论界。
+probabilistic,"Probabilistic, Bayesian & Statistical Learning / 概率、贝叶斯与统计学习",861,265,24,769,95,766,834,概率模型、贝叶斯推断、统计估计与检验、变分推断和采样。
+causal,Causal Learning / 因果学习,117,47,1,98,24,93,115,因果发现、因果推断、干预和处理效应。
+graphs,Graph Learning / 图学习,262,92,5,230,28,234,244,图神经网络、图表示、链接预测和图结构学习。
+representations,Representation & Self-Supervised Learning / 表征与自监督,1150,233,45,1010,132,1018,1117,对比、自监督、嵌入、特征与表征学习。
+robustness,Robustness & Distribution Shift / 鲁棒性与分布偏移,574,155,18,467,107,467,557,对抗鲁棒、域外泛化、数据偏移和校准。
+security_privacy,Security & Privacy / 安全与隐私,555,271,27,482,83,472,538,攻击防御、越狱、数据隐私、差分隐私和安全评测。
+fairness_explainability,Fairness & Explainability / 公平性与可解释性,550,301,19,409,147,403,536,公平、偏差、解释、归因、反事实追索和透明性。
+efficiency_systems,Efficient ML & Systems / 高效学习与系统,889,224,31,788,103,786,854,压缩量化、剪枝、加速、模型结构搜索和训练推理系统。
+continual_transfer,"Transfer, Meta & Continual Learning / 迁移、元学习与持续学习",498,169,12,442,59,439,483,迁移、领域适配、元学习、少样本和持续学习。
+time_series,Time Series / 时间序列,384,255,1,107,295,89,371,序列预测、生成、异常、缺失处理与时序动力学。
+tabular,Tabular & Structured Data / 表格与结构化数据,216,109,1,124,110,106,209,表格学习、决策树、数据库、SQL和结构化数据。
+datasets_evaluation,"Datasets, Benchmarks & Evaluation / 数据、基准与评测",1625,500,80,1403,253,1372,1595,数据资源、基准、评测指标、数据质量和数据治理。
+science,AI for Science / 科学智能,138,67,6,107,33,105,123,物理、化学、PDE、科学计算、气候和环境。
+health,AI for Health & Biology / 医疗健康与生物,387,125,12,319,64,323,363,临床、医学影像、生物分子、药物、蛋白质与健康。
+finance,AI for Finance / 金融人工智能,1178,222,14,253,1178,0,1128,沿用已核验金融清单；详细金融任务另有23类索引。
+code,Code & Software Engineering / 代码与软件工程,235,66,6,206,30,205,228,代码生成、程序分析、软件工程、证明与执行。
+robotics,Robotics & Embodied AI / 机器人与具身智能,247,102,8,223,20,227,231,机器人、控制、导航、具身任务与自主系统。
+recommendation,Recommendation & Ranking / 推荐与排序,74,31,0,66,9,65,73,推荐系统、协同过滤、点击率预测与学习排序。
+clustering,Clustering & Dimensionality Reduction / 聚类与降维,324,164,3,309,24,300,318,聚类、低维结构、降维、矩阵分解与流形学习。
+active_weak,Active & Weakly Supervised Learning / 主动与弱监督,300,98,7,283,16,284,294,主动学习、半监督、弱监督、标签噪声和伪标签。
+social_human,Social & Economic AI / 社会经济与人机交互,593,222,29,521,73,520,581,人机交互、社会计算、经济机制、博弈与人类行为。
+federated,Federated & Distributed Learning / 联邦与分布式学习,88,53,3,73,11,77,84,联邦学习、去中心化、协作学习和分布式训练。
+supervised,Supervised Learning & Prediction / 监督学习与预测,679,111,18,633,54,625,662,分类、回归、核方法、集成与通用预测算法。
+architectures,Neural Architectures & Sequence Models / 神经架构与序列模型,884,146,26,808,70,814,870,神经网络架构、RNN、卷积、注意力、神经微分方程与等变模型。
+other,Other / 分类待细化,0,0,0,0,0,0,0,当前元数据不足以支持更具体方向，保留待细化标记。

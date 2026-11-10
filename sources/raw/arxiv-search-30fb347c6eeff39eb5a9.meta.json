@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22The+Neuro+Symbolic+Concept+Learner+Interpreting+Scenes+Words+and+Sentences+From+Natural+Supervision%22+OR+ti%3A%22Transferring+Knowledge+across+Learning+Processes%22+OR+ti%3A%22A+Distributional+Approach+to+Controlled+Text+Generation%22+OR+ti%3A%22An+Image+is+Worth+16x16+Words+Transformers+for+Image+Recognition+at+Scale%22+OR+ti%3A%22Augmenting+Physical+Models+with+Deep+Networks+for+Complex+Dynamics+Forecasting%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22The+Neuro+Symbolic+Concept+Learner+Interpreting+Scenes+Words+and+Sentences+From+Natural+Supervision%22+OR+ti%3A%22Transferring+Knowledge+across+Learning+Processes%22+OR+ti%3A%22A+Distributional+Approach+to+Controlled+Text+Generation%22+OR+ti%3A%22An+Image+is+Worth+16x16+Words+Transformers+for+Image+Recognition+at+Scale%22+OR+ti%3A%22Augmenting+Physical+Models+with+Deep+Networks+for+Complex+Dynamics+Forecasting%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:52.529784+00:00",
+  "bytes": 14085,
+  "sha256": "8725f063cb68a76a4cc9852f82291c9ebfce39c1c34e6701e443adbdc0e1605f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-30fb347c6eeff39eb5a9.gz"
+}

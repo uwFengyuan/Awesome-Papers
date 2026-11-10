@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Is+Conditional+Generative+Modeling+all+you+need+for+Decision+Making%22+OR+ti%3A%22Is+the+Performance+of+My+Deep+Network+Too+Good+to+Be+True+A%22+OR+ti%3A%22Language+Modelling+with+Pixels%22+OR+ti%3A%22Learnable+Behavior+Control+Breaking+Atari+Human+World+Records+via+Sample+Efficient+Behavior+Selection%22+OR+ti%3A%22Learning+on+Large+scale+Text+attributed+Graphs+via+Variational+Inference%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Is+Conditional+Generative+Modeling+all+you+need+for+Decision+Making%22+OR+ti%3A%22Is+the+Performance+of+My+Deep+Network+Too+Good+to+Be+True+A%22+OR+ti%3A%22Language+Modelling+with+Pixels%22+OR+ti%3A%22Learnable+Behavior+Control+Breaking+Atari+Human+World+Records+via+Sample+Efficient+Behavior+Selection%22+OR+ti%3A%22Learning+on+Large+scale+Text+attributed+Graphs+via+Variational+Inference%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:51.810326+00:00",
+  "bytes": 31316,
+  "sha256": "e4edb27cf4f7b1ee5b09f175154810e73046af9e928031ada8307750dfdd18f8",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-23690b9ed3f80848eb47.gz"
+}

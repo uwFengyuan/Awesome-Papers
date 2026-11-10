@@ -1,0 +1,25 @@
+{
+  "reference_repository": "/home/qi/aiagent/Awesome-AI4Finance-Papers",
+  "reference_catalog_sha256": "67dd2ed07415cc4002144e005a5f87c51e87a17dba59aafe5520e53938c55196",
+  "reference_records": 1338,
+  "reference_track_counts": {
+    "main": 1338
+  },
+  "reference_venue_counts": {
+    "AAAI": 160,
+    "ACL": 183,
+    "EMNLP": 230,
+    "ICLR": 194,
+    "ICML": 273,
+    "NeurIPS": 298
+  },
+  "actions": {
+    "reuse_reference_pdf_after_scope_verification": 160,
+    "reuse_existing_repository_pdf": 1128,
+    "metadata_only_no_local_pdf": 50
+  },
+  "downloaded_files": 0,
+  "copied_files": 0,
+  "reference_repository_modified": false,
+  "note": "This is a reuse plan. Publication track and long-paper eligibility still need validation."
+}

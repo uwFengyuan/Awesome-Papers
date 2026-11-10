@@ -1,0 +1,10 @@
+{
+  "url": "https://proceedings.neurips.cc/paper/2023",
+  "final_url": "https://proceedings.neurips.cc/paper/2023",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:59:21.884533+00:00",
+  "bytes": 2445827,
+  "sha256": "52308a22f85d130a535514e158b885637452aa939cc0c15613c4544bc8dc217c",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2023-proceedings.gz"
+}

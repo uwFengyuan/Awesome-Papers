@@ -1,0 +1,15 @@
+# pdfs/main/datasets_evaluation/benchmarks/general/EMNLP/2022
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2022 | EMNLP | main | [CDConv: A Benchmark for Contradiction Detection in Chinese Conversations](https://aclanthology.org/2022.emnlp-main.2/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2022_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2022.emnlp-main.2__CDConv_A_Benchmark_for_Contradiction_Detection_in_Chinese_Conversations.pdf) |
+| 2022 | EMNLP | main | [D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat](https://aclanthology.org/2022.emnlp-main.156/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2022_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2022.emnlp-main.156__D4_a_Chinese_Dialogue_Dataset_for_Depression_Diagnosis_Oriented_Chat.pdf) |
+| 2022 | EMNLP | main | [Geographic Citation Gaps in NLP Research](https://aclanthology.org/2022.emnlp-main.89/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2022_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2022.emnlp-main.89__Geographic_Citation_Gaps_in_NLP_Research.pdf) |
+| 2022 | EMNLP | main | [M2D2: A Massively Multi-Domain Language Modeling Dataset](https://aclanthology.org/2022.emnlp-main.63/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2022_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2022.emnlp-main.63__M2D2_A_Massively_Multi_Domain_Language_Modeling_Dataset.pdf) |
+| 2022 | EMNLP | main | [MAVEN-ERE: A Unified Large-scale Dataset for Event Coreference, Temporal, Causal, and Subevent Relation Extraction](https://aclanthology.org/2022.emnlp-main.60/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2022_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2022.emnlp-main.60__MAVEN_ERE_A_Unified_Large_scale_Dataset_for_Event_Coreference_Temporal_Causal_and_Subevent_Relation_.pdf) |
+| 2022 | EMNLP | main | [SafeText: A Benchmark for Exploring Physical Safety in Language Models](https://aclanthology.org/2022.emnlp-main.154/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2022_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2022.emnlp-main.154__SafeText_A_Benchmark_for_Exploring_Physical_Safety_in_Language_Models.pdf) |
+| 2022 | EMNLP | main | [SQuALITY: Building a Long-Document Summarization Dataset the Hard Way](https://aclanthology.org/2022.emnlp-main.75/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2022_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2022.emnlp-main.75__SQuALITY_Building_a_Long_Document_Summarization_Dataset_the_Hard_Way.pdf) |

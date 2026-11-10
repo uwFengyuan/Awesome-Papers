@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Semi+supervised+Knowledge+Transfer+for+Deep+Learning+from+Private+Training+Data%22+OR+ti%3A%22Understanding+deep+learning+requires+rethinking+generalization%22+OR+ti%3A%22Ordered+Neurons+Integrating+Tree+Structures+into+Recurrent+Neural+Networks%22+OR+ti%3A%22The+Lottery+Ticket+Hypothesis+Finding+Sparse+Trainable+Neural+Networks%22+OR+ti%3A%22Analytic+DPM+an+Analytic+Estimate+of+the+Optimal+Reverse+Variance+in+Diffusion+Probabilistic%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Semi+supervised+Knowledge+Transfer+for+Deep+Learning+from+Private+Training+Data%22+OR+ti%3A%22Understanding+deep+learning+requires+rethinking+generalization%22+OR+ti%3A%22Ordered+Neurons+Integrating+Tree+Structures+into+Recurrent+Neural+Networks%22+OR+ti%3A%22The+Lottery+Ticket+Hypothesis+Finding+Sparse+Trainable+Neural+Networks%22+OR+ti%3A%22Analytic+DPM+an+Analytic+Estimate+of+the+Optimal+Reverse+Variance+in+Diffusion+Probabilistic%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:56.428521+00:00",
+  "bytes": 12419,
+  "sha256": "19de8ff4c5e1f7c290872de8065f01af1723f65e343b0ae478c31a6aaf1295d2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-e7cf7d88e2449864b702.gz"
+}

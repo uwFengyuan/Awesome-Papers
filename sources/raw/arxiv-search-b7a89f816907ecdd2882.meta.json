@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Efficiently+Computing+Nash+Equilibria+in+Adversarial+Team+Markov+Games%22+OR+ti%3A%22Emergent+World+Representations+Exploring+a+Sequence+Model+Trained+on+a+Synthetic+Task%22+OR+ti%3A%22Encoding+Recurrence+into+Transformers%22+OR+ti%3A%22Extreme+Q+Learning+MaxEnt+RL+without+Entropy%22+OR+ti%3A%22Fast+and+Precise+Adjusting+Planning+Horizon+with+Adaptive+Subgoal+Search%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Efficiently+Computing+Nash+Equilibria+in+Adversarial+Team+Markov+Games%22+OR+ti%3A%22Emergent+World+Representations+Exploring+a+Sequence+Model+Trained+on+a+Synthetic+Task%22+OR+ti%3A%22Encoding+Recurrence+into+Transformers%22+OR+ti%3A%22Extreme+Q+Learning+MaxEnt+RL+without+Entropy%22+OR+ti%3A%22Fast+and+Precise+Adjusting+Planning+Horizon+with+Adaptive+Subgoal+Search%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:41.117542+00:00",
+  "bytes": 10778,
+  "sha256": "d59e9b58730bc421514223af7842c9dfc79c270964832445b61349f0694f9fa0",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b7a89f816907ecdd2882.gz"
+}

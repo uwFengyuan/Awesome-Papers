@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+Generalizable+Visual+Representations+via+Interactive+Gameplay%22+OR+ti%3A%22Learning+Invariant+Representations+for+Reinforcement+Learning+without+Reconstruction%22+OR+ti%3A%22Learning+to+Reach+Goals+via+Iterated+Supervised+Learning%22+OR+ti%3A%22MONGOOSE+A+Learnable+LSH+Framework+for+Efficient+Neural+Network+Training%22+OR+ti%3A%22Neural+Synthesis+of+Binaural+Speech+From+Mono+Audio%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+Generalizable+Visual+Representations+via+Interactive+Gameplay%22+OR+ti%3A%22Learning+Invariant+Representations+for+Reinforcement+Learning+without+Reconstruction%22+OR+ti%3A%22Learning+to+Reach+Goals+via+Iterated+Supervised+Learning%22+OR+ti%3A%22MONGOOSE+A+Learnable+LSH+Framework+for+Efficient+Neural+Network+Training%22+OR+ti%3A%22Neural+Synthesis+of+Binaural+Speech+From+Mono+Audio%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:13.909190+00:00",
+  "bytes": 9208,
+  "sha256": "7e7be7566ac54de196ec27dd643849d888650d6d8d921e90d7768506350c1ebd",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c985fb165d9aa7a77850.gz"
+}

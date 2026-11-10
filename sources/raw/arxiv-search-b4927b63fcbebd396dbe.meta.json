@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+Conformal+Isometry+of+Grid+Cells+Learning+Distance+Preserving+Position+Embedding%22+OR+ti%3A%22On+Scaling+Up+3D+Gaussian+Splatting+Training%22+OR+ti%3A%22On+the+Benefits+of+Memory+for+Modeling+Time+Dependent+PDEs%22+OR+ti%3A%22On+the+H+lder+Stability+of+Multiset+and+Graph+Neural+Networks%22+OR+ti%3A%22On+the+Identification+of+Temporal+Causal+Representation+with+Instantaneous+Dependence%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+Conformal+Isometry+of+Grid+Cells+Learning+Distance+Preserving+Position+Embedding%22+OR+ti%3A%22On+Scaling+Up+3D+Gaussian+Splatting+Training%22+OR+ti%3A%22On+the+Benefits+of+Memory+for+Modeling+Time+Dependent+PDEs%22+OR+ti%3A%22On+the+H+lder+Stability+of+Multiset+and+Graph+Neural+Networks%22+OR+ti%3A%22On+the+Identification+of+Temporal+Causal+Representation+with+Instantaneous+Dependence%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:49.201207+00:00",
+  "bytes": 10888,
+  "sha256": "f38121f7da7ffdcfe28b215bea605aded298262e1de75228bab07a2c60325750",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b4927b63fcbebd396dbe.gz"
+}

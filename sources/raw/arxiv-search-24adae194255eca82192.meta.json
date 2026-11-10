@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SimuHome+A+Temporal+and+Environment+Aware+Benchmark+for+Smart+Home+LLM+Agents%22+OR+ti%3A%22Softmax+Transformers+are+Turing+Complete%22+OR+ti%3A%22Speculative+Actions+A+Lossless+Framework+for+Faster+AI+Agents%22+OR+ti%3A%22Spherical+Watermark+Encryption+Free+Lossless+Watermarking+for+Diffusion+Models%22+OR+ti%3A%22Stable+Video+Infinity+Infinite+Length+Video+Generation+with+Error+Recycling%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SimuHome+A+Temporal+and+Environment+Aware+Benchmark+for+Smart+Home+LLM+Agents%22+OR+ti%3A%22Softmax+Transformers+are+Turing+Complete%22+OR+ti%3A%22Speculative+Actions+A+Lossless+Framework+for+Faster+AI+Agents%22+OR+ti%3A%22Spherical+Watermark+Encryption+Free+Lossless+Watermarking+for+Diffusion+Models%22+OR+ti%3A%22Stable+Video+Infinity+Infinite+Length+Video+Generation+with+Error+Recycling%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:21.462640+00:00",
+  "bytes": 8445,
+  "sha256": "dbccc45fff595c9b01163dd5f811a122dda3b6150b45efbe002830c609bcc505",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-24adae194255eca82192.gz"
+}

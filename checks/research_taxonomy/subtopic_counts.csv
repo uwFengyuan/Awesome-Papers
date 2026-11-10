@@ -1,0 +1,142 @@
+﻿topic_id,topic,subtopic_id,subtopic,papers
+language_models,Language Models & Foundations / 语言模型与基础模型,lm_pretraining,Language Modeling & Pretraining / 语言建模与预训练,2958
+language_models,Language Models & Foundations / 语言模型与基础模型,lm_context,In-Context Learning & Adaptation / 上下文学习与适配,311
+language_models,Language Models & Foundations / 语言模型与基础模型,lm_architecture,Architectures & Scaling / 架构与缩放,174
+language_models,Language Models & Foundations / 语言模型与基础模型,lm_knowledge,Knowledge Editing & Memory / 知识编辑与记忆,45
+agents,Agents & Tool Use / Agent与工具使用,agent_tools,Tool Use & Autonomous Agents / 工具与自主Agent,196
+agents,Agents & Tool Use / Agent与工具使用,agent_multi,Multi-Agent Collaboration / 多Agent协作,157
+agents,Agents & Tool Use / Agent与工具使用,agent_memory,Agent Memory & Workflows / Agent记忆与流程,57
+reasoning,Reasoning & Planning / 推理与规划,reason_math,Mathematical & Logical Reasoning / 数学与逻辑推理,131
+reasoning,Reasoning & Planning / 推理与规划,reason_steps,Multi-Step Reasoning / 多步推理,377
+reasoning,Reasoning & Planning / 推理与规划,reason_planning,Planning & Search / 规划与搜索,61
+alignment,Alignment & Preferences / 对齐与偏好学习,align_preferences,Preference Optimization & RLHF / 偏好优化与人类反馈,96
+alignment,Alignment & Preferences / 对齐与偏好学习,align_reward,Reward Models & Feedback / 奖励模型与反馈,106
+retrieval,Retrieval & RAG / 信息检索与RAG,retrieval_dense,Dense Retrieval & Embeddings / 稠密检索与嵌入,301
+retrieval,Retrieval & RAG / 信息检索与RAG,retrieval_ranking,Reranking & Search / 重排与搜索,136
+translation,Translation & Multilingual NLP / 翻译与多语言,mt,Machine Translation / 机器翻译,375
+translation,Translation & Multilingual NLP / 翻译与多语言,multilingual,Cross-Lingual & Multilingual / 跨语言与多语言,520
+translation,Translation & Multilingual NLP / 翻译与多语言,language_resources,Low-Resource Languages / 低资源语言,130
+text_generation,"Text Generation, Summarization & Dialogue / 文本生成、摘要与对话",summarization,Summarization / 摘要,278
+text_generation,"Text Generation, Summarization & Dialogue / 文本生成、摘要与对话",dialogue,Dialogue & Conversation / 对话,327
+text_generation,"Text Generation, Summarization & Dialogue / 文本生成、摘要与对话",text_generation_task,Writing & Text Generation / 写作与生成,236
+information_extraction,Information Extraction & Knowledge / 信息抽取与知识,ie_entities,Entities & Relations / 实体与关系,259
+information_extraction,Information Extraction & Knowledge / 信息抽取与知识,ie_events,Event Extraction / 事件抽取,62
+information_extraction,Information Extraction & Knowledge / 信息抽取与知识,ie_knowledge,Knowledge Graphs & Extraction / 知识图谱与抽取,186
+question_answering,QA & Reading Comprehension / 问答与阅读理解,qa_reading,Reading Comprehension & QA / 阅读理解与问答,402
+question_answering,QA & Reading Comprehension / 问答与阅读理解,qa_table,Table & Numerical QA / 表格与数值问答,46
+question_answering,QA & Reading Comprehension / 问答与阅读理解,qa_multihop,Multi-Hop QA / 多跳问答,28
+linguistics,Linguistics & Language Understanding / 语言学与语言理解,syntax,Syntax & Parsing / 句法与解析,509
+linguistics,Linguistics & Language Understanding / 语言学与语言理解,semantics,"Semantics, Discourse & Pragmatics / 语义、篇章与语用",411
+linguistics,Linguistics & Language Understanding / 语言学与语言理解,language_analysis,Lexical & Linguistic Analysis / 词汇与语言分析,1066
+speech_audio,Speech & Audio / 语音与音频,speech_recognition,Speech Recognition & Translation / 语音识别与翻译,119
+speech_audio,Speech & Audio / 语音与音频,speech_synthesis,Speech & Audio Generation / 语音与音频生成,59
+speech_audio,Speech & Audio / 语音与音频,audio_understanding,Audio & Speech Understanding / 音频与语音理解,95
+multimodal,Multimodal & Vision-Language / 多模态与视觉语言,vision_language,Vision-Language Models / 视觉语言模型,331
+multimodal,Multimodal & Vision-Language / 多模态与视觉语言,multimodal_learning,Multimodal Learning / 多模态学习,495
+vision,Computer Vision / 计算机视觉,vision_recognition,Visual Recognition & Segmentation / 视觉识别与分割,197
+vision,Computer Vision / 计算机视觉,vision_video,Video & Motion / 视频与运动,64
+vision,Computer Vision / 计算机视觉,vision_3d,3D & Geometry / 三维与几何,69
+generative,Generative Models / 生成模型,diffusion,Diffusion & Score Models / 扩散与分数模型,212
+generative,Generative Models / 生成模型,flows,Flow Models / 流模型,61
+generative,Generative Models / 生成模型,gan_vae,GAN & Latent Generative Models / GAN与潜变量生成,467
+reinforcement,RL & Bandits / 强化学习与Bandit,rl,Reinforcement Learning / 强化学习,750
+reinforcement,RL & Bandits / 强化学习与Bandit,bandits,Bandits & Exploration / Bandit与探索,146
+reinforcement,RL & Bandits / 强化学习与Bandit,rl_control,Model-Based & Offline RL / 模型式与离线强化学习,121
+optimization,Optimization / 优化,gradient,Gradient & Stochastic Optimization / 梯度与随机优化,451
+optimization,Optimization / 优化,convex,Convex & Nonconvex Optimization / 凸与非凸优化,330
+optimization,Optimization / 优化,combinatorial,Combinatorial & Differentiable Optimization / 组合与可微优化,133
+learning_theory,Learning Theory / 学习理论,generalization,Generalization & Sample Complexity / 泛化与样本复杂度,167
+learning_theory,Learning Theory / 学习理论,online_learning,Online & Statistical Learning / 在线与统计学习,317
+probabilistic,"Probabilistic, Bayesian & Statistical Learning / 概率、贝叶斯与统计学习",bayesian,Bayesian Inference / 贝叶斯推断,309
+probabilistic,"Probabilistic, Bayesian & Statistical Learning / 概率、贝叶斯与统计学习",sampling,Sampling & Monte Carlo / 采样与蒙特卡洛,264
+probabilistic,"Probabilistic, Bayesian & Statistical Learning / 概率、贝叶斯与统计学习",probabilistic_models,Probabilistic Models / 概率模型,242
+causal,Causal Learning / 因果学习,causal_discovery,Causal Discovery / 因果发现,43
+causal,Causal Learning / 因果学习,causal_inference,Causal Inference & Effects / 因果推断与效应,86
+graphs,Graph Learning / 图学习,gnn,Graph Neural Networks / 图神经网络,171
+graphs,Graph Learning / 图学习,graph_tasks,Graph Representation & Structure / 图表征与结构,135
+representations,Representation & Self-Supervised Learning / 表征与自监督,contrastive,Contrastive & Self-Supervised / 对比与自监督,389
+representations,Representation & Self-Supervised Learning / 表征与自监督,embeddings,Embeddings & Features / 嵌入与特征,266
+robustness,Robustness & Distribution Shift / 鲁棒性与分布偏移,adversarial_robustness,Adversarial Robustness / 对抗鲁棒性,187
+robustness,Robustness & Distribution Shift / 鲁棒性与分布偏移,distribution_shift,OOD & Distribution Shift / 域外与分布偏移,212
+robustness,Robustness & Distribution Shift / 鲁棒性与分布偏移,calibration,Uncertainty & Calibration / 不确定性与校准,174
+security_privacy,Security & Privacy / 安全与隐私,privacy,Privacy & Data Protection / 隐私与数据保护,129
+security_privacy,Security & Privacy / 安全与隐私,security_attacks,Attacks & Defenses / 攻击与防御,127
+security_privacy,Security & Privacy / 安全与隐私,model_safety,Model Safety & Trust / 模型安全与可信,226
+fairness_explainability,Fairness & Explainability / 公平性与可解释性,fairness,Fairness & Bias / 公平性与偏差,229
+fairness_explainability,Fairness & Explainability / 公平性与可解释性,interpretability,Interpretability & Attribution / 可解释性与归因,308
+efficiency_systems,Efficient ML & Systems / 高效学习与系统,compression,"Compression, Quantization & Pruning / 压缩量化与剪枝",249
+efficiency_systems,Efficient ML & Systems / 高效学习与系统,efficient_adaptation,Efficient Adaptation / 高效适配,98
+efficiency_systems,Efficient ML & Systems / 高效学习与系统,systems,Training & Inference Systems / 训练与推理系统,519
+continual_transfer,"Transfer, Meta & Continual Learning / 迁移、元学习与持续学习",transfer,Transfer & Domain Adaptation / 迁移与领域适配,305
+continual_transfer,"Transfer, Meta & Continual Learning / 迁移、元学习与持续学习",continual,Continual & Lifelong Learning / 持续与终身学习,71
+continual_transfer,"Transfer, Meta & Continual Learning / 迁移、元学习与持续学习",meta_fewshot,Meta & Few-Shot Learning / 元学习与少样本,128
+time_series,Time Series / 时间序列,ts_forecast,Time-Series Forecasting / 时间序列预测,181
+time_series,Time Series / 时间序列,ts_anomaly,Temporal Anomaly & Imputation / 时序异常与缺失,19
+time_series,Time Series / 时间序列,ts_dynamics,Temporal Dynamics & Processes / 时序动力学与过程,56
+tabular,Tabular & Structured Data / 表格与结构化数据,tabular_learning,Tabular & Tree Learning / 表格与树模型,170
+tabular,Tabular & Structured Data / 表格与结构化数据,database_sql,Databases & SQL / 数据库与SQL,52
+datasets_evaluation,"Datasets, Benchmarks & Evaluation / 数据、基准与评测",benchmarks,Datasets & Benchmarks / 数据集与基准,1071
+datasets_evaluation,"Datasets, Benchmarks & Evaluation / 数据、基准与评测",evaluation,Evaluation & Metrics / 评测与指标,473
+datasets_evaluation,"Datasets, Benchmarks & Evaluation / 数据、基准与评测",data_quality,Data Quality & Selection / 数据质量与选择,100
+science,AI for Science / 科学智能,scientific_computing,PDEs & Scientific Computing / PDE与科学计算,48
+science,AI for Science / 科学智能,physics_chemistry,Physics & Chemistry / 物理与化学,18
+science,AI for Science / 科学智能,climate_environment,Climate & Environment / 气候与环境,21
+health,AI for Health & Biology / 医疗健康与生物,clinical,Clinical & Medical AI / 临床与医疗,194
+health,AI for Health & Biology / 医疗健康与生物,biomolecular,"Biology, Proteins & Drugs / 生物、蛋白质与药物",122
+code,Code & Software Engineering / 代码与软件工程,code_generation,Code Generation & Software / 代码生成与软件工程,107
+code,Code & Software Engineering / 代码与软件工程,program_analysis,Program Analysis & Execution / 程序分析与执行,140
+robotics,Robotics & Embodied AI / 机器人与具身智能,robotics,Robotics & Embodiment / 机器人与具身任务,158
+robotics,Robotics & Embodied AI / 机器人与具身智能,control,Control & Dynamics / 控制与动力学,97
+recommendation,Recommendation & Ranking / 推荐与排序,recommendation,Recommender Systems / 推荐系统,49
+recommendation,Recommendation & Ranking / 推荐与排序,ranking,Learning to Rank / 学习排序,20
+clustering,Clustering & Dimensionality Reduction / 聚类与降维,clustering,Clustering / 聚类,181
+clustering,Clustering & Dimensionality Reduction / 聚类与降维,dimension,Dimensionality Reduction & Factorization / 降维与分解,121
+active_weak,Active & Weakly Supervised Learning / 主动与弱监督,active,Active Learning / 主动学习,67
+active_weak,Active & Weakly Supervised Learning / 主动与弱监督,weak_semi,Weak & Semi-Supervision / 弱监督与半监督,167
+active_weak,Active & Weakly Supervised Learning / 主动与弱监督,label_noise,Label Noise & Missing Labels / 标签噪声与缺失,48
+social_human,Social & Economic AI / 社会经济与人机交互,human_interaction,Human-AI Interaction / 人机交互,88
+social_human,Social & Economic AI / 社会经济与人机交互,social_economics,Social Science & Economics / 社会科学与经济机制,243
+federated,Federated & Distributed Learning / 联邦与分布式学习,federated,Federated & Collaborative Learning / 联邦与协作学习,44
+federated,Federated & Distributed Learning / 联邦与分布式学习,distributed,Distributed Optimization & Training / 分布式优化与训练,49
+supervised,Supervised Learning & Prediction / 监督学习与预测,classification_regression,Classification & Regression / 分类与回归,403
+supervised,Supervised Learning & Prediction / 监督学习与预测,structured_prediction,Structured Prediction / 结构化预测,139
+architectures,Neural Architectures & Sequence Models / 神经架构与序列模型,sequence_models,Sequence Models & Memory / 序列模型与记忆,435
+architectures,Neural Architectures & Sequence Models / 神经架构与序列模型,neural_architecture,"Architectures, Attention & Activations / 架构、注意力与激活",426
+learning_theory,Learning Theory / 学习理论,neural_theory,Neural Network Theory / 神经网络理论,174
+learning_theory,Learning Theory / 学习理论,statistical_theory,Statistical Theory & Complexity / 统计理论与复杂度,438
+optimization,Optimization / 优化,optimizer_methods,Optimization Methods / 优化算法,165
+optimization,Optimization / 优化,blackbox_bayes_opt,Bayesian & Black-Box Optimization / 贝叶斯与黑箱优化,91
+probabilistic,"Probabilistic, Bayesian & Statistical Learning / 概率、贝叶斯与统计学习",statistical_estimation,Statistical Estimation & Distributions / 统计估计与分布,253
+supervised,Supervised Learning & Prediction / 监督学习与预测,kernel_regression,"Kernels, Regression & Boosting / 核方法、回归与Boosting",170
+clustering,Clustering & Dimensionality Reduction / 聚类与降维,matrix_geometry,Factorization & Geometric Structure / 分解与几何结构,47
+active_weak,Active & Weakly Supervised Learning / 主动与弱监督,experiment_design,Experiment Design & Teaching / 实验设计与机器教学,32
+information_extraction,Information Extraction & Knowledge / 信息抽取与知识,ie_other,"Keyphrases, Arguments & Temporal Relations / 关键词、论元与时序关系",31
+linguistics,Linguistics & Language Understanding / 语言学与语言理解,language_tasks,Language Tasks & Lexical Semantics / 语言任务与词汇语义,483
+social_human,Social & Economic AI / 社会经济与人机交互,social_content,"Social Content, Emotion & Argumentation / 社会内容、情绪与论辩",312
+text_generation,"Text Generation, Summarization & Dialogue / 文本生成、摘要与对话",generation_tasks,"Paraphrasing, Comments & Response Selection / 改写、评论与回复选择",176
+translation,Translation & Multilingual NLP / 翻译与多语言,translation_tasks,Translation & Sign Languages / 翻译与手语,241
+speech_audio,Speech & Audio / 语音与音频,audio_tasks,Speech Separation & Acoustic Tasks / 语音分离与声学任务,32
+multimodal,Multimodal & Vision-Language / 多模态与视觉语言,visual_grounding,Grounding & Referring Expressions / 视觉定位与指代表达,89
+vision,Computer Vision / 计算机视觉,image_video_tasks,"Image, Video & Scene Modeling / 图像、视频与场景建模",49
+generative,Generative Models / 生成模型,energy_models,Energy-Based & Autoregressive Models / 能量与自回归模型,83
+reasoning,Reasoning & Planning / 推理与规划,commonsense_temporal,"Commonsense, Temporal & Relational Reasoning / 常识、时序与关系推理",315
+fairness_explainability,Fairness & Explainability / 公平性与可解释性,explanations,Explanations & Rationales / 解释与论据,36
+security_privacy,Security & Privacy / 安全与隐私,attack_methods,Adversarial & Model Attacks / 对抗与模型攻击,139
+robustness,Robustness & Distribution Shift / 鲁棒性与分布偏移,reliability,Reliability & Abstention / 可靠性与拒答,55
+datasets_evaluation,"Datasets, Benchmarks & Evaluation / 数据、基准与评测",reproducibility,Reproducibility & Annotation / 可复现性与标注,64
+datasets_evaluation,"Datasets, Benchmarks & Evaluation / 数据、基准与评测",augmentation,Data Augmentation / 数据增强,141
+efficiency_systems,Efficient ML & Systems / 高效学习与系统,efficient_algorithms,Efficient Algorithms & Computation / 高效算法与计算,108
+representations,Representation & Self-Supervised Learning / 表征与自监督,representations_other,Representations & Unsupervised Pretraining / 表征与无监督预训练,656
+health,AI for Health & Biology / 医疗健康与生物,neuroscience,Neuroscience & Mental Health / 神经科学与心理健康,97
+science,AI for Science / 科学智能,scientific_tasks,Physical Systems & Earth Science / 物理系统与地球科学,67
+reinforcement,RL & Bandits / 强化学习与Bandit,sequential_decisions,Sequential Decision & Games / 序贯决策与博弈,134
+time_series,Time Series / 时间序列,ts_modeling,Temporal & Sequence Modeling / 时序与序列建模,347
+time_series,Time Series / 时间序列,ts_generation,Temporal Generation & Representation / 时序生成与表征,77
+probabilistic,"Probabilistic, Bayesian & Statistical Learning / 概率、贝叶斯与统计学习",hypothesis_testing,Hypothesis Testing & Selection / 假设检验与统计选择,50
+linguistics,Linguistics & Language Understanding / 语言学与语言理解,fact_verification,Fact Verification & Semantic Matching / 事实核验与语义匹配,75
+continual_transfer,"Transfer, Meta & Continual Learning / 迁移、元学习与持续学习",model_merging,Model Merging & Reuse / 模型合并与复用,23
+science,AI for Science / 科学智能,mathematics,Mathematics & Symbolic Computation / 数学与符号计算,3
+architectures,Neural Architectures & Sequence Models / 神经架构与序列模型,network_design,Network Design & Regularization / 网络设计与正则化,100
+optimization,Optimization / 优化,bilevel,Bilevel & Hyperparameter Optimization / 双层与超参数优化,48
+reinforcement,RL & Bandits / 强化学习与Bandit,gflownets_world,GFlowNets & World Models / 生成式流网络与世界模型,40
+recommendation,Recommendation & Ranking / 推荐与排序,personalization,Personalized Recommendation / 个性化推荐,7

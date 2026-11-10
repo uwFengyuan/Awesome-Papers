@@ -1,0 +1,10 @@
+{
+  "url": "https://neurips.cc/virtual/2020/events/oral",
+  "final_url": "https://neurips.cc/virtual/2020/events/oral",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:46:21.044061+00:00",
+  "bytes": 532847,
+  "sha256": "ca2e228c524dea3b5e00c6968be148c801d506fe12d1daf8f73db8d4e11d1e66",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2020-oralhtml.gz"
+}

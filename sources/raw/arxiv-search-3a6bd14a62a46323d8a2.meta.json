@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Neural+Architecture+Search+with+Reinforcement+Learning%22+OR+ti%3A%22Optimization+as+a+Model+for+Few+Shot+Learning%22+OR+ti%3A%22Q+Prop+Sample+Efficient+Policy+Gradient+with+An+Off+Policy+Critic%22+OR+ti%3A%22Reinforcement+Learning+with+Unsupervised+Auxiliary+Tasks%22+OR+ti%3A%22Towards+Principled+Methods+for+Training+Generative+Adversarial+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Neural+Architecture+Search+with+Reinforcement+Learning%22+OR+ti%3A%22Optimization+as+a+Model+for+Few+Shot+Learning%22+OR+ti%3A%22Q+Prop+Sample+Efficient+Policy+Gradient+with+An+Off+Policy+Critic%22+OR+ti%3A%22Reinforcement+Learning+with+Unsupervised+Auxiliary+Tasks%22+OR+ti%3A%22Towards+Principled+Methods+for+Training+Generative+Adversarial+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:24.327484+00:00",
+  "bytes": 18375,
+  "sha256": "6bdfd2bbe5d60bb7f40175e4dcf7c2d94416aa94d223bb5f2a511e1a41dae85f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3a6bd14a62a46323d8a2.gz"
+}

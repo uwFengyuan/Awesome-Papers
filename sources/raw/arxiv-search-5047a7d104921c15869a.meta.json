@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Enabling+Factorized+Piano+Music+Modeling+and+Generation+with+the+MAESTRO+Dataset%22+OR+ti%3A%22FFJORD+Free+Form+Continuous+Dynamics+for+Scalable+Reversible+Generative+Models%22+OR+ti%3A%22GENERATING+HIGH+FIDELITY+IMAGES+WITH+SUBSCALE+PIXEL+NETWORKS+AND+MULTIDIMENSIONAL+UPSCALING%22+OR+ti%3A%22How+Powerful+are+Graph+Neural+Networks%22+OR+ti%3A%22ImageNet+trained+CNNs+are+biased+towards+texture+increasing+shape+bias+improves+accuracy+and%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Enabling+Factorized+Piano+Music+Modeling+and+Generation+with+the+MAESTRO+Dataset%22+OR+ti%3A%22FFJORD+Free+Form+Continuous+Dynamics+for+Scalable+Reversible+Generative+Models%22+OR+ti%3A%22GENERATING+HIGH+FIDELITY+IMAGES+WITH+SUBSCALE+PIXEL+NETWORKS+AND+MULTIDIMENSIONAL+UPSCALING%22+OR+ti%3A%22How+Powerful+are+Graph+Neural+Networks%22+OR+ti%3A%22ImageNet+trained+CNNs+are+biased+towards+texture+increasing+shape+bias+improves+accuracy+and%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:43.247927+00:00",
+  "bytes": 13013,
+  "sha256": "08b86a4cdd9daa0914abfe6e4139868bc4757bc416e357ab4078a79f834010a9",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5047a7d104921c15869a.gz"
+}

@@ -1,0 +1,15 @@
+# pdfs/main/optimization/optimizer_methods/distributed_optimization
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2018 | ICML | main | [Decentralized Submodular Maximization: Bridging Discrete and Continuous Settings](https://ICML.cc/virtual/2018/poster/2358) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Optimization Methods / 优化算法 / Distributed optimization / 分布式优化 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2018-2358__Decentralized_Submodular_Maximization_Bridging_Discrete_and_Continuous_Settings.pdf) |
+| 2018 | ICML | main | [DICOD: Distributed Convolutional Coordinate Descent for Convolutional Sparse Coding](https://ICML.cc/virtual/2018/poster/1904) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Optimization Methods / 优化算法 / Distributed optimization / 分布式优化 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2018-1904__DICOD_Distributed_Convolutional_Coordinate_Descent_for_Convolutional_Sparse_Coding.pdf) |
+| 2018 | ICML | main | [Let’s be Honest: An Optimal No-Regret Framework for Zero-Sum Games](https://ICML.cc/virtual/2018/poster/1975) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Optimization Methods / 优化算法 / Distributed optimization / 分布式优化 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2018-1975__Let_s_be_Honest_An_Optimal_No_Regret_Framework_for_Zero_Sum_Games.pdf) |
+| 2019 | ICML | main | [Categorical Feature Compression via Submodular Optimization](https://ICML.cc/virtual/2019/poster/4276) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Optimization Methods / 优化算法 / Distributed optimization / 分布式优化 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-4276__Categorical_Feature_Compression_via_Submodular_Optimization.pdf) |
+| 2019 | ICML | main | [Multivariate Submodular Optimization](https://ICML.cc/virtual/2019/poster/4248) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Optimization Methods / 优化算法 / Distributed optimization / 分布式优化 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-4248__Multivariate_Submodular_Optimization.pdf) |
+| 2019 | ICML | main | [Non-monotone Submodular Maximization with Nearly Optimal Adaptivity and Query Complexity](https://ICML.cc/virtual/2019/poster/3890) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Optimization Methods / 优化算法 / Distributed optimization / 分布式优化 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-3890__Non_monotone_Submodular_Maximization_with_Nearly_Optimal_Adaptivity_and_Query_Complexity.pdf) |
+| 2025 | ICML | main | [Fundamental Bias in Inverting Random Sampling Matrices with Application to Sub-sampled Newton](https://openreview.net/forum?id=LwQGRGJTHw) | [Long] [Main] [Oral] [Poster] | Optimization / 优化 / Optimization Methods / 优化算法 / Distributed optimization / 分布式优化 | [PDF](2025_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2025-LwQGRGJTHw__Fundamental_Bias_in_Inverting_Random_Sampling_Matrices_with_Application_to_Sub_sampled_Newton.pdf) |

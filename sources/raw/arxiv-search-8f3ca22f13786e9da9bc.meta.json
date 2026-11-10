@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Token+Importance+Guided+Direct+Preference+Optimization%22+OR+ti%3A%22Train+before+Test+Harmonizes+Language+Model+Rankings%22+OR+ti%3A%22Triple+BERT+Do+We+Really+Need+MARL+for+Order+Dispatch+on+Ride+Sharing%22+OR+ti%3A%22True+Self+Supervised+Novel+View+Synthesis+is+Transferable%22+OR+ti%3A%22UALM+Unified+Audio+Language+Model+for+Understanding+Generation+and+Reasoning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Token+Importance+Guided+Direct+Preference+Optimization%22+OR+ti%3A%22Train+before+Test+Harmonizes+Language+Model+Rankings%22+OR+ti%3A%22Triple+BERT+Do+We+Really+Need+MARL+for+Order+Dispatch+on+Ride+Sharing%22+OR+ti%3A%22True+Self+Supervised+Novel+View+Synthesis+is+Transferable%22+OR+ti%3A%22UALM+Unified+Audio+Language+Model+for+Understanding+Generation+and+Reasoning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:51.050303+00:00",
+  "bytes": 13641,
+  "sha256": "5d3b5bf45c169d48bffb220c7468d56a438b06f54f806e91de36ab98b770f55f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-8f3ca22f13786e9da9bc.gz"
+}

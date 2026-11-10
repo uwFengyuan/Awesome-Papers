@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Task+Optimized+Convolutional+Recurrent+Networks+Align+with+Tactile+Processing+in+the+Rodent+Brain%22+OR+ti%3A%22The+emergence+of+sparse+attention+impact+of+data+distribution+and+benefits+of+repetition%22+OR+ti%3A%22Tighter+CMI+Based+Generalization+Bounds+via+Stochastic+Projection+and+Quantization%22+OR+ti%3A%22TransferTraj+A+Vehicle+Trajectory+Learning+Model+for+Region+and+Task+Transferability%22+OR+ti%3A%22Understanding+and+Mitigating+Numerical+Sources+of+Nondeterminism+in+LLM+Inference%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Task+Optimized+Convolutional+Recurrent+Networks+Align+with+Tactile+Processing+in+the+Rodent+Brain%22+OR+ti%3A%22The+emergence+of+sparse+attention+impact+of+data+distribution+and+benefits+of+repetition%22+OR+ti%3A%22Tighter+CMI+Based+Generalization+Bounds+via+Stochastic+Projection+and+Quantization%22+OR+ti%3A%22TransferTraj+A+Vehicle+Trajectory+Learning+Model+for+Region+and+Task+Transferability%22+OR+ti%3A%22Understanding+and+Mitigating+Numerical+Sources+of+Nondeterminism+in+LLM+Inference%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:25.724354+00:00",
+  "bytes": 14590,
+  "sha256": "707fd82bb84a4d31136ce8dc4f1c5c050b5027ee3c897de37c861175c80a4736",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-128e355dd7e449f41237.gz"
+}

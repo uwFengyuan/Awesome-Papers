@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Deep+symbolic+regression+Recovering+mathematical+expressions+from+data+via+risk+seeking+policy+gradients%22+OR+ti%3A%22Deformable+DETR+Deformable+Transformers+for+End+to+End+Object+Detection%22+OR+ti%3A%22DiffWave+A+Versatile+Diffusion+Model+for+Audio+Synthesis%22+OR+ti%3A%22Do+2D+GANs+Know+3D+Shape+Unsupervised+3D+Shape+Reconstruction+from+2D+Image%22+OR+ti%3A%22EigenGame+PCA+as+a+Nash+Equilibrium%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Deep+symbolic+regression+Recovering+mathematical+expressions+from+data+via+risk+seeking+policy+gradients%22+OR+ti%3A%22Deformable+DETR+Deformable+Transformers+for+End+to+End+Object+Detection%22+OR+ti%3A%22DiffWave+A+Versatile+Diffusion+Model+for+Audio+Synthesis%22+OR+ti%3A%22Do+2D+GANs+Know+3D+Shape+Unsupervised+3D+Shape+Reconstruction+from+2D+Image%22+OR+ti%3A%22EigenGame+PCA+as+a+Nash+Equilibrium%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:58.807490+00:00",
+  "bytes": 12001,
+  "sha256": "777130fa6164e3ba049a7f0bee233017243a2f339e041e9a29184c96ebf6e9c7",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-6579a1912fe61583645a.gz"
+}

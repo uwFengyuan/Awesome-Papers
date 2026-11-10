@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Consistency+Checks+for+Language+Model+Forecasters%22+OR+ti%3A%22Context+Parametric+Inversion+Why+Instruction+Finetuning+May+Not+Actually+Improve+Context+Reliance%22+OR+ti%3A%22Copyright+Protected+Language+Generation+via+Adaptive+Model+Fusion%22+OR+ti%3A%22Cross+Entropy+Is+All+You+Need+To+Invert+the+Data+Generating+Process%22+OR+ti%3A%22Ctrl+Adapter+An+Efficient+and+Versatile+Framework+for+Adapting+Diverse+Controls+to+Any%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Consistency+Checks+for+Language+Model+Forecasters%22+OR+ti%3A%22Context+Parametric+Inversion+Why+Instruction+Finetuning+May+Not+Actually+Improve+Context+Reliance%22+OR+ti%3A%22Copyright+Protected+Language+Generation+via+Adaptive+Model+Fusion%22+OR+ti%3A%22Cross+Entropy+Is+All+You+Need+To+Invert+the+Data+Generating+Process%22+OR+ti%3A%22Ctrl+Adapter+An+Efficient+and+Versatile+Framework+for+Adapting+Diverse+Controls+to+Any%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:44.321723+00:00",
+  "bytes": 11769,
+  "sha256": "dc08a37321da2d404ea05881419e1638e01a6f678ccf65e9f3ed1a0fe8aba22c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7f15bee1ca98f3e0b6c9.gz"
+}

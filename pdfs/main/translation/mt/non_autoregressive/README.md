@@ -1,0 +1,14 @@
+# pdfs/main/translation/mt/non_autoregressive
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2021 | ACL | main | [Glancing Transformer for Non-Autoregressive Neural Machine Translation](https://aclanthology.org/2021.acl-long.155/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Non-autoregressive translation / 非自回归翻译 | [PDF](2021_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2021.acl-long.155__Glancing_Transformer_for_Non_Autoregressive_Neural_Machine_Translation.pdf) |
+| 2021 | ACL | main | [Rejuvenating Low-Frequency Words: Making the Most of Parallel Data in Non-Autoregressive Translation](https://aclanthology.org/2021.acl-long.266/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Non-autoregressive translation / 非自回归翻译 | [PDF](2021_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2021.acl-long.266__Rejuvenating_Low_Frequency_Words_Making_the_Most_of_Parallel_Data_in_Non_Autoregressive_Translation.pdf) |
+| 2018 | EMNLP | main | [Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement](https://aclanthology.org/D18-1149/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Non-autoregressive translation / 非自回归翻译 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1149__Deterministic_Non_Autoregressive_Neural_Sequence_Modeling_by_Iterative_Refinement.pdf) |
+| 2021 | EMNLP | main | [AligNART: Non-autoregressive Neural Machine Translation by Jointly Learning to Estimate Alignment and Translate](https://aclanthology.org/2021.emnlp-main.1/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Non-autoregressive translation / 非自回归翻译 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.1__AligNART_Non_autoregressive_Neural_Machine_Translation_by_Jointly_Learning_to_Estimate_Alignment_and.pdf) |
+| 2021 | EMNLP | main | [Set Generation Networks for End-to-End Knowledge Base Population](https://aclanthology.org/2021.emnlp-main.760/) | [Long] [Main] [Oral] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Non-autoregressive translation / 非自回归翻译 | [PDF](2021_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2021.emnlp-main.760__Set_Generation_Networks_for_End_to_End_Knowledge_Base_Population.pdf) |
+| 2021 | ICML | main | [Order-Agnostic Cross Entropy for Non-Autoregressive Machine Translation](http://proceedings.mlr.press/v139/du21c.html) | [Long] [Main] [Oral] [Poster] | Translation & Multilingual NLP / 翻译与多语言 / Machine Translation / 机器翻译 / Non-autoregressive translation / 非自回归翻译 | [PDF](2021_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2021-8931__Order_Agnostic_Cross_Entropy_for_Non_Autoregressive_Machine_Translation.pdf) |

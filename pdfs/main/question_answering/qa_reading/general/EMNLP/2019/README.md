@@ -1,0 +1,16 @@
+# pdfs/main/question_answering/qa_reading/general/EMNLP/2019
+
+
+
+Papers / 论文：**8**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2019 | EMNLP | main | [A Discrete Hard EM Approach for Weakly Supervised Question Answering](https://aclanthology.org/D19-1284/) | [Long] [Main] [Oral] | QA & Reading Comprehension / 问答与阅读理解 / Reading Comprehension & QA / 阅读理解与问答 / General / 综合 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1284__A_Discrete_Hard_EM_Approach_for_Weakly_Supervised_Question_Answering.pdf) |
+| 2019 | EMNLP | main | [A Multi-Type Multi-Span Network for Reading Comprehension that Requires Discrete Reasoning](https://aclanthology.org/D19-1170/) | [Long] [Main] [Oral] | QA & Reading Comprehension / 问答与阅读理解 / Reading Comprehension & QA / 阅读理解与问答 / General / 综合 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1170__A_Multi_Type_Multi_Span_Network_for_Reading_Comprehension_that_Requires_Discrete_Reasoning.pdf) |
+| 2019 | EMNLP | main | [Asking Clarification Questions in Knowledge-Based Question Answering](https://aclanthology.org/D19-1172/) | [Long] [Main] [Oral] | QA & Reading Comprehension / 问答与阅读理解 / Reading Comprehension & QA / 阅读理解与问答 / General / 综合 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1172__Asking_Clarification_Questions_in_Knowledge_Based_Question_Answering.pdf) |
+| 2019 | EMNLP | main | [Interactive Language Learning by Question Answering](https://aclanthology.org/D19-1280/) | [Long] [Main] [Oral] | QA & Reading Comprehension / 问答与阅读理解 / Reading Comprehension & QA / 阅读理解与问答 / General / 综合 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1280__Interactive_Language_Learning_by_Question_Answering.pdf) |
+| 2019 | EMNLP | main | [Movie Plot Analysis via Turning Point Identification](https://aclanthology.org/D19-1180/) | [Long] [Main] [Oral] | QA & Reading Comprehension / 问答与阅读理解 / Reading Comprehension & QA / 阅读理解与问答 / General / 综合 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1180__Movie_Plot_Analysis_via_Turning_Point_Identification.pdf) |
+| 2019 | EMNLP | main | [Neural Duplicate Question Detection without Labeled Training Data](https://aclanthology.org/D19-1171/) | [Long] [Main] [Oral] | QA & Reading Comprehension / 问答与阅读理解 / Reading Comprehension & QA / 阅读理解与问答 / General / 综合 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1171__Neural_Duplicate_Question_Detection_without_Labeled_Training_Data.pdf) |
+| 2019 | EMNLP | main | [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://aclanthology.org/D19-1221/) | [Long] [Main] [Oral] | QA & Reading Comprehension / 问答与阅读理解 / Reading Comprehension & QA / 阅读理解与问答 / General / 综合 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1221__Universal_Adversarial_Triggers_for_Attacking_and_Analyzing_NLP.pdf) |
+| 2019 | EMNLP | main | [What’s Missing: A Knowledge Gap Guided Approach for Multi-hop Question Answering](https://aclanthology.org/D19-1281/) | [Long] [Main] [Oral] | QA & Reading Comprehension / 问答与阅读理解 / Reading Comprehension & QA / 阅读理解与问答 / General / 综合 | [PDF](2019_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D19-1281__What_s_Missing_A_Knowledge_Gap_Guided_Approach_for_Multi_hop_Question_Answering.pdf) |

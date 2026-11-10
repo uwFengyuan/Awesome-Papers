@@ -1,0 +1,15 @@
+# pdfs/main/text_generation/summarization/summarization/EMNLP/2023
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2023 | EMNLP | main | [Indicative Summarization of Long Discussions](https://aclanthology.org/2023.emnlp-main.166/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2023_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2023.emnlp-main.166__Indicative_Summarization_of_Long_Discussions.pdf) |
+| 2023 | EMNLP | main | [Instructive Dialogue Summarization with Query Aggregations](https://aclanthology.org/2023.emnlp-main.474/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2023_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2023.emnlp-main.474__Instructive_Dialogue_Summarization_with_Query_Aggregations.pdf) |
+| 2023 | EMNLP | main | [Investigating Efficiently Extending Transformers for Long Input Summarization](https://aclanthology.org/2023.emnlp-main.240/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2023_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2023.emnlp-main.240__Investigating_Efficiently_Extending_Transformers_for_Long_Input_Summarization.pdf) |
+| 2023 | EMNLP | main | [Learning to Predict Task Transferability via Soft Prompt](https://aclanthology.org/2023.emnlp-main.546/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2023_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2023.emnlp-main.546__Learning_to_Predict_Task_Transferability_via_Soft_Prompt.pdf) |
+| 2023 | EMNLP | main | [Length Does Matter: Summary Length can Bias Summarization Metrics](https://aclanthology.org/2023.emnlp-main.984/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2023_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2023.emnlp-main.984__Length_Does_Matter_Summary_Length_can_Bias_Summarization_Metrics.pdf) |
+| 2023 | EMNLP | main | [Promoting Topic Coherence and Inter-Document Consorts in Multi-Document Summarization via Simplicial Complex and Sheaf Graph](https://aclanthology.org/2023.emnlp-main.133/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2023_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2023.emnlp-main.133__Promoting_Topic_Coherence_and_Inter_Document_Consorts_in_Multi_Document_Summarization_via_Simplicial.pdf) |
+| 2023 | EMNLP | main | [Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model](https://aclanthology.org/2023.emnlp-main.679/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2023_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2023.emnlp-main.679__Zero_shot_Faithfulness_Evaluation_for_Text_Summarization_with_Foundation_Language_Model.pdf) |

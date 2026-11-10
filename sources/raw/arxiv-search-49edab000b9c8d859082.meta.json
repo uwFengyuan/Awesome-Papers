@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Towards+Professional+Grade+Financial+Agents+Benchmarking+Tooling+and+Structured+Reasoning%22+OR+ti%3A%22Breaking+the+Gradient+Barrier+Unveiling+Large+Language+Models+for+Strategic+Classification%22+OR+ti%3A%22Conformal+Risk+Training+End+to+End+Optimization+of+Conformal+Risk+Control%22+OR+ti%3A%22Constrained+Posterior+Sampling+Time+Series+Generation+with+Hard+Constraints%22+OR+ti%3A%22Cooperative+Bargaining+Games+Without+Utilities+Mediated+Solutions+from+Direction+Oracles%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Towards+Professional+Grade+Financial+Agents+Benchmarking+Tooling+and+Structured+Reasoning%22+OR+ti%3A%22Breaking+the+Gradient+Barrier+Unveiling+Large+Language+Models+for+Strategic+Classification%22+OR+ti%3A%22Conformal+Risk+Training+End+to+End+Optimization+of+Conformal+Risk+Control%22+OR+ti%3A%22Constrained+Posterior+Sampling+Time+Series+Generation+with+Hard+Constraints%22+OR+ti%3A%22Cooperative+Bargaining+Games+Without+Utilities+Mediated+Solutions+from+Direction+Oracles%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:32.144515+00:00",
+  "bytes": 11515,
+  "sha256": "e1858e78235e718d013c01e64826638182797bfedd5b7ef8bc6e39d0af6b6095",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-49edab000b9c8d859082.gz"
+}

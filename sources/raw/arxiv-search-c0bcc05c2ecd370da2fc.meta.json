@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Mechanistic+Data+Attribution+Tracing+the+Training+Origins+of+Interpretable+LLM+Units%22+OR+ti%3A%22Midtraining+Bridges+Pretraining+and+Posttraining+Distributions%22+OR+ti%3A%22Mind+Your+Margin+and+Boundary+Are+Your+Distilled+Datasets+Truly+Robust%22+OR+ti%3A%22Minimax+Optimal+Strategy+for+Delayed+Observations+in+Online+Reinforcement+Learning%22+OR+ti%3A%22Mitigating+Reward+Hacking+in+RLHF+via+Bayesian+Non+negative+Reward+Modeling%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Mechanistic+Data+Attribution+Tracing+the+Training+Origins+of+Interpretable+LLM+Units%22+OR+ti%3A%22Midtraining+Bridges+Pretraining+and+Posttraining+Distributions%22+OR+ti%3A%22Mind+Your+Margin+and+Boundary+Are+Your+Distilled+Datasets+Truly+Robust%22+OR+ti%3A%22Minimax+Optimal+Strategy+for+Delayed+Observations+in+Online+Reinforcement+Learning%22+OR+ti%3A%22Mitigating+Reward+Hacking+in+RLHF+via+Bayesian+Non+negative+Reward+Modeling%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:11.285564+00:00",
+  "bytes": 12423,
+  "sha256": "cbcfc198843b030b925adefb8f795f7fa325d76fa55036ea179010bf3025d1a7",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c0bcc05c2ecd370da2fc.gz"
+}

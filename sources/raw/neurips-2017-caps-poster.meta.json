@@ -1,0 +1,10 @@
+{
+  "url": "https://neurips.cc/virtual/2017/events/Poster",
+  "final_url": "https://neurips.cc/virtual/2017/papers.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:09.180541+00:00",
+  "bytes": 123688,
+  "sha256": "03b57c46b2104011fa2e4d9a19acf42f4d5620e0030c9cc95d300b824ce9f7d1",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2017-caps-poster.gz"
+}

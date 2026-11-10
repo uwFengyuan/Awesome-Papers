@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22OpenHOI+Open+World+Hand+Object+Interaction+Synthesis+with+Multimodal+Large+Language+Model%22+OR+ti%3A%22PRIMT+Preference+based+Reinforcement+Learning+with+Multimodal+Feedback+and+Trajectory+Synthesis+from+Foundation%22+OR+ti%3A%22Pan+LUT+Efficient+Pan+sharpening+via+Learnable+Look+Up+Tables%22+OR+ti%3A%22Perception+Encoder+The+best+visual+embeddings+are+not+at+the+output+of+the%22+OR+ti%3A%22PhySense+Sensor+Placement+Optimization+for+Accurate+Physics+Sensing%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22OpenHOI+Open+World+Hand+Object+Interaction+Synthesis+with+Multimodal+Large+Language+Model%22+OR+ti%3A%22PRIMT+Preference+based+Reinforcement+Learning+with+Multimodal+Feedback+and+Trajectory+Synthesis+from+Foundation%22+OR+ti%3A%22Pan+LUT+Efficient+Pan+sharpening+via+Learnable+Look+Up+Tables%22+OR+ti%3A%22Perception+Encoder+The+best+visual+embeddings+are+not+at+the+output+of+the%22+OR+ti%3A%22PhySense+Sensor+Placement+Optimization+for+Accurate+Physics+Sensing%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:51.915721+00:00",
+  "bytes": 15104,
+  "sha256": "2191a8b1fc2f9e11f44406fb63eeb5a4436fb51a9e5a34d6dac7430385d05293",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3d4ec072b1229c79b408.gz"
+}

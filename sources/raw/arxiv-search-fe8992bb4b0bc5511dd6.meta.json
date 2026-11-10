@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Meta+Continual+Learning+Revisited+Implicitly+Enhancing+Online+Hessian+Approximation+via+Variance+Reduction%22+OR+ti%3A%22MetaGPT+Meta+Programming+for+A+Multi+Agent+Collaborative+Framework%22+OR+ti%3A%22Mixed+Type+Tabular+Data+Synthesis+with+Score+based+Diffusion+in+Latent+Space%22+OR+ti%3A%22Model+Tells+You+What+to+Discard+Adaptive+KV+Cache+Compression+for+LLMs%22+OR+ti%3A%22Monte+Carlo+guided+Denoising+Diffusion+models+for+Bayesian+linear+inverse+problems%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Meta+Continual+Learning+Revisited+Implicitly+Enhancing+Online+Hessian+Approximation+via+Variance+Reduction%22+OR+ti%3A%22MetaGPT+Meta+Programming+for+A+Multi+Agent+Collaborative+Framework%22+OR+ti%3A%22Mixed+Type+Tabular+Data+Synthesis+with+Score+based+Diffusion+in+Latent+Space%22+OR+ti%3A%22Model+Tells+You+What+to+Discard+Adaptive+KV+Cache+Compression+for+LLMs%22+OR+ti%3A%22Monte+Carlo+guided+Denoising+Diffusion+models+for+Bayesian+linear+inverse+problems%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:56.845868+00:00",
+  "bytes": 8698,
+  "sha256": "0460c7f28a1070125e5776c6a7c222a02b4b2fceb68cf3b4c6de8b28b90cc996",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-fe8992bb4b0bc5511dd6.gz"
+}

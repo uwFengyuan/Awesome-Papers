@@ -1,0 +1,11 @@
+PDF queue 497
+50 / 497 {'downloaded': 50}
+100 / 497 {'downloaded': 100}
+150 / 497 {'downloaded': 150}
+200 / 497 {'downloaded': 181, 'access_blocked': 19}
+250 / 497 {'downloaded': 216, 'access_blocked': 34}
+300 / 497 {'downloaded': 266, 'access_blocked': 34}
+350 / 497 {'downloaded': 294, 'access_blocked': 56}
+400 / 497 {'downloaded': 344, 'access_blocked': 56}
+450 / 497 {'downloaded': 382, 'access_blocked': 68}
+COMPLETE {'downloaded': 397, 'access_blocked': 100}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+Approximately+Equivariant+Networks+via+Constrained+Optimization%22+OR+ti%3A%22Learning+Linear+Attention+in+Polynomial+Time%22+OR+ti%3A%22Learning+long+range+dependencies+through+time+reversal+symmetry+breaking%22+OR+ti%3A%22Learning+to+Learn+with+Contrastive+Meta+Objective%22+OR+ti%3A%22MaxSup+Overcoming+Representation+Collapse+in+Label+Smoothing%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+Approximately+Equivariant+Networks+via+Constrained+Optimization%22+OR+ti%3A%22Learning+Linear+Attention+in+Polynomial+Time%22+OR+ti%3A%22Learning+long+range+dependencies+through+time+reversal+symmetry+breaking%22+OR+ti%3A%22Learning+to+Learn+with+Contrastive+Meta+Objective%22+OR+ti%3A%22MaxSup+Overcoming+Representation+Collapse+in+Label+Smoothing%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:45.690410+00:00",
+  "bytes": 13333,
+  "sha256": "a1e490108bbe57fa5bc5f33148f91064894d50c73fe1b9aec733a4933f8a5d3e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c398235e31810d7d5e5b.gz"
+}

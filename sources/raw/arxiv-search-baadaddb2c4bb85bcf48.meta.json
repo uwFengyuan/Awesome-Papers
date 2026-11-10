@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FIRE+Frobenius+Isometry+Reinitialization+for+Balancing+the+Stability+Plasticity+Tradeoff%22+OR+ti%3A%22FRABench+and+UFEval+Unified+Fine+grained+Evaluation+with+Task+and+Aspect+Generalization%22+OR+ti%3A%22Fast+Escape+Slow+Convergence+Learning+Dynamics+of+Phase+Retrieval+under+Power+Law+Data%22+OR+ti%3A%22Fast+training+of+accurate+physics+informed+neural+networks+without+gradient+descent%22+OR+ti%3A%22FlashVID+Efficient+Video+Large+Language+Models+via+Training+free+Tree+based+Spatiotemporal+Token%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FIRE+Frobenius+Isometry+Reinitialization+for+Balancing+the+Stability+Plasticity+Tradeoff%22+OR+ti%3A%22FRABench+and+UFEval+Unified+Fine+grained+Evaluation+with+Task+and+Aspect+Generalization%22+OR+ti%3A%22Fast+Escape+Slow+Convergence+Learning+Dynamics+of+Phase+Retrieval+under+Power+Law+Data%22+OR+ti%3A%22Fast+training+of+accurate+physics+informed+neural+networks+without+gradient+descent%22+OR+ti%3A%22FlashVID+Efficient+Video+Large+Language+Models+via+Training+free+Tree+based+Spatiotemporal+Token%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:45.415396+00:00",
+  "bytes": 14343,
+  "sha256": "343b32c6c30b9f640f7d155193faf8c778fada9281db42d3a6b705e83979169e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-baadaddb2c4bb85bcf48.gz"
+}

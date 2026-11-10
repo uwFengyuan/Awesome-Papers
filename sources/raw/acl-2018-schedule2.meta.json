@@ -1,0 +1,10 @@
+{
+  "url": "https://2018.aclweb.org/programme/schedule/",
+  "final_url": "https://2018.aclweb.org/programme/schedule/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:46:20.521881+00:00",
+  "bytes": 1453986,
+  "sha256": "6edb57dbeba8a8a77288b2f302691f89ff0bfe638e6ae7fe7d010a0c59a360de",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2018-schedule2.gz"
+}

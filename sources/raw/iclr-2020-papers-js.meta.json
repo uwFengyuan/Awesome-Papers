@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual_2020/static/js/papers.js",
+  "final_url": "https://iclr.cc/virtual_2020/static/js/papers.js",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:04:24.328976+00:00",
+  "bytes": 7042,
+  "sha256": "e2861b1a34d5af4eabe722ea3ed9a0467daf88ae9f42f9cb93ed62001942b1c8",
+  "content_type": "text/javascript",
+  "cache_path": "sources/raw/iclr-2020-papers-js.gz"
+}

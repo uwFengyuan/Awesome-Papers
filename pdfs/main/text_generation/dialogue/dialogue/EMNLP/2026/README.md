@@ -1,0 +1,14 @@
+# pdfs/main/text_generation/dialogue/dialogue/EMNLP/2026
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2026 | EMNLP | main | [DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues](https://aclanthology.org/2026.emnlp-main.2618/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2026_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2026.emnlp-main.2618__DuplexGen_Adaptive_Synthesis_of_Human_AI_Turn_Taking_Dialogues.pdf) |
+| 2026 | EMNLP | main | [From Visual Cues to Spoken Narration: Rethinking Audio Description](https://aclanthology.org/2026.emnlp-main.432/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2026_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2026.emnlp-main.432__From_Visual_Cues_to_Spoken_Narration_Rethinking_Audio_Description.pdf) |
+| 2026 | EMNLP | main | [Measuring the Behavioral Fidelity of Long-Horizon Human Activity Simulations](https://aclanthology.org/2026.emnlp-main.625/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2026_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2026.emnlp-main.625__Measuring_the_Behavioral_Fidelity_of_Long_Horizon_Human_Activity_Simulations.pdf) |
+| 2026 | EMNLP | main | [Multi-Expert Conformal Risk Control for Pairwise LLM Judging in Open-Ended Dialogue](https://aclanthology.org/2026.emnlp-main.53/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2026_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2026.emnlp-main.53__Multi_Expert_Conformal_Risk_Control_for_Pairwise_LLM_Judging_in_Open_Ended_Dialogue.pdf) |
+| 2026 | EMNLP | main | [Towards Effective Structured Context Modeling for Conversational Recommender Systems via Dual-node Monte Carlo Tree Search](https://aclanthology.org/2026.emnlp-main.1257/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2026_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2026.emnlp-main.1257__Towards_Effective_Structured_Context_Modeling_for_Conversational_Recommender_Systems_via_Dual_node_M.pdf) |
+| 2026 | EMNLP | main | [When Humans and LLMs Disagree: Understanding Human-LLM Disagreement in Learner Intent Annotation for Educational Chatbot Dialogues](https://aclanthology.org/2026.emnlp-main.499/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2026_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2026.emnlp-main.499__When_Humans_and_LLMs_Disagree_Understanding_Human_LLM_Disagreement_in_Learner_Intent_Annotation_for_.pdf) |

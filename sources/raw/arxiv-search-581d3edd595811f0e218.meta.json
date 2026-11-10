@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22TiRex+2+Generalizing+TiRex+to+Multivariate+Data+and+Streaming%22+OR+ti%3A%22Training+Generalizable+Collaborative+Agents+via+Strategic+Risk+Aversion%22+OR+ti%3A%22TransmissiveGS+Residual+Guided+Disentangled+Gaussian+Splatting+for+Transmissive+Scene+Reconstruction+and+Rendering%22+OR+ti%3A%22Trellis4D+Complex+4D+Mesh+Generation%22+OR+ti%3A%22Uniform+in+Time+Weak+Propagation+of+Chaos+in+Shallow+Neural+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22TiRex+2+Generalizing+TiRex+to+Multivariate+Data+and+Streaming%22+OR+ti%3A%22Training+Generalizable+Collaborative+Agents+via+Strategic+Risk+Aversion%22+OR+ti%3A%22TransmissiveGS+Residual+Guided+Disentangled+Gaussian+Splatting+for+Transmissive+Scene+Reconstruction+and+Rendering%22+OR+ti%3A%22Trellis4D+Complex+4D+Mesh+Generation%22+OR+ti%3A%22Uniform+in+Time+Weak+Propagation+of+Chaos+in+Shallow+Neural+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:28:21.196589+00:00",
+  "bytes": 11284,
+  "sha256": "d756a8c53b26c9f9c9fa69ad4d6c0dc09286c1c7fe5e232e221cdd01edfc0eb4",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-581d3edd595811f0e218.gz"
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://icml.cc/Downloads/2018",
+  "method": "POST read-only Download Data",
+  "form": {
+    "resource": "0",
+    "format": "5",
+    "posters": "on",
+    "submitaction": "Download Data"
+  },
+  "http_status": 200,
+  "sha256": "7f83cad0f11b99042242fd400556540617d2e2d3a71c83305d7f64b14bc12872",
+  "bytes": 828411,
+  "cache_path": "sources/raw/icml-2018-download-json.gz",
+  "retrieved_at_utc": "2026-11-01T12:42:41.244275+00:00"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Masked+Sobolev+Training+for+Feasibility+Reliable+Optimization+Proxies%22+OR+ti%3A%22Neural+Slack+Variables+for+Shape+Constraints%22+OR+ti%3A%22PAAC+Privacy+Aware+Agentic+Device+Cloud+Collaboration%22+OR+ti%3A%22PE+SHAP+Causally+Interpretable+Path+Wise+Shapley+Explanations%22+OR+ti%3A%22Performative+Prediction+with+Selective+Labels%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Masked+Sobolev+Training+for+Feasibility+Reliable+Optimization+Proxies%22+OR+ti%3A%22Neural+Slack+Variables+for+Shape+Constraints%22+OR+ti%3A%22PAAC+Privacy+Aware+Agentic+Device+Cloud+Collaboration%22+OR+ti%3A%22PE+SHAP+Causally+Interpretable+Path+Wise+Shapley+Explanations%22+OR+ti%3A%22Performative+Prediction+with+Selective+Labels%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:37.166978+00:00",
+  "bytes": 8116,
+  "sha256": "c44e0bc64f220fbf2be770c98445e3f2ebe967d408fbab584f15513491f46f7e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-06a1d5e4b0fad38b93d6.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22In+Search+of+Adam+s+Secret+Sauce%22+OR+ti%3A%22InfinityStar+Uni+ed+Spacetime+AutoRegressive+Modeling+for+Visual+Generation%22+OR+ti%3A%22Interactive+Cross+modal+Learning+for+Text+3D+Scene+Retrieval%22+OR+ti%3A%22KVzip+Query+Agnostic+KV+Cache+Compression+with+Context+Reconstruction%22+OR+ti%3A%22Large+Language+Diffusion+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22In+Search+of+Adam+s+Secret+Sauce%22+OR+ti%3A%22InfinityStar+Uni+ed+Spacetime+AutoRegressive+Modeling+for+Visual+Generation%22+OR+ti%3A%22Interactive+Cross+modal+Learning+for+Text+3D+Scene+Retrieval%22+OR+ti%3A%22KVzip+Query+Agnostic+KV+Cache+Compression+with+Context+Reconstruction%22+OR+ti%3A%22Large+Language+Diffusion+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:42.568118+00:00",
+  "bytes": 29796,
+  "sha256": "120e0370ae411c5c1ec4b7b2bcf3b92c00cea2a1a37df70b83d360b3cc29f682",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3ee4f787b066e3416145.gz"
+}

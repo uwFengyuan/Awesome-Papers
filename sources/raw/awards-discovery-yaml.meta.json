@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/clemense/ai-bestpapers/gh-pages/_data/papers.yml",
+  "final_url": "https://raw.githubusercontent.com/clemense/ai-bestpapers/gh-pages/_data/papers.yml",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:48:03.717193+00:00",
+  "bytes": 389485,
+  "sha256": "0baa54943b8760235048ced22f625fc8d041ea1335444f4860fc281abcd07fb2",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/awards-discovery-yaml.gz"
+}

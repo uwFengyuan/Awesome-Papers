@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Iterative+Nash+Policy+Optimization+Aligning+LLMs+with+General+Preferences+via+No+Regret+Learning%22+OR+ti%3A%22Joint+Graph+Rewiring+and+Feature+Denoising+via+Spectral+Resonance%22+OR+ti%3A%22Judge+Decoding+Faster+Speculative+Sampling+Requires+Going+Beyond+Model+Alignment%22+OR+ti%3A%22KAN+Kolmogorov+Arnold+Networks%22+OR+ti%3A%22Kinetix+Investigating+the+Training+of+General+Agents+through+Open+Ended+Physics+Based+Control%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Iterative+Nash+Policy+Optimization+Aligning+LLMs+with+General+Preferences+via+No+Regret+Learning%22+OR+ti%3A%22Joint+Graph+Rewiring+and+Feature+Denoising+via+Spectral+Resonance%22+OR+ti%3A%22Judge+Decoding+Faster+Speculative+Sampling+Requires+Going+Beyond+Model+Alignment%22+OR+ti%3A%22KAN+Kolmogorov+Arnold+Networks%22+OR+ti%3A%22Kinetix+Investigating+the+Training+of+General+Agents+through+Open+Ended+Physics+Based+Control%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:20.995590+00:00",
+  "bytes": 32107,
+  "sha256": "fcfe8eb8c3b1ae2a6ff65ee87f1160631592bd47118a6631cf054c4700efcf5a",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4aeb5b8c019e3d93228a.gz"
+}

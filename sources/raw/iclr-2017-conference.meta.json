@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/archive/www/doku.php%3Fid=iclr2017:main.html",
+  "final_url": "https://iclr.cc/archive/www/doku.php%3Fid=iclr2017:main.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:38:55.613493+00:00",
+  "bytes": 13598,
+  "sha256": "68a6b084fd0b298f821c1486443309ed1c8bc45d8f5b082b17e4b29f27cb239e",
+  "content_type": "text/html",
+  "cache_path": "sources/raw/iclr-2017-conference.gz"
+}

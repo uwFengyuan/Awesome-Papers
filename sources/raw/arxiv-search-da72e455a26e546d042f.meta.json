@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Adversarial+Training+and+Provable+Defenses+Bridging+the+Gap%22+OR+ti%3A%22BackPACK+Packing+more+into+Backprop%22+OR+ti%3A%22Building+Deep+Equivariant+Capsule+Networks%22+OR+ti%3A%22CATER+A+diagnostic+dataset+for+Compositional+Actions+TEmporal+Reasoning%22+OR+ti%3A%22Causal+Discovery+with+Reinforcement+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Adversarial+Training+and+Provable+Defenses+Bridging+the+Gap%22+OR+ti%3A%22BackPACK+Packing+more+into+Backprop%22+OR+ti%3A%22Building+Deep+Equivariant+Capsule+Networks%22+OR+ti%3A%22CATER+A+diagnostic+dataset+for+Compositional+Actions+TEmporal+Reasoning%22+OR+ti%3A%22Causal+Discovery+with+Reinforcement+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:13.409640+00:00",
+  "bytes": 14562,
+  "sha256": "86c9192e319df8d85612a2b6c50a2817c51da71c2df4edc68b59c59fb51a7f46",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-da72e455a26e546d042f.gz"
+}

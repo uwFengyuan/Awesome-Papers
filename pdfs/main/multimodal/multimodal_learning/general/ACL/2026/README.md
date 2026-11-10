@@ -1,0 +1,15 @@
+# pdfs/main/multimodal/multimodal_learning/general/ACL/2026
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2026 | ACL | main | [Dynamic Emotion and Personality Profiling for Multimodal Deception Detection](https://aclanthology.org/2026.acl-long.181/) | [Long] [Main] [Oral] | Multimodal & Vision-Language / 多模态与视觉语言 / Multimodal Learning / 多模态学习 / General / 综合 | [PDF](2026_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2026.acl-long.181__Dynamic_Emotion_and_Personality_Profiling_for_Multimodal_Deception_Detection.pdf) |
+| 2026 | ACL | main | [MoCa: Modality-aware Continual Pre-training Makes Better Bidirectional Multimodal Embeddings](https://aclanthology.org/2026.acl-long.34/) | [Long] [Main] [Oral] | Multimodal & Vision-Language / 多模态与视觉语言 / Multimodal Learning / 多模态学习 / General / 综合 | [PDF](2026_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2026.acl-long.34__MoCa_Modality_aware_Continual_Pre_training_Makes_Better_Bidirectional_Multimodal_Embeddings.pdf) |
+| 2026 | ACL | main | [Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning](https://aclanthology.org/2026.acl-long.620/) | [Long] [Main] [Oral] | Multimodal & Vision-Language / 多模态与视觉语言 / Multimodal Learning / 多模态学习 / General / 综合 | [PDF](2026_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2026.acl-long.620__Unleashing_Spatial_Reasoning_in_Multimodal_Large_Language_Models_via_Textual_Representation_Guided_R.pdf) |
+| 2026 | ACL | main | [Using Perspectival Words Is Harder Than Vocabulary Words for Humans —and Even More So for Multimodal Language Models](https://aclanthology.org/2026.acl-long.84/) | [Long] [Main] [Oral] | Multimodal & Vision-Language / 多模态与视觉语言 / Multimodal Learning / 多模态学习 / General / 综合 | [PDF](2026_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2026.acl-long.84__Using_Perspectival_Words_Is_Harder_Than_Vocabulary_Words_for_Humans_and_Even_More_So_for_Multimodal_.pdf) |
+| 2026 | ACL | main | [VeriTaS: The First Dynamic Benchmark for Multimodal Automated Fact-Checking](https://aclanthology.org/2026.acl-long.1948/) | [Long] [Main] [Oral] | Multimodal & Vision-Language / 多模态与视觉语言 / Multimodal Learning / 多模态学习 / General / 综合 | [PDF](2026_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2026.acl-long.1948__VeriTaS_The_First_Dynamic_Benchmark_for_Multimodal_Automated_Fact_Checking.pdf) |
+| 2026 | ACL | main | [Visually-Guided Policy Optimization for Multimodal Reasoning](https://aclanthology.org/2026.acl-long.301/) | [Long] [Main] [Oral] | Multimodal & Vision-Language / 多模态与视觉语言 / Multimodal Learning / 多模态学习 / General / 综合 | [PDF](2026_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2026.acl-long.301__Visually_Guided_Policy_Optimization_for_Multimodal_Reasoning.pdf) |
+| 2026 | ACL | main | [Zero-Shot Multimodal Retrieval with Multi-Scale Contextual Representations](https://aclanthology.org/2026.acl-long.930/) | [Long] [Main] [Oral] | Multimodal & Vision-Language / 多模态与视觉语言 / Multimodal Learning / 多模态学习 / General / 综合 | [PDF](2026_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2026.acl-long.930__Zero_Shot_Multimodal_Retrieval_with_Multi_Scale_Contextual_Representations.pdf) |

@@ -1,0 +1,10 @@
+{
+  "url": "https://docs.google.com/spreadsheets/d/1aXGTy_7Xeh-OXIs3iJSbDpUsZ6YhbfA76b17kBZH0Yk/export?format=xlsx",
+  "final_url": "https://doc-0k-60-sheets.googleusercontent.com/export/3ropqptqom1b57lc45egbob1oo/jj668ib8gnc2na2i3oscbfbapk/1793536865000/105250506097979753968/*/1aXGTy_7Xeh-OXIs3iJSbDpUsZ6YhbfA76b17kBZH0Yk?format=xlsx",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:08.933329+00:00",
+  "bytes": 598509,
+  "sha256": "36b9be6ced24c816cda2a7868299c64a3345ba39f87754b11ddc3d12dc5529ed",
+  "content_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+  "cache_path": "sources/raw/emnlp-2026-schedule-xlsx.gz"
+}

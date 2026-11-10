@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Why+Low+Precision+Transformer+Training+Fails+An+Analysis+on+Flash+Attention%22+OR+ti%3A%22World+In+World+World+Models+in+a+Closed+Loop+World%22+OR+ti%3A%22mCLM+A+Modular+Chemical+Language+Model+that+Generates+Functional+and+Makeable+Molecules%22+OR+ti%3A%22Differentially+Private+Learning+of+Graphical+Models+using+CGMs%22+OR+ti%3A%22Fractional+Langevin+Monte+Carlo+Exploring+Levy+Driven+Stochastic+Differential+Equations+for+MCMC%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Why+Low+Precision+Transformer+Training+Fails+An+Analysis+on+Flash+Attention%22+OR+ti%3A%22World+In+World+World+Models+in+a+Closed+Loop+World%22+OR+ti%3A%22mCLM+A+Modular+Chemical+Language+Model+that+Generates+Functional+and+Makeable+Molecules%22+OR+ti%3A%22Differentially+Private+Learning+of+Graphical+Models+using+CGMs%22+OR+ti%3A%22Fractional+Langevin+Monte+Carlo+Exploring+Levy+Driven+Stochastic+Differential+Equations+for+MCMC%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:03.452601+00:00",
+  "bytes": 10340,
+  "sha256": "5e329c1dffbe254db72701a09e268ed5afc5241e1ccd10fac776efb25090e06e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4054fca2253adf099ca4.gz"
+}

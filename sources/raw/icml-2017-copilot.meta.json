@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/icml/icml2017.json",
+  "final_url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/icml/icml2017.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:06.379461+00:00",
+  "bytes": 1783649,
+  "sha256": "eb9d8a66bb1109db60ff46981ecf1208543d3199fad4c87bc63adf067e50c6af",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/icml-2017-copilot.gz"
+}

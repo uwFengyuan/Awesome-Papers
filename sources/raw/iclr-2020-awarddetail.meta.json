@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual/2020/awards_detail",
+  "final_url": "https://iclr.cc/virtual/2020/awards_detail",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:59:19.807758+00:00",
+  "bytes": 39670,
+  "sha256": "c2d322e4a3796c5fde55921c9e9a6c81620a9ba17796944c2573de76c21777ee",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/iclr-2020-awarddetail.gz"
+}

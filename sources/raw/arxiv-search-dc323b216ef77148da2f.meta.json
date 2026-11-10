@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22EasyTPP+Towards+Open+Benchmarking+Temporal+Point+Processes%22+OR+ti%3A%22Generative+Learning+for+Financial+Time+Series+with+Irregular+and+Scale+Invariant+Patterns%22+OR+ti%3A%22Prediction+without+Preclusion+Recourse+Verification+with+Reachable+Sets%22+OR+ti%3A%22SocioDojo+Building+Lifelong+Analytical+Agents+with+Real+world+Text+and+Time+Series%22+OR+ti%3A%22Agent+Security+Bench+ASB+Formalizing+and+Benchmarking+Attacks+and+Defenses+in+LLM+based%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22EasyTPP+Towards+Open+Benchmarking+Temporal+Point+Processes%22+OR+ti%3A%22Generative+Learning+for+Financial+Time+Series+with+Irregular+and+Scale+Invariant+Patterns%22+OR+ti%3A%22Prediction+without+Preclusion+Recourse+Verification+with+Reachable+Sets%22+OR+ti%3A%22SocioDojo+Building+Lifelong+Analytical+Agents+with+Real+world+Text+and+Time+Series%22+OR+ti%3A%22Agent+Security+Bench+ASB+Formalizing+and+Benchmarking+Attacks+and+Defenses+in+LLM+based%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:12:49.919432+00:00",
+  "bytes": 9245,
+  "sha256": "c66f18ae10f65730dffe206fdae229f45967f299fcc40b509c0deeea8b50af4f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-dc323b216ef77148da2f.gz"
+}

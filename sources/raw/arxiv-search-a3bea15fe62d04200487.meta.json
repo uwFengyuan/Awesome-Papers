@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22DOUBT+Decoupled+Object+level+Understanding+and+Bridging+via+vMF+based+Trustworthiness+for+Hallucination%22+OR+ti%3A%22DPO+Unchained+Your+Training+Algorithm+is+Secretly+Disentangled+in+Human+Choice+Theory+and%22+OR+ti%3A%22Detecting+the+Semantic+Fixed+Point+A+Geometric+Framework+for+Efficient+Inference%22+OR+ti%3A%22DiScoFormer+Plug+In+Density+and+Score+Estimation+with+Transformers%22+OR+ti%3A%22Diffract+Spectral+View+of+LLM+Domain+Adaptation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22DOUBT+Decoupled+Object+level+Understanding+and+Bridging+via+vMF+based+Trustworthiness+for+Hallucination%22+OR+ti%3A%22DPO+Unchained+Your+Training+Algorithm+is+Secretly+Disentangled+in+Human+Choice+Theory+and%22+OR+ti%3A%22Detecting+the+Semantic+Fixed+Point+A+Geometric+Framework+for+Efficient+Inference%22+OR+ti%3A%22DiScoFormer+Plug+In+Density+and+Score+Estimation+with+Transformers%22+OR+ti%3A%22Diffract+Spectral+View+of+LLM+Domain+Adaptation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:35.836204+00:00",
+  "bytes": 7890,
+  "sha256": "f6f597c39c1219bd2d5905da8e62517a13f342b013b976b179d45fe958e83eac",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-a3bea15fe62d04200487.gz"
+}

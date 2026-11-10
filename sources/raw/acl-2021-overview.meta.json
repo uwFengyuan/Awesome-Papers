@@ -1,0 +1,10 @@
+{
+  "url": "https://2021.aclweb.org/program/overview/",
+  "final_url": "https://2021.aclweb.org/program/overview/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:48:05.139285+00:00",
+  "bytes": 255311,
+  "sha256": "d10cfe7a415f07c03064aae1edd6bdd917c8f38c4563a01a36b8e95a0ac14c8d",
+  "content_type": "text/html",
+  "cache_path": "sources/raw/acl-2021-overview.gz"
+}

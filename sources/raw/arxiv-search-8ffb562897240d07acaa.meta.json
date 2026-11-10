@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Geometric+Analysis+of+Nonconvex+Optimization+Landscapes+for+Overcomplete+Learning%22+OR+ti%3A%22Gradient+Descent+Maximizes+the+Margin+of+Homogeneous+Neural+Networks%22+OR+ti%3A%22GraphZoom+A+Multi+level+Spectral+Approach+for+Accurate+and+Scalable+Graph+Embedding%22+OR+ti%3A%22Harnessing+Structures+for+Value+Based+Planning+and+Reinforcement+Learning%22+OR+ti%3A%22High+Fidelity+Speech+Synthesis+with+Adversarial+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Geometric+Analysis+of+Nonconvex+Optimization+Landscapes+for+Overcomplete+Learning%22+OR+ti%3A%22Gradient+Descent+Maximizes+the+Margin+of+Homogeneous+Neural+Networks%22+OR+ti%3A%22GraphZoom+A+Multi+level+Spectral+Approach+for+Accurate+and+Scalable+Graph+Embedding%22+OR+ti%3A%22Harnessing+Structures+for+Value+Based+Planning+and+Reinforcement+Learning%22+OR+ti%3A%22High+Fidelity+Speech+Synthesis+with+Adversarial+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:22.741124+00:00",
+  "bytes": 11012,
+  "sha256": "b982b793e21df646ef25c2a57404b23ad2e1068ad711a222acc00dba87c5711e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-8ffb562897240d07acaa.gz"
+}

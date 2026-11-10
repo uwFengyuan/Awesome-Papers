@@ -1,0 +1,10 @@
+{
+  "url": "https://2026.aclweb.org/program/best_papers/",
+  "final_url": "https://2026.aclweb.org/program/best_papers/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:42.013694+00:00",
+  "bytes": 18970,
+  "sha256": "21e0a7031ce5455796521dc918e36e2c6d9ec3981c6c0ded67ff8a916b30e008",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2026-awardorigin-0.gz"
+}

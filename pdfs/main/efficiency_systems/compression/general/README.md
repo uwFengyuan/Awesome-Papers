@@ -1,0 +1,15 @@
+# pdfs/main/efficiency_systems/compression/general
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2021 | ACL | main | [Enabling Lightweight Fine-tuning for Pre-trained Language Model Compression based on Matrix Product Operators](https://aclanthology.org/2021.acl-long.418/) | [Long] [Main] [Oral] | Efficient ML & Systems / 高效学习与系统 / Compression, Quantization & Pruning / 压缩量化与剪枝 / General / 综合 | [PDF](2021_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2021.acl-long.418__Enabling_Lightweight_Fine_tuning_for_Pre_trained_Language_Model_Compression_based_on_Matrix_Product_.pdf) |
+| 2021 | ACL | main | [Super Tickets in Pre-Trained Language Models: From Model Compression to Improving Generalization](https://aclanthology.org/2021.acl-long.510/) | [Long] [Main] [Oral] | Efficient ML & Systems / 高效学习与系统 / Compression, Quantization & Pruning / 压缩量化与剪枝 / General / 综合 | [PDF](2021_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2021.acl-long.510__Super_Tickets_in_Pre_Trained_Language_Models_From_Model_Compression_to_Improving_Generalization.pdf) |
+| 2025 | ICLR | main | [MoDeGPT: Modular Decomposition for Large Language Model Compression](https://openreview.net/forum?id=8EfxjTCg2k) | [Long] [Main] [Oral] [Poster] | Efficient ML & Systems / 高效学习与系统 / Compression, Quantization & Pruning / 压缩量化与剪枝 / General / 综合 | [PDF](2025_ICLR_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__iclr-2025-8EfxjTCg2k__MoDeGPT_Modular_Decomposition_for_Large_Language_Model_Compression.pdf) |
+| 2017 | ICML | main | [Combined Group and Exclusive Sparsity for Deep Neural Networks](https://ICML.cc/virtual/2017/poster/474) | [Long] [Main] [Oral] [Poster] | Efficient ML & Systems / 高效学习与系统 / Compression, Quantization & Pruning / 压缩量化与剪枝 / General / 综合 | [PDF](2017_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2017-474__Combined_Group_and_Exclusive_Sparsity_for_Deep_Neural_Networks.pdf) |
+| 2019 | ICML | main | [LIT: Learned Intermediate Representation Training for Model Compression](https://ICML.cc/virtual/2019/poster/4318) | [Long] [Main] [Oral] [Poster] | Efficient ML & Systems / 高效学习与系统 / Compression, Quantization & Pruning / 压缩量化与剪枝 / General / 综合 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-4318__LIT_Learned_Intermediate_Representation_Training_for_Model_Compression.pdf) |
+| 2019 | ICML | main | [Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff](https://ICML.cc/virtual/2019/poster/3643) | [Long] [Main] [Oral] [Poster] | Efficient ML & Systems / 高效学习与系统 / Compression, Quantization & Pruning / 压缩量化与剪枝 / General / 综合 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-3643__Rethinking_Lossy_Compression_The_Rate_Distortion_Perception_Tradeoff.pdf) |
+| 2026 | ICML | main | [Lottery Prior: Randomized Neural Compression for Zero-Shot Inverse Problems](https://openreview.net/forum?id=YNoQhMrps4) | [Long] [Main] [Oral] [Poster] | Efficient ML & Systems / 高效学习与系统 / Compression, Quantization & Pruning / 压缩量化与剪枝 / General / 综合 | [Online](https://openreview.net/pdf?id=YNoQhMrps4) |

@@ -1,0 +1,10 @@
+{
+  "url": "https://proceedings.neurips.cc/paper/2018",
+  "final_url": "https://proceedings.neurips.cc/paper/2018",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:09.638511+00:00",
+  "bytes": 536737,
+  "sha256": "199644b9e590b0cd32ce7590b65b34f645a044f55381d34d88cd8463a494d299",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2018-proceedings.gz"
+}

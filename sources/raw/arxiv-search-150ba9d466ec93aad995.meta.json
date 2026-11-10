@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Q+RAG+Long+Context+Multi+Step+Retrieval+via+Value+Based+Embedder+Training%22+OR+ti%3A%22Quantitative+Bounds+for+Length+Generalization+in+Transformers%22+OR+ti%3A%22Quotient+Space+Diffusion+Models%22+OR+ti%3A%22RAIN+Merging+A+Gradient+Free+Method+to+Enhance+Instruction+Following+in+Large+Reasoning%22+OR+ti%3A%22Radiometrically+Consistent+Gaussian+Surfels+for+Inverse+Rendering%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Q+RAG+Long+Context+Multi+Step+Retrieval+via+Value+Based+Embedder+Training%22+OR+ti%3A%22Quantitative+Bounds+for+Length+Generalization+in+Transformers%22+OR+ti%3A%22Quotient+Space+Diffusion+Models%22+OR+ti%3A%22RAIN+Merging+A+Gradient+Free+Method+to+Enhance+Instruction+Following+in+Large+Reasoning%22+OR+ti%3A%22Radiometrically+Consistent+Gaussian+Surfels+for+Inverse+Rendering%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:58.328278+00:00",
+  "bytes": 14228,
+  "sha256": "09f2e140893602bdf6e02d2f860548295fe50b189de164ca2e8561867f7311a2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-150ba9d466ec93aad995.gz"
+}

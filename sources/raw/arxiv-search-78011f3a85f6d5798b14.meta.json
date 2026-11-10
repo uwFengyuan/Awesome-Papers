@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+Joint+Interaction+of+Models+Data+and+Features%22+OR+ti%3A%22One+shot+Empirical+Privacy+Estimation+for+Federated+Learning%22+OR+ti%3A%22Phenomenal+Yet+Puzzling+Testing+Inductive+Reasoning+Capabilities+of+Language+Models+with+Hypothesis+Refinement%22+OR+ti%3A%22Pre+Training+Goal+based+Models+for+Sample+Efficient+Reinforcement+Learning%22+OR+ti%3A%22Predictive+auxiliary+objectives+in+deep+RL+mimic+learning+in+the+brain%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+Joint+Interaction+of+Models+Data+and+Features%22+OR+ti%3A%22One+shot+Empirical+Privacy+Estimation+for+Federated+Learning%22+OR+ti%3A%22Phenomenal+Yet+Puzzling+Testing+Inductive+Reasoning+Capabilities+of+Language+Models+with+Hypothesis+Refinement%22+OR+ti%3A%22Pre+Training+Goal+based+Models+for+Sample+Efficient+Reinforcement+Learning%22+OR+ti%3A%22Predictive+auxiliary+objectives+in+deep+RL+mimic+learning+in+the+brain%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:03.040843+00:00",
+  "bytes": 11248,
+  "sha256": "3f7bd7ca1d5efa34d2e3044db506e6b4c9f8890bc0b28ac7c8d70b4886bf975c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-78011f3a85f6d5798b14.gz"
+}

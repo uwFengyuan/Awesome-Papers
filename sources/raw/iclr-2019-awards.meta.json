@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/Conferences/2019/Awards",
+  "final_url": "https://iclr.cc/Conferences/2019/Awards",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:38:53.922213+00:00",
+  "bytes": 46857,
+  "sha256": "7730844d11aede31d0bd851235eee1b310f015be6d6336da875fcf643023514f",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/iclr-2019-awards.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Meta+Learning+with+Warped+Gradient+Descent%22+OR+ti%3A%22Meta+Q+Learning%22+OR+ti%3A%22Mirror+Generative+Neural+Machine+Translation%22+OR+ti%3A%22Mogrifier+LSTM%22+OR+ti%3A%22Neural+Network+Branching+for+Neural+Network+Verification%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Meta+Learning+with+Warped+Gradient+Descent%22+OR+ti%3A%22Meta+Q+Learning%22+OR+ti%3A%22Mirror+Generative+Neural+Machine+Translation%22+OR+ti%3A%22Mogrifier+LSTM%22+OR+ti%3A%22Neural+Network+Branching+for+Neural+Network+Verification%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:28.923183+00:00",
+  "bytes": 9403,
+  "sha256": "d44946e2e1065d78fd175d6704ccb1b6094f6e29843a950d0877ccfc9a7aad22",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7ded077e82d475566b53.gz"
+}

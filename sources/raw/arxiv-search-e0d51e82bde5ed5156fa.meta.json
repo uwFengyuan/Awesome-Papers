@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22LaMPlace+Learning+to+Optimize+Cross+Stage+Metrics+in+Macro+Placement%22+OR+ti%3A%22Language+Representations+Can+be+What+Recommenders+Need+Findings+and+Potentials%22+OR+ti%3A%22Latent+Bayesian+Optimization+via+Autoregressive+Normalizing+Flows%22+OR+ti%3A%22Learning+Distributions+of+Complex+Fluid+Simulations+with+Diffusion+Graph+Networks%22+OR+ti%3A%22Learning+Randomized+Algorithms+with+Transformers%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22LaMPlace+Learning+to+Optimize+Cross+Stage+Metrics+in+Macro+Placement%22+OR+ti%3A%22Language+Representations+Can+be+What+Recommenders+Need+Findings+and+Potentials%22+OR+ti%3A%22Latent+Bayesian+Optimization+via+Autoregressive+Normalizing+Flows%22+OR+ti%3A%22Learning+Distributions+of+Complex+Fluid+Simulations+with+Diffusion+Graph+Networks%22+OR+ti%3A%22Learning+Randomized+Algorithms+with+Transformers%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:28.124696+00:00",
+  "bytes": 11701,
+  "sha256": "6f3bae854cd89ec3af69c5f7faa5ee527384503a46390678cfa775a6e7d1df7e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-e0d51e82bde5ed5156fa.gz"
+}

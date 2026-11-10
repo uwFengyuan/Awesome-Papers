@@ -1,0 +1,15 @@
+# pdfs/finance/main/other_finance/general/general
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2022 | EMNLP | main | [A Joint Learning Framework for Restaurant Survival Prediction and Explanation](https://aclanthology.org/2022.emnlp-main.216/) | [Long] [Main] [Finance] | Other Financial Applications / 其他金融应用 / General / 综合 / General / 综合 | [PDF](2022_EMNLP_%5BLong%5D%5BMain%5D%5BFinance%5D__2022.emnlp-main.216__A_Joint_Learning_Framework_for_Restaurant_Survival_Prediction_and_Explanation.pdf) |
+| 2025 | EMNLP | main | [Multi-Domain Explainability of Preferences](https://aclanthology.org/2025.emnlp-main.736/) | [Long] [Main] [Oral] [Finance] | Other Financial Applications / 其他金融应用 / General / 综合 / General / 综合 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D%5BFinance%5D__2025.emnlp-main.736__Multi_Domain_Explainability_of_Preferences.pdf) |
+| 2026 | EMNLP | main | [Don’t Peek at the Answer: Outcome-Masked Group Relative Policy Optimization for Label-Free RLVR](https://aclanthology.org/2026.emnlp-main.2547/) | [Long] [Main] [Oral] [Finance] | Other Financial Applications / 其他金融应用 / General / 综合 / General / 综合 | [PDF](2026_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D%5BFinance%5D__2026.emnlp-main.2547__Don_t_Peek_at_the_Answer_Outcome_Masked_Group_Relative_Policy_Optimization_for_Label_Free_RLVR.pdf) |
+| 2023 | ICLR | main | [FairGBM: Gradient Boosting with Fairness Constraints](https://openreview.net/forum?id=x-mXzBgCX3a) | [Long] [Main] [Poster] [Finance] | Other Financial Applications / 其他金融应用 / General / 综合 / General / 综合 | [PDF](2023_ICLR_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__iclr-2023-x-mXzBgCX3a__FairGBM_Gradient_Boosting_with_Fairness_Constraints.pdf) |
+| 2026 | ICLR | main | [Semi-Supervised Preference Optimization with Limited Feedback](https://openreview.net/forum?id=2026-Oral--710-b9dc3169) | [Long] [Main] [Oral] [Poster] [Finance] | Other Financial Applications / 其他金融应用 / General / 综合 / General / 综合 | [PDF](2026_ICLR_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D%5BFinance%5D__iclr-2026-2026-Oral--710-b9dc3169__Semi_Supervised_Preference_Optimization_with_Limited_Feedback.pdf) |
+| 2018 | ICML | main | [Celer: a Fast Solver for the Lasso with Dual Extrapolation](https://ICML.cc/virtual/2018/poster/2132) | [Long] [Main] [Oral] [Poster] [Finance] | Other Financial Applications / 其他金融应用 / General / 综合 / General / 综合 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D%5BFinance%5D__icml-2018-2132__Celer_a_Fast_Solver_for_the_Lasso_with_Dual_Extrapolation.pdf) |
+| 2023 | ICML | main | [Margin-based sampling in high dimensions: When being active is less efficient than staying passive](http://proceedings.mlr.press/v202/tifrea23a/tifrea23a.pdf) | [Long] [Main] [Poster] [Finance] | Other Financial Applications / 其他金融应用 / General / 综合 / General / 综合 | [PDF](2023_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2023-23887__Margin_based_sampling_in_high_dimensions_When_being_active_is_less_efficient_than_staying_passive.pdf) |

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Compact+SO+3+Equivariant+Atomistic+Foundation+Models+via+Structural+Pruning%22+OR+ti%3A%22Computer+Use+at+the+Edge+of+the+Statistical+Precipice%22+OR+ti%3A%22Coordination+Connectivity+Shared+Initialization+Shapes+the+Joint+Policy+Landscape+in+MARL%22+OR+ti%3A%22DD+CAM+Minimal+Sufficient+Explanations+for+Vision+Models+Using+Delta+Debugging%22+OR+ti%3A%22Decomposing+Earth+Embeddings+with+Sparse+Autoencoders%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Compact+SO+3+Equivariant+Atomistic+Foundation+Models+via+Structural+Pruning%22+OR+ti%3A%22Computer+Use+at+the+Edge+of+the+Statistical+Precipice%22+OR+ti%3A%22Coordination+Connectivity+Shared+Initialization+Shapes+the+Joint+Policy+Landscape+in+MARL%22+OR+ti%3A%22DD+CAM+Minimal+Sufficient+Explanations+for+Vision+Models+Using+Delta+Debugging%22+OR+ti%3A%22Decomposing+Earth+Embeddings+with+Sparse+Autoencoders%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:38.275133+00:00",
+  "bytes": 8602,
+  "sha256": "a14d0632d12bd787d205628e306a0cf326b1efe7d8e5d4467b52190759153b81",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b86ff319296c882e35f7.gz"
+}

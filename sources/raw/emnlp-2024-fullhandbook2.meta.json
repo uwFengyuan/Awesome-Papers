@@ -1,0 +1,10 @@
+{
+  "url": "https://2024.emnlp.org/downloads/EMNLP_2024_Handbook_digital.pdf",
+  "final_url": "https://2024.emnlp.org/downloads/EMNLP_2024_Handbook_digital.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:59:19.579364+00:00",
+  "bytes": 133,
+  "sha256": "3b5c4bd1c9c7fd10523970ca390516a47c8b1787a971d5b7453182ed34440bcb",
+  "content_type": "application/pdf",
+  "cache_path": "sources/raw/emnlp-2024-fullhandbook2.gz"
+}

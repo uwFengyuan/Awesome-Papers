@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/emnlp/emnlp2024.json",
+  "final_url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/emnlp/emnlp2024.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:41.669198+00:00",
+  "bytes": 8812683,
+  "sha256": "4a7028d2dd0148cf6ea62ac6e66050ef6e71a2067d64adeae08bd70503f43150",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2024-copilot.gz"
+}

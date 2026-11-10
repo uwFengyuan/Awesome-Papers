@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "papers": 10967,
+  "finance": 1497,
+  "tracks": {
+    "main": 10739,
+    "findings": 187,
+    "datasets_benchmarks": 30,
+    "evaluations": 11
+  },
+  "venues": {
+    "AAAI": 1758,
+    "ACL": 2287,
+    "EMNLP": 2206,
+    "ICLR": 936,
+    "ICML": 2875,
+    "NeurIPS": 905
+  },
+  "only_verified_long_papers": true,
+  "excluded_tracks_absent": true,
+  "finance_main_findings_separated": true,
+  "best_outstanding_oral_independent": true,
+  "unique_pdf_files": 10162,
+  "pdf_sha256_failures": [],
+  "duplicate_publication_records_absent": true,
+  "original_retained_pdf_hashes_preserved": true,
+  "local_links_checked": 74028,
+  "csv_jsonl_excel_memberships_match": true,
+  "bilingual_readmes_present": true,
+  "files_at_or_above_100_mib": [],
+  "largest_file": {
+    "bytes": 98869826,
+    "path": "sources/raw/emnlp-2022-fullhandbook.gz"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Any+Order+GPT+as+Masked+Diffusion+Model+Decoupling+Formulation+and+Architecture%22+OR+ti%3A%22Are+VLMs+Seeing+or+Just+Saying+Uncovering+the+Illusion+of+Visual+Re+examination%22+OR+ti%3A%22Asymmetric+Perturbation+in+Solving+Bilinear+Saddle+Point+Optimization%22+OR+ti%3A%22Bad+Seeing+or+Bad+Thinking+Rewarding+Perception+for+Multimodal+Reasoning%22+OR+ti%3A%22Benchmarking+at+the+Edge+of+Comprehension%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Any+Order+GPT+as+Masked+Diffusion+Model+Decoupling+Formulation+and+Architecture%22+OR+ti%3A%22Are+VLMs+Seeing+or+Just+Saying+Uncovering+the+Illusion+of+Visual+Re+examination%22+OR+ti%3A%22Asymmetric+Perturbation+in+Solving+Bilinear+Saddle+Point+Optimization%22+OR+ti%3A%22Bad+Seeing+or+Bad+Thinking+Rewarding+Perception+for+Multimodal+Reasoning%22+OR+ti%3A%22Benchmarking+at+the+Edge+of+Comprehension%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:19.987427+00:00",
+  "bytes": 13694,
+  "sha256": "0b0b242e5c94dbcb7614ae947a18845d7ffd76b43451daa2f1644e94d7be9543",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-57775538dd6e16f5979a.gz"
+}

@@ -1,0 +1,169 @@
+PDF queue 8354
+50 / 8354 {'downloaded': 50}
+100 / 8354 {'downloaded': 100}
+150 / 8354 {'downloaded': 139, 'access_blocked': 11}
+200 / 8354 {'downloaded': 161, 'access_blocked': 39}
+250 / 8354 {'downloaded': 179, 'access_blocked': 71}
+300 / 8354 {'downloaded': 229, 'access_blocked': 71}
+350 / 8354 {'downloaded': 246, 'access_blocked': 104}
+400 / 8354 {'downloaded': 296, 'access_blocked': 104}
+450 / 8354 {'downloaded': 346, 'access_blocked': 104}
+500 / 8354 {'downloaded': 396, 'access_blocked': 104}
+550 / 8354 {'downloaded': 446, 'access_blocked': 104}
+600 / 8354 {'downloaded': 496, 'access_blocked': 104}
+650 / 8354 {'downloaded': 543, 'access_blocked': 107}
+700 / 8354 {'downloaded': 569, 'access_blocked': 131}
+750 / 8354 {'downloaded': 612, 'access_blocked': 138}
+800 / 8354 {'downloaded': 656, 'access_blocked': 144}
+850 / 8354 {'downloaded': 706, 'access_blocked': 144}
+900 / 8354 {'downloaded': 756, 'access_blocked': 144}
+950 / 8354 {'downloaded': 806, 'access_blocked': 144}
+1000 / 8354 {'downloaded': 856, 'access_blocked': 144}
+1050 / 8354 {'downloaded': 906, 'access_blocked': 144}
+1100 / 8354 {'downloaded': 956, 'access_blocked': 144}
+1150 / 8354 {'downloaded': 1006, 'access_blocked': 144}
+1200 / 8354 {'downloaded': 1056, 'access_blocked': 144}
+1250 / 8354 {'downloaded': 1106, 'access_blocked': 144}
+1300 / 8354 {'downloaded': 1156, 'access_blocked': 144}
+1350 / 8354 {'downloaded': 1206, 'access_blocked': 144}
+1400 / 8354 {'downloaded': 1256, 'access_blocked': 144}
+1450 / 8354 {'downloaded': 1306, 'access_blocked': 144}
+1500 / 8354 {'downloaded': 1356, 'access_blocked': 144}
+1550 / 8354 {'downloaded': 1406, 'access_blocked': 144}
+1600 / 8354 {'downloaded': 1456, 'access_blocked': 144}
+1650 / 8354 {'downloaded': 1506, 'access_blocked': 144}
+1700 / 8354 {'downloaded': 1556, 'access_blocked': 144}
+1750 / 8354 {'downloaded': 1606, 'access_blocked': 144}
+1800 / 8354 {'downloaded': 1656, 'access_blocked': 144}
+1850 / 8354 {'downloaded': 1706, 'access_blocked': 144}
+1900 / 8354 {'downloaded': 1756, 'access_blocked': 144}
+1950 / 8354 {'downloaded': 1806, 'access_blocked': 144}
+2000 / 8354 {'downloaded': 1856, 'access_blocked': 144}
+2050 / 8354 {'downloaded': 1906, 'access_blocked': 144}
+2100 / 8354 {'downloaded': 1956, 'access_blocked': 144}
+2150 / 8354 {'downloaded': 2006, 'access_blocked': 144}
+2200 / 8354 {'downloaded': 2056, 'access_blocked': 144}
+2250 / 8354 {'downloaded': 2106, 'access_blocked': 144}
+2300 / 8354 {'downloaded': 2156, 'access_blocked': 144}
+2350 / 8354 {'downloaded': 2206, 'access_blocked': 144}
+2400 / 8354 {'downloaded': 2256, 'access_blocked': 144}
+2450 / 8354 {'downloaded': 2306, 'access_blocked': 144}
+2500 / 8354 {'downloaded': 2356, 'access_blocked': 144}
+2550 / 8354 {'downloaded': 2406, 'access_blocked': 144}
+2600 / 8354 {'downloaded': 2456, 'access_blocked': 144}
+2650 / 8354 {'downloaded': 2506, 'access_blocked': 144}
+2700 / 8354 {'downloaded': 2556, 'access_blocked': 144}
+2750 / 8354 {'downloaded': 2606, 'access_blocked': 144}
+2800 / 8354 {'downloaded': 2656, 'access_blocked': 144}
+2850 / 8354 {'downloaded': 2706, 'access_blocked': 144}
+2900 / 8354 {'downloaded': 2756, 'access_blocked': 144}
+2950 / 8354 {'downloaded': 2806, 'access_blocked': 144}
+3000 / 8354 {'downloaded': 2856, 'access_blocked': 144}
+3050 / 8354 {'downloaded': 2906, 'access_blocked': 144}
+3100 / 8354 {'downloaded': 2956, 'access_blocked': 144}
+3150 / 8354 {'downloaded': 3006, 'access_blocked': 144}
+3200 / 8354 {'downloaded': 3056, 'access_blocked': 144}
+3250 / 8354 {'downloaded': 3106, 'access_blocked': 144}
+3300 / 8354 {'downloaded': 3156, 'access_blocked': 144}
+3350 / 8354 {'downloaded': 3206, 'access_blocked': 144}
+3400 / 8354 {'downloaded': 3256, 'access_blocked': 144}
+3450 / 8354 {'downloaded': 3306, 'access_blocked': 144}
+3500 / 8354 {'downloaded': 3356, 'access_blocked': 144}
+3550 / 8354 {'downloaded': 3406, 'access_blocked': 144}
+3600 / 8354 {'downloaded': 3456, 'access_blocked': 144}
+3650 / 8354 {'downloaded': 3506, 'access_blocked': 144}
+3700 / 8354 {'downloaded': 3556, 'access_blocked': 144}
+3750 / 8354 {'downloaded': 3606, 'access_blocked': 144}
+3800 / 8354 {'downloaded': 3656, 'access_blocked': 144}
+3850 / 8354 {'downloaded': 3706, 'access_blocked': 144}
+3900 / 8354 {'downloaded': 3756, 'access_blocked': 144}
+3950 / 8354 {'downloaded': 3806, 'access_blocked': 144}
+4000 / 8354 {'downloaded': 3856, 'access_blocked': 144}
+4050 / 8354 {'downloaded': 3906, 'access_blocked': 144}
+4100 / 8354 {'downloaded': 3956, 'access_blocked': 144}
+4150 / 8354 {'downloaded': 4006, 'access_blocked': 144}
+4200 / 8354 {'downloaded': 4056, 'access_blocked': 144}
+4250 / 8354 {'downloaded': 4106, 'access_blocked': 144}
+4300 / 8354 {'downloaded': 4156, 'access_blocked': 144}
+4350 / 8354 {'downloaded': 4206, 'access_blocked': 144}
+4400 / 8354 {'downloaded': 4256, 'access_blocked': 144}
+4450 / 8354 {'downloaded': 4306, 'access_blocked': 144}
+4500 / 8354 {'downloaded': 4333, 'access_blocked': 167}
+4550 / 8354 {'downloaded': 4333, 'access_blocked': 217}
+4600 / 8354 {'downloaded': 4333, 'access_blocked': 267}
+4650 / 8354 {'downloaded': 4333, 'access_blocked': 317}
+4700 / 8354 {'downloaded': 4333, 'access_blocked': 367}
+4750 / 8354 {'downloaded': 4333, 'access_blocked': 417}
+4800 / 8354 {'downloaded': 4333, 'access_blocked': 467}
+4850 / 8354 {'downloaded': 4334, 'access_blocked': 516}
+4900 / 8354 {'downloaded': 4334, 'access_blocked': 566}
+4950 / 8354 {'downloaded': 4334, 'access_blocked': 616}
+5000 / 8354 {'downloaded': 4334, 'access_blocked': 666}
+5050 / 8354 {'downloaded': 4334, 'access_blocked': 716}
+5100 / 8354 {'downloaded': 4334, 'access_blocked': 766}
+5150 / 8354 {'downloaded': 4334, 'access_blocked': 816}
+5200 / 8354 {'downloaded': 4334, 'access_blocked': 866}
+5250 / 8354 {'downloaded': 4372, 'access_blocked': 878}
+5300 / 8354 {'downloaded': 4422, 'access_blocked': 878}
+5350 / 8354 {'downloaded': 4472, 'access_blocked': 878}
+5400 / 8354 {'downloaded': 4522, 'access_blocked': 878}
+5450 / 8354 {'downloaded': 4572, 'access_blocked': 878}
+5500 / 8354 {'downloaded': 4622, 'access_blocked': 878}
+5550 / 8354 {'downloaded': 4672, 'access_blocked': 878}
+5600 / 8354 {'downloaded': 4721, 'access_blocked': 878, 'missing_pdf_url': 1}
+5650 / 8354 {'downloaded': 4771, 'access_blocked': 878, 'missing_pdf_url': 1}
+5700 / 8354 {'downloaded': 4821, 'access_blocked': 878, 'missing_pdf_url': 1}
+5750 / 8354 {'downloaded': 4871, 'access_blocked': 878, 'missing_pdf_url': 1}
+5800 / 8354 {'downloaded': 4920, 'access_blocked': 878, 'missing_pdf_url': 2}
+5850 / 8354 {'downloaded': 4970, 'access_blocked': 878, 'missing_pdf_url': 2}
+5900 / 8354 {'downloaded': 5019, 'access_blocked': 878, 'missing_pdf_url': 3}
+5950 / 8354 {'downloaded': 5068, 'access_blocked': 878, 'missing_pdf_url': 4}
+6000 / 8354 {'downloaded': 5118, 'access_blocked': 878, 'missing_pdf_url': 4}
+6050 / 8354 {'downloaded': 5167, 'access_blocked': 878, 'missing_pdf_url': 5}
+6100 / 8354 {'downloaded': 5217, 'access_blocked': 878, 'missing_pdf_url': 5}
+6150 / 8354 {'downloaded': 5267, 'access_blocked': 878, 'missing_pdf_url': 5}
+6200 / 8354 {'downloaded': 5316, 'access_blocked': 878, 'missing_pdf_url': 6}
+6250 / 8354 {'downloaded': 5366, 'access_blocked': 878, 'missing_pdf_url': 6}
+6300 / 8354 {'downloaded': 5415, 'access_blocked': 878, 'missing_pdf_url': 7}
+6350 / 8354 {'downloaded': 5465, 'access_blocked': 878, 'missing_pdf_url': 7}
+6400 / 8354 {'downloaded': 5515, 'access_blocked': 878, 'missing_pdf_url': 7}
+6450 / 8354 {'downloaded': 5565, 'access_blocked': 878, 'missing_pdf_url': 7}
+6500 / 8354 {'downloaded': 5615, 'access_blocked': 878, 'missing_pdf_url': 7}
+6550 / 8354 {'downloaded': 5665, 'access_blocked': 878, 'missing_pdf_url': 7}
+6600 / 8354 {'downloaded': 5715, 'access_blocked': 878, 'missing_pdf_url': 7}
+6650 / 8354 {'downloaded': 5764, 'access_blocked': 878, 'missing_pdf_url': 8}
+6700 / 8354 {'downloaded': 5814, 'access_blocked': 878, 'missing_pdf_url': 8}
+6750 / 8354 {'downloaded': 5864, 'access_blocked': 878, 'missing_pdf_url': 8}
+6800 / 8354 {'downloaded': 5914, 'access_blocked': 878, 'missing_pdf_url': 8}
+6850 / 8354 {'downloaded': 5964, 'access_blocked': 878, 'missing_pdf_url': 8}
+6900 / 8354 {'downloaded': 6014, 'access_blocked': 878, 'missing_pdf_url': 8}
+6950 / 8354 {'downloaded': 6064, 'access_blocked': 878, 'missing_pdf_url': 8}
+7000 / 8354 {'downloaded': 6114, 'access_blocked': 878, 'missing_pdf_url': 8}
+7050 / 8354 {'downloaded': 6164, 'access_blocked': 878, 'missing_pdf_url': 8}
+7100 / 8354 {'downloaded': 6213, 'access_blocked': 878, 'missing_pdf_url': 9}
+7150 / 8354 {'downloaded': 6263, 'access_blocked': 878, 'missing_pdf_url': 9}
+7200 / 8354 {'downloaded': 6313, 'access_blocked': 878, 'missing_pdf_url': 9}
+7250 / 8354 {'downloaded': 6363, 'access_blocked': 878, 'missing_pdf_url': 9}
+7300 / 8354 {'downloaded': 6413, 'access_blocked': 878, 'missing_pdf_url': 9}
+7350 / 8354 {'downloaded': 6463, 'access_blocked': 878, 'missing_pdf_url': 9}
+7400 / 8354 {'downloaded': 6513, 'access_blocked': 878, 'missing_pdf_url': 9}
+7450 / 8354 {'downloaded': 6563, 'access_blocked': 878, 'missing_pdf_url': 9}
+7500 / 8354 {'downloaded': 6613, 'access_blocked': 878, 'missing_pdf_url': 9}
+7550 / 8354 {'downloaded': 6663, 'access_blocked': 878, 'missing_pdf_url': 9}
+7600 / 8354 {'downloaded': 6713, 'access_blocked': 878, 'missing_pdf_url': 9}
+7650 / 8354 {'downloaded': 6763, 'access_blocked': 878, 'missing_pdf_url': 9}
+7700 / 8354 {'downloaded': 6790, 'access_blocked': 901, 'missing_pdf_url': 9}
+7750 / 8354 {'downloaded': 6790, 'access_blocked': 951, 'missing_pdf_url': 9}
+7800 / 8354 {'downloaded': 6790, 'access_blocked': 1001, 'missing_pdf_url': 9}
+7850 / 8354 {'downloaded': 6817, 'access_blocked': 1024, 'missing_pdf_url': 9}
+7900 / 8354 {'downloaded': 6867, 'access_blocked': 1024, 'missing_pdf_url': 9}
+7950 / 8354 {'downloaded': 6917, 'access_blocked': 1024, 'missing_pdf_url': 9}
+8000 / 8354 {'downloaded': 6967, 'access_blocked': 1024, 'missing_pdf_url': 9}
+8050 / 8354 {'downloaded': 7017, 'access_blocked': 1024, 'missing_pdf_url': 9}
+8100 / 8354 {'downloaded': 7067, 'access_blocked': 1024, 'missing_pdf_url': 9}
+8150 / 8354 {'downloaded': 7117, 'access_blocked': 1024, 'missing_pdf_url': 9}
+8200 / 8354 {'downloaded': 7159, 'access_blocked': 1032, 'missing_pdf_url': 9}
+8250 / 8354 {'downloaded': 7159, 'access_blocked': 1082, 'missing_pdf_url': 9}
+8300 / 8354 {'downloaded': 7159, 'access_blocked': 1132, 'missing_pdf_url': 9}
+8350 / 8354 {'downloaded': 7164, 'access_blocked': 1177, 'missing_pdf_url': 9}
+COMPLETE {'downloaded': 7167, 'access_blocked': 1177, 'missing_pdf_url': 9, 'download_failed': 1}

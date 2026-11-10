@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Bootstrapped+Meta+Learning%22+OR+ti%3A%22Comparing+Distributions+by+Measuring+Differences+that+Affect+Decision+Making%22+OR+ti%3A%22Expressiveness+and+Approximation+Properties+of+Graph+Neural+Networks%22+OR+ti%3A%22Hyperparameter+Tuning+with+Renyi+Differential+Privacy%22+OR+ti%3A%22Learning+Strides+in+Convolutional+Neural+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Bootstrapped+Meta+Learning%22+OR+ti%3A%22Comparing+Distributions+by+Measuring+Differences+that+Affect+Decision+Making%22+OR+ti%3A%22Expressiveness+and+Approximation+Properties+of+Graph+Neural+Networks%22+OR+ti%3A%22Hyperparameter+Tuning+with+Renyi+Differential+Privacy%22+OR+ti%3A%22Learning+Strides+in+Convolutional+Neural+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:59.523353+00:00",
+  "bytes": 10231,
+  "sha256": "ee37de235eac12a7f95384f288c2ee76dd23a48e343f902da7a865d019a2c324",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-df21eaaac7eb472b24a0.gz"
+}

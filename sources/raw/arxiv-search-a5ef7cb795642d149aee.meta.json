@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22PlayerOne+Egocentric+World+Simulator%22+OR+ti%3A%22QoQ+Med+Building+Multimodal+Clinical+Foundation+Models+with+Domain+Aware+GRPO+Training%22+OR+ti%3A%22RAG4GFM+Bridging+Knowledge+Gaps+in+Graph+Foundation+Models+through+Graph+Retrieval+Augmented+Generation%22+OR+ti%3A%22Representation+Entanglement+for+Generation+Training+Diffusion+Transformers+Is+Much+Easier+Than+You+Think%22+OR+ti%3A%22Rethinking+Joint+Maximum+Mean+Discrepancy+for+Visual+Domain+Adaptation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22PlayerOne+Egocentric+World+Simulator%22+OR+ti%3A%22QoQ+Med+Building+Multimodal+Clinical+Foundation+Models+with+Domain+Aware+GRPO+Training%22+OR+ti%3A%22RAG4GFM+Bridging+Knowledge+Gaps+in+Graph+Foundation+Models+through+Graph+Retrieval+Augmented+Generation%22+OR+ti%3A%22Representation+Entanglement+for+Generation+Training+Diffusion+Transformers+Is+Much+Easier+Than+You+Think%22+OR+ti%3A%22Rethinking+Joint+Maximum+Mean+Discrepancy+for+Visual+Domain+Adaptation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:55.697837+00:00",
+  "bytes": 9338,
+  "sha256": "953b82493165c3a7f96b80400e385ea24c89a8d1e3028e54edeb0aa830ef3cd2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-a5ef7cb795642d149aee.gz"
+}

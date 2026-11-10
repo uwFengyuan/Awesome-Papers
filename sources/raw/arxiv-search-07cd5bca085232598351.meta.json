@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22RealPDEBench+A+Benchmark+for+Complex+Physical+Systems+with+Real+World+Data%22+OR+ti%3A%22Reasoning+as+Representation+Rethinking+Visual+Reinforcement+Learning+in+Image+Quality+Assessment%22+OR+ti%3A%22Reasoning+with+Sampling+Your+Base+Model+is+Smarter+Than+You+Think%22+OR+ti%3A%22RedTeamCUA+Realistic+Adversarial+Testing+of+Computer+Use+Agents+in+Hybrid+Web+OS+Environments%22+OR+ti%3A%22Reducing+Belief+Deviation+in+Reinforcement+Learning+for+Active+Reasoning+of+LLM+Agents%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22RealPDEBench+A+Benchmark+for+Complex+Physical+Systems+with+Real+World+Data%22+OR+ti%3A%22Reasoning+as+Representation+Rethinking+Visual+Reinforcement+Learning+in+Image+Quality+Assessment%22+OR+ti%3A%22Reasoning+with+Sampling+Your+Base+Model+is+Smarter+Than+You+Think%22+OR+ti%3A%22RedTeamCUA+Realistic+Adversarial+Testing+of+Computer+Use+Agents+in+Hybrid+Web+OS+Environments%22+OR+ti%3A%22Reducing+Belief+Deviation+in+Reinforcement+Learning+for+Active+Reasoning+of+LLM+Agents%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:01.449767+00:00",
+  "bytes": 12239,
+  "sha256": "1ee0d409164a97bbe9b3da8c0c941f41c1723750e767eae179c50c056d59e224",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-07cd5bca085232598351.gz"
+}

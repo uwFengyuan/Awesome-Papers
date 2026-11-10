@@ -1,0 +1,673 @@
+{
+  "version": "2.0",
+  "topics": [
+    {
+      "id": "alpha_mining",
+      "label": "Alpha Mining / 量化因子挖掘",
+      "sheet": "Alpha Mining",
+      "description": "因子表达式搜索、自动化 alpha 发现与因子评价；不把一般 alpha 超参数或资产定价混入。"
+    },
+    {
+      "id": "time_series",
+      "label": "Time Series / 时间序列",
+      "sheet": "Time Series",
+      "description": "有金融应用证据的序列预测、生成、表征、异常、缺失及动态建模。"
+    },
+    {
+      "id": "asset_pricing",
+      "label": "Asset Pricing / 资产定价",
+      "sheet": "Asset Pricing",
+      "description": "收益横截面、风险溢价、随机折现因子与资产定价模型。"
+    },
+    {
+      "id": "derivatives",
+      "label": "Derivatives & Hedging / 衍生品定价与对冲",
+      "sheet": "Derivatives",
+      "description": "期权、隐含波动率曲面、衍生品定价与对冲。"
+    },
+    {
+      "id": "portfolio",
+      "label": "Portfolio & Investment / 投资组合与投资管理",
+      "sheet": "Portfolio",
+      "description": "资产配置、组合选择、投资评价与有效前沿；通用模型组合不据此归类。"
+    },
+    {
+      "id": "trading",
+      "label": "Trading & Microstructure / 交易与市场微观结构",
+      "sheet": "Trading",
+      "description": "交易策略、执行、做市、订单簿、市场仿真与预测市场。"
+    },
+    {
+      "id": "market_prediction",
+      "label": "Market Prediction / 股价、收益与波动率预测",
+      "sheet": "Market Prediction",
+      "description": "股票方向与收益、波动率、汇率或加密资产市场预测。"
+    },
+    {
+      "id": "credit_risk",
+      "label": "Credit & Financial Risk / 信贷与金融风险",
+      "sheet": "Credit and Risk",
+      "description": "授信、违约、信用风险、运营风险和尾部风险。"
+    },
+    {
+      "id": "insurance",
+      "label": "Insurance & Actuarial / 保险与精算",
+      "sheet": "Insurance",
+      "description": "承保、保费、理赔、保险业务数据与精算应用。"
+    },
+    {
+      "id": "fraud_aml",
+      "label": "Fraud & AML / 欺诈检测与反洗钱",
+      "sheet": "Fraud and AML",
+      "description": "支付和金融交易欺诈、反洗钱、金融诈骗。"
+    },
+    {
+      "id": "financial_nlp",
+      "label": "Financial NLP / 金融文本、情感与事件",
+      "sheet": "Financial NLP",
+      "description": "金融文本情感、立场、信息抽取、生成和摘要。"
+    },
+    {
+      "id": "financial_qa",
+      "label": "Financial QA & Reasoning / 金融问答与数值推理",
+      "sheet": "Financial QA",
+      "description": "金融知识问答、财报表格计算、数学和多跳推理。"
+    },
+    {
+      "id": "financial_ir",
+      "label": "Financial IR & RAG / 金融检索与RAG",
+      "sheet": "Financial IR and RAG",
+      "description": "金融信息检索、FiQA 检索评测、嵌入、重排与金融 RAG。"
+    },
+    {
+      "id": "document_ai",
+      "label": "Document AI / 票据、财报与图表理解",
+      "sheet": "Document AI",
+      "description": "票据发票、OCR、文档版面、财务表格与金融图表；普通表格分类另标技术方法。"
+    },
+    {
+      "id": "financial_agents",
+      "label": "Financial Agents / 金融Agent与决策",
+      "sheet": "Financial Agents",
+      "description": "金融研究、投资分析、金融工具使用和金融决策 Agent。"
+    },
+    {
+      "id": "macro_economics",
+      "label": "Macro & Economic Forecasting / 宏观经济与预测",
+      "sheet": "Macro and Economics",
+      "description": "宏观指标、货币政策、经济预测、经济活动仿真。"
+    },
+    {
+      "id": "corporate_finance",
+      "label": "Corporate Finance & Accounting / 公司金融与会计",
+      "sheet": "Corporate and Accounting",
+      "description": "盈利、披露、并购、财务报告、会计审计与税务。"
+    },
+    {
+      "id": "esg",
+      "label": "ESG & Sustainable Finance / ESG与可持续金融",
+      "sheet": "ESG",
+      "description": "企业可持续披露、绿色投资、ESG 分析和合规审计。"
+    },
+    {
+      "id": "banking",
+      "label": "Banking & Customer Service / 银行业务与客户服务",
+      "sheet": "Banking",
+      "description": "银行营销、客户意图、客服对话、债务催收及金融服务。"
+    },
+    {
+      "id": "blockchain",
+      "label": "Blockchain & Digital Assets / 区块链与数字资产",
+      "sheet": "Blockchain",
+      "description": "比特币、以太坊、链上交易、智能合约及加密资产数据。"
+    },
+    {
+      "id": "financial_safety",
+      "label": "Financial Safety & Compliance / 金融安全与合规",
+      "sheet": "Safety and Compliance",
+      "description": "金融隐私、金融 LLM 安全、投资建议风险、监管及可信评测。"
+    },
+    {
+      "id": "financial_models",
+      "label": "Financial Models & Benchmarks / 金融模型与评测资源",
+      "sheet": "Models and Benchmarks",
+      "description": "金融领域预训练、领域适配、跨任务金融评测与综合金融资源。"
+    },
+    {
+      "id": "other_finance",
+      "label": "Other Financial Applications / 其他金融应用",
+      "sheet": "Other Finance",
+      "description": "金融相关性已确认，但当前证据未支持更具体的上述任务分类。"
+    }
+  ],
+  "subtopics": [
+    {
+      "parent_id": "alpha_mining",
+      "id": "factor_discovery",
+      "label": "Alpha Discovery / Alpha与因子发现",
+      "pattern": "\\balpha (?:factor|mining|discovery)|formulaic alpha|alpha(?:bench|sage|probe|pareto|qcm)\\b|quantitative factor (?:mining|discovery)|financial factor (?:mining|discovery)|Cognitive Alpha"
+    },
+    {
+      "parent_id": "alpha_mining",
+      "id": "factor_evaluation",
+      "label": "Factor Evaluation / 因子评价与回测",
+      "pattern": "factor (?:evaluat|screen|select)|alpha (?:evaluat|benchmark)|backtesting.*alpha|alpha.*backtesting"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_forecasting",
+      "label": "Forecasting / 序列预测",
+      "pattern": "time[- ]?series.{0,75}forecast|forecast.{0,65}time[- ]?series|\\b(?:exchange[- ]?rate|fred-md|M4[- ](?:Yearly|Quarterly|Monthly|Daily|Weekly))\\b|\\b(?:TimeGrad|FEDformer|Autoformer|iTransformer|TimesNet|TimeMixer|N-BEATS)\\b"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_foundation",
+      "label": "Representation & Foundation Models / 表征与基础模型",
+      "pattern": "time[- ]?series.{0,65}(?:foundation|pretrain|pre-train|representation|embedding)|(?:foundation|pretrain|pre-train|representation).{0,65}time[- ]?series|\\b(?:Moirai|Time-LLM|Chronos|Time-MoE)\\b"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_generation",
+      "label": "Generation & Simulation / 序列生成与仿真",
+      "pattern": "time[- ]?series.{0,65}(?:generat|synthes|simulat)|(?:generat|synthes|simulat).{0,65}time[- ]?series|\\b(?:CTBench|SigDiffusions|Diffusion-TS|TimeTok)\\b"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_anomaly",
+      "label": "Anomaly Detection / 序列异常检测",
+      "pattern": "time[- ]?series.{0,65}(?:anomal|outlier)|(?:anomal|outlier).{0,65}time[- ]?series|\\bNIPS-TS-CREDITCARD\\b"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_imputation",
+      "label": "Imputation & Irregular Series / 缺失与不规则序列",
+      "pattern": "time[- ]?series.{0,80}(?:imput|irregular|missing)|(?:imput|irregular|missing).{0,80}time[- ]?series"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_dynamics",
+      "label": "Causality & Dynamics / 序列因果与动力学",
+      "pattern": "(?:causal|differential equation|dynamics|point process).{0,75}(?:time[- ]?series|stochastic process|stock|financ)|time[- ]?series.{0,75}(?:causal|dynamics)|temporal point process|stochastic differential equation|\\bNeural MJD\\b"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_uncertainty",
+      "label": "Probabilistic Forecasting & Calibration / 概率预测与校准",
+      "pattern": "(?:probabilistic|conformal|uncertainty).{0,65}(?:forecast|time[- ]?series)|(?:forecast|time[- ]?series).{0,65}(?:probabilistic|conformal|uncertainty)"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "ts_general",
+      "label": "General Time-Series Methods / 综合序列方法",
+      "pattern": "time[- ]?series|\\b(?:NASDAQ|NYSE|SP500|S&P 500)\\b.{0,50}(?:dataset|forecast|stock data)"
+    },
+    {
+      "parent_id": "asset_pricing",
+      "id": "pricing_models",
+      "label": "Pricing Models & Risk Premia / 定价模型与风险溢价",
+      "pattern": "asset pricing|risk premi(?:um|a)|stochastic discount factor|cross[- ]sectional.{0,25}(?:asset|return)|lookahead factor models|factor models for quantitative investing"
+    },
+    {
+      "parent_id": "derivatives",
+      "id": "option_pricing",
+      "label": "Option Pricing & PDEs / 期权定价与PDE",
+      "pattern": "option pric|Black[- ]Scholes|American option|derivative pric|pricing.{0,20}derivatives"
+    },
+    {
+      "parent_id": "derivatives",
+      "id": "hedging",
+      "label": "Hedging / 对冲",
+      "pattern": "\\bhedging\\b|hedge.{0,25}(?:option|derivative|asset|financial)|(?:option|financial).{0,25}hedge"
+    },
+    {
+      "parent_id": "derivatives",
+      "id": "volatility_surface",
+      "label": "Implied Volatility / 隐含波动率曲面",
+      "pattern": "implied volatility|volatility surface"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "allocation",
+      "label": "Asset Allocation / 资产配置",
+      "pattern": "asset allocation|asset allocat|Black[- ]Litterman|investment polic|sustainable investment"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "selection",
+      "label": "Portfolio Selection & Optimization / 组合选择与优化",
+      "pattern": "portfolio[- ](?:optimi|alloc|select|manag|invest|return|value|benchmark)|efficient frontier|Sharpe ratio|stochastic discount factor portfolios"
+    },
+    {
+      "parent_id": "trading",
+      "id": "trading_execution",
+      "label": "Trading & Execution / 交易策略与执行",
+      "pattern": "\\btrading\\b|trade execution|optimal execution|\\bCryptoTrade\\b|\\bTrade in Minutes\\b|arbitrage|financial backtest"
+    },
+    {
+      "parent_id": "trading",
+      "id": "microstructure",
+      "label": "Order Books & Market Impact / 订单簿与市场冲击",
+      "pattern": "order book|market impact|market microstructure|market making|market maker|trading.volume|\\bLOB[- ]Bench\\b"
+    },
+    {
+      "parent_id": "trading",
+      "id": "market_simulation",
+      "label": "Market Simulation / 金融市场仿真",
+      "pattern": "(?:financial|stock) market simulat|simulat.{0,30}(?:stock|financial) market|\\b(?:MarketSim|TwinMarket|MarS:)\\b|financial world model"
+    },
+    {
+      "parent_id": "trading",
+      "id": "prediction_markets",
+      "label": "Prediction Markets / 预测市场",
+      "pattern": "prediction markets?"
+    },
+    {
+      "parent_id": "market_prediction",
+      "id": "stock_prediction",
+      "label": "Stock Movement & Returns / 股价方向与收益预测",
+      "pattern": "(?:stock|equity|equities).{0,60}(?:predict|forecast)|(?:predict|forecast).{0,60}(?:stock|equity|equities)|financial forecast|stocknet|causalstock|market comments from stock"
+    },
+    {
+      "parent_id": "market_prediction",
+      "id": "volatility_prediction",
+      "label": "Volatility & Tail Forecasts / 波动率与尾部预测",
+      "pattern": "volatility (?:predict|forecast)|(?:predict|forecast).{0,55}volatility|financial asset tail dynamics|asset.{0,30}tail dynamics|extremal dependence.{0,30}financial assets"
+    },
+    {
+      "parent_id": "market_prediction",
+      "id": "fx_crypto",
+      "label": "FX & Crypto Forecasts / 汇率与加密资产预测",
+      "pattern": "exchange[- ]?rate|(?:crypto|bitcoin).{0,65}(?:forecast|predict)|(?:forecast|predict).{0,65}(?:crypto|bitcoin)"
+    },
+    {
+      "parent_id": "credit_risk",
+      "id": "credit_default",
+      "label": "Credit Scoring & Default / 信用评分与违约",
+      "pattern": "credit[- _](?:risk|scor|default|approval|screen|g\\b|reg\\b)|German[- ]?Credit|Australian[- ]Credit|\\b(?:HELOC|FICO|GiveMeSomeCredit|HomeCredit)\\b|home[- ]credit|loan[- ](?:default|approv|predict|decision|data)|default.of.credit|Taiwan(?:ese)? credit|loan problem|credit dataset|credit card clients"
+    },
+    {
+      "parent_id": "credit_risk",
+      "id": "financial_risk",
+      "label": "Financial Risk / 金融风险管理",
+      "pattern": "financial risk|operational risk|financial.{0,25}stress test|financial asset tail|creditworthiness|credit[- ](?:card|payment).{0,35}default"
+    },
+    {
+      "parent_id": "insurance",
+      "id": "insurance_business",
+      "label": "Insurance & Claims / 承保与理赔",
+      "pattern": "insurance|actuarial|allstate|healthcare claims|health claims|inslogic|Insur(?:ance)?QA|homesite|insurance claims"
+    },
+    {
+      "parent_id": "fraud_aml",
+      "id": "financial_fraud",
+      "label": "Payment & Transaction Fraud / 支付与交易欺诈",
+      "pattern": "(?:credit[- ]?card|financial|insurance|payment|transaction).{0,65}(?:fraud|anomal)|(?:fraud|anomal).{0,65}(?:credit[- ]?card|financial|insurance|payment|transaction)|\\b(?:PaySim|BankSim|T-Finance)\\b|innovative image fraud|identity fraud via dialogue|financial scam|procurement fraud"
+    },
+    {
+      "parent_id": "fraud_aml",
+      "id": "aml",
+      "label": "Anti-Money Laundering / 反洗钱",
+      "pattern": "money[- ]launder|anti[- ]money|\\b(?:AMLSim|Elliptic dataset)\\b|illicit bitcoin|bitcoin.{0,55}illicit"
+    },
+    {
+      "parent_id": "fraud_aml",
+      "id": "scam",
+      "label": "Scams & Financial Misinformation / 诈骗与金融虚假信息",
+      "pattern": "\\bscam|fraud detection|financial misinformation|counterfactual financial misinformation|financial.{0,35}misinformation"
+    },
+    {
+      "parent_id": "financial_nlp",
+      "id": "sentiment_stance",
+      "label": "Sentiment & Stance / 情感与立场",
+      "pattern": "financial[- ]?phrase[- ]?bank|financialphrasebank|financial sentiment|sentiment.{0,60}(?:financ|stock|market)|(?:financ|stock|market).{0,60}(?:sentiment|stance)|\\bFinEntity\\b|\\bEFSA\\b"
+    },
+    {
+      "parent_id": "financial_nlp",
+      "id": "information_extraction",
+      "label": "Entities, Events & Causality / 实体、事件与关系抽取",
+      "pattern": "financial.{0,70}(?:event extract|entity|relation|causal)|(?:entity|event|relation).{0,45}financial|\\b(?:(?-i:FiNER)|FinCausal|FinRE|ChFinAnn|DuEE-Fin|Doc2EDAG|FinKario)\\b"
+    },
+    {
+      "parent_id": "financial_nlp",
+      "id": "text_generation",
+      "label": "Generation & Summarization / 金融文本生成与摘要",
+      "pattern": "\\bECTSum\\b|earnings? call.{0,65}summari|summari.{0,65}(?:financ|earnings?|report)|financial report generation|market comments|financial text generation|accounting audit procedures generation"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "numerical_reasoning",
+      "label": "Numerical & Table Reasoning / 数值与表格推理",
+      "pattern": "\\b(?:FinQA|ConvFinQA|TAT[- ]?QA|TAT[- ]?DQA|MultiHiertt|FinanceMATH|BizBench|DocFinQA|FinChain|FinanceReasoning|FinMME|CFMME)\\b|financial (?:numerical |mathematical |multi-hop |table[- ]text )?reasoning|(?:numerical|math).{0,65}financ"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "knowledge_qa",
+      "label": "Knowledge & Conversational QA / 知识与对话问答",
+      "pattern": "\\b(?:FinTextQA|FinanceBench|PACIFIC|SustainableQA|SAHM)\\b|financial.{0,50}question answer|question answer.{0,55}financ|financial.{0,35}multi-hop"
+    },
+    {
+      "parent_id": "financial_ir",
+      "id": "retrieval",
+      "label": "Retrieval, Embedding & Reranking / 检索、嵌入与重排",
+      "pattern": "\\bF\\s*I\\s*QA\\b|\\bFinMTEB\\b|financial.{0,65}\\b(?:retriev\\w*|search|text embedding|rerank\\w*)|\\b(?:retriev\\w*|search|text embedding).{0,65}\\bfinanc\\w*|\\bFinSearchComp\\b"
+    },
+    {
+      "parent_id": "financial_ir",
+      "id": "rag",
+      "label": "Financial RAG & Long Documents / 金融RAG与长文档",
+      "pattern": "\\b(?:FinRAGBench|FinRAGBench-V|REAL-MM-RAG|OmniEval)\\b|financial.{0,65}(?:RAG|retrieval.augmented)|(?:RAG|retrieval.augmented).{0,65}financ"
+    },
+    {
+      "parent_id": "document_ai",
+      "id": "receipts_invoices",
+      "label": "Receipts, Invoices & OCR / 票据发票与OCR",
+      "pattern": "\\b(?:SROIE|CORD|Kleister|Chargrid)\\b|receipts?|invoices?|financial.{0,30}(?:OCR|document pars)"
+    },
+    {
+      "parent_id": "document_ai",
+      "id": "financial_charts",
+      "label": "Charts & Visual Understanding / 金融图表与视觉理解",
+      "pattern": "financial.{0,55}(?:chart|visual)|(?:chart|visual).{0,55}financ|\\b(?:FinChart|FinMME|CFMME|VisFinEval|FCMR|FinRAGBench-V|ChartVA)\\b"
+    },
+    {
+      "parent_id": "document_ai",
+      "id": "reports_tables",
+      "label": "Report Layout & Structured Extraction / 财报版面与结构提取",
+      "pattern": "\\b(?:XBRL|EDINET-Bench)\\b|table of contents.{0,60}(?:financial|ESG)|(?:financial|report).{0,50}(?:layout|table extraction|document understanding|parsing)|document understanding.{0,60}(?:report|financial)"
+    },
+    {
+      "parent_id": "financial_agents",
+      "id": "agent_decisions",
+      "label": "Investment & Financial Research Agents / 投研与金融决策Agent",
+      "pattern": "(?:financial|invest(?:ment|or)|trading|quantitative|ESG).{0,60}\\bagent|\\bagent.{0,65}(?:financial|investment|trading)|\\b(?:FinCon|FinSight|CryptoTrade|SocioDojo|INVESTORBENCH|FinDeepForecast|MoCA-Agent)\\b"
+    },
+    {
+      "parent_id": "financial_agents",
+      "id": "tools_research",
+      "label": "Financial Tools & Deep Research / 金融工具与深度研究",
+      "pattern": "financial.{0,45}(?:deep research|tool|search and reasoning)|FinSearchComp|MoCA-Agent|financial report generation"
+    },
+    {
+      "parent_id": "macro_economics",
+      "id": "macro_forecasting",
+      "label": "Macro Indicators & Policy / 宏观指标与政策",
+      "pattern": "macroeconomic|\\b(?:FRED[- ]MD|FOMC)\\b|monetary polic|fiscal polic|economic (?:growth|indicator|forecast)|unemployment rate|Trillion Dollar Words|country.level socio.economic indicators"
+    },
+    {
+      "parent_id": "macro_economics",
+      "id": "economic_simulation",
+      "label": "Economic Behavior & Simulation / 经济行为与仿真",
+      "pattern": "EconAgent|economic risk preferences|simulat.{0,40}(?:economic|economy)|economic.{0,35}(?:simulat|interactions)|economy of minds"
+    },
+    {
+      "parent_id": "corporate_finance",
+      "id": "earnings_disclosure",
+      "label": "Earnings & Corporate Disclosures / 盈利与公司披露",
+      "pattern": "earnings? call|earning surprise|earnings? forecast|company.{0,20}(?:earnings|revenue)|revenue forecast|corporate.{0,30}(?:disclosure|financial)|financial disclosure|\\b(?:EDGAR|EDINET|ECTSum|FinCall-Surprise|(?-i:CAME))\\b|SEC filings|financial statements?|annual reports?"
+    },
+    {
+      "parent_id": "corporate_finance",
+      "id": "ma",
+      "label": "Mergers & Acquisitions / 并购与公司事件",
+      "pattern": "merger|acquisition.{0,35}financial|M&A|merger.arbitrage"
+    },
+    {
+      "parent_id": "corporate_finance",
+      "id": "accounting_tax",
+      "label": "Accounting, Audit & Tax / 会计、审计与税务",
+      "pattern": "\\btax(?:ation|payer| returns?| practice| planning| compliance)|TaxPraBen|accounting (?:audit|report|standard|practice|procedure)|audit procedures|bookkeeping|tax and financial education"
+    },
+    {
+      "parent_id": "esg",
+      "id": "esg_disclosure",
+      "label": "ESG Disclosure & Greenwashing / ESG披露与漂绿",
+      "pattern": "\\bESG\\b|sustainability|greenwashing|environmental claim|corporate promise|sustainableqa|ESGenius|ESGPT"
+    },
+    {
+      "parent_id": "esg",
+      "id": "sustainable_investment",
+      "label": "Sustainable Investment / 可持续投资",
+      "pattern": "sustainable investment|climate investment|InvestESG|green financ|sustainable financ|environmental development projects"
+    },
+    {
+      "parent_id": "banking",
+      "id": "customer_intents",
+      "label": "Banking Dialogue & Intent / 银行对话与意图",
+      "pattern": "\\bBANKING77\\b|banking|debt collection|bank.{0,30}(?:customer|dialogue|intent|service)|\\bBQ Corpus\\b|personal finance"
+    },
+    {
+      "parent_id": "banking",
+      "id": "bank_marketing",
+      "label": "Bank Marketing & Churn / 银行营销与客户流失",
+      "pattern": "bank[- _]marketing|bank marketing|bank_customer_churn|bank customer churn|term[- ]deposit"
+    },
+    {
+      "parent_id": "blockchain",
+      "id": "crypto_transactions",
+      "label": "Crypto & Blockchain Transactions / 加密资产与链上交易",
+      "pattern": "bitcoin|ethereum|cryptocurrenc|blockchain|\\b(?:CTBench|CryptoTrade|EX-Graph|BlockScan)\\b"
+    },
+    {
+      "parent_id": "blockchain",
+      "id": "smart_contracts",
+      "label": "Smart Contracts & DeFi / 智能合约与DeFi",
+      "pattern": "smart contract|\\b(?:EVMbench|EVM-QuestBench|DeFi)\\b|sandwich equilibria|sandwich attack"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "privacy_security",
+      "label": "Financial Privacy & Security / 金融隐私与信息安全",
+      "pattern": "financial.{0,65}(?:privacy|security|red.team|harm|safety)|(?:privacy|security|red.team|harm).{0,65}financ|deanonymization.{0,40}bitcoin|credit card (?:numbers?|details|information)|bank card.{0,30}password|wrong credit card|incorrect credit card"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "trust_compliance",
+      "label": "Trust, Compliance & Bias / 可信、合规与偏差审计",
+      "pattern": "\\bFinTrust\\b|Shari|financial.{0,65}(?:compliance|trustworthiness|look.ahead|bias|abstention)|(?:look.ahead|temporal leakage|memory biases|risk.adjusted harm).{0,70}(?:financial|finance)|financial backtesting"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "domain_models",
+      "label": "Financial Pretraining & Adaptation / 金融预训练与领域适配",
+      "pattern": "\\b(?:FinBERT|FLANG|FLUE|ESGPT|Plutus)\\b|financial.{0,65}(?:pretrain|pre-train|language model|LLMs?|domain adapt)|(?:pretrain|pre-train|domain adapt).{0,65}financial"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "financial_benchmarks",
+      "label": "Cross-Task Financial Evaluation / 跨任务金融综合评测",
+      "pattern": "\\b(?:FinBen|MultiFinBen|FinMME|CFMME|BizFinBench|VisFinEval|FinTrust)\\b|financial.{0,40}(?:multimodal evaluation|application benchmark)|benchmarking.{0,50}(?:Greek Finance|finance domain)"
+    },
+    {
+      "parent_id": "credit_risk",
+      "id": "credit_data",
+      "label": "Lending & Credit Data / 借贷与信贷数据应用",
+      "pattern": "\\bloans?\\b|\\blending\\b|mortgage|credit (?:graph|network|loan|agreement|line|card|balance)|\\bcreditcard\\b|default credit|consumer finance|assessment of credit|\\bCredit[- ]Card\\b|\\bcredit8\\b"
+    },
+    {
+      "parent_id": "fraud_aml",
+      "id": "banknote_authentication",
+      "label": "Banknote Authentication / 钞票真伪识别",
+      "pattern": "banknote"
+    },
+    {
+      "parent_id": "banking",
+      "id": "bank_data",
+      "label": "Banking Data Applications / 银行业务数据应用",
+      "pattern": "\\bBank dataset\\b|\\bBank\\b.{0,12}\\d?\\.\\d{3}|bank accounts?|Bank of America"
+    },
+    {
+      "parent_id": "financial_nlp",
+      "id": "nlp_datasets",
+      "label": "Financial Language Tasks & Corpora / 金融语言任务与语料",
+      "pattern": "financial NLP|financial domain RE|financial event types|Earnings-21|financial numeric entity|finance news|金融\\(Finance\\)|财务\\(Finance\\)"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "investment_evaluation",
+      "label": "Investment Evaluation & Decisions / 投资评价与决策",
+      "pattern": "sequential investment|financial rebalancing|mean.field portfolio|mean.variance portfolio|optimal consumption and investment|investment decisions|low quality funds|portfolio (?:study|problem|game|risk management)|machine learning portfolio"
+    },
+    {
+      "parent_id": "financial_qa",
+      "id": "qa_tasks",
+      "label": "Financial Reasoning Tasks / 金融推理任务",
+      "pattern": "financial QA|financial credit agreements|financial (?:and scientific|or scientific).{0,40}numeric|numeric.{0,45}financial|Finance Formula|TheoremQA|financial laws|finance reports"
+    },
+    {
+      "parent_id": "document_ai",
+      "id": "financial_tables",
+      "label": "Financial Tables & Spreadsheets / 财务表格与电子表格",
+      "pattern": "FinTabNet|spreadsheets for finance|financial reports paired|tables.{0,90}finance|finance.{0,50}tables"
+    },
+    {
+      "parent_id": "time_series",
+      "id": "financial_processes",
+      "label": "Financial Stochastic Processes / 金融随机过程",
+      "pattern": "stochastic volatility|financial data prediction|stock market models|\\bNASDAQ series\\b|stock market data|finance and weather forecasting|30 P ORTFOLIOS|Financial Trans.{0,5}actions"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "numerical_finance",
+      "label": "Numerical Finance / 计算金融与数值方法",
+      "pattern": "financial integral|financial operations|finance on point clouds|financial.{0,20}PDE"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "financial_regulation",
+      "label": "Financial Regulation / 金融监管与业务规则",
+      "pattern": "financial regulations|financial laws|financial.{0,40}regulatory|FinLLM-Eval"
+    },
+    {
+      "parent_id": "financial_nlp",
+      "id": "claim_verification",
+      "label": "Financial Claim Verification / 金融声明核验",
+      "pattern": "FinDVer|financial.{0,30}(?:claim verification|fact.verification)|(?:claim verification|fact.verification).{0,40}financ"
+    },
+    {
+      "parent_id": "portfolio",
+      "id": "financial_planning",
+      "label": "Financial Planning / 财务规划",
+      "pattern": "financial planning|financial portfolios"
+    },
+    {
+      "parent_id": "corporate_finance",
+      "id": "real_estate",
+      "label": "Real Estate & Business Finance / 房地产与企业财务应用",
+      "pattern": "real estate|real-estate|realty|housing.{0,30}(?:financial|investment)|financial properties of the housings"
+    },
+    {
+      "parent_id": "financial_models",
+      "id": "financial_reasoning_eval",
+      "label": "Professional Financial Evaluation / 金融专业能力评测",
+      "pattern": "ProfBench|PRBench|Finance MBA|FinTMMBench"
+    },
+    {
+      "parent_id": "financial_safety",
+      "id": "robustness_attacks",
+      "label": "Adversarial Robustness in Finance / 金融应用中的攻击与防御",
+      "pattern": "finance.{0,20}backdoor|backdoor.{0,30}finance"
+    },
+    {
+      "parent_id": "asset_pricing",
+      "id": "risk_factors",
+      "label": "Risk Factor Models / 市场风险因子建模",
+      "pattern": "stock data factor analysis|financial factor model|lookahead factor model|factor models for quantitative investing"
+    },
+    {
+      "parent_id": "financial_nlp",
+      "id": "financial_translation",
+      "label": "Financial Translation / 金融翻译",
+      "pattern": "translat.{0,60}(?:financial|finance|tax)|financial.{0,60}translat"
+    },
+    {
+      "parent_id": "banking",
+      "id": "personal_finance",
+      "label": "Personal Finance Interaction / 个人理财交互",
+      "pattern": "personal finance|finance.{0,15}(?:budgets|budgeting)|financial advice"
+    }
+  ],
+  "methods": [
+    {
+      "id": "llm",
+      "label": "Language Models & LLM / 语言模型与LLM",
+      "pattern": "\\bLLMs?\\b|language models?|instruction.tuning|GPT[- ]?\\d|\\b(?:Llama|Qwen|BERT)\\b"
+    },
+    {
+      "id": "reinforcement_learning",
+      "label": "Reinforcement Learning / 强化学习",
+      "pattern": "reinforcement learning|\\bRL\\b|bandit|GFlowNet|Q.learning"
+    },
+    {
+      "id": "graph_learning",
+      "label": "Graph Learning / 图学习",
+      "pattern": "graph neural|graph learning|graph convolution|graph attention|\\bGNNs?\\b|hypergraph|graph fraud"
+    },
+    {
+      "id": "diffusion_flow",
+      "label": "Diffusion & Flow / 扩散与流模型",
+      "pattern": "diffusion|flow matching|normalizing flows?|rectified flow"
+    },
+    {
+      "id": "generative",
+      "label": "Generative Modeling / 生成建模",
+      "pattern": "generative|synthetic data|data synthesis|\\bGANs?\\b|variational autoencoder|data generation"
+    },
+    {
+      "id": "transformer",
+      "label": "Transformer / Transformer模型",
+      "pattern": "transformer|self.attention"
+    },
+    {
+      "id": "causal",
+      "label": "Causal Learning / 因果学习",
+      "pattern": "causal|structural causal|causality"
+    },
+    {
+      "id": "fairness_recourse",
+      "label": "Fairness & Recourse / 公平性与算法追索",
+      "pattern": "fairness|fair learning|fair representation|counterfactual explanation|algorithmic recourse|strategic classification"
+    },
+    {
+      "id": "uncertainty_robustness",
+      "label": "Uncertainty & Robustness / 不确定性与鲁棒性",
+      "pattern": "uncertainty|conformal|robust|distribution shift|adversarial|calibration"
+    },
+    {
+      "id": "privacy",
+      "label": "Privacy & Federated Learning / 隐私与联邦学习",
+      "pattern": "differential privacy|differentially private|privacy.preserving|federated learning|private learning|unlearning"
+    },
+    {
+      "id": "tabular",
+      "label": "Tabular Learning / 表格学习",
+      "pattern": "tabular|decision tree|random forest|gradient boost|TabPFN|TabM\\b|TabDPT"
+    },
+    {
+      "id": "multimodal",
+      "label": "Multimodal Learning / 多模态学习",
+      "pattern": "multi.modal|cross.modal|vision.language|visual.language|audio.text|text.audio"
+    },
+    {
+      "id": "retrieval",
+      "label": "Retrieval & RAG / 检索与RAG",
+      "pattern": "\\bRAG\\b|retrieval|re-rank|rerank|search engine"
+    },
+    {
+      "id": "optimization",
+      "label": "Optimization & Numerical Methods / 优化与数值方法",
+      "pattern": "optimization|optimisation|optimal control|differential equations?|convex|gradient descent|subgradient|PDE|branch.and.bound"
+    },
+    {
+      "id": "representation",
+      "label": "Representation Learning / 表征学习",
+      "pattern": "representation learning|contrastive learning|embeddings?|pre.training|pretraining"
+    }
+  ],
+  "notes": [
+    "Only already admitted finance papers are classified.",
+    "Primary topic is single-valued. Topics, subtopics and methods are multi-label.",
+    "Topic matches use title, reviewed financial evidence and abstract, with source passages retained.",
+    "Method tags use title and abstract and do not imply a finance-specific method.",
+    "Rules provide an initial classification; ID-based manual overrides are retained separately."
+  ]
+}

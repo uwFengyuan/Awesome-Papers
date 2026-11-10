@@ -1,0 +1,10 @@
+{
+  "url": "https://2023.aclweb.org/program/",
+  "final_url": "https://2023.aclweb.org/program/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:41.967679+00:00",
+  "bytes": 24778,
+  "sha256": "1d0694d7733a817360dfcf52a3f3e4f4161ab02195a9100d881bfd9eb2cdd388",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2023-program.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22The+Hidden+Cost+of+Waiting+for+Accurate+Predictions%22+OR+ti%3A%22Tight+Lower+Bounds+under+Asymmetric+High+Order+H+lder+Smoothness+and+Uniform+Convexity%22+OR+ti%3A%22TimeMixer+A+General+Time+Series+Pattern+Machine+for+Universal+Predictive+Analysis%22+OR+ti%3A%22TopoLM+brain+like+spatio+functional+organization+in+a+topographic+language+model%22+OR+ti%3A%22Topological+Blindspots+Understanding+and+Extending+Topological+Deep+Learning+Through+the+Lens+of+Expressivity%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22The+Hidden+Cost+of+Waiting+for+Accurate+Predictions%22+OR+ti%3A%22Tight+Lower+Bounds+under+Asymmetric+High+Order+H+lder+Smoothness+and+Uniform+Convexity%22+OR+ti%3A%22TimeMixer+A+General+Time+Series+Pattern+Machine+for+Universal+Predictive+Analysis%22+OR+ti%3A%22TopoLM+brain+like+spatio+functional+organization+in+a+topographic+language+model%22+OR+ti%3A%22Topological+Blindspots+Understanding+and+Extending+Topological+Deep+Learning+Through+the+Lens+of+Expressivity%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:38.681209+00:00",
+  "bytes": 11685,
+  "sha256": "4f40a11fbb7c48d0062f73b43bae70b2659874efd37ad03c1e4fd94584483056",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-98c850763c3bc7446e00.gz"
+}

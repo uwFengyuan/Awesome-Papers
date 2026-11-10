@@ -1,0 +1,407 @@
+[
+  {
+    "id": "2021.findings-acl.51",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/insurance/insurance_business/general/2021_ACL_[Long][Findings][Finance]__2021.findings-acl.51__Contrastive_Fine_tuning_Improves_Robustness_for_Neural_Rankers.pdf",
+    "target": "pdfs/finance/findings/financial_ir/general/general/2021_ACL_[Long][Findings][Finance]__2021.findings-acl.51__Contrastive_Fine_tuning_Improves_Robustness_for_Neural_Rankers.pdf"
+  },
+  {
+    "id": "2021.findings-acl.252",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/credit_data/general/2021_ACL_[Long][Findings][Finance]__2021.findings-acl.252__Energy_based_Unknown_Intent_Detection_with_Data_Manipulation.pdf",
+    "target": "pdfs/finance/findings/banking/customer_intents/general/2021_ACL_[Long][Findings][Finance]__2021.findings-acl.252__Energy_based_Unknown_Intent_Detection_with_Data_Manipulation.pdf"
+  },
+  {
+    "id": "2021.findings-acl.409",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_models/domain_models/general/2021_ACL_[Long][Findings][Finance]__2021.findings-acl.409__Fingerprinting_Fine_tuned_Language_Models_in_the_Wild.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/nlp_datasets/general/2021_ACL_[Long][Findings][Finance]__2021.findings-acl.409__Fingerprinting_Fine_tuned_Language_Models_in_the_Wild.pdf"
+  },
+  {
+    "id": "2021.findings-acl.308",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/other_finance/general/general/2021_ACL_[Long][Findings][Finance]__2021.findings-acl.308__Towards_Protecting_Vital_Healthcare_Programs_by_Extracting_Actionable_Knowledge_from_Policy.pdf",
+    "target": "pdfs/finance/findings/insurance/insurance_business/general/2021_ACL_[Long][Findings][Finance]__2021.findings-acl.308__Towards_Protecting_Vital_Healthcare_Programs_by_Extracting_Actionable_Knowledge_from_Policy.pdf"
+  },
+  {
+    "id": "2022.findings-acl.141",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_nlp/sentiment_stance/general/2022_ACL_[Long][Findings][Finance]__2022.findings-acl.141__DaLC_Domain_Adaptation_Learning_Curve_Prediction_for_Neural_Machine_Translation.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/financial_translation/general/2022_ACL_[Long][Findings][Finance]__2022.findings-acl.141__DaLC_Domain_Adaptation_Learning_Curve_Prediction_for_Neural_Machine_Translation.pdf"
+  },
+  {
+    "id": "2024.findings-acl.337",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.337__Benchmarking_Large_Language_Models_on_CFLUE_A_Chinese_Financial_Language_Understanding_Evaluation_Da.pdf",
+    "target": "pdfs/finance/findings/financial_models/financial_benchmarks/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.337__Benchmarking_Large_Language_Models_on_CFLUE_A_Chinese_Financial_Language_Understanding_Evaluation_Da.pdf"
+  },
+  {
+    "id": "2024.findings-acl.478",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_models/financial_benchmarks/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.478__Can_Large_Language_Models_Follow_Concept_Annotation_Guidelines_A_Case_Study_on_Scientific_and_Financ.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/nlp_datasets/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.478__Can_Large_Language_Models_Follow_Concept_Annotation_Guidelines_A_Case_Study_on_Scientific_and_Financ.pdf"
+  },
+  {
+    "id": "2024.findings-acl.233",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_agents/agent_decisions/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.233__Can_Large_Language_Models_Mine_Interpretable_Financial_Factors_More_Effectively_A_Neural_Symbolic_Fa.pdf",
+    "target": "pdfs/finance/findings/alpha_mining/general/llm_factor_discovery/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.233__Can_Large_Language_Models_Mine_Interpretable_Financial_Factors_More_Effectively_A_Neural_Symbolic_Fa.pdf"
+  },
+  {
+    "id": "2024.findings-acl.58",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.58__EconNLI_Evaluating_Large_Language_Models_on_Economics_Reasoning.pdf",
+    "target": "pdfs/finance/findings/macro_economics/macro_forecasting/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.58__EconNLI_Evaluating_Large_Language_Models_on_Economics_Reasoning.pdf"
+  },
+  {
+    "id": "2024.findings-acl.568",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/other_finance/general/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.568__Leveraging_Collection_Wide_Similarities_for_Unsupervised_Document_Structure_Extraction.pdf",
+    "target": "pdfs/finance/findings/document_ai/reports_tables/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.568__Leveraging_Collection_Wide_Similarities_for_Unsupervised_Document_Structure_Extraction.pdf"
+  },
+  {
+    "id": "2024.findings-acl.157",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/insurance/insurance_business/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.157__Self_Specialization_Uncovering_Latent_Expertise_within_Large_Language_Models.pdf",
+    "target": "pdfs/finance/findings/financial_models/domain_models/general/2024_ACL_[Long][Findings][Finance]__2024.findings-acl.157__Self_Specialization_Uncovering_Latent_Expertise_within_Large_Language_Models.pdf"
+  },
+  {
+    "id": "2025.findings-acl.1239",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_safety/trust_compliance/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.1239__Are_LLMs_Rational_Investors_A_Study_on_the_Financial_Bias_in_LLMs.pdf",
+    "target": "pdfs/finance/findings/portfolio/investment_evaluation/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.1239__Are_LLMs_Rational_Investors_A_Study_on_the_Financial_Bias_in_LLMs.pdf"
+  },
+  {
+    "id": "2025.findings-acl.238",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.238__DeFine_Decision_Making_with_Analogical_Reasoning_over_Factor_Profiles.pdf",
+    "target": "pdfs/finance/findings/financial_agents/agent_decisions/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.238__DeFine_Decision_Making_with_Analogical_Reasoning_over_Factor_Profiles.pdf"
+  },
+  {
+    "id": "2025.findings-acl.171",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.171__Domaino1s_Guiding_LLM_Reasoning_for_Explainable_Answers_in_High_Stakes_Domains.pdf",
+    "target": "pdfs/finance/findings/portfolio/investment_evaluation/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.171__Domaino1s_Guiding_LLM_Reasoning_for_Explainable_Answers_in_High_Stakes_Domains.pdf"
+  },
+  {
+    "id": "2025.findings-acl.489",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/asset_pricing/pricing_models/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.489__FinRipple_Aligning_Large_Language_Models_with_Financial_Market_for_Event_Ripple_Effect_Awareness.pdf",
+    "target": "pdfs/finance/findings/market_prediction/stock_prediction/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.489__FinRipple_Aligning_Large_Language_Models_with_Financial_Market_for_Event_Ripple_Effect_Awareness.pdf"
+  },
+  {
+    "id": "2025.findings-acl.814",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.814__GRI_QA_a_Comprehensive_Benchmark_for_Table_Question_Answering_over_Environmental_Data.pdf",
+    "target": "pdfs/finance/findings/esg/esg_disclosure/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.814__GRI_QA_a_Comprehensive_Benchmark_for_Table_Question_Answering_over_Environmental_Data.pdf"
+  },
+  {
+    "id": "2025.findings-acl.855",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.855__Hierarchical_Retrieval_with_Evidence_Curation_for_Open_Domain_Financial_Question_Answering_on_Standa.pdf",
+    "target": "pdfs/finance/findings/financial_ir/retrieval/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.855__Hierarchical_Retrieval_with_Evidence_Curation_for_Open_Domain_Financial_Question_Answering_on_Standa.pdf"
+  },
+  {
+    "id": "2025.findings-acl.962",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.962__MetaSynth_Meta_Prompting_Driven_Agentic_Scaffolds_for_Diverse_Synthetic_Data_Generation.pdf",
+    "target": "pdfs/finance/findings/financial_models/domain_models/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.962__MetaSynth_Meta_Prompting_Driven_Agentic_Scaffolds_for_Diverse_Synthetic_Data_Generation.pdf"
+  },
+  {
+    "id": "2025.findings-acl.14",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/time_series/ts_dynamics/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.14__MFinMeeting_A_Multilingual_Multi_Sector_and_Multi_Task_Financial_Meeting_Understanding_Evaluation_Da.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/nlp_datasets/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.14__MFinMeeting_A_Multilingual_Multi_Sector_and_Multi_Task_Financial_Meeting_Understanding_Evaluation_Da.pdf"
+  },
+  {
+    "id": "2025.findings-acl.711",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/rag/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.711__Task_Oriented_Automatic_Fact_Checking_with_Frame_Semantics.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/claim_verification/general/2025_ACL_[Long][Findings][Finance]__2025.findings-acl.711__Task_Oriented_Automatic_Fact_Checking_with_Frame_Semantics.pdf"
+  },
+  {
+    "id": "2026.findings-acl.788",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.788__Penny_Wise_Pixel_Foolish_Bypassing_Price_Constraints_in_Multimodal_Agents_via_Visual_Adversarial_Per.pdf",
+    "target": "pdfs/finance/findings/financial_safety/privacy_security/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.788__Penny_Wise_Pixel_Foolish_Bypassing_Price_Constraints_in_Multimodal_Agents_via_Visual_Adversarial_Per.pdf"
+  },
+  {
+    "id": "2026.findings-acl.138",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_models/domain_models/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.138__AlphaQT_Bench_Diagnosing_the_Gap_between_Financial_Code_Generation_and_Quantitative_Reasoning_in_LLM.pdf",
+    "target": "pdfs/finance/findings/alpha_mining/factor_discovery/llm_factor_discovery/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.138__AlphaQT_Bench_Diagnosing_the_Gap_between_Financial_Code_Generation_and_Quantitative_Reasoning_in_LLM.pdf"
+  },
+  {
+    "id": "2026.findings-acl.1555",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/credit_default/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1555__Analyze_Like_a_Venture_Capitalist_Information_Gain_and_Knowledge_Enhanced_Graph_Reasoning_for_Startu.pdf",
+    "target": "pdfs/finance/findings/corporate_finance/general/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1555__Analyze_Like_a_Venture_Capitalist_Information_Gain_and_Knowledge_Enhanced_Graph_Reasoning_for_Startu.pdf"
+  },
+  {
+    "id": "2026.findings-acl.405",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.405__Balancing_Knowledge_Breadth_and_Task_Depth_for_Effective_Domain_Adaptation_Fine_Tuning.pdf",
+    "target": "pdfs/finance/findings/financial_models/domain_models/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.405__Balancing_Knowledge_Breadth_and_Task_Depth_for_Effective_Domain_Adaptation_Fine_Tuning.pdf"
+  },
+  {
+    "id": "2026.findings-acl.1198",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/trading/trading_execution/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1198__BizCompass_Benchmarking_the_Reasoning_Capabilities_of_LLMs_in_Business_Knowledge_and_Applications.pdf",
+    "target": "pdfs/finance/findings/financial_models/financial_benchmarks/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1198__BizCompass_Benchmarking_the_Reasoning_Capabilities_of_LLMs_in_Business_Knowledge_and_Applications.pdf"
+  },
+  {
+    "id": "2026.findings-acl.279",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.279__Fin_Bias_Comprehensive_Evaluation_for_LLM_Decision_Making_under_human_bias_in_Finance_Domain.pdf",
+    "target": "pdfs/finance/findings/financial_safety/trust_compliance/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.279__Fin_Bias_Comprehensive_Evaluation_for_LLM_Decision_Making_under_human_bias_in_Finance_Domain.pdf"
+  },
+  {
+    "id": "2026.findings-acl.1244",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1244__FinCARDS_Card_Based_Analyst_Reranking_for_Financial_Document_Question_Answering.pdf",
+    "target": "pdfs/finance/findings/financial_ir/general/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1244__FinCARDS_Card_Based_Analyst_Reranking_for_Financial_Document_Question_Answering.pdf"
+  },
+  {
+    "id": "2026.findings-acl.523",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/trading/trading_execution/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.523__Finch_Benchmarking_Finance_Accounting_across_Spreadsheet_Centric_Enterprise_Workflows.pdf",
+    "target": "pdfs/finance/findings/corporate_finance/accounting_tax/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.523__Finch_Benchmarking_Finance_Accounting_across_Spreadsheet_Centric_Enterprise_Workflows.pdf"
+  },
+  {
+    "id": "2026.findings-acl.694",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/knowledge_qa/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.694__FinSafetyBench_Evaluating_LLM_Safety_in_Real_World_Financial_Scenarios.pdf",
+    "target": "pdfs/finance/findings/financial_safety/privacy_security/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.694__FinSafetyBench_Evaluating_LLM_Safety_in_Real_World_Financial_Scenarios.pdf"
+  },
+  {
+    "id": "2026.findings-acl.746",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.746__FinToolSyn_A_forward_synthesis_Framework_for_Financial_Tool_Use_Dialogue_Data_with_Dynamic_Tool_Retr.pdf",
+    "target": "pdfs/finance/findings/financial_agents/tools_research/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.746__FinToolSyn_A_forward_synthesis_Framework_for_Financial_Tool_Use_Dialogue_Data_with_Dynamic_Tool_Retr.pdf"
+  },
+  {
+    "id": "2026.findings-acl.580",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_nlp/text_generation/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.580__From_Heard_to_Lived_Opinions_Simulating_Opinion_Dynamics_with_Grounded_LLM_Agents_in_Economic_Enviro.pdf",
+    "target": "pdfs/finance/findings/macro_economics/economic_simulation/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.580__From_Heard_to_Lived_Opinions_Simulating_Opinion_Dynamics_with_Grounded_LLM_Agents_in_Economic_Enviro.pdf"
+  },
+  {
+    "id": "2026.findings-acl.1934",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/portfolio/selection/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1934__From_Tasks_to_Teams_A_Risk_First_Evaluation_Framework_for_Multi_Agent_LLM_Systems_in_Finance.pdf",
+    "target": "pdfs/finance/findings/financial_safety/privacy_security/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1934__From_Tasks_to_Teams_A_Risk_First_Evaluation_Framework_for_Multi_Agent_LLM_Systems_in_Finance.pdf"
+  },
+  {
+    "id": "2026.findings-acl.1116",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/financial_risk/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1116__GrandGuard_Taxonomy_Benchmark_and_Safeguards_for_Elderly_Chatbot_Interaction_Safety.pdf",
+    "target": "pdfs/finance/findings/financial_safety/privacy_security/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1116__GrandGuard_Taxonomy_Benchmark_and_Safeguards_for_Elderly_Chatbot_Interaction_Safety.pdf"
+  },
+  {
+    "id": "2026.findings-acl.2035",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/insurance/insurance_business/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.2035__MEAV_Model_Editing_with_Alignment_Vectors_for_inference_time_LLM_alignment_in_single_and_multidomain.pdf",
+    "target": "pdfs/finance/findings/financial_models/domain_models/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.2035__MEAV_Model_Editing_with_Alignment_Vectors_for_inference_time_LLM_alignment_in_single_and_multidomain.pdf"
+  },
+  {
+    "id": "2026.findings-acl.1119",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1119__NASH_Numerically_Aware_Scoring_Heuristic_for_Robust_Semantic_Similarity.pdf",
+    "target": "pdfs/finance/findings/financial_models/numerical_finance/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.1119__NASH_Numerically_Aware_Scoring_Heuristic_for_Robust_Semantic_Similarity.pdf"
+  },
+  {
+    "id": "2026.findings-acl.341",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/rag/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.341__Navigating_Large_Scale_Document_Collections_MuDABench_for_Multi_Document_Analytical_QA.pdf",
+    "target": "pdfs/finance/findings/financial_qa/qa_tasks/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.341__Navigating_Large_Scale_Document_Collections_MuDABench_for_Multi_Document_Analytical_QA.pdf"
+  },
+  {
+    "id": "2026.findings-acl.479",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/fraud_aml/scam/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.479__Same_Claim_Different_Judgment_Benchmarking_Scenario_Induced_Bias_in_Multilingual_Financial_Misinform.pdf",
+    "target": "pdfs/finance/findings/financial_safety/trust_compliance/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.479__Same_Claim_Different_Judgment_Benchmarking_Scenario_Induced_Bias_in_Multilingual_Financial_Misinform.pdf"
+  },
+  {
+    "id": "2026.findings-acl.764",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.764__SEC_FinTables_Evaluating_Large_Language_Models_for_Detecting_Logical_Inconsistencies_on_Tabular_Data.pdf",
+    "target": "pdfs/finance/findings/document_ai/financial_tables/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.764__SEC_FinTables_Evaluating_Large_Language_Models_for_Detecting_Logical_Inconsistencies_on_Tabular_Data.pdf"
+  },
+  {
+    "id": "2026.findings-acl.931",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/credit_data/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.931__ToolDNA_Autonomous_Evolution_of_Tool_Metadata_for_Robust_Dialogue_Agents.pdf",
+    "target": "pdfs/finance/findings/banking/bank_data/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.931__ToolDNA_Autonomous_Evolution_of_Tool_Metadata_for_Robust_Dialogue_Agents.pdf"
+  },
+  {
+    "id": "2026.findings-acl.2118",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_nlp/sentiment_stance/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.2118__Uncovering_Currency_Bias_and_Syntax_Gap_in_Text_Embedding_Models.pdf",
+    "target": "pdfs/finance/findings/financial_models/financial_benchmarks/general/2026_ACL_[Long][Findings][Finance]__2026.findings-acl.2118__Uncovering_Currency_Bias_and_Syntax_Gap_in_Text_Embedding_Models.pdf"
+  },
+  {
+    "id": "2020.findings-emnlp.220",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/rag/general/2020_EMNLP_[Long][Findings][Finance]__2020.findings-emnlp.220__Event_Driven_Learning_of_Systematic_Behaviours_in_Stock_Markets.pdf",
+    "target": "pdfs/finance/findings/market_prediction/stock_prediction/general/2020_EMNLP_[Long][Findings][Finance]__2020.findings-emnlp.220__Event_Driven_Learning_of_Systematic_Behaviours_in_Stock_Markets.pdf"
+  },
+  {
+    "id": "2020.findings-emnlp.143",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/fraud_aml/scam/general/2020_EMNLP_[Long][Findings][Finance]__2020.findings-emnlp.143__Inferring_about_fraudulent_collusion_risk_on_Brazilian_public_works_contracts_in_official_texts_usin.pdf",
+    "target": "pdfs/finance/findings/fraud_aml/financial_fraud/general/2020_EMNLP_[Long][Findings][Finance]__2020.findings-emnlp.143__Inferring_about_fraudulent_collusion_risk_on_Brazilian_public_works_contracts_in_official_texts_usin.pdf"
+  },
+  {
+    "id": "2022.findings-emnlp.117",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/financial_risk/general/2022_EMNLP_[Long][Findings][Finance]__2022.findings-emnlp.117__DialogueGAT_A_Graph_Attention_Network_for_Financial_Risk_Prediction_by_Modeling_the_Dialogues_in_Ear.pdf",
+    "target": "pdfs/finance/findings/market_prediction/volatility_prediction/general/2022_EMNLP_[Long][Findings][Finance]__2022.findings-emnlp.117__DialogueGAT_A_Graph_Attention_Network_for_Financial_Risk_Prediction_by_Modeling_the_Dialogues_in_Ear.pdf"
+  },
+  {
+    "id": "2022.findings-emnlp.471",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/time_series/financial_processes/forecasting/2022_EMNLP_[Long][Findings][Finance]__2022.findings-emnlp.471__Tweet_Based_Reach_Aware_Temporal_Attention_Network_for_NFT_Valuation.pdf",
+    "target": "pdfs/finance/findings/market_prediction/fx_crypto/general/2022_EMNLP_[Long][Findings][Finance]__2022.findings-emnlp.471__Tweet_Based_Reach_Aware_Temporal_Attention_Network_for_NFT_Valuation.pdf"
+  },
+  {
+    "id": "2023.findings-emnlp.26",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/time_series/ts_dynamics/general/2023_EMNLP_[Long][Findings][Finance]__2023.findings-emnlp.26__CR_COPEC_Causal_Rationale_of_Corporate_Performance_Changes_to_learn_from_Financial_Reports.pdf",
+    "target": "pdfs/finance/findings/corporate_finance/earnings_disclosure/general/2023_EMNLP_[Long][Findings][Finance]__2023.findings-emnlp.26__CR_COPEC_Causal_Rationale_of_Corporate_Performance_Changes_to_learn_from_Financial_Reports.pdf"
+  },
+  {
+    "id": "2023.findings-emnlp.774",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_models/domain_models/general/2023_EMNLP_[Long][Findings][Finance]__2023.findings-emnlp.774__EconBERTa_Towards_Robust_Extraction_of_Named_Entities_in_Economics.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/information_extraction/general/2023_EMNLP_[Long][Findings][Finance]__2023.findings-emnlp.774__EconBERTa_Towards_Robust_Extraction_of_Named_Entities_in_Economics.pdf"
+  },
+  {
+    "id": "2024.findings-emnlp.435",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/time_series/ts_generation/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.435__Demonstration_Selection_Strategies_for_Numerical_Time_Series_Data_to_Text.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/text_generation/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.435__Demonstration_Selection_Strategies_for_Numerical_Time_Series_Data_to_Text.pdf"
+  },
+  {
+    "id": "2024.findings-emnlp.643",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/other_finance/general/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.643__DictDis_Dictionary_Constrained_Disambiguation_for_Improved_NMT.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/financial_translation/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.643__DictDis_Dictionary_Constrained_Disambiguation_for_Improved_NMT.pdf"
+  },
+  {
+    "id": "2024.findings-emnlp.189",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/portfolio/selection/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.189__Modeling_News_Interactions_and_Influence_for_Financial_Market_Prediction.pdf",
+    "target": "pdfs/finance/findings/market_prediction/stock_prediction/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.189__Modeling_News_Interactions_and_Influence_for_Financial_Market_Prediction.pdf"
+  },
+  {
+    "id": "2024.findings-emnlp.707",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.707__Numbers_Matter_Bringing_Quantity_awareness_to_Retrieval_Systems.pdf",
+    "target": "pdfs/finance/findings/financial_ir/retrieval/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.707__Numbers_Matter_Bringing_Quantity_awareness_to_Retrieval_Systems.pdf"
+  },
+  {
+    "id": "2024.findings-emnlp.41",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/knowledge_qa/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.41__RAG_Studio_Towards_In_Domain_Adaptation_of_Retrieval_Augmented_Generation_Through_Self_Alignment.pdf",
+    "target": "pdfs/finance/findings/financial_ir/retrieval/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.41__RAG_Studio_Towards_In_Domain_Adaptation_of_Retrieval_Augmented_Generation_Through_Self_Alignment.pdf"
+  },
+  {
+    "id": "2024.findings-emnlp.346",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_models/domain_models/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.346__SecureSQL_Evaluating_Data_Leakage_of_Large_Language_Models_as_Natural_Language_Interfaces_to_Databas.pdf",
+    "target": "pdfs/finance/findings/financial_safety/trust_compliance/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.346__SecureSQL_Evaluating_Data_Leakage_of_Large_Language_Models_as_Natural_Language_Interfaces_to_Databas.pdf"
+  },
+  {
+    "id": "2024.findings-emnlp.972",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/other_finance/general/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.972__ValueScope_Unveiling_Implicit_Norms_and_Values_via_Return_Potential_Model_of_Social_Interactions.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/nlp_datasets/general/2024_EMNLP_[Long][Findings][Finance]__2024.findings-emnlp.972__ValueScope_Unveiling_Implicit_Norms_and_Values_via_Return_Potential_Model_of_Social_Interactions.pdf"
+  },
+  {
+    "id": "2025.findings-emnlp.905",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_models/domain_models/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.905__DecisionFlow_Advancing_Large_Language_Model_as_Principled_Decision_Maker.pdf",
+    "target": "pdfs/finance/findings/financial_agents/agent_decisions/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.905__DecisionFlow_Advancing_Large_Language_Model_as_Principled_Decision_Maker.pdf"
+  },
+  {
+    "id": "2025.findings-emnlp.87",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/trading/trading_execution/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.87__FinHEAR_Human_Expertise_and_Adaptive_Risk_Aware_Temporal_Reasoning_for_Financial_Decision_Making.pdf",
+    "target": "pdfs/finance/findings/financial_agents/general/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.87__FinHEAR_Human_Expertise_and_Adaptive_Risk_Aware_Temporal_Reasoning_for_Financial_Decision_Making.pdf"
+  },
+  {
+    "id": "2025.findings-emnlp.1405",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/rag/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.1405__KAHAN_Knowledge_Augmented_Hierarchical_Analysis_and_Narration_for_Financial_Data_Narration.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/text_generation/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.1405__KAHAN_Knowledge_Augmented_Hierarchical_Analysis_and_Narration_for_Financial_Data_Narration.pdf"
+  },
+  {
+    "id": "2025.findings-emnlp.972",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/credit_data/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.972__Large_Language_Model_Agents_in_Finance_A_Survey_Bridging_Research_Practice_and_Real_World_Deployment.pdf",
+    "target": "pdfs/finance/findings/financial_agents/agent_decisions/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.972__Large_Language_Model_Agents_in_Finance_A_Survey_Bridging_Research_Practice_and_Real_World_Deployment.pdf"
+  },
+  {
+    "id": "2025.findings-emnlp.707",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/rag/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.707__MMA_Cross_Domain_Knowledge_Integration_via_Mixture_of_Multi_Domain_Agents.pdf",
+    "target": "pdfs/finance/findings/financial_models/domain_models/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.707__MMA_Cross_Domain_Knowledge_Integration_via_Mixture_of_Multi_Domain_Agents.pdf"
+  },
+  {
+    "id": "2025.findings-emnlp.156",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/credit_data/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.156__TS_SQL_Test_driven_Self_refinement_for_Text_to_SQL.pdf",
+    "target": "pdfs/finance/findings/banking/bank_data/general/2025_EMNLP_[Long][Findings][Finance]__2025.findings-emnlp.156__TS_SQL_Test_driven_Self_refinement_for_Text_to_SQL.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.908",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_models/financial_benchmarks/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.908__Activation_Space_Anchored_Access_Control_for_Multi_Class_Permission_Reasoning_in_Large_Language_Mode.pdf",
+    "target": "pdfs/finance/findings/financial_safety/trust_compliance/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.908__Activation_Space_Anchored_Access_Control_for_Multi_Class_Permission_Reasoning_in_Large_Language_Mode.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.1316",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/portfolio/selection/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1316__AEL_Evolving_Agent_Harness_in_Open_Ended_Environments.pdf",
+    "target": "pdfs/finance/findings/financial_agents/general/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1316__AEL_Evolving_Agent_Harness_in_Open_Ended_Environments.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.1170",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1170__BenchCompass_From_Scores_to_Signals_for_Training_and_Harness_Decisions_in_Payment_Domain_LLMs.pdf",
+    "target": "pdfs/finance/findings/banking/bank_data/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1170__BenchCompass_From_Scores_to_Signals_for_Training_and_Harness_Decisions_in_Payment_Domain_LLMs.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.354",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.354__BizSage_A_Self_Evolving_Multi_Agent_Framework_for_Business_Research_with_Efficient_Knowledge_Retriev.pdf",
+    "target": "pdfs/finance/findings/financial_agents/agent_decisions/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.354__BizSage_A_Self_Evolving_Multi_Agent_Framework_for_Business_Research_with_Efficient_Knowledge_Retriev.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.914",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/trading/trading_execution/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.914__CrossAlpha_An_Annual_Report_Benchmark_for_Cross_Market_Factor_Research_with_LLM_Agents.pdf",
+    "target": "pdfs/finance/findings/alpha_mining/general/llm_factor_discovery/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.914__CrossAlpha_An_Annual_Report_Benchmark_for_Cross_Market_Factor_Research_with_LLM_Agents.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.932",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.932__EnterpriseBench_Benchmarking_LLM_Agents_on_Enterprise_Level_Strategic_Reasoning_and_Decision_Making.pdf",
+    "target": "pdfs/finance/findings/financial_agents/agent_decisions/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.932__EnterpriseBench_Benchmarking_LLM_Agents_on_Enterprise_Level_Strategic_Reasoning_and_Decision_Making.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.1340",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/credit_data/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1340__FairFund_Bench_Evaluating_Distributive_Bias_in_LLM_Resource_Allocation.pdf",
+    "target": "pdfs/finance/findings/banking/personal_finance/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1340__FairFund_Bench_Evaluating_Distributive_Bias_in_LLM_Resource_Allocation.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.1514",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_agents/agent_decisions/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1514__FaVOR_LLM_Based_Agentic_Framework_for_Factor_Mining_via_Empirical_Validation.pdf",
+    "target": "pdfs/finance/findings/alpha_mining/general/llm_factor_discovery/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1514__FaVOR_LLM_Based_Agentic_Framework_for_Factor_Mining_via_Empirical_Validation.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.2357",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2357__FinAcumen_Financial_Multimodal_Reasoning_via_Self_Evolving_Experience_Memory_Harness.pdf",
+    "target": "pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2357__FinAcumen_Financial_Multimodal_Reasoning_via_Self_Evolving_Experience_Memory_Harness.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.2265",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2265__FinanceLLM_A_Survey_of_Large_Language_Models_in_Finance.pdf",
+    "target": "pdfs/finance/findings/financial_models/domain_models/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2265__FinanceLLM_A_Survey_of_Large_Language_Models_in_Finance.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.675",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.675__FinBalance_A_Multi_Document_Accounting_Reconciliation_Benchmark.pdf",
+    "target": "pdfs/finance/findings/corporate_finance/accounting_tax/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.675__FinBalance_A_Multi_Document_Accounting_Reconciliation_Benchmark.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.2145",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/credit_data/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2145__FinRT_Distilling_Adaptive_Red_Teaming_Strategies_into_Reusable_Adversarial_Generators_in_Consumer_Fi.pdf",
+    "target": "pdfs/finance/findings/financial_safety/privacy_security/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2145__FinRT_Distilling_Adaptive_Red_Teaming_Strategies_into_Reusable_Adversarial_Generators_in_Consumer_Fi.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.235",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/other_finance/general/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.235__HardMTBench_Stress_Testing_Chinese_English_Translation_on_Knowledge_Intensive_Domains.pdf",
+    "target": "pdfs/finance/findings/financial_nlp/financial_translation/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.235__HardMTBench_Stress_Testing_Chinese_English_Translation_on_Knowledge_Intensive_Domains.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.2053",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_ir/retrieval/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2053__K_FinHallu_A_Hallucination_Detection_Benchmark_for_Multi_Turn_RAG_in_Korean_Finance.pdf",
+    "target": "pdfs/finance/findings/financial_safety/general/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2053__K_FinHallu_A_Hallucination_Detection_Benchmark_for_Multi_Turn_RAG_in_Korean_Finance.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.286",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_nlp/sentiment_stance/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.286__KFinEval_A_Curated_Benchmark_Suite_for_Real_World_Korean_Financial_Language_Understanding.pdf",
+    "target": "pdfs/finance/findings/financial_models/domain_models/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.286__KFinEval_A_Curated_Benchmark_Suite_for_Real_World_Korean_Financial_Language_Understanding.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.2230",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2230__Listwise_Explanation_of_Embedding_Based_Rankings_via_Semantic_Chunk_Grouping.pdf",
+    "target": "pdfs/finance/findings/financial_ir/retrieval/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2230__Listwise_Explanation_of_Embedding_Based_Rankings_via_Semantic_Chunk_Grouping.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.341",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.341__RealFin_Benchmarking_Agent_Workflow_Orchestration_Beyond_MCP_Style_Tool_Connectivity.pdf",
+    "target": "pdfs/finance/findings/financial_agents/agent_decisions/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.341__RealFin_Benchmarking_Agent_Workflow_Orchestration_Beyond_MCP_Style_Tool_Connectivity.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.821",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.821__ReimburseBench_Benchmarking_LMMs_as_Full_Workflow_Auditors_for_Financial_Internal_Control.pdf",
+    "target": "pdfs/finance/findings/corporate_finance/accounting_tax/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.821__ReimburseBench_Benchmarking_LMMs_as_Full_Workflow_Auditors_for_Financial_Internal_Control.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.1585",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/credit_risk/credit_data/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1585__Scaling_Multi_Agent_Systems_with_Prospect_State_Propagation.pdf",
+    "target": "pdfs/finance/findings/macro_economics/macro_forecasting/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1585__Scaling_Multi_Agent_Systems_with_Prospect_State_Propagation.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.869",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/market_prediction/stock_prediction/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.869__STQA_A_Benchmark_for_Stock_Focused_Tabular_Question_Answering_over_Historical_and_Forecasted_Data.pdf",
+    "target": "pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.869__STQA_A_Benchmark_for_Stock_Focused_Tabular_Question_Answering_over_Historical_and_Forecasted_Data.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.2075",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/financial_qa/numerical_reasoning/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2075__UniFinEval_Towards_Unified_Evaluation_of_Financial_Multimodal_Models_across_Text_Images_and_Videos.pdf",
+    "target": "pdfs/finance/findings/financial_models/domain_models/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.2075__UniFinEval_Towards_Unified_Evaluation_of_Financial_Multimodal_Models_across_Text_Images_and_Videos.pdf"
+  },
+  {
+    "id": "2026.findings-emnlp.1825",
+    "source": "/home/qi/aiagent/paper_writing/pdfs/finance/findings/corporate_finance/earnings_disclosure/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1825__What_Transfers_Under_Source_Shift_Definitions_Examples_and_Fine_Tuning_for_Climate_Disclosure_Classi.pdf",
+    "target": "pdfs/finance/findings/esg/esg_disclosure/general/2026_EMNLP_[Long][Findings][Finance]__2026.findings-emnlp.1825__What_Transfers_Under_Source_Shift_Definitions_Examples_and_Fine_Tuning_for_Climate_Disclosure_Classi.pdf"
+  }
+]

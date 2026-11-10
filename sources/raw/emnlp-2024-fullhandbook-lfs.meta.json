@@ -1,0 +1,10 @@
+{
+  "url": "https://media.githubusercontent.com/media/acl-org/emnlp-2024/main/downloads/EMNLP_2024_Handbook_digital.pdf",
+  "final_url": "https://media.githubusercontent.com/media/acl-org/emnlp-2024/main/downloads/EMNLP_2024_Handbook_digital.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:04:25.407224+00:00",
+  "bytes": 86512036,
+  "sha256": "ebe16b7264ba393de73a81c98c7c7cb9ec6a74ef15c8e0c9061c97cce5185f63",
+  "content_type": "application/octet-stream",
+  "cache_path": "sources/raw/emnlp-2024-fullhandbook-lfs.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://www.ml.cmu.edu/honors-and-awards/best-paper-awards.html",
+  "final_url": "https://ml.cmu.edu/honors-and-awards/best-paper-awards",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:10:40.282459+00:00",
+  "bytes": 77677,
+  "sha256": "254212e9c9aeaa33b0dcd833799302f2d5cc74e5af66071bd052f2becf88477b",
+  "content_type": "text/html; charset=UTF-8",
+  "cache_path": "sources/raw/iclr-2018-awards-cmu.gz"
+}

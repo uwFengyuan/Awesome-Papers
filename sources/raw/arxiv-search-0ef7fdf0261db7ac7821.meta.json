@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Attention+as+a+Hypernetwork%22+OR+ti%3A%22BIRD+A+Trustworthy+Bayesian+Inference+Framework+for+Large+Language+Models%22+OR+ti%3A%22Backtracking+Improves+Generation+Safety%22+OR+ti%3A%22BigCodeBench+Benchmarking+Code+Generation+with+Diverse+Function+Calls+and+Complex+Instructions%22+OR+ti%3A%22Block+Diffusion+Interpolating+Between+Autoregressive+and+Diffusion+Language+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Attention+as+a+Hypernetwork%22+OR+ti%3A%22BIRD+A+Trustworthy+Bayesian+Inference+Framework+for+Large+Language+Models%22+OR+ti%3A%22Backtracking+Improves+Generation+Safety%22+OR+ti%3A%22BigCodeBench+Benchmarking+Code+Generation+with+Diverse+Function+Calls+and+Complex+Instructions%22+OR+ti%3A%22Block+Diffusion+Interpolating+Between+Autoregressive+and+Diffusion+Language+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:30.491596+00:00",
+  "bytes": 14762,
+  "sha256": "785d9f18b73064b1282c79dae661d5a6e6a939e5569815d1224919113d7474ec",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-0ef7fdf0261db7ac7821.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22OptionZero+Planning+with+Learned+Options%22+OR+ti%3A%22Oscillatory+State+Space+Models%22+OR+ti%3A%22PathGen+1+6M+1+6+Million+Pathology+Image+text+Pairs+Generation+through+Multi%22+OR+ti%3A%22PhysBench+Benchmarking+and+Enhancing+Vision+Language+Models+for+Physical+World+Understanding%22+OR+ti%3A%22Population+Transformer+Learning+Population+level+Representations+of+Neural+Activity%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22OptionZero+Planning+with+Learned+Options%22+OR+ti%3A%22Oscillatory+State+Space+Models%22+OR+ti%3A%22PathGen+1+6M+1+6+Million+Pathology+Image+text+Pairs+Generation+through+Multi%22+OR+ti%3A%22PhysBench+Benchmarking+and+Enhancing+Vision+Language+Models+for+Physical+World+Understanding%22+OR+ti%3A%22Population+Transformer+Learning+Population+level+Representations+of+Neural+Activity%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:58.539494+00:00",
+  "bytes": 20731,
+  "sha256": "2ce3a5543bfeec76720702ffc9f9fd2b99c80ff8cdb48dac243eae7a5a06ab0a",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-9eafed94804b993afbb4.gz"
+}

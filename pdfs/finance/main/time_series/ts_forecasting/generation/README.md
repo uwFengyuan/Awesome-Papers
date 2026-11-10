@@ -1,0 +1,15 @@
+# pdfs/finance/main/time_series/ts_forecasting/generation
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2024 | AAAI | main | [Adaptive Meta-Learning Probabilistic Inference Framework for Long Sequence Prediction](https://ojs.aaai.org/index.php/AAAI/article/view/29661) | [Long] [Main] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Generation / 生成 | [PDF](2024_AAAI_%5BLong%5D%5BMain%5D%5BFinance%5D__aaai-2024-29661__Adaptive_Meta_Learning_Probabilistic_Inference_Framework_for_Long_Sequence_Prediction.pdf) |
+| 2025 | AAAI | main | [TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents](https://ojs.aaai.org/index.php/AAAI/article/view/33989) | [Long] [Main] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Generation / 生成 | [PDF](2025_AAAI_%5BLong%5D%5BMain%5D%5BFinance%5D__aaai-2025-33989__TimeCAP_Learning_to_Contextualize_Augment_and_Predict_Time_Series_Events_with_Large_Language_Model_A.pdf) |
+| 2024 | ICLR | main | [Diffusion-TS: Interpretable Diffusion for General Time Series Generation](https://openreview.net/forum?id=4h1apFjO99) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Generation / 生成 | [PDF](2024_ICLR_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__iclr-2024-4h1apFjO99__Diffusion_TS_Interpretable_Diffusion_for_General_Time_Series_Generation.pdf) |
+| 2026 | ICLR | main | [SciTS: Scientific Time Series Understanding and Generation with LLMs](https://openreview.net/forum?id=5YXccEP6uc) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Generation / 生成 | [PDF](2026_ICLR_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__iclr-2026-5YXccEP6uc__SciTS_Scientific_Time_Series_Understanding_and_Generation_with_LLMs.pdf) |
+| 2023 | ICML | main | [Deep Latent State Space Models for Time-Series Generation](http://proceedings.mlr.press/v202/zhou23i/zhou23i.pdf) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Generation / 生成 | [PDF](2023_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2023-24503__Deep_Latent_State_Space_Models_for_Time_Series_Generation.pdf) |
+| 2025 | ICML | main | [BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modeling](https://openreview.net/forum?id=uRD6wkqulN) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Generation / 生成 | [PDF](2025_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2025-uRD6wkqulN__BRIDGE_Bootstrapping_Text_to_Control_Time_Series_Generation_via_Multi_Agent_Iterative_Optimization_a.pdf) |
+| 2025 | NeurIPS | main | [Forging Time Series with Language: A Large Language Model Approach to Synthetic Data Generation](https://openreview.net/forum?id=A2pmvkqOgp) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Generation / 生成 | [PDF](2025_NeurIPS_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__neurips-2025-A2pmvkqOgp__Forging_Time_Series_with_Language_A_Large_Language_Model_Approach_to_Synthetic_Data_Generation.pdf) |

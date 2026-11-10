@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Disentangling+Latent+Risk+Pathways+via+Bayesian+Hypergraph+Inference%22+OR+ti%3A%22Distributional+Inverse+Reinforcement+Learning%22+OR+ti%3A%22Do+We+Need+Adam+Surprisingly+Strong+and+Sparse+Reinforcement+Learning+with+SGD+in%22+OR+ti%3A%22Don+t+Force+the+Fit+Bounded+Log+Likelihood+Loss+for+Enhanced+Reasoning+in%22+OR+ti%3A%22DroneDINO+Towards+Heterogeneous+Routed+Mixture+of+Experts+for+Drone+based+Unified+Object+Detection%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Disentangling+Latent+Risk+Pathways+via+Bayesian+Hypergraph+Inference%22+OR+ti%3A%22Distributional+Inverse+Reinforcement+Learning%22+OR+ti%3A%22Do+We+Need+Adam+Surprisingly+Strong+and+Sparse+Reinforcement+Learning+with+SGD+in%22+OR+ti%3A%22Don+t+Force+the+Fit+Bounded+Log+Likelihood+Loss+for+Enhanced+Reasoning+in%22+OR+ti%3A%22DroneDINO+Towards+Heterogeneous+Routed+Mixture+of+Experts+for+Drone+based+Unified+Object+Detection%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:38.926606+00:00",
+  "bytes": 8251,
+  "sha256": "da45721e921f4fb0e3587bdc1d90a96d0506f582d29b8cb1e7e4772a9821656f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-483a818bd11c90895837.gz"
+}

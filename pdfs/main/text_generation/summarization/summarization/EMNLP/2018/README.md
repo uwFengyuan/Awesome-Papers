@@ -1,0 +1,15 @@
+# pdfs/main/text_generation/summarization/summarization/EMNLP/2018
+
+
+
+Papers / 论文：**7**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2018 | EMNLP | main | [BanditSum: Extractive Summarization as a Contextual Bandit](https://aclanthology.org/D18-1409/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1409__BanditSum_Extractive_Summarization_as_a_Contextual_Bandit.pdf) |
+| 2018 | EMNLP | main | [Content Selection in Deep Learning Models of Summarization](https://aclanthology.org/D18-1208/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1208__Content_Selection_in_Deep_Learning_Models_of_Summarization.pdf) |
+| 2018 | EMNLP | main | [Don’t Give Me the Details, Just the Summary! Topic-Aware Convolutional Neural Networks for Extreme Summarization](https://aclanthology.org/D18-1206/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1206__Don_t_Give_Me_the_Details_Just_the_Summary_Topic_Aware_Convolutional_Neural_Networks_for_Extreme_Sum.pdf) |
+| 2018 | EMNLP | main | [Improving Abstraction in Text Summarization](https://aclanthology.org/D18-1207/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1207__Improving_Abstraction_in_Text_Summarization.pdf) |
+| 2018 | EMNLP | main | [Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling](https://aclanthology.org/D18-1205/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1205__Improving_Neural_Abstractive_Document_Summarization_with_Explicit_Information_Selection_Modeling.pdf) |
+| 2018 | EMNLP | main | [Neural Related Work Summarization with a Joint Context-driven Attention Mechanism](https://aclanthology.org/D18-1204/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1204__Neural_Related_Work_Summarization_with_a_Joint_Context_driven_Attention_Mechanism.pdf) |
+| 2018 | EMNLP | main | [Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised](https://aclanthology.org/D18-1403/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Summarization / 摘要 / Summarization / 摘要 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1403__Summarizing_Opinions_Aspect_Extraction_Meets_Sentiment_Prediction_and_They_Are_Both_Weakly_Supervise.pdf) |

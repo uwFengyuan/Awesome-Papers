@@ -1,0 +1,10 @@
+{
+  "url": "https://proceedings.mlr.press/v80/",
+  "final_url": "https://proceedings.mlr.press/v80/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.028929+00:00",
+  "bytes": 535863,
+  "sha256": "da41f8500f00f4b0902d6f0bb5e818f0cea354f81e34f17fc7bbbd16e89d9ddd",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/icml-2018-pmlr.gz"
+}

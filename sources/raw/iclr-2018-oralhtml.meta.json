@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual/2018/events/oral",
+  "final_url": "https://iclr.cc/virtual/2018/events/oral",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:38:53.803469+00:00",
+  "bytes": 156593,
+  "sha256": "3a5bf0b0689e0d78b9a83092e88f7e130c4cfaaca6fb2af5d511e0985805d469",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/iclr-2018-oralhtml.gz"
+}

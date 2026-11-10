@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SpatioLM+Towards+General+Physical+Spatial+Intelligence+in+Vision+Language+Models%22+OR+ti%3A%22Stabilizing+the+Q+Gradient+Field+for+Policy+Smoothness+in+Actor+Critic+Methods%22+OR+ti%3A%22Strategic+Navigation+or+Stochastic+Search+How+Agents+and+Humans+Reason+Over+Document+Collections%22+OR+ti%3A%22TG+RAG+A+Retrieval+Augmented+Framework+for+Reasoning+Guidance+in+Specialized+Domains%22+OR+ti%3A%22The+Signal+is+in+the+Steps+Local+Scoring+for+Reasoning+Data+Selection%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22SpatioLM+Towards+General+Physical+Spatial+Intelligence+in+Vision+Language+Models%22+OR+ti%3A%22Stabilizing+the+Q+Gradient+Field+for+Policy+Smoothness+in+Actor+Critic+Methods%22+OR+ti%3A%22Strategic+Navigation+or+Stochastic+Search+How+Agents+and+Humans+Reason+Over+Document+Collections%22+OR+ti%3A%22TG+RAG+A+Retrieval+Augmented+Framework+for+Reasoning+Guidance+in+Specialized+Domains%22+OR+ti%3A%22The+Signal+is+in+the+Steps+Local+Scoring+for+Reasoning+Data+Selection%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:48.213690+00:00",
+  "bytes": 11112,
+  "sha256": "ebba1e4c9f96b2b050a4593a44ef5cd6ce94fc348b39aeadc72dea9ccb7c76bd",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7bf172444c7355470a3a.gz"
+}

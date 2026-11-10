@@ -1,0 +1,344 @@
+[
+  {
+    "venue": "EMNLP",
+    "year": 2026,
+    "title": "CoDA: A Human-LM Collaborative Codebook Development Assistant for Domain-Specific Text Annotation",
+    "award": "Best Demo Paper Runner-Up",
+    "url": "https://aclanthology.org/2026.emnlp-demos.53/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2026,
+    "title": "WonderEcon: An Interactive LLM-Agent System for Simulating Economies",
+    "award": "Best Demo Paper",
+    "url": "https://aclanthology.org/2026.emnlp-demos.77/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ICML",
+    "year": 2026,
+    "title": "Position: The Alignment Community is Unintentionally Building a Censor’s Toolkit",
+    "award": "Outstanding Position Paper Award",
+    "url": "https://icml.cc/virtual/2026/oral/71119",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ICML",
+    "year": 2026,
+    "title": "Position: AI/ML Deepfake Research is Misaligned with AI Generated Non-Consensual Intimate Imagery (AIG-NCII)",
+    "award": "Outstanding Position Paper Honorable Mention",
+    "url": "https://icml.cc/virtual/2026/oral/71187",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2026,
+    "title": "The olmOCR Project: Building Fully Open OCR using VLMs",
+    "award": "Best Demonstration Paper",
+    "url": "https://aclanthology.org/2026.acl-demo.62/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2026,
+    "title": "Evaluation of Multilingual Ability to Use Spatial Deictic Expressions in Vision-Language Models",
+    "award": "Student Research Workshop Best Papers",
+    "url": "https://aclanthology.org/2026.acl-srw.106/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2026,
+    "title": "BanglaSocialBench: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction",
+    "award": "Student Research Workshop Best Papers",
+    "url": "https://aclanthology.org/2026.acl-srw.22/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2025,
+    "title": "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)",
+    "award": "Datasets & Benchmarks Best Paper",
+    "url": "https://openreview.net/forum?id=saDOrrnNTz",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2025,
+    "title": "Fairness through Difference Awareness: Measuring Desired Group Discrimination in LLMs",
+    "award": "Best Paper",
+    "url": "https://aclanthology.org/2025.acl-long.341/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2025,
+    "title": "Typology-Guided Adaptation for African NLP",
+    "award": "Outstanding Paper",
+    "url": "https://2025.aclweb.org/program/awards/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2025,
+    "title": "OLMoTrace: Tracing Language Model Outputs Back to Trillions of Training Tokens",
+    "award": "Best Demo",
+    "url": "https://aclanthology.org/2025.acl-demo.18/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2025,
+    "title": "Towards Multi-Perspective NLP Systems: A Thesis Proposal",
+    "award": "Best Student Research Workshop Paper",
+    "url": "https://aclanthology.org/2025.acl-srw.30/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ICML",
+    "year": 2025,
+    "title": "Position: The AI Conference Peer Review Crisis Demands Author Feedback and Reviewer Rewards",
+    "award": "Outstanding Position Paper",
+    "url": "https://icml.cc/virtual/2025/oral/40109",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ICML",
+    "year": 2025,
+    "title": "Position: AI Safety should prioritize the Future of Work",
+    "award": "Outstanding Position Paper",
+    "url": "https://icml.cc/virtual/2025/oral/40167",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2024,
+    "title": "The PRISM Alignment Dataset: What Participatory, Representative and Individualised Human Feedback Reveals About the Subjective and Multicultural Alignment of Large Language Models",
+    "award": "Datasets & Benchmarks Best Paper",
+    "url": "https://arxiv.org/abs/2404.16019",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2024,
+    "title": "OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents",
+    "award": "Best Demo Paper Award",
+    "url": "https://aclanthology.org/2024.emnlp-demo.5/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2024,
+    "title": "sign.mt: Real-Time Multilingual Sign Language Translation Application",
+    "award": "Outstanding Demo Paper",
+    "url": "https://aclanthology.org/2024.emnlp-demo.19/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ICML",
+    "year": 2024,
+    "title": "Position: Considerations for Differentially Private Learning with Large-Scale Public Pretraining",
+    "award": "Best Paper",
+    "url": "https://arxiv.org/abs/2212.06470",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ICML",
+    "year": 2024,
+    "title": "Position: Measure Dataset Diversity, Don't Just Claim It",
+    "award": "Best Paper",
+    "url": "https://arxiv.org/abs/2407.08188",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ICML",
+    "year": 2024,
+    "title": "Information Complexity of Stochastic Convex Optimization: Applications to Generalization and Memorization",
+    "award": "Best Paper",
+    "url": "https://arxiv.org/abs/2402.09327",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2023,
+    "title": "ClimSim: A large multi-scale dataset for hybrid physics-ML climate emulation",
+    "award": "Datasets & Benchmarks Best Paper",
+    "url": "https://openreview.net/forum?id=W5If9P1xqO",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2023,
+    "title": "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models",
+    "award": "Datasets & Benchmarks Best Paper",
+    "url": "https://arxiv.org/abs/2306.11698",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2023,
+    "title": "PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents",
+    "award": "Best Paper",
+    "url": "https://aclanthology.org/2023.emnlp-demo.45/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2023,
+    "title": "Personalized Dense Retrieval on Global Index for Voice-enabled Conversational Systems",
+    "award": "Best Paper",
+    "url": "https://aclanthology.org/2023.emnlp-industry.9/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2023,
+    "title": "Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI)",
+    "award": "Outstanding Paper",
+    "url": "https://aclanthology.org/2023.emnlp-main.136/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2023,
+    "title": "Joint Dialogue Topic Segmentation and Categorization: A Case Study on Clinical Spoken Conversations",
+    "award": "Outstanding Paper",
+    "url": "https://aclanthology.org/2023.emnlp-industry.19/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2022,
+    "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+    "award": "Datasets & Benchmarks Best Paper",
+    "url": "https://arxiv.org/abs/2210.08402",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2022,
+    "title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+    "award": "Datasets & Benchmarks Best Paper",
+    "url": "https://arxiv.org/abs/2206.08853",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ICML",
+    "year": 2022,
+    "title": "Understanding Dataset Difficulty with V-Usable Information",
+    "award": "Outstanding Paper",
+    "url": "https://proceedings.mlr.press/v162/ethayarajh22a.html",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2021,
+    "title": "Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research",
+    "award": "Datasets & Benchmarks Best Paper",
+    "url": "https://openreview.net/forum?id=zNQBIBKJRkd",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2021,
+    "title": "ATOM3D: Tasks on Molecules in Three Dimensions",
+    "award": "Datasets & Benchmarks Best Paper",
+    "url": "https://openreview.net/forum?id=FkDZLpK1Ml2",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2021,
+    "title": "Datasets: A Community Library for Natural Language Processing",
+    "award": "Best Demonstration Paper",
+    "url": "https://arxiv.org/abs/2109.02846",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2020,
+    "title": "🤗 Transformers: State-of-the-art Natural Language Processing",
+    "award": "Best Demonstration Paper",
+    "url": "https://www.aclweb.org/anthology/2020.emnlp-demos.6/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2020,
+    "title": "GAIA: A Fine-grained Multimedia Knowledge Extraction System",
+    "award": "Best Demonstration Paper",
+    "url": "https://www.ee.columbia.edu/ln/dvmm/publications/20/aidaacl2020demo.pdf",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2019,
+    "title": "Two New Evaluation Datasets for Low-Resource Machine Translation: Nepali-English and Sinhala English",
+    "award": "Best Resource Paper",
+    "url": "https://arxiv.org/abs/1902.01382",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "EMNLP",
+    "year": 2019,
+    "title": "AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models",
+    "award": "Best Demo Paper",
+    "url": "https://arxiv.org/abs/1909.09251",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2019,
+    "title": "OpenKiwi: An Open Source Framework for Quality Estimation",
+    "award": "Best Demonstration Paper",
+    "url": "https://www.aclweb.org/anthology/P19-3020/",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  },
+  {
+    "venue": "ACL",
+    "year": 2018,
+    "title": "Out-of-the-box Universal Romanization Tool uroman",
+    "award": "Best System Demonstration Paper",
+    "url": "https://www.aclweb.org/anthology/P18-4003.pdf",
+    "discovery_source": "https://aibestpape.rs/",
+    "reason": "not matched to main proceedings; includes non-main tracks and title variants"
+  }
+]

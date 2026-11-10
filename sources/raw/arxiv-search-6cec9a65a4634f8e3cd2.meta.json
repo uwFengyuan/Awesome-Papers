@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MindAlign+Bridging+EEG+Vision+and+Language+for+Zero+Shot+Visual+Decoding%22+OR+ti%3A%22Nemotron+Cascade+Scaling+Cascaded+Reinforcement+Learning+for+General+Purpose+Reasoning+Models%22+OR+ti%3A%22Neural+Chameleons+Language+Models+Can+Learn+to+Hide+Their+Thoughts+from+Unseen+Activation%22+OR+ti%3A%22Neural+population+tuning+statistics+as+priors+for+multitask+generalization%22+OR+ti%3A%22Non+Colliding+Biometric+Identities+for+Digital+Entities+Geometry+Capacity+and+Million+Scale+Virtual%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MindAlign+Bridging+EEG+Vision+and+Language+for+Zero+Shot+Visual+Decoding%22+OR+ti%3A%22Nemotron+Cascade+Scaling+Cascaded+Reinforcement+Learning+for+General+Purpose+Reasoning+Models%22+OR+ti%3A%22Neural+Chameleons+Language+Models+Can+Learn+to+Hide+Their+Thoughts+from+Unseen+Activation%22+OR+ti%3A%22Neural+population+tuning+statistics+as+priors+for+multitask+generalization%22+OR+ti%3A%22Non+Colliding+Biometric+Identities+for+Digital+Entities+Geometry+Capacity+and+Million+Scale+Virtual%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:56.830741+00:00",
+  "bytes": 12936,
+  "sha256": "7706fae37ce2e1d5cb34b37dcd6c572159476fe2e117964ff857d2fa9bf60d6d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-6cec9a65a4634f8e3cd2.gz"
+}

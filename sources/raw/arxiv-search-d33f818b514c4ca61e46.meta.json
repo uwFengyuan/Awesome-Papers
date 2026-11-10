@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Emergence+of+Physical+Intelligence+via+Controllable+Information+Production%22+OR+ti%3A%22Emergent+Biological+Capabilities+in+a+Foundation+Model+for+Molecular+Interactions%22+OR+ti%3A%22Escaping+the+Cognitive+Well+Efficient+Competition+Math+with+Off+the+Shelf+Models%22+OR+ti%3A%22ExComm+Exploration+Stage+Communication+for+Error+Resilient+Agentic+Test+Time+Scaling%22+OR+ti%3A%22Exact+Gaussian+Moment+Matching+for+Residual+Networks+a+Second+Order+Method%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Emergence+of+Physical+Intelligence+via+Controllable+Information+Production%22+OR+ti%3A%22Emergent+Biological+Capabilities+in+a+Foundation+Model+for+Molecular+Interactions%22+OR+ti%3A%22Escaping+the+Cognitive+Well+Efficient+Competition+Math+with+Off+the+Shelf+Models%22+OR+ti%3A%22ExComm+Exploration+Stage+Communication+for+Error+Resilient+Agentic+Test+Time+Scaling%22+OR+ti%3A%22Exact+Gaussian+Moment+Matching+for+Residual+Networks+a+Second+Order+Method%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:41.331462+00:00",
+  "bytes": 10425,
+  "sha256": "5c320bc757596ff3c9b842fe2ba9720f2f70923bbce69f932b83f60f66494df2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-d33f818b514c4ca61e46.gz"
+}

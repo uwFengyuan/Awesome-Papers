@@ -1,0 +1,16 @@
+# pdfs/finance/main/time_series/ts_forecasting/forecasting/NeurIPS/2026
+
+
+
+Papers / 论文：**8**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2026 | NeurIPS | main | [Differencing the Diffusion Trajectory toward Uncertain Components for Time Series Forecasting](https://openreview.net/forum?id=EQ3rr1gzcl) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__neurips-2026-EQ3rr1gzcl__Differencing_the_Diffusion_Trajectory_toward_Uncertain_Components_for_Time_Series_Forecasting.pdf) |
+| 2026 | NeurIPS | main | [DiffPTS: Rethinking Diffusion ELBO for Probabilistic Time Series Forecasting](https://openreview.net/forum?id=x7OutBc7Vk) | [Long] [Main] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BFinance%5D__neurips-2026-x7OutBc7Vk__DiffPTS_Rethinking_Diffusion_ELBO_for_Probabilistic_Time_Series_Forecasting.pdf) |
+| 2026 | NeurIPS | main | [Dynamic Dual-Feedback Conformal Inference for Time Series Forecasting](https://openreview.net/forum?id=3lps4PsA4p) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__neurips-2026-3lps4PsA4p__Dynamic_Dual_Feedback_Conformal_Inference_for_Time_Series_Forecasting.pdf) |
+| 2026 | NeurIPS | main | [FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://openreview.net/forum?id=XKdNelCe2Q) | [Long] [Main] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BFinance%5D__neurips-2026-XKdNelCe2Q__FLAME_Flow_Enhanced_Legendre_Memory_Models_for_General_Time_Series_Forecasting.pdf) |
+| 2026 | NeurIPS | main | [SteerCast: Retrieval-Based Latent Steering for Decoder-Only Time Series Forecasting](https://openreview.net/forum?id=DRNgEw9MBD) | [Long] [Main] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BFinance%5D__neurips-2026-DRNgEw9MBD__SteerCast_Retrieval_Based_Latent_Steering_for_Decoder_Only_Time_Series_Forecasting.pdf) |
+| 2026 | NeurIPS | main | [TimeClaw: A Time-Series AI Agent with Exploratory Execution Learning](https://openreview.net/forum?id=MK0e2fxdTl) | [Long] [Main] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BFinance%5D__neurips-2026-MK0e2fxdTl__TimeClaw_A_Time_Series_AI_Agent_with_Exploratory_Execution_Learning.pdf) |
+| 2026 | NeurIPS | main | [To See Far, Look Close: Evolutionary Forecasting for Long-term Time Series](https://openreview.net/forum?id=PFfOPbcZCE) | [Long] [Main] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BFinance%5D__neurips-2026-PFfOPbcZCE__To_See_Far_Look_Close_Evolutionary_Forecasting_for_Long_term_Time_Series.pdf) |
+| 2026 | NeurIPS | main | [TSFM Meets LLM: Context as Covariate](https://openreview.net/forum?id=t2nNTWgHfq) | [Long] [Main] [Finance] | Time Series / 时间序列 / Forecasting / 序列预测 / Forecasting / 预测 | [Online](https://openreview.net/pdf?id=t2nNTWgHfq) |

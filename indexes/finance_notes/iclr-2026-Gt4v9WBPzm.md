@@ -1,0 +1,15 @@
+# HiPRAG: Hierarchical Process Rewards for Efficient Agentic Retrieval Augmented Generation
+
+ICLR 2026 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：8, 2025. to find the stock price. Today is </think> Saturday, July 19, 2025, so I need the <search> AMD stock price closing July closing price from Friday, July 18, 18 2025 </search> 2025. </reasoning> <information> <search> AMD stock price closing July On Friday, July 18, 2025, the stock 18 2025 </search> for Advanced Micro Devices, Inc. <context> AMD (Advanced Micro Devices, (ticker: AMD) closed at a price of Inc.) closed at $175.40 on Friday, $175.40 per share. July 18, 2025. </context> </information> <conclusion> $175.40 </conclusion> <think> </step> I have all the necessary information. </think> The company is AMD, the CEO is Dr. <answer> Lisa Su, and the closing stock price Dr. Lisa Su and $175.40. was $175.40. I can no
+
+[Paper](https://openreview.net/forum?id=Gt4v9WBPzm)
+
+Classification / 分类：Financial IR & RAG / 金融检索与RAG → Retrieval, Embedding & Reranking / 检索、嵌入与重排 → General / 综合
+
+## Abstract / 摘要
+
+Agentic Retrieval-Augmented Generation (RAG) is a powerful technique for incorporating external information that Large Language Models (LLMs) lack, enabling better problem solving and question answering. However, suboptimal search behaviors exist widely, such as over-search (retrieving information already known) and under-search (failing to search when necessary), which leads to unnecessary overhead and unreliable outputs. Current training methods, which typically rely on outcome-based rewards in a Reinforcement Learning (RL) framework, lack the fine-grained control needed to address these inefficiencies. To overcome this, we introduce $\textbf{Hi}$erarchical $\textbf{P}$rocess Rewards for Efficient agentic $\textbf{RAG}$ (HiPRAG), a novel training methodology that incorporates a fine-grained, knowledge-grounded process reward into the RL training. Our approach evaluates the necessity of each search decision on-the-fly by decomposing the agent's reasoning trajectory into discrete, parsable steps. We then apply a hierarchical reward function that provides an additional bonus based on the proportion of optimal search and non-search steps, on top of commonly used outcome and format rewards. Experiments on the Qwen2.5 and Llama-3.2 models across seven diverse QA benchmarks show that our method achieves average accuracies of 65.4\% (3B) and 67.2\% (7B), outperforming strong agentic RAG baselines. This is accomplished while dramatically improving search efficiency, reducing the over-search rate from over 27\% in baselines from previous work to just 2.3\% and concurrently lowering the under-search rate. These results demonstrate the efficacy of optimizing the reasoning process itself, not just the final outcome. Further experiments and analysis demonstrate that HiPRAG shows good generalizability across a wide range of RL algorithms, model families, sizes, and types. This work demonstrates the importance and potential of fine-grained control through RL, for improving the efficiency and optimality of reasoning for search agents.

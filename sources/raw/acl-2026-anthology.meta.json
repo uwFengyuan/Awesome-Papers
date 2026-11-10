@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2026.acl.xml",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2026.acl.xml",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:53.677788+00:00",
+  "bytes": 7365491,
+  "sha256": "8989fcf74de9da36e83e873c072394e231f2240e5fe7ae981a335ee188a59c5b",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/acl-2026-anthology.gz"
+}

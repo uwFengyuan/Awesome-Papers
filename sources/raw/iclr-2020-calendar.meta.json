@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual_2020/calendar.html",
+  "final_url": "https://iclr.cc/virtual_2020/calendar.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:10:40.357146+00:00",
+  "bytes": 269881,
+  "sha256": "81ad34797e97fd87d3a4d01aa66953c6b7f2b7271a123e5b1b547578e4dc635b",
+  "content_type": "text/html",
+  "cache_path": "sources/raw/iclr-2020-calendar.gz"
+}

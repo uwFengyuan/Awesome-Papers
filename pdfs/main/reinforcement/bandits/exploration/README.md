@@ -1,0 +1,16 @@
+# pdfs/main/reinforcement/bandits/exploration
+
+
+
+Papers / 论文：**8**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2025 | AAAI | main | [Multiple Trade-offs: An Improved Approach for Lexicographic Linear Bandits](https://ojs.aaai.org/index.php/AAAI/article/view/35491) | [Long] [Main] [Oral] | RL & Bandits / 强化学习与Bandit / Bandits & Exploration / Bandit与探索 / Exploration / 探索 | [Online](https://ojs.aaai.org/index.php/AAAI/article/download/35491/37646) |
+| 2025 | ICLR | main | [Brain Bandit: A Biologically Grounded Neural Network for Efficient Control of Exploration](https://openreview.net/forum?id=2025-Oral--12774-d0e243a0) | [Long] [Main] [Oral] [Poster] | RL & Bandits / 强化学习与Bandit / Bandits & Exploration / Bandit与探索 / Exploration / 探索 | [Online](https://openreview.net/pdf?id=2025-Oral--12774-d0e243a0) |
+| 2017 | ICML | main | [Multi-objective Bandits: Optimizing the Generalized Gini Index](https://ICML.cc/virtual/2017/poster/677) | [Long] [Main] [Oral] [Poster] | RL & Bandits / 强化学习与Bandit / Bandits & Exploration / Bandit与探索 / Exploration / 探索 | [PDF](2017_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2017-677__Multi_objective_Bandits_Optimizing_the_Generalized_Gini_Index.pdf) |
+| 2018 | ICML | main | [Adaptive Exploration-Exploitation Tradeoff for Opportunistic Bandits](https://ICML.cc/virtual/2018/poster/1996) | [Long] [Main] [Oral] [Poster] | RL & Bandits / 强化学习与Bandit / Bandits & Exploration / Bandit与探索 / Exploration / 探索 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2018-1996__Adaptive_Exploration_Exploitation_Tradeoff_for_Opportunistic_Bandits.pdf) |
+| 2019 | ICML | main | [Bilinear Bandits with Low-rank Structure](https://ICML.cc/virtual/2019/poster/3780) | [Long] [Main] [Oral] [Poster] | RL & Bandits / 强化学习与Bandit / Bandits & Exploration / Bandit与探索 / Exploration / 探索 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-3780__Bilinear_Bandits_with_Low_rank_Structure.pdf) |
+| 2019 | ICML | main | [Decentralized Exploration in Multi-Armed Bandits](https://ICML.cc/virtual/2019/poster/3563) | [Long] [Main] [Oral] [Poster] | RL & Bandits / 强化学习与Bandit / Bandits & Exploration / Bandit与探索 / Exploration / 探索 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-3563__Decentralized_Exploration_in_Multi_Armed_Bandits.pdf) |
+| 2019 | ICML | main | [Garbage In, Reward Out: Bootstrapping Exploration in Multi-Armed Bandits](https://ICML.cc/virtual/2019/poster/3694) | [Long] [Main] [Oral] [Poster] | RL & Bandits / 强化学习与Bandit / Bandits & Exploration / Bandit与探索 / Exploration / 探索 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-3694__Garbage_In_Reward_Out_Bootstrapping_Exploration_in_Multi_Armed_Bandits.pdf) |
+| 2021 | ICML | main | [Resource Allocation in Multi-armed Bandit Exploration: Overcoming Sublinear Scaling with Adaptive Parallelism](http://proceedings.mlr.press/v139/thananjeyan21a.html) | [Long] [Main] [Oral] [Poster] | RL & Bandits / 强化学习与Bandit / Bandits & Exploration / Bandit与探索 / Exploration / 探索 | [PDF](2021_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2021-10644__Resource_Allocation_in_Multi_armed_Bandit_Exploration_Overcoming_Sublinear_Scaling_with_Adaptive_Par.pdf) |

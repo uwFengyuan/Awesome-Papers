@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Chebyshev+Policies+and+the+Mountain+Car+Problem+Reinforcement+Learning+for+Low+Dimensional+Control%22+OR+ti%3A%22CoEvol+NO+State+and+Coordinate+Co+Evolution+with+an+Error+Driven+Predictor+Corrector%22+OR+ti%3A%22ConFlux+Multivariate+Time+Series+in+Flux+One+Unified+Forecast+in+Confluence%22+OR+ti%3A%22Controlled+LLM+Training+on+Spectral+Sphere%22+OR+ti%3A%22DISCO+Mitigating+Bias+in+Deep+Learning+with+Conditional+Distance+Correlation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Chebyshev+Policies+and+the+Mountain+Car+Problem+Reinforcement+Learning+for+Low+Dimensional+Control%22+OR+ti%3A%22CoEvol+NO+State+and+Coordinate+Co+Evolution+with+an+Error+Driven+Predictor+Corrector%22+OR+ti%3A%22ConFlux+Multivariate+Time+Series+in+Flux+One+Unified+Forecast+in+Confluence%22+OR+ti%3A%22Controlled+LLM+Training+on+Spectral+Sphere%22+OR+ti%3A%22DISCO+Mitigating+Bias+in+Deep+Learning+with+Conditional+Distance+Correlation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:32.775071+00:00",
+  "bytes": 7731,
+  "sha256": "845a98a8e7be0c35c32f069af461e235a4b9e085ec72ff8127a5c99553f0a9bf",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-ee6e7508c4dbb0e4f1c6.gz"
+}

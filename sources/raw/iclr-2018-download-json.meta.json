@@ -1,0 +1,15 @@
+{
+  "url": "https://iclr.cc/Downloads/2018",
+  "method": "POST read-only Download Data",
+  "form": {
+    "resource": "0",
+    "format": "5",
+    "posters": "on",
+    "submitaction": "Download Data"
+  },
+  "http_status": 200,
+  "sha256": "c358f64ec4980ac84e15fe6a36d4681fb7691b1f6cc4dc4110f56db03a4aa9e1",
+  "bytes": 493842,
+  "cache_path": "sources/raw/iclr-2018-download-json.gz",
+  "retrieved_at_utc": "2026-11-01T12:42:44.527060+00:00"
+}

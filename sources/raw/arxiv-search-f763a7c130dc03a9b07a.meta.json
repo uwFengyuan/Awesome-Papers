@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MetaEmbed+Scaling+Multimodal+Retrieval+at+Test+Time+with+Flexible+Late+Interaction%22+OR+ti%3A%22Mixture+of+Experts+Can+Surpass+Dense+LLMs+Under+Strictly+Equal+Resource%22+OR+ti%3A%22Modality+free+Graph+In+context+Alignment%22+OR+ti%3A%22MomaGraph+State+Aware+Unified+Scene+Graphs+with+Vision+Language+Models+for+Embodied+Task%22+OR+ti%3A%22Monocular+Normal+Estimation+via+Shading+Sequence+Estimation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MetaEmbed+Scaling+Multimodal+Retrieval+at+Test+Time+with+Flexible+Late+Interaction%22+OR+ti%3A%22Mixture+of+Experts+Can+Surpass+Dense+LLMs+Under+Strictly+Equal+Resource%22+OR+ti%3A%22Modality+free+Graph+In+context+Alignment%22+OR+ti%3A%22MomaGraph+State+Aware+Unified+Scene+Graphs+with+Vision+Language+Models+for+Embodied+Task%22+OR+ti%3A%22Monocular+Normal+Estimation+via+Shading+Sequence+Estimation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:30.937008+00:00",
+  "bytes": 14548,
+  "sha256": "7729426a28ab3eea567e8b467f0f2f695457c13d9e5e0580b0f9e12253718acf",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f763a7c130dc03a9b07a.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://aclanthology.org/events/acl-2019/",
+  "final_url": "https://aclanthology.org/events/acl-2019/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:45.273342+00:00",
+  "bytes": 3288987,
+  "sha256": "797c434106a61f7021eac9dab2f665b108ccea139ed6a351c03744b92ac43631",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2019-anthologyevent.gz"
+}

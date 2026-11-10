@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2021.json",
+  "final_url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2021.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:42.326567+00:00",
+  "bytes": 14248768,
+  "sha256": "047face751f75d542d499118749ff38d11078eb1a699ee60b89fe76f58078e07",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/iclr-2021-copilot.gz"
+}

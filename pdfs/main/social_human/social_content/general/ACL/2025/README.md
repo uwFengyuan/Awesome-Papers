@@ -1,0 +1,14 @@
+# pdfs/main/social_human/social_content/general/ACL/2025
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2025 | ACL | main | [BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://aclanthology.org/2025.acl-long.436/) | [Long] [Main] [Oral] | Social & Economic AI / 社会经济与人机交互 / Social Content, Emotion & Argumentation / 社会内容、情绪与论辩 / General / 综合 | [PDF](2025_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2025.acl-long.436__BRIGHTER_BRIdging_the_Gap_in_Human_Annotated_Textual_Emotion_Recognition_Datasets_for_28_Languages.pdf) |
+| 2025 | ACL | main | [Generate First, Then Sample: Enhancing Fake News Detection with LLM-Augmented Reinforced Sampling](https://aclanthology.org/2025.acl-long.1182/) | [Long] [Main] [Oral] | Social & Economic AI / 社会经济与人机交互 / Social Content, Emotion & Argumentation / 社会内容、情绪与论辩 / General / 综合 | [PDF](2025_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2025.acl-long.1182__Generate_First_Then_Sample_Enhancing_Fake_News_Detection_with_LLM_Augmented_Reinforced_Sampling.pdf) |
+| 2025 | ACL | main | [IMOL: Incomplete-Modality-Tolerant Learning for Multi-Domain Fake News Video Detection](https://aclanthology.org/2025.acl-long.1494/) | [Long] [Main] [Oral] | Social & Economic AI / 社会经济与人机交互 / Social Content, Emotion & Argumentation / 社会内容、情绪与论辩 / General / 综合 | [PDF](2025_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2025.acl-long.1494__IMOL_Incomplete_Modality_Tolerant_Learning_for_Multi_Domain_Fake_News_Video_Detection.pdf) |
+| 2025 | ACL | main | [Multiple LLM Agents Debate for Equitable Cultural Alignment](https://aclanthology.org/2025.acl-long.1210/) | [Long] [Main] [Oral] | Social & Economic AI / 社会经济与人机交互 / Social Content, Emotion & Argumentation / 社会内容、情绪与论辩 / General / 综合 | [PDF](2025_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2025.acl-long.1210__Multiple_LLM_Agents_Debate_for_Equitable_Cultural_Alignment.pdf) |
+| 2025 | ACL | main | [Sheep’s Skin, Wolf’s Deeds: Are LLMs Ready for Metaphorical Implicit Hate Speech?](https://aclanthology.org/2025.acl-long.814/) | [Long] [Main] [Oral] | Social & Economic AI / 社会经济与人机交互 / Social Content, Emotion & Argumentation / 社会内容、情绪与论辩 / General / 综合 | [PDF](2025_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2025.acl-long.814__Sheep_s_Skin_Wolf_s_Deeds_Are_LLMs_Ready_for_Metaphorical_Implicit_Hate_Speech.pdf) |
+| 2025 | ACL | main | [Tree-of-Debate: Multi-Persona Debate Trees Elicit Critical Thinking for Scientific Comparative Analysis](https://aclanthology.org/2025.acl-long.1422/) | [Long] [Main] [Oral] | Social & Economic AI / 社会经济与人机交互 / Social Content, Emotion & Argumentation / 社会内容、情绪与论辩 / General / 综合 | [PDF](2025_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2025.acl-long.1422__Tree_of_Debate_Multi_Persona_Debate_Trees_Elicit_Critical_Thinking_for_Scientific_Comparative_Analys.pdf) |

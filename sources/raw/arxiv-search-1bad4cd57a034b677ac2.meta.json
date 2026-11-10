@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Fine+Grained+Analysis+on+Distribution+Shift%22+OR+ti%3A%22A+New+Perspective+on+How+Graph+Neural+Networks+Go+Beyond+Weisfeiler+Lehman%22+OR+ti%3A%22Asymmetry+Learning+for+Counterfactually+invariant+Classification+in+OOD+Tasks%22+OR+ti%3A%22BEiT+BERT+Pre+Training+of+Image+Transformers%22+OR+ti%3A%22Coordination+Among+Neural+Modules+Through+a+Shared+Global+Workspace%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Fine+Grained+Analysis+on+Distribution+Shift%22+OR+ti%3A%22A+New+Perspective+on+How+Graph+Neural+Networks+Go+Beyond+Weisfeiler+Lehman%22+OR+ti%3A%22Asymmetry+Learning+for+Counterfactually+invariant+Classification+in+OOD+Tasks%22+OR+ti%3A%22BEiT+BERT+Pre+Training+of+Image+Transformers%22+OR+ti%3A%22Coordination+Among+Neural+Modules+Through+a+Shared+Global+Workspace%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:31.780203+00:00",
+  "bytes": 8531,
+  "sha256": "c74df6fa7f3c0c094a45cdaa2d94a7a50e38bb716ac8836df840a356c7eea11e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-1bad4cd57a034b677ac2.gz"
+}

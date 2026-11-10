@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Differentially+Private+Domain+Discovery%22+OR+ti%3A%22Difficult+Examples+Hurt+Unsupervised+Contrastive+Learning+A+Theoretical+Perspective%22+OR+ti%3A%22Diffusion+Language+Model+Knows+the+Answer+Before+It+Decodes%22+OR+ti%3A%22DiffusionNFT+Online+Diffusion+Reinforcement+with+Forward+Process%22+OR+ti%3A%22Discount+Model+Search+for+Quality+Diversity+Optimization+in+High+Dimensional+Measure+Spaces%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Differentially+Private+Domain+Discovery%22+OR+ti%3A%22Difficult+Examples+Hurt+Unsupervised+Contrastive+Learning+A+Theoretical+Perspective%22+OR+ti%3A%22Diffusion+Language+Model+Knows+the+Answer+Before+It+Decodes%22+OR+ti%3A%22DiffusionNFT+Online+Diffusion+Reinforcement+with+Forward+Process%22+OR+ti%3A%22Discount+Model+Search+for+Quality+Diversity+Optimization+in+High+Dimensional+Measure+Spaces%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:32.965381+00:00",
+  "bytes": 10679,
+  "sha256": "38971714d6ee12f65ad66cf1fda1250715f74cb6bc6549363f41d5c274e39a6e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-d91fe2c2370339bcf7cf.gz"
+}

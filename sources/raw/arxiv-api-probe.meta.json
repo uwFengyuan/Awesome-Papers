@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FinQA%22&max_results=3",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FinQA%22&max_results=3",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:11:23.313221+00:00",
+  "bytes": 6871,
+  "sha256": "b46863d05483098e2b6552c1200eb51813f795ae035bae8ec6fd5827b24cad88",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-api-probe.gz"
+}

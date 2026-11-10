@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Temporal+superposition+and+feature+geometry+of+RNNs+under+memory+demands%22+OR+ti%3A%22Text+to+3D+by+Stitching+a+Multi+view+Reconstruction+Network+to+a+Video%22+OR+ti%3A%22The+Art+of+Scaling+Reinforcement+Learning+Compute+for+LLMs%22+OR+ti%3A%22The+Coverage+Principle+How+Pre+Training+Enables+Post+Training%22+OR+ti%3A%22The+Shape+of+Adversarial+Influence+Characterizing+LLM+Latent+Spaces+with+Persistent+Homology%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Temporal+superposition+and+feature+geometry+of+RNNs+under+memory+demands%22+OR+ti%3A%22Text+to+3D+by+Stitching+a+Multi+view+Reconstruction+Network+to+a+Video%22+OR+ti%3A%22The+Art+of+Scaling+Reinforcement+Learning+Compute+for+LLMs%22+OR+ti%3A%22The+Coverage+Principle+How+Pre+Training+Enables+Post+Training%22+OR+ti%3A%22The+Shape+of+Adversarial+Influence+Characterizing+LLM+Latent+Spaces+with+Persistent+Homology%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:42.866756+00:00",
+  "bytes": 11754,
+  "sha256": "64ac7eaa240513623495c9b13da4baf02a0d53dbb360025cb4004b6baceded0b",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c588be4e46afbb7696ee.gz"
+}

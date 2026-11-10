@@ -1,0 +1,18 @@
+{
+  "main_universe_snapshot": 85756,
+  "catalog_records": 9600,
+  "confirmed_oral": 8465,
+  "best_or_outstanding": 373,
+  "award_related": 446,
+  "finance": 1178,
+  "finance_core": 200,
+  "finance_application": 978,
+  "pdf_records_downloaded": 9349,
+  "unique_pdf_files": 9349,
+  "missing_pdf_records": 251,
+  "arxiv_author_versions": 1252,
+  "finance_pdf_records": 1128,
+  "finance_missing_pdfs": 50,
+  "oral_pending": 48,
+  "award_pending": 2
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22LoftQ+LoRA+Fine+Tuning+aware+Quantization+for+Large+Language+Models%22+OR+ti%3A%22LongLoRA+Efficient+Fine+tuning+of+Long+Context+Large+Language+Models%22+OR+ti%3A%22METRA+Scalable+Unsupervised+RL+with+Metric+Aware+Abstraction%22+OR+ti%3A%22Mastering+Memory+Tasks+with+World+Models%22+OR+ti%3A%22MathVista+Evaluating+Mathematical+Reasoning+of+Foundation+Models+in+Visual+Contexts%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22LoftQ+LoRA+Fine+Tuning+aware+Quantization+for+Large+Language+Models%22+OR+ti%3A%22LongLoRA+Efficient+Fine+tuning+of+Long+Context+Large+Language+Models%22+OR+ti%3A%22METRA+Scalable+Unsupervised+RL+with+Metric+Aware+Abstraction%22+OR+ti%3A%22Mastering+Memory+Tasks+with+World+Models%22+OR+ti%3A%22MathVista+Evaluating+Mathematical+Reasoning+of+Foundation+Models+in+Visual+Contexts%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:52.513741+00:00",
+  "bytes": 14519,
+  "sha256": "db2f169b60e013475e11c9b5b0e64462396b23e28588441dddfd820a480c6cde",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5441cc0c076e61bef40b.gz"
+}

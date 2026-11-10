@@ -1,0 +1,7 @@
+{
+  "url": "https://api.crossref.org/journals/2374-3468/works?filter=from-pub-date%3A2025-01-01%2Cuntil-pub-date%3A2025-12-31&rows=1000&offset=3000",
+  "retrieved_at_utc": "2026-11-10T02:04:06.910302+00:00",
+  "sha256_uncompressed": "52fa2166c894152cbc22e4290d5343c06463c2cb0baf38838dac52b1199ae816",
+  "records": 486,
+  "total_results": 3486
+}

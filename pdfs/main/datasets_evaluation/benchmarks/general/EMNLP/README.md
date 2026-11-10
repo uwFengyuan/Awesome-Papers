@@ -1,0 +1,13 @@
+# EMNLP
+
+Papers / 论文：124
+
+- [2017](2017/README.md) — 1
+- [2018](2018/README.md) — 8
+- [2019](2019/README.md) — 6
+- [2021](2021/README.md) — 11
+- [2022](2022/README.md) — 7
+- [2023](2023/README.md) — 13
+- [2024](2024/README.md) — 12
+- [2025](2025/README.md) — 22
+- [2026](2026/README.md) — 44

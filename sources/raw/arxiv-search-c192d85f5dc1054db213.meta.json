@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AgentGym+RL+An+Open+Source+Framework+to+Train+LLM+Agents+for+Long+Horizon%22+OR+ti%3A%22AnyUp+Universal+Feature+Upsampling%22+OR+ti%3A%22AstaBench+Rigorous+Benchmarking+of+AI+Agents+with+a+Scientific+Research+Suite%22+OR+ti%3A%22AutoEP+LLMs+Driven+Automation+of+Hyperparameter+Evolution+for+Metaheuristic+Algorithms%22+OR+ti%3A%22BIRD+INTERACT+Re+imagining+Text+to+SQL+Evaluation+via+Lens+of+Dynamic+Interactions%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AgentGym+RL+An+Open+Source+Framework+to+Train+LLM+Agents+for+Long+Horizon%22+OR+ti%3A%22AnyUp+Universal+Feature+Upsampling%22+OR+ti%3A%22AstaBench+Rigorous+Benchmarking+of+AI+Agents+with+a+Scientific+Research+Suite%22+OR+ti%3A%22AutoEP+LLMs+Driven+Automation+of+Hyperparameter+Evolution+for+Metaheuristic+Algorithms%22+OR+ti%3A%22BIRD+INTERACT+Re+imagining+Text+to+SQL+Evaluation+via+Lens+of+Dynamic+Interactions%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:16.797611+00:00",
+  "bytes": 10707,
+  "sha256": "23846f6fcdd89421def4604038b8a35b6beaa60ab7233cf06b25f39be6ce0896",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c192d85f5dc1054db213.gz"
+}

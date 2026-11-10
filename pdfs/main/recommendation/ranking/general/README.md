@@ -1,0 +1,18 @@
+# pdfs/main/recommendation/ranking/general
+
+
+
+Papers / 论文：**10**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2025 | AAAI | main | [Constant-Factor Distortion Mechanisms for k-Committee Election](https://ojs.aaai.org/index.php/AAAI/article/view/33539) | [Long] [Main] [Oral] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2025_AAAI_%5BLong%5D%5BMain%5D%5BOral%5D__aaai-2025-33539__Constant_Factor_Distortion_Mechanisms_for_k_Committee_Election.pdf) |
+| 2026 | AAAI | main | [Learning to Rank: How GNNs Solve Max-Clique and Sparse PCA](https://ojs.aaai.org/index.php/AAAI/article/view/39734) | [Long] [Main] [Oral] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [Online](https://ojs.aaai.org/index.php/AAAI/article/download/39734/43695) |
+| 2018 | ACL | main | [Efficient Online Scalar Annotation with Bounded Support](https://aclanthology.org/P18-1020/) | [Long] [Main] [Oral] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2018_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__P18-1020__Efficient_Online_Scalar_Annotation_with_Bounded_Support.pdf) |
+| 2023 | ACL | main | [RankCSE: Unsupervised Sentence Representations Learning via Learning to Rank](https://aclanthology.org/2023.acl-long.771/) | [Long] [Main] [Oral] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2023_ACL_%5BLong%5D%5BMain%5D%5BOral%5D__2023.acl-long.771__RankCSE_Unsupervised_Sentence_Representations_Learning_via_Learning_to_Rank.pdf) |
+| 2017 | ICML | main | [Maximum Selection and Ranking under Noisy Comparisons](https://ICML.cc/virtual/2017/poster/881) | [Long] [Main] [Oral] [Poster] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2017_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2017-881__Maximum_Selection_and_Ranking_under_Noisy_Comparisons.pdf) |
+| 2017 | ICML | main | [Online Learning to Rank in Stochastic Click Models](https://ICML.cc/virtual/2017/poster/645) | [Long] [Main] [Oral] [Poster] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2017_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2017-645__Online_Learning_to_Rank_in_Stochastic_Click_Models.pdf) |
+| 2018 | ICML | main | [Efficient and Consistent Adversarial Bipartite Matching](https://ICML.cc/virtual/2018/poster/2162) | [Long] [Main] [Oral] [Poster] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2018-2162__Efficient_and_Consistent_Adversarial_Bipartite_Matching.pdf) |
+| 2018 | ICML | main | [Extreme Learning to Rank via Low Rank Assumption](https://ICML.cc/virtual/2018/poster/2102) | [Long] [Main] [Oral] [Poster] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2018_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2018-2102__Extreme_Learning_to_Rank_via_Low_Rank_Assumption.pdf) |
+| 2019 | ICML | main | [On Medians of (Randomized) Pairwise Means](https://ICML.cc/virtual/2019/poster/3669) | [Long] [Main] [Oral] [Poster] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-3669__On_Medians_of_Randomized_Pairwise_Means.pdf) |
+| 2019 | ICML | main | [Online Learning to Rank with Features](https://ICML.cc/virtual/2019/poster/3782) | [Long] [Main] [Oral] [Poster] | Recommendation & Ranking / 推荐与排序 / Learning to Rank / 学习排序 / General / 综合 | [PDF](2019_ICML_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__icml-2019-3782__Online_Learning_to_Rank_with_Features.pdf) |

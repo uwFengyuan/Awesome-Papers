@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Graph+Anomaly+Detection+as+Dynamical+Transport+Training+Free+Scoring+via+Empirical+Bayes%22+OR+ti%3A%22Knowing+When+to+Ask+Segment+Level+Credit+Assignment+for+LLM+Tool+Use%22+OR+ti%3A%22Learning+Augmented+Online+Portfolio+Selection+Optimal+Robustness+Consistency+Tradeoffs%22+OR+ti%3A%22Online+Min+Max+Optimization+From+Individual+Regrets+to+Cumulative+Saddle+Points%22+OR+ti%3A%22REGATE+Confidence+Calibrated+Integration+of+Temporally+Aligned+Exogenous+Texts+for+Dynamic+Graphs%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Graph+Anomaly+Detection+as+Dynamical+Transport+Training+Free+Scoring+via+Empirical+Bayes%22+OR+ti%3A%22Knowing+When+to+Ask+Segment+Level+Credit+Assignment+for+LLM+Tool+Use%22+OR+ti%3A%22Learning+Augmented+Online+Portfolio+Selection+Optimal+Robustness+Consistency+Tradeoffs%22+OR+ti%3A%22Online+Min+Max+Optimization+From+Individual+Regrets+to+Cumulative+Saddle+Points%22+OR+ti%3A%22REGATE+Confidence+Calibrated+Integration+of+Temporally+Aligned+Exogenous+Texts+for+Dynamic+Graphs%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:50.208531+00:00",
+  "bytes": 6224,
+  "sha256": "72af96ee1eb976df567639479e40d90358e5c0f7c094108a0b75b388769a8f9d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-9870b4e9139ef1f43dfb.gz"
+}

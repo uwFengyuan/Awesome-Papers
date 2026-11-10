@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+orthogonality+and+learning+RNNs+with+long+term+dependencies%22+OR+ti%3A%22Preferential+Bayesian+Optmization%22+OR+ti%3A%22Visualizing+and+Understanding+Multilayer+Perceptron+Models+A+Case+Study+in+Speech+Processing%22+OR+ti%3A%22Distilling+the+Posterior+in+Bayesian+Neural+Networks%22+OR+ti%3A%22Riemannian+Stochastic+Recursive+Gradient+Algorithm+with+Retraction+and+Vector+Transport+and+Its+Convergence%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+orthogonality+and+learning+RNNs+with+long+term+dependencies%22+OR+ti%3A%22Preferential+Bayesian+Optmization%22+OR+ti%3A%22Visualizing+and+Understanding+Multilayer+Perceptron+Models+A+Case+Study+in+Speech+Processing%22+OR+ti%3A%22Distilling+the+Posterior+in+Bayesian+Neural+Networks%22+OR+ti%3A%22Riemannian+Stochastic+Recursive+Gradient+Algorithm+with+Retraction+and+Vector+Transport+and+Its+Convergence%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:10.606451+00:00",
+  "bytes": 1474,
+  "sha256": "0e1608f5a0c95c282219b63a8bf84bd9633faf94c255ef5b8633c0ed8a05ee45",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-6f0f73f147bbd23c1377.gz"
+}

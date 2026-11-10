@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22EmotionThinker+Prosody+Aware+Reinforcement+Learning+for+Explainable+Speech+Emotion+Reasoning%22+OR+ti%3A%22Energy+Based+Transformers+are+Scalable+Learners+and+Thinkers%22+OR+ti%3A%22Enhancing+Generative+Auto+bidding+with+Offline+Reward+Evaluation+and+Policy+Search%22+OR+ti%3A%22Every+Language+Model+Has+a+Forgery+Resistant+Signature%22+OR+ti%3A%22Exchangeability+of+GNN+Representations+with+Applications+to+Graph+Retrieval%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22EmotionThinker+Prosody+Aware+Reinforcement+Learning+for+Explainable+Speech+Emotion+Reasoning%22+OR+ti%3A%22Energy+Based+Transformers+are+Scalable+Learners+and+Thinkers%22+OR+ti%3A%22Enhancing+Generative+Auto+bidding+with+Offline+Reward+Evaluation+and+Policy+Search%22+OR+ti%3A%22Every+Language+Model+Has+a+Forgery+Resistant+Signature%22+OR+ti%3A%22Exchangeability+of+GNN+Representations+with+Applications+to+Graph+Retrieval%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:39.228553+00:00",
+  "bytes": 12699,
+  "sha256": "2f3f6a88d42736e274ae106a64cc966e72a6f6f22fe8a16e9653466776d2ec48",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-8b4f480623f6bbc6e5d2.gz"
+}

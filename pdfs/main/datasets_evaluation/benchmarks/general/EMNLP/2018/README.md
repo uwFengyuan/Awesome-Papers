@@ -1,0 +1,16 @@
+# pdfs/main/datasets_evaluation/benchmarks/general/EMNLP/2018
+
+
+
+Papers / 论文：**8**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2018 | EMNLP | main | [Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering](https://aclanthology.org/D18-1260/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1260__Can_a_Suit_of_Armor_Conduct_Electricity_A_New_Dataset_for_Open_Book_Question_Answering.pdf) |
+| 2018 | EMNLP | main | [Evaluating Theory of Mind in Question Answering](https://aclanthology.org/D18-1261/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1261__Evaluating_Theory_of_Mind_in_Question_Answering.pdf) |
+| 2018 | EMNLP | main | [HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](https://aclanthology.org/D18-1259/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1259__HotpotQA_A_Dataset_for_Diverse_Explainable_Multi_hop_Question_Answering.pdf) |
+| 2018 | EMNLP | main | [Large-scale Cloze Test Dataset Created by Teachers](https://aclanthology.org/D18-1257/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1257__Large_scale_Cloze_Test_Dataset_Created_by_Teachers.pdf) |
+| 2018 | EMNLP | main | [MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling](https://aclanthology.org/D18-1547/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1547__MultiWOZ_A_Large_Scale_Multi_Domain_Wizard_of_Oz_Dataset_for_Task_Oriented_Dialogue_Modelling.pdf) |
+| 2018 | EMNLP | main | [PreCo: A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution](https://aclanthology.org/D18-1016/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1016__PreCo_A_Large_scale_Dataset_in_Preschool_Vocabulary_for_Coreference_Resolution.pdf) |
+| 2018 | EMNLP | main | [RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes](https://aclanthology.org/D18-1166/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1166__RecipeQA_A_Challenge_Dataset_for_Multimodal_Comprehension_of_Cooking_Recipes.pdf) |
+| 2018 | EMNLP | main | [SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference](https://aclanthology.org/D18-1009/) | [Long] [Main] [Oral] | Datasets, Benchmarks & Evaluation / 数据、基准与评测 / Datasets & Benchmarks / 数据集与基准 / General / 综合 | [PDF](2018_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__D18-1009__SWAG_A_Large_Scale_Adversarial_Dataset_for_Grounded_Commonsense_Inference.pdf) |

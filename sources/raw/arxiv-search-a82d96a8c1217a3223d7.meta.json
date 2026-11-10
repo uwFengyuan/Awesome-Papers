@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Navigating+the+Latent+Space+Dynamics+of+Neural+Models%22+OR+ti%3A%22Neon+Negative+Extrapolation+From+Self+Training+Improves+Image+Generation%22+OR+ti%3A%22NextStep+1+Toward+Autoregressive+Image+Generation+with+Continuous+Tokens+at+Scale%22+OR+ti%3A%22Non+Asymptotic+Analysis+of+Sticky+Track+and+Stop%22+OR+ti%3A%22Non+Convex+Federated+Optimization+under+Cost+Aware+Client+Selection%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Navigating+the+Latent+Space+Dynamics+of+Neural+Models%22+OR+ti%3A%22Neon+Negative+Extrapolation+From+Self+Training+Improves+Image+Generation%22+OR+ti%3A%22NextStep+1+Toward+Autoregressive+Image+Generation+with+Continuous+Tokens+at+Scale%22+OR+ti%3A%22Non+Asymptotic+Analysis+of+Sticky+Track+and+Stop%22+OR+ti%3A%22Non+Convex+Federated+Optimization+under+Cost+Aware+Client+Selection%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:37.233372+00:00",
+  "bytes": 14939,
+  "sha256": "6007ec211fc04053a2fbc68411cb8de650bdeb66ad9cf4191cdb9ddc702c9d1f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-a82d96a8c1217a3223d7.gz"
+}

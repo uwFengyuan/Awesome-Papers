@@ -1,0 +1,10 @@
+{
+  "url": "https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/",
+  "final_url": "https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:09.123018+00:00",
+  "bytes": 77142,
+  "sha256": "5eb2b9c50c4544358c4f3b7232db18108408df405eab949742722848526909f2",
+  "content_type": "text/html; charset=UTF-8",
+  "cache_path": "sources/raw/neurips-2022-blogawards.gz"
+}

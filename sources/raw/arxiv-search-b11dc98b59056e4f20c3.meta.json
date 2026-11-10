@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Differential+Transformer%22+OR+ti%3A%22Diffusion+Based+Planning+for+Autonomous+Driving+with+Flexible+Guidance%22+OR+ti%3A%22Do+I+Know+This+Entity+Knowledge+Awareness+and+Hallucinations+in+Language+Models%22+OR+ti%3A%22Do+LLMs+Recognize+Your+Preferences+Evaluating+Personalized+Preference+Following+in+LLMs%22+OR+ti%3A%22Do+Vision+Language+Models+Represent+Space+and+How+Evaluating+Spatial+Frame+of+Reference%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Differential+Transformer%22+OR+ti%3A%22Diffusion+Based+Planning+for+Autonomous+Driving+with+Flexible+Guidance%22+OR+ti%3A%22Do+I+Know+This+Entity+Knowledge+Awareness+and+Hallucinations+in+Language+Models%22+OR+ti%3A%22Do+LLMs+Recognize+Your+Preferences+Evaluating+Personalized+Preference+Following+in+LLMs%22+OR+ti%3A%22Do+Vision+Language+Models+Represent+Space+and+How+Evaluating+Spatial+Frame+of+Reference%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:53.687542+00:00",
+  "bytes": 64551,
+  "sha256": "a614dc8fa53f68c829de168829eb18b2eb36a91410f7ca5e2d12f1f77dceafb0",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b11dc98b59056e4f20c3.gz"
+}

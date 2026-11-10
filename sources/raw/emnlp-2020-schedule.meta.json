@@ -1,0 +1,10 @@
+{
+  "url": "https://virtual.2020.emnlp.org/schedule.html",
+  "final_url": "https://virtual.2020.emnlp.org/schedule.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:45.978818+00:00",
+  "bytes": 138505,
+  "sha256": "d4a44b67aba451337f4199c4bafb699e37ad351ce21fef89ec16d49cb1b6f035",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2020-schedule.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://app.underline.io/api/v1/thin_lectures?filter[event_id]=192&filter[scope]=all&include=event_session&page[size]=500&page[number]=3",
+  "final_url": "https://app.underline.io/api/v1/thin_lectures?filter%5Bevent_id%5D=192&filter%5Bscope%5D=all&include=event_session&page%5Bsize%5D=500&page%5Bnumber%5D=3",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:42.690674+00:00",
+  "bytes": 1942458,
+  "sha256": "5582f89ba8e4132da10f6cbf5aa76284915daae0b0c85e0034cfa52dda108779",
+  "content_type": "application/vnd.api+json; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2021-underline-lectures-3.gz"
+}

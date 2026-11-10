@@ -1,0 +1,10 @@
+{
+  "url": "https://2025.emnlp.org/program/main_papers/",
+  "final_url": "https://2025.emnlp.org/program/main_papers/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:41:06.548607+00:00",
+  "bytes": 375455,
+  "sha256": "b4e8fa2cf1a2ff13e6d623d51df9ccdea35d801260c8590868bd1560db07dac9",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2025-main_papers.gz"
+}

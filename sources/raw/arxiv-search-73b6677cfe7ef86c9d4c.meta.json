@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Uncover+Underlying+Correspondence+for+Robust+Multi+view+Clustering%22+OR+ti%3A%22Universal+Inverse+Distillation+for+Matching+Models+with+Real+Data+Supervision+No+GANs%22+OR+ti%3A%22Verifying+Chain+of+Thought+Reasoning+via+Its+Computational+Graph%22+OR+ti%3A%22Veritas+Generalizable+Deepfake+Detection+via+Pattern+Aware+Reasoning%22+OR+ti%3A%22VibeVoice+Expressive+Podcast+Generation+with+Next+Token+Diffusion%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Uncover+Underlying+Correspondence+for+Robust+Multi+view+Clustering%22+OR+ti%3A%22Universal+Inverse+Distillation+for+Matching+Models+with+Real+Data+Supervision+No+GANs%22+OR+ti%3A%22Verifying+Chain+of+Thought+Reasoning+via+Its+Computational+Graph%22+OR+ti%3A%22Veritas+Generalizable+Deepfake+Detection+via+Pattern+Aware+Reasoning%22+OR+ti%3A%22VibeVoice+Expressive+Podcast+Generation+with+Next+Token+Diffusion%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:54.152345+00:00",
+  "bytes": 9048,
+  "sha256": "db3c3c11ee4f8c003f3dbaa2baea0b8c6a2229aa7464e8342c9eb3755d84b9c1",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-73b6677cfe7ef86c9d4c.gz"
+}

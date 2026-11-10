@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Provable+Compositional+Generalization+for+Object+Centric+Learning%22+OR+ti%3A%22Proving+Test+Set+Contamination+in+Black+Box+Language+Models%22+OR+ti%3A%22Quick+Tune+Quickly+Learning+Which+Pretrained+Model+to+Finetune+and+How%22+OR+ti%3A%22ReLU+Strikes+Back+Exploiting+Activation+Sparsity+in+Large+Language+Models%22+OR+ti%3A%22Robust+agents+learn+causal+world+models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Provable+Compositional+Generalization+for+Object+Centric+Learning%22+OR+ti%3A%22Proving+Test+Set+Contamination+in+Black+Box+Language+Models%22+OR+ti%3A%22Quick+Tune+Quickly+Learning+Which+Pretrained+Model+to+Finetune+and+How%22+OR+ti%3A%22ReLU+Strikes+Back+Exploiting+Activation+Sparsity+in+Large+Language+Models%22+OR+ti%3A%22Robust+agents+learn+causal+world+models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:08.978678+00:00",
+  "bytes": 11255,
+  "sha256": "392e71057b6061c81308a6c70106b13c1eac35d9e9016055226fc40a418c7f2a",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c3d916ff0f006e9018b7.gz"
+}

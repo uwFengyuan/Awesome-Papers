@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Kernel+Perspective+of+Skip+Connections+in+Convolutional+Networks%22+OR+ti%3A%22Addressing+Parameter+Choice+Issues+in+Unsupervised+Domain+Adaptation+by+Aggregation%22+OR+ti%3A%22Agree+to+Disagree+Diversity+through+Disagreement+for+Better+Transferability%22+OR+ti%3A%22Aligning+Model+and+Macaque+Inferior+Temporal+Cortex+Representations+Improves+Model+to+Human+Behavioral%22+OR+ti%3A%22AutoGT+Automated+Graph+Transformer+Architecture+Search%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Kernel+Perspective+of+Skip+Connections+in+Convolutional+Networks%22+OR+ti%3A%22Addressing+Parameter+Choice+Issues+in+Unsupervised+Domain+Adaptation+by+Aggregation%22+OR+ti%3A%22Agree+to+Disagree+Diversity+through+Disagreement+for+Better+Transferability%22+OR+ti%3A%22Aligning+Model+and+Macaque+Inferior+Temporal+Cortex+Representations+Improves+Model+to+Human+Behavioral%22+OR+ti%3A%22AutoGT+Automated+Graph+Transformer+Architecture+Search%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:31.809150+00:00",
+  "bytes": 8486,
+  "sha256": "6e575630cf6f27495e839665c7eac590dc8161f0ecaa87609caccec5faec5759",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-20309b3a66fe62c807d4.gz"
+}

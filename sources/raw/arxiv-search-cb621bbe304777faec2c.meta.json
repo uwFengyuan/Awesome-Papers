@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22The+Flexibility+Trap+Rethinking+the+Value+of+Arbitrary+Order+in+Diffusion+Language+Models%22+OR+ti%3A%22The+Obfuscation+Atlas+Mapping+Where+Honesty+Emerges+in+RLVR+with+Deception+Probes%22+OR+ti%3A%22To+Grok+Grokking+Provable+Grokking+in+Ridge+Regression%22+OR+ti%3A%221000+Layer+Networks+for+Self+Supervised+RL+Scaling+Depth+Can+Enable+New+Goal%22+OR+ti%3A%22Does+Reinforcement+Learning+Really+Incentivize+Reasoning+Capacity+in+LLMs+Beyond+the+Base+Model%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22The+Flexibility+Trap+Rethinking+the+Value+of+Arbitrary+Order+in+Diffusion+Language+Models%22+OR+ti%3A%22The+Obfuscation+Atlas+Mapping+Where+Honesty+Emerges+in+RLVR+with+Deception+Probes%22+OR+ti%3A%22To+Grok+Grokking+Provable+Grokking+in+Ridge+Regression%22+OR+ti%3A%221000+Layer+Networks+for+Self+Supervised+RL+Scaling+Depth+Can+Enable+New+Goal%22+OR+ti%3A%22Does+Reinforcement+Learning+Really+Incentivize+Reasoning+Capacity+in+LLMs+Beyond+the+Base+Model%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:15.026647+00:00",
+  "bytes": 14301,
+  "sha256": "5e5030b0ea1f53b7b9715e386f4772e2ae0d334e6829bcb9cb14ec7e4adcfad4",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-cb621bbe304777faec2c.gz"
+}

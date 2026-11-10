@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Global+Resolution+Optimal+Multi+Draft+Speculative+Sampling+via+Convex+Optimization%22+OR+ti%3A%22HATSolver+Learning+Gr+bner+Bases+with+Hierarchical+Attention+Transformers%22+OR+ti%3A%22Half+order+Fine+Tuning+for+Diffusion+Model+A+Recursive+Likelihood+Ratio+Optimizer%22+OR+ti%3A%22Hallucination+Begins+Where+Saliency+Drops%22+OR+ti%3A%22High+dimensional+Analysis+of+Synthetic+Data+Selection%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Global+Resolution+Optimal+Multi+Draft+Speculative+Sampling+via+Convex+Optimization%22+OR+ti%3A%22HATSolver+Learning+Gr+bner+Bases+with+Hierarchical+Attention+Transformers%22+OR+ti%3A%22Half+order+Fine+Tuning+for+Diffusion+Model+A+Recursive+Likelihood+Ratio+Optimizer%22+OR+ti%3A%22Hallucination+Begins+Where+Saliency+Drops%22+OR+ti%3A%22High+dimensional+Analysis+of+Synthetic+Data+Selection%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:59.926622+00:00",
+  "bytes": 9312,
+  "sha256": "bdfd37cc6824a79af1c933a428229d18525fb0beb47c70e0fe0d0011294574a6",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4980a106ebffdcc2c686.gz"
+}

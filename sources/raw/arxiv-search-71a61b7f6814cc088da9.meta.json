@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Token+Merging+Your+ViT+But+Faster%22+OR+ti%3A%22Towards+Stable+Test+time+Adaptation+in+Dynamic+Wild+World%22+OR+ti%3A%22Towards+Understanding+Ensemble+Knowledge+Distillation+and+Self+Distillation+in+Deep+Learning%22+OR+ti%3A%22Transformers+are+Sample+Efficient+World+Models%22+OR+ti%3A%22View+Synthesis+with+Sculpted+Neural+Points%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Token+Merging+Your+ViT+But+Faster%22+OR+ti%3A%22Towards+Stable+Test+time+Adaptation+in+Dynamic+Wild+World%22+OR+ti%3A%22Towards+Understanding+Ensemble+Knowledge+Distillation+and+Self+Distillation+in+Deep+Learning%22+OR+ti%3A%22Transformers+are+Sample+Efficient+World+Models%22+OR+ti%3A%22View+Synthesis+with+Sculpted+Neural+Points%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:11.404105+00:00",
+  "bytes": 12434,
+  "sha256": "6b67ea93b86e45986dc87e37a75716c7c6052b5a06c4d62e0cc7739816064762",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-71a61b7f6814cc088da9.gz"
+}

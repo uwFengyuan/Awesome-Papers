@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22CounselBench+A+Large+Scale+Expert+Evaluation+and+Adversarial+Benchmarking+of+Large+Language+Models%22+OR+ti%3A%22Coupling+Experts+and+Routers+in+Mixture+of+Experts+via+an+Auxiliary+Loss%22+OR+ti%3A%22Cross+Domain+Lossy+Compression+via+Rate+and+Classification+Constrained+Optimal+Transport%22+OR+ti%3A%22CyberGym+Evaluating+AI+Agents+Real+World+Cybersecurity+Capabilities+at+Scale%22+OR+ti%3A%22DCFold+Efficient+Protein+Structure+Generation+with+Single+Forward+Pass%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22CounselBench+A+Large+Scale+Expert+Evaluation+and+Adversarial+Benchmarking+of+Large+Language+Models%22+OR+ti%3A%22Coupling+Experts+and+Routers+in+Mixture+of+Experts+via+an+Auxiliary+Loss%22+OR+ti%3A%22Cross+Domain+Lossy+Compression+via+Rate+and+Classification+Constrained+Optimal+Transport%22+OR+ti%3A%22CyberGym+Evaluating+AI+Agents+Real+World+Cybersecurity+Capabilities+at+Scale%22+OR+ti%3A%22DCFold+Efficient+Protein+Structure+Generation+with+Single+Forward+Pass%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:26.869326+00:00",
+  "bytes": 11129,
+  "sha256": "7c8492b21b9f66820322923d38472d07758245b825190f67ebfdb737d7449b62",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7e37bf9bd3708bdba5f7.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FlashWorld+High+quality+3D+Scene+Generation+within+Seconds%22+OR+ti%3A%22From+Markov+to+Laplace+How+Mamba+In+Context+Learns+Markov+Chains%22+OR+ti%3A%22From+movement+to+cognitive+maps+recurrent+neural+networks+reveal+how+locomotor+development+shapes%22+OR+ti%3A%22GEPA+Reflective+Prompt+Evolution+Can+Outperform+Reinforcement+Learning%22+OR+ti%3A%22GLASS+Flows+Efficient+Inference+for+Reward+Alignment+of+Flow+and+Diffusion+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22FlashWorld+High+quality+3D+Scene+Generation+within+Seconds%22+OR+ti%3A%22From+Markov+to+Laplace+How+Mamba+In+Context+Learns+Markov+Chains%22+OR+ti%3A%22From+movement+to+cognitive+maps+recurrent+neural+networks+reveal+how+locomotor+development+shapes%22+OR+ti%3A%22GEPA+Reflective+Prompt+Evolution+Can+Outperform+Reinforcement+Learning%22+OR+ti%3A%22GLASS+Flows+Efficient+Inference+for+Reward+Alignment+of+Flow+and+Diffusion+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:49.652059+00:00",
+  "bytes": 9868,
+  "sha256": "21341091508d819b7d105184a9581c54505631c9b71c604dfb6c12ab55f644ab",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-eb719ad1328e830820b1.gz"
+}

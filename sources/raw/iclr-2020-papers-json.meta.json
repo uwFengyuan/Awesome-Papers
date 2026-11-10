@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual_2020/papers.json",
+  "final_url": "https://iclr.cc/virtual_2020/papers.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:04:24.818301+00:00",
+  "bytes": 391687,
+  "sha256": "2405f2da6e2641fa600762f7d7cdf7c9d27f4d0ae65799168f3aee46036d30d2",
+  "content_type": "application/json",
+  "cache_path": "sources/raw/iclr-2020-papers-json.gz"
+}

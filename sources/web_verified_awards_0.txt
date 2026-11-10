@@ -1,0 +1,265 @@
+Medium (https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab)
+【turn388577view0】 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://iclr-conf.medium.com/announcing-iclr-2021-outstanding-paper-awards-9ae0514734ab","lineno":null}); Total lines: 258
+L0: 【0†Sitemap】
+L1: 
+L2: 【1†Open in app†play.google.com】
+L3: 
+L4: [Button: Sign up]
+L5: 
+L6: 【2†Sign in†medium.com】
+L7: 
+L8: [Input: Search]
+L9: 
+L10: Get app
+L11: 
+L12: 【3†Write†medium.com】
+L13: 
+L14: 【4†Search†medium.com】
+L15: 
+L16: [Button: Sign up]
+L17: 
+L18: 【2†Sign in†medium.com】
+L19: 
+L20: 【5†Image: Unknown user†miro.medium.com】
+L21: 
+L22: ## ICLR
+L23: 
+L24: International Conference on Learning Representations
+L25: # Announcing ICLR 2021 Outstanding Paper Awards
+L26: 
+L27: 【6†ICLR】
+L28: 
+L29: 2 min read
+L30: 
+L31: ·
+L32: 
+L33: Mar 31, 2021
+L34: 
+L35: --
+L36: 
+L37: 【7†Listen†medium.com】
+L38: 
+L39: Share
+L40: 
+L41: By ICLR 2021 Program Co-Chairs Ivan Titov (U. Edinburgh / U. Amsterdam), Naila Murray (Facebook AI Research), and Alice Oh (KAIST), and Senior Program Chair Katja Hofmann (Microsoft Research)
+L42: We are thrilled to announce the winners of the ICLR 2021 Outstanding Paper Awards. While there are 860 excellent papers in our program, and many of them of exceptional quality, we would like to highlight 8 papers that are especially noteworthy.
+L43: 
+L44: Award winners (in alphabetical order):
+L45:   * 【8†Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters†openreview.net】 by Aston Zhang, Yi Tay, Shuai Zhang, Alvin Chan, Anh Tuan Luu, Siu Hui, and Jie Fu
+L46:   * 【9†Complex Query Answering with Neural Link Predictors†openreview.net】 by Erik Arakelyan, Daniel Daza, Pasquale Minervini, and Michael Cochez
+L47:   * 【10†EigenGame: PCA as a Nash Equilibrium†openreview.net】 by Ian Gemp, Brian McWilliams, Claire Vernade, and Thore Graepel
+L48:   * 【11†Learning Mesh-Based Simulation with Graph Networks†openreview.net】 by Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, and Peter Battaglia
+L49:   * 【12†Neural Synthesis of Binaural Speech from Mono Audio†openreview.net】 by Alexander Richard, Dejan Markovic, Israel D. Gebru, Steven Krenn, Gladstone Alexander Butler, Fernando Torre, and Yaser Sheikh
+L50:   * 【13†Optimal Rates for Averaged Stochastic Gradient Descent under Neural Tangent Kernel Regime†openreview.net】 by Atsushi Nitanda, and Taiji Suzuki
+L51:   * 【14†Rethinking Architecture Selection in Differentiable NAS†openreview.net】 by Ruochen Wang, Minhao Cheng, Xiangning Chen, Xiaocheng Tang, and Cho-Jui Hsieh
+L52:   * 【15†Score-Based Generative Modeling through Stochastic Differential Equations†openreview.net】 by Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, and Ben Poole
+L53: Congratulations to the authors on this fantastic achievement!
+L54: 
+L55: The paper awards were selected as follows:
+L56:   * based on paper reviews, we constructed a shortlist of candidate papers;
+L57:   * the shortlisted papers were sent to the Outstanding Paper Committee for further review;
+L58:   * the experts were asked to assess not only technical quality but also the potential for impact, including bringing in a new perspective, opening up an exciting direction, and making a strong contribution to addressing an important problem;
+L59:   * the highest-ranking papers were selected for the awards.
+L60: Thank you to the members of the Outstanding Paper Award Committee for their hard work!
+L61: ## Get ICLR’s stories in your inbox
+L62: 
+L63: Join Medium for free to get updates from this writer.
+L64: 
+L65: [Input: Enter your email]
+L66: 
+L67: [Button: Subscribe]
+L68: 
+L69: [Button: Subscribe]
+L70: 
+L71: [Input]
+L72: 
+L73: Remember me for faster sign in
+L74: 
+L75: The papers will be presented during two Outstanding Paper sessions (May 5, 16.00–17.00 PDT and May 6, 00:00–01:00 PDT).
+L76: 
+L77: To attend the event and participate in these and many other exciting sessions, register at 【16†https://iclr.cc/Register/view-registration†iclr.cc】.
+L78: 
+L79: Outstanding Paper Award Committee
+L80:   * Adam White, University of Alberta
+L81:   * Aditya Krishna Menon, Australian National University
+L82:   * Adriana Romero, Facebook
+L83:   * Amir Globerson, Tel Aviv University
+L84:   * André Martins, Instituto Superior Técnico / Unbabel
+L85:   * Franziska Meier, Facebook
+L86:   * Irina Higgins, DeepMind
+L87:   * Michael S Ryoo, Stony Brook State University of New York
+L88:   * Mingyuan Zhou, The University of Texas at Austin
+L89:   * Natalia Neverova, Facebook
+L90:   * Panayotis Mertikopoulos, French National Center for Scientific Research
+L91:   * Piotr Koniusz, Australian National University
+L92:   * Rémi Flamary, Ecole Polytechnique
+L93:   * Tengyu Ma, Stanford University
+L94:   * Tie-Yan Liu, Microsoft
+L95:   * Yale Song, Microsoft
+L96: --
+L97: 
+L98: --
+L99: 
+L100: 【6†Written by ICLR】
+L101: 
+L102: 【17†697 followers】
+L103: 
+L104: ·【18†1 following】
+L105: 
+L106: International Conference on Learning Representations
+L107: 
+L108: 【19†Help†help.medium.com】
+L109: 
+L110: 【20†Status†status.medium.com】
+L111: 
+L112: 【21†About†medium.com】
+L113: 
+L114: 【22†Careers†medium.com】
+L115: 
+L116: Press (pressinquiries@medium.com)
+L117: 
+L118: 【23†Blog†blog.medium.com】
+L119: 
+L120: 【24†Store†medium.com】
+L121: 
+L122: 【25†Privacy†policy.medium.com】
+L123: 
+L124: 【26†Rules†policy.medium.com】
+L125: 
+L126: 【27†Terms†policy.medium.com】
+L127: 
+L128: 【28†Text to speech†speechify.com】
+L129: ## No responses yet
+L130: ## More from ICLR
+L131: 
+L132: 【29†Image: ICLR 2021 — A retrospective from the program committee†miro.medium.com】
+L133: 
+L134: 【6†ICLR】
+L135: 
+L136: ·
+L137: 
+L138: Jun 1, 2021
+L139: 
+L140: 【30†ICLR 2021 — A retrospective from the program committee】
+L141: 
+L142: 【30†1】
+L143: 
+L144: 【31†Image: At a glance, overview of the ICLR 2021 program†miro.medium.com】
+L145: 
+L146: 【6†ICLR】
+L147: 
+L148: ·
+L149: 
+L150: Apr 26, 2021
+L151: 
+L152: 【32†A Welcome and Guide to Virtual ICLR 2021 By ICLR 2021 Senior Program Chair Katja Hofmann (Microsoft Research), Program Co-Chairs Ivan Titov (U. Edinburgh / U. Amsterdam), Naila…】
+L153: 【33†Image: Invited speakers for ICLR 2021†miro.medium.com】
+L154: 
+L155: 【6†ICLR】
+L156: 
+L157: ·
+L158: 
+L159: Mar 15, 2021
+L160: 
+L161: 【34†Announcing the ICLR 2021 Invited Speakers It’s time for a big drum-roll … today we are announcing our invited speakers for ICLR 2021!】
+L162: 
+L163: 【34†1】
+L164: 
+L165: 【35†Image: The ICLR 2021 Reviewing Process and Accepted Papers†miro.medium.com】
+L166: 
+L167: 【6†ICLR】
+L168: 
+L169: ·
+L170: 
+L171: Jan 28, 2021
+L172: 【36†The ICLR 2021 Reviewing Process and Accepted Papers Acceptance notifications for ICLR 2021 were released on January 12. Out of the 2997 full submissions that were received, a total of 860…】
+L173: 
+L174: 【6†See all from ICLR】
+L175: ## Recommended from Medium
+L176: 
+L177: 【37†Image: Agent Harness — A complete guide†miro.medium.com】
+L178: 
+L179: In
+L180: 
+L181: 【38†Level Up Coding†levelup.gitconnected.com】
+L182: 
+L183: by
+L184: 
+L185: 【39†S Sankar†medium.com】
+L186: 
+L187: ·
+L188: 
+L189: Sep 13
+L190: 
+L191: 【40†Agent Harness — A complete guide There isn’t much more to understanding Agent Harness than what's in here!†medium.com】
+L192: 
+L193: 【40†54†medium.com】
+L194: 
+L195: 【41†Image: How to Do Hard Things When You Have Zero Motivation†miro.medium.com】
+L196: 
+L197: 【42†Darius Foroux†dariusforoux.medium.com】
+L198: 
+L199: ·
+L200: 
+L201: May 8
+L202: 【43†How to Do Hard Things When You Have Zero Motivation Tricks create novelty. These five strategies create consistency.†dariusforoux.medium.com】
+L203: 
+L204: 【43†790†dariusforoux.medium.com】
+L205: 
+L206: 【44†Image: What Should Programmers Do While the AI Writes Code?†miro.medium.com】
+L207: 
+L208: 【45†Scott Batson†scottbatson.dev】
+L209: 
+L210: ·
+L211: 
+L212: Aug 31
+L213: 
+L214: 【46†What Should Programmers Do While the AI Writes Code?Hint: not start another AI coding loop†scottbatson.dev】
+L215: 
+L216: 【46†354†scottbatson.dev】
+L217: 【47†Image: A senior man working with documents and laptop indoors.†miro.medium.com】
+L218: 
+L219: In
+L220: 
+L221: 【48†The Daily Draft†medium.com】
+L222: 
+L223: by
+L224: 
+L225: 【49†Matt Lillywhite†mattthenomad.medium.com】
+L226: 
+L227: ·
+L228: 
+L229: Sep 15
+L230: 
+L231: 【50†Here’s How I Can Tell You’re Secretly Using ChatGPT The biggest giveaways aren’t vocabulary or sentence structure.†mattthenomad.medium.com】
+L232: 
+L233: 【50†486†mattthenomad.medium.com】
+L234: 
+L235: 【51†Image: The Ultimate Guide to Jev: The new Frontier AI for faster decisions†miro.medium.com】
+L236: 
+L237: 【52†unicodeveloper†medium.com】
+L238: 
+L239: ·
+L240: 
+L241: Sep 17
+L242: 【53†The Ultimate Guide to Jev: The new Frontier AI for faster decisions ChatGPT co-creator spent two years building Jev. Here is what it does, when to use it, when not to and what people have already built with…†medium.com】
+L243: 
+L244: 【53†28†medium.com】
+L245: 
+L246: 【54†Image: What Wealthy People Do Before 9 AM That Broke People Do Never†miro.medium.com】
+L247: 
+L248: 【55†Solo†medium.com】
+L249: 
+L250: ·
+L251: 
+L252: Jul 26
+L253: 【56†What Wealthy People Do Before 9 AM That Broke People Do Never A five-year study tracked 233 millionaires and 128 people struggling financially. The differences weren’t income. They weren’t lucky. There…†medium.com】
+L254: 
+L255: 【56†533†medium.com】
+L256: 
+L257: 【57†See more recommendations†medium.com】
+
+--------------------------------------------------------------------------------
+Internal Error ()
+【turn388577view1】 [wordlim: 200] Source: open({"ref_id":"https://2022.emnlp.org/blog/best-paper-awards/","lineno":null}); 
+URL https://2022.emnlp.org/blog/best-paper-awards/ is not accessible via this tool.

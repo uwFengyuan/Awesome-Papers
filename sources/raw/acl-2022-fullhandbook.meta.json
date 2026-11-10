@@ -1,0 +1,10 @@
+{
+  "url": "https://aclanthology.org/2022.acl.handbook.pdf",
+  "final_url": "https://aclanthology.org/2022.acl.handbook.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:50:40.572795+00:00",
+  "bytes": 27607007,
+  "sha256": "26a160ebc837ecfb7a41ee7546fdfc208e182f8d81708725d7b3e15369207d33",
+  "content_type": "application/pdf",
+  "cache_path": "sources/raw/acl-2022-fullhandbook.gz"
+}

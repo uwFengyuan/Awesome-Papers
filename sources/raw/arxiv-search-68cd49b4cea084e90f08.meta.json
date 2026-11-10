@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Sparse+Mixture+of+Experts+are+Domain+Generalizable+Learners%22+OR+ti%3A%22Statistical+Efficiency+of+Score+Matching+The+View+from+Isoperimetry%22+OR+ti%3A%22Targeted+Hyperparameter+Optimization+with+Lexicographic+Preferences+Over+Multiple+Objectives%22+OR+ti%3A%22The+Lie+Derivative+for+Measuring+Learned+Equivariance%22+OR+ti%3A%22The+Modality+Focusing+Hypothesis+Towards+Understanding+Crossmodal+Knowledge+Distillation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Sparse+Mixture+of+Experts+are+Domain+Generalizable+Learners%22+OR+ti%3A%22Statistical+Efficiency+of+Score+Matching+The+View+from+Isoperimetry%22+OR+ti%3A%22Targeted+Hyperparameter+Optimization+with+Lexicographic+Preferences+Over+Multiple+Objectives%22+OR+ti%3A%22The+Lie+Derivative+for+Measuring+Learned+Equivariance%22+OR+ti%3A%22The+Modality+Focusing+Hypothesis+Towards+Understanding+Crossmodal+Knowledge+Distillation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:07.246377+00:00",
+  "bytes": 11199,
+  "sha256": "ddc5648bd8892208d6443de45c655623ce6cf793285b3579e24dacbff8c98d7d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-68cd49b4cea084e90f08.gz"
+}

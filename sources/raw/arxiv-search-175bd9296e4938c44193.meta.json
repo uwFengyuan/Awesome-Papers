@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22The+mechanistic+basis+of+data+dependence+and+abrupt+learning+in+an+in+context%22+OR+ti%3A%22Topological+data+analysis+on+noisy+quantum+computers%22+OR+ti%3A%22Towards+a+statistical+theory+of+data+selection+under+weak+supervision%22+OR+ti%3A%22Understanding+In+Context+Learning+in+Transformers+and+LLMs+by+Learning+to+Learn+Discrete%22+OR+ti%3A%22Unified+Generative+Modeling+of+3D+Molecules+with+Bayesian+Flow+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22The+mechanistic+basis+of+data+dependence+and+abrupt+learning+in+an+in+context%22+OR+ti%3A%22Topological+data+analysis+on+noisy+quantum+computers%22+OR+ti%3A%22Towards+a+statistical+theory+of+data+selection+under+weak+supervision%22+OR+ti%3A%22Understanding+In+Context+Learning+in+Transformers+and+LLMs+by+Learning+to+Learn+Discrete%22+OR+ti%3A%22Unified+Generative+Modeling+of+3D+Molecules+with+Bayesian+Flow+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:15.227182+00:00",
+  "bytes": 13684,
+  "sha256": "7c5d7b08c93aeafe31468eb7f97b722860e678f210867766b00492829b9a4b5a",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-175bd9296e4938c44193.gz"
+}

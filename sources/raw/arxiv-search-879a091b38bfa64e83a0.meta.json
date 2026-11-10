@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Getting+a+CLUE+A+Method+for+Explaining+Uncertainty+Estimates%22+OR+ti%3A%22Global+Convergence+of+Three+layer+Neural+Networks+in+the+Mean+Field+Regime%22+OR+ti%3A%22Gradient+Projection+Memory+for+Continual+Learning%22+OR+ti%3A%22Growing+Efficient+Deep+Networks+by+Structured+Continuous+Sparsification%22+OR+ti%3A%22How+Neural+Networks+Extrapolate+From+Feedforward+to+Graph+Neural+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Getting+a+CLUE+A+Method+for+Explaining+Uncertainty+Estimates%22+OR+ti%3A%22Global+Convergence+of+Three+layer+Neural+Networks+in+the+Mean+Field+Regime%22+OR+ti%3A%22Gradient+Projection+Memory+for+Continual+Learning%22+OR+ti%3A%22Growing+Efficient+Deep+Networks+by+Structured+Continuous+Sparsification%22+OR+ti%3A%22How+Neural+Networks+Extrapolate+From+Feedforward+to+Graph+Neural+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:05.025972+00:00",
+  "bytes": 14996,
+  "sha256": "7499740937f9854ac227110d373f4e89451d45a65105519e953cfdec392e62f2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-879a091b38bfa64e83a0.gz"
+}

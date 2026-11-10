@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Omni+Reward+Towards+Generalist+Omni+Modal+Reward+Modeling+with+Free+Form+Preferences%22+OR+ti%3A%22On+The+Surprising+Effectiveness+of+a+Single+Global+Merging+in+Decentralized+Learning%22+OR+ti%3A%22On+the+Generalization+Capacities+of+MLLMs+for+Spatial+Intelligence%22+OR+ti%3A%22On+the+Reasoning+Abilities+of+Masked+Diffusion+Language+Models%22+OR+ti%3A%22On+the+Wasserstein+Geodesic+Principal+Component+Analysis+of+probability+measures%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Omni+Reward+Towards+Generalist+Omni+Modal+Reward+Modeling+with+Free+Form+Preferences%22+OR+ti%3A%22On+The+Surprising+Effectiveness+of+a+Single+Global+Merging+in+Decentralized+Learning%22+OR+ti%3A%22On+the+Generalization+Capacities+of+MLLMs+for+Spatial+Intelligence%22+OR+ti%3A%22On+the+Reasoning+Abilities+of+Masked+Diffusion+Language+Models%22+OR+ti%3A%22On+the+Wasserstein+Geodesic+Principal+Component+Analysis+of+probability+measures%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:41.546348+00:00",
+  "bytes": 12554,
+  "sha256": "b8245b23301c09cb77d4539376b856c85849b2c637fdc14ce37600c9cef3ce59",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-2dbb49e5d02318ede431.gz"
+}

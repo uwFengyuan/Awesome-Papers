@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+and+aligning+single+neuron+invariance+manifolds+in+visual+cortex%22+OR+ti%3A%22Learning+stochastic+dynamics+from+snapshots+through+regularized+unbalanced+optimal+transport%22+OR+ti%3A%22Learning+to+Discover+Regulatory+Elements+for+Gene+Expression+Prediction%22+OR+ti%3A%22Learning+to+Discretize+Denoising+Diffusion+ODEs%22+OR+ti%3A%22Learning+to+Search+from+Demonstration+Sequences%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+and+aligning+single+neuron+invariance+manifolds+in+visual+cortex%22+OR+ti%3A%22Learning+stochastic+dynamics+from+snapshots+through+regularized+unbalanced+optimal+transport%22+OR+ti%3A%22Learning+to+Discover+Regulatory+Elements+for+Gene+Expression+Prediction%22+OR+ti%3A%22Learning+to+Discretize+Denoising+Diffusion+ODEs%22+OR+ti%3A%22Learning+to+Search+from+Demonstration+Sequences%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:31.595424+00:00",
+  "bytes": 7757,
+  "sha256": "977b70eb5954dcbe709cb11cfa93df0d259758d971ba3789842e8f6cb1adcfaa",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-475dd5cb6493ef6166c8.gz"
+}

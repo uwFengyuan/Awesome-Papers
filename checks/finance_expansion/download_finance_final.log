@@ -1,0 +1,21 @@
+PDF queue 985
+50 / 985 {'downloaded': 50}
+100 / 985 {'downloaded': 100}
+150 / 985 {'downloaded': 150}
+200 / 985 {'downloaded': 200}
+250 / 985 {'downloaded': 250}
+300 / 985 {'downloaded': 300}
+350 / 985 {'downloaded': 350}
+400 / 985 {'downloaded': 400}
+450 / 985 {'downloaded': 441, 'access_blocked': 9}
+500 / 985 {'downloaded': 485, 'access_blocked': 15}
+550 / 985 {'downloaded': 535, 'access_blocked': 15}
+600 / 985 {'downloaded': 585, 'access_blocked': 15}
+650 / 985 {'downloaded': 635, 'access_blocked': 15}
+700 / 985 {'downloaded': 681, 'access_blocked': 19}
+750 / 985 {'downloaded': 723, 'access_blocked': 27}
+800 / 985 {'downloaded': 773, 'access_blocked': 27}
+850 / 985 {'downloaded': 823, 'access_blocked': 27}
+900 / 985 {'downloaded': 873, 'access_blocked': 27}
+950 / 985 {'downloaded': 914, 'access_blocked': 36}
+COMPLETE {'downloaded': 933, 'access_blocked': 52}

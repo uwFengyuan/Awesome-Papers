@@ -1,0 +1,338 @@
+[
+  {
+    "id": "iclr-2020-1722",
+    "title": "Learning Hierarchical Discrete Linguistic Units from Visually-Grounded Speech",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1485",
+    "title": "Neural Network Branching for Neural Network Verification",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1938",
+    "title": "Fast Task Inference with Variational Intrinsic Successor Features",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1700",
+    "title": "Building Deep Equivariant Capsule Networks",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1480",
+    "title": "Why Gradient Clipping Accelerates Training: A Theoretical Justification for Adaptivity",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1677",
+    "title": "Watch the Unobserved: A Simple Approach to Parallelizing Monte Carlo Tree Search",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1430",
+    "title": "BackPACK: Packing more into Backprop",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1614",
+    "title": "Optimal Strategies Against Generative Attacks",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-2035",
+    "title": "A Generalized Training Approach for Multiagent Learning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1739",
+    "title": "Federated Learning with Matched Averaging",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-2042",
+    "title": "Target-Embedding Autoencoders for Supervised Representation Learning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-2019",
+    "title": "Understanding and Robustifying Differentiable Architecture Search",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1813",
+    "title": "Contrastive Learning of Structured World Models",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1474",
+    "title": "Principled Weight Initialization for Hypernetworks",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1966",
+    "title": "Dynamics-Aware Unsupervised Skill Discovery",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1798",
+    "title": "CATER: A diagnostic dataset for Compositional Actions & TEmporal Reasoning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1421",
+    "title": "On the Convergence of FedAvg on Non-IID Data",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-2065",
+    "title": "Mirror-Generative Neural Machine Translation",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1871",
+    "title": "GenDICE: Generalized Offline Estimation of Stationary Values",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1816",
+    "title": "Your classifier is secretly an energy based model and you should treat it like one",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1958",
+    "title": "RNA Secondary Structure Prediction By Learning Unrolled Algorithms",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1925",
+    "title": "Data-dependent Gaussian Prior Objective for Language Generation",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-2040",
+    "title": "Causal Discovery with Reinforcement Learning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1969",
+    "title": "Comparing Rewinding and Fine-tuning in Neural Network Pruning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1465",
+    "title": "Restricting the Flow: Information Bottlenecks for Attribution",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-2044",
+    "title": "Mogrifier LSTM",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1490",
+    "title": "Meta-Q-Learning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1985",
+    "title": "Gradient Descent Maximizes the Margin of Homogeneous Neural Networks",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1846",
+    "title": "Adversarial Training and Provable Defenses: Bridging the Gap",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1679",
+    "title": "Differentiable Reasoning over a Virtual Knowledge Base",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1596",
+    "title": "Mathematical Reasoning in Latent Space",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-2060",
+    "title": "Convolutional Conditional Neural Processes",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1779",
+    "title": "Posterior sampling for multi-agent reinforcement learning: solving extensive games with imperfect information",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1832",
+    "title": "A Theory of Usable Information under Computational Constraints",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1752",
+    "title": "Implementation Matters in Deep RL: A Case Study on PPO and TRPO",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1663",
+    "title": "High Fidelity Speech Synthesis with Adversarial Networks",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1563",
+    "title": "GraphZoom: A Multi-level Spectral Approach for Accurate and Scalable Graph Embedding",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1805",
+    "title": "Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1742",
+    "title": "Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1951",
+    "title": "Meta-Learning with Warped Gradient Descent",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1880",
+    "title": "Intrinsically Motivated Discovery of Diverse Patterns in Self-Organizing Systems",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1692",
+    "title": "Reformer: The Efficient Transformer",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1893",
+    "title": "SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1598",
+    "title": "Harnessing Structures for Value-Based Planning and Reinforcement Learning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1570",
+    "title": "Rotation-invariant clustering of neuronal responses in primary visual cortex",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1502",
+    "title": "Deep Batch Active Learning by Diverse, Uncertain Gradient Lower Bounds",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1475",
+    "title": "Geometric Analysis of Nonconvex Optimization Landscapes for Overcomplete Learning",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  },
+  {
+    "id": "iclr-2020-1517",
+    "title": "A Closer Look at Deep Policy Gradients",
+    "candidate_source": "https://raw.githubusercontent.com/papercopilot/paperlists/main/iclr/iclr2020.json",
+    "official_program": "https://iclr.cc/virtual_2020/calendar.html",
+    "combined_session_match": true
+  }
+]

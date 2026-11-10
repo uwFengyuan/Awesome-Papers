@@ -1,0 +1,9 @@
+{
+  "verified": true,
+  "retained": 10971,
+  "removed": 31,
+  "retained_features_identical": true,
+  "original_cache_input_sha256": "51ce0a9ad7ea37bcc2a1913e1ee6f217b58f4f3812576ef85e81d6614619f307",
+  "new_cache_input_sha256": "8ce1c9da863302db24a296a6e6703acec3117662abbb0e9b9512697625135303",
+  "source_code_sha256": "d269685e5e7d8870604aa19e7048a80d1e9052587fd0497c4d8f25d895f7417b"
+}

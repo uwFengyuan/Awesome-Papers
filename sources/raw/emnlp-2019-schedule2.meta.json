@@ -1,0 +1,10 @@
+{
+  "url": "https://2019.emnlp.org/program/ischedule/",
+  "final_url": "https://2019.emnlp.org/program/ischedule/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:45.853461+00:00",
+  "bytes": 386938,
+  "sha256": "2b04ce27682a42b4f657bad3ffd3b3b1befc26a5a6f6e0cee69744820fd78e92",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2019-schedule2.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ClimODE+Climate+and+Weather+Forecasting+with+Physics+informed+Neural+ODEs%22+OR+ti%3A%22Detecting+Explaining+and+Mitigating+Memorization+in+Diffusion+Models%22+OR+ti%3A%22Diffusion+Model+for+Dense+Matching%22+OR+ti%3A%22DreamGaussian+Generative+Gaussian+Splatting+for+Efficient+3D+Content+Creation%22+OR+ti%3A%22Efficient+Episodic+Memory+Utilization+of+Cooperative+Multi+Agent+Reinforcement+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ClimODE+Climate+and+Weather+Forecasting+with+Physics+informed+Neural+ODEs%22+OR+ti%3A%22Detecting+Explaining+and+Mitigating+Memorization+in+Diffusion+Models%22+OR+ti%3A%22Diffusion+Model+for+Dense+Matching%22+OR+ti%3A%22DreamGaussian+Generative+Gaussian+Splatting+for+Efficient+3D+Content+Creation%22+OR+ti%3A%22Efficient+Episodic+Memory+Utilization+of+Cooperative+Multi+Agent+Reinforcement+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:23.830283+00:00",
+  "bytes": 12719,
+  "sha256": "437f4afa1e1a009605abe7bb9ebc166ac477066acf6e07bfb4bf71b906cb1d93",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-fd9e6291046ee04b71ab.gz"
+}

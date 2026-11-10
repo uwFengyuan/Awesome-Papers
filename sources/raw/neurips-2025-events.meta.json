@@ -1,0 +1,10 @@
+{
+  "url": "https://neurips.cc/static/virtual/data/neurips-2025-orals-posters.json",
+  "final_url": "https://neurips.cc/static/virtual/data/neurips-2025-orals-posters.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:52.847334+00:00",
+  "bytes": 26803205,
+  "sha256": "73bbfc7fb9fbf4f52eae00cebe9cbc085f27493ee2294f2e29f326ef403986f8",
+  "content_type": "application/json",
+  "cache_path": "sources/raw/neurips-2025-events.gz"
+}

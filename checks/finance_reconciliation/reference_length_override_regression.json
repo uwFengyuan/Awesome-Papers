@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "cases": [
+    {
+      "id": "2023.emnlp-main.111",
+      "pdf_sha256": "11cf7ca2a1e37ec36a048458c0bf3c7c393853ed03e5ee515182a1c7b683b77f",
+      "automatic_false_negative_reproduced": true,
+      "reviewed_exception_applied": true,
+      "changed_pdf_rejected": true
+    },
+    {
+      "id": "2026.emnlp-main.2572",
+      "pdf_sha256": "126423ea3d9ebe850aa66c3864e9936479f23dba86e0c099fbd6fc44cfd487a9",
+      "automatic_false_negative_reproduced": true,
+      "reviewed_exception_applied": true,
+      "changed_pdf_rejected": true
+    },
+    {
+      "id": "2025.findings-emnlp.972",
+      "pdf_sha256": "a8a4683887d72ffbd9732168efc70d9e97d50f02b0e45d934c05ab62bdf311fe",
+      "automatic_false_negative_reproduced": true,
+      "reviewed_exception_applied": true,
+      "changed_pdf_rejected": true
+    }
+  ]
+}

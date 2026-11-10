@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Hyperparameter+Trajectory+Inference+with+Conditional+Lagrangian+Optimal+Transport%22+OR+ti%3A%22Improving+Diffusion+Models+for+Class+imbalanced+Training+Data+via+Capacity+Manipulation%22+OR+ti%3A%22In+Place+Test+Time+Training%22+OR+ti%3A%22In+the+Flow+Agentic+System+Optimization+for+Effective+Planning+and+Tool+Use%22+OR+ti%3A%22InfoNCE+Induces+Gaussian+Distribution%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Hyperparameter+Trajectory+Inference+with+Conditional+Lagrangian+Optimal+Transport%22+OR+ti%3A%22Improving+Diffusion+Models+for+Class+imbalanced+Training+Data+via+Capacity+Manipulation%22+OR+ti%3A%22In+Place+Test+Time+Training%22+OR+ti%3A%22In+the+Flow+Agentic+System+Optimization+for+Effective+Planning+and+Tool+Use%22+OR+ti%3A%22InfoNCE+Induces+Gaussian+Distribution%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:06.143121+00:00",
+  "bytes": 14537,
+  "sha256": "a1eaa22282fcaf6a630db45a914bc01e0c7992664faf1874342dddb1df50fef7",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-36e12ce19928aab73a97.gz"
+}

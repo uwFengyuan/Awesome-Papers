@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MIND+over+Body+Adaptive+Thinking+using+Dynamic+Computation%22+OR+ti%3A%22MLE+bench+Evaluating+Machine+Learning+Agents+on+Machine+Learning+Engineering%22+OR+ti%3A%22MMIE+Massive+Multimodal+Interleaved+Comprehension+Benchmark+for+Large+Vision+Language+Models%22+OR+ti%3A%22MMQA+Evaluating+LLMs+with+Multi+Table+Multi+Hop+Complex+Questions%22+OR+ti%3A%22MOS+Model+Synergy+for+Test+Time+Adaptation+on+LiDAR+Based+3D+Object+Detection%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MIND+over+Body+Adaptive+Thinking+using+Dynamic+Computation%22+OR+ti%3A%22MLE+bench+Evaluating+Machine+Learning+Agents+on+Machine+Learning+Engineering%22+OR+ti%3A%22MMIE+Massive+Multimodal+Interleaved+Comprehension+Benchmark+for+Large+Vision+Language+Models%22+OR+ti%3A%22MMQA+Evaluating+LLMs+with+Multi+Table+Multi+Hop+Complex+Questions%22+OR+ti%3A%22MOS+Model+Synergy+for+Test+Time+Adaptation+on+LiDAR+Based+3D+Object+Detection%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:40.107385+00:00",
+  "bytes": 10086,
+  "sha256": "26e8a57138e1a5516516f6f70d69f84367879e5914ba2e600be006b5c0edd3c2",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4a13216066775abd2f37.gz"
+}

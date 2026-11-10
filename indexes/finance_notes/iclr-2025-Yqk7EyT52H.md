@@ -1,0 +1,15 @@
+# MarS: a Financial Market Simulation Engine Powered by Generative Foundation Model
+
+ICLR 2025 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：Despite significant efforts to build real-world simulators, the application of generative models to virtual worlds, like financial markets, remains under-explored. / In financial markets, generative models can simulate complex market effects of participants with various behaviors, enabling interaction under different market conditions, and training strategies without financial risk. / This simulation relies on the finest structured data in financial market like orders thus building the finest realistic simulation. / We propose Large Market Model (LMM), an order-level generative foundation model, for financial market simulation, akin to language modeling in the digital world. / Our financial Market Simulation engine (MarS), powered by LMM, addresses the domain-specific need for realistic, interactive and controllable order generation. / We showcase MarS as a forecast tool, detection system, analysis platform, and agent training environment, thus demonstrating MarS's ``paradigm shift'' potential for a variety of financial applications.
+
+[Paper](https://openreview.net/forum?id=Yqk7EyT52H)
+
+Classification / 分类：Trading & Microstructure / 交易与市场微观结构 → Order Books & Market Impact / 订单簿与市场冲击 → General / 综合
+
+## Abstract / 摘要
+
+Generative models aim to simulate realistic effects of various actions across different contexts, from text generation to visual effects. Despite significant efforts to build real-world simulators, the application of generative models to virtual worlds, like financial markets, remains under-explored. In financial markets, generative models can simulate complex market effects of participants with various behaviors, enabling interaction under different market conditions, and training strategies without financial risk. This simulation relies on the finest structured data in financial market like orders thus building the finest realistic simulation. We propose Large Market Model (LMM), an order-level generative foundation model, for financial market simulation, akin to language modeling in the digital world. Our financial Market Simulation engine (MarS), powered by LMM, addresses the domain-specific need for realistic, interactive and controllable order generation. Key observations include LMM's strong scalability across data size and model complexity, and MarS's robust and practicable realism in controlled generation with market impact. We showcase MarS as a forecast tool, detection system, analysis platform, and agent training environment, thus demonstrating MarS's ``paradigm shift'' potential for a variety of financial applications. We release the code of MarS at https://github.com/microsoft/MarS/.

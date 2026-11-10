@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+to+Represent+Programs+with+Graphs%22+OR+ti%3A%22Multi+Scale+Dense+Networks+for+Resource+Efficient+Image+Classification%22+OR+ti%3A%22Neural+Sketch+Learning+for+Conditional+Program+Generation%22+OR+ti%3A%22On+the+Convergence+of+Adam+and+Beyond%22+OR+ti%3A%22On+the+insufficiency+of+existing+momentum+schemes+for+Stochastic+Optimization%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Learning+to+Represent+Programs+with+Graphs%22+OR+ti%3A%22Multi+Scale+Dense+Networks+for+Resource+Efficient+Image+Classification%22+OR+ti%3A%22Neural+Sketch+Learning+for+Conditional+Program+Generation%22+OR+ti%3A%22On+the+Convergence+of+Adam+and+Beyond%22+OR+ti%3A%22On+the+insufficiency+of+existing+momentum+schemes+for+Stochastic+Optimization%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:33.625740+00:00",
+  "bytes": 12785,
+  "sha256": "a3e3bae9376cd89abad249a0a6c938f6de750c715d189f22f2a4d9b04e5d3bb0",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3d72044030d42bbf37d1.gz"
+}

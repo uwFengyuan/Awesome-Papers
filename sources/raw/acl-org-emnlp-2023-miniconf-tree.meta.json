@@ -1,0 +1,10 @@
+{
+  "url": "https://api.github.com/repos/acl-org/emnlp-2023-miniconf/git/trees/HEAD?recursive=1",
+  "final_url": "https://api.github.com/repos/acl-org/emnlp-2023-miniconf/git/trees/HEAD?recursive=1",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:42:56.651313+00:00",
+  "bytes": 84050,
+  "sha256": "21d9acd2da4a6cbcacd8a04376a7c201539b3dfb32d0a7e48500ff5ef84118ab",
+  "content_type": "application/json; charset=utf-8",
+  "cache_path": "sources/raw/acl-org-emnlp-2023-miniconf-tree.gz"
+}

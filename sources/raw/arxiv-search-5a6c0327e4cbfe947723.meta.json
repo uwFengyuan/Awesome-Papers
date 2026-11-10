@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Second+Order+Smooth+Planning+with+Optimal+Transport+Bellman+Smoothing%22+OR+ti%3A%22Simultaneous+Speech+to+Speech+Translation+Without+Aligned+Data%22+OR+ti%3A%22Skip+a+Layer+or+Loop+It+Learning+Program+of+Layers+in+LLMs%22+OR+ti%3A%22SoftJAX+SoftTorch+Empowering+Automatic+Differentiation+Libraries+with+Informative+Gradients%22+OR+ti%3A%22Solving+Time+Dependent+Differential+Equations+with+Physical+Dynamical+Systems%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Second+Order+Smooth+Planning+with+Optimal+Transport+Bellman+Smoothing%22+OR+ti%3A%22Simultaneous+Speech+to+Speech+Translation+Without+Aligned+Data%22+OR+ti%3A%22Skip+a+Layer+or+Loop+It+Learning+Program+of+Layers+in+LLMs%22+OR+ti%3A%22SoftJAX+SoftTorch+Empowering+Automatic+Differentiation+Libraries+with+Informative+Gradients%22+OR+ti%3A%22Solving+Time+Dependent+Differential+Equations+with+Physical+Dynamical+Systems%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:45.283221+00:00",
+  "bytes": 10528,
+  "sha256": "4a2905c83d67edb71674f94aebdea4afc4615d46510e5f51a28a759d1f26e65f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5a6c0327e4cbfe947723.gz"
+}

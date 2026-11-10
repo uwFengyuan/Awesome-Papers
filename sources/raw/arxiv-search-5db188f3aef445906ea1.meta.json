@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Representational+Continuity+for+Unsupervised+Continual+Learning%22+OR+ti%3A%22Resolving+Training+Biases+via+Influence+based+Data+Relabeling%22+OR+ti%3A%22Sparse+Communication+via+Mixed+Distributions%22+OR+ti%3A%22StyleAlign+Analysis+and+Applications+of+Aligned+StyleGAN+Models%22+OR+ti%3A%22The+Hidden+Convex+Optimization+Landscape+of+Regularized+Two+Layer+ReLU+Networks+an+Exact%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Representational+Continuity+for+Unsupervised+Continual+Learning%22+OR+ti%3A%22Resolving+Training+Biases+via+Influence+based+Data+Relabeling%22+OR+ti%3A%22Sparse+Communication+via+Mixed+Distributions%22+OR+ti%3A%22StyleAlign+Analysis+and+Applications+of+Aligned+StyleGAN+Models%22+OR+ti%3A%22The+Hidden+Convex+Optimization+Landscape+of+Regularized+Two+Layer+ReLU+Networks+an+Exact%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:08.342957+00:00",
+  "bytes": 8467,
+  "sha256": "084c28e95a8abd5545d0defccde5aea7b9a77fb2b0491aa2a31280624f7d4b27",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5db188f3aef445906ea1.gz"
+}

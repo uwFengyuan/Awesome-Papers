@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Language+Conditioned+World+Modeling+for+Visual+Navigation%22+OR+ti%3A%22Leaderboard+Hacking+Preference+Based+Model+Evaluations+are+Vulnerable+to+Manipulation%22+OR+ti%3A%22Learning+Reveals+Invisible+Structure+in+Low+Rank+RNNs%22+OR+ti%3A%22Learning+Sparse+Semantic+Cortical+Atoms+for+Multisubject+Naturalistic+fMRI+Encoding%22+OR+ti%3A%22Learning+interpretable+Schur+forms+of+recurrent+weight+matrices%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Language+Conditioned+World+Modeling+for+Visual+Navigation%22+OR+ti%3A%22Leaderboard+Hacking+Preference+Based+Model+Evaluations+are+Vulnerable+to+Manipulation%22+OR+ti%3A%22Learning+Reveals+Invisible+Structure+in+Low+Rank+RNNs%22+OR+ti%3A%22Learning+Sparse+Semantic+Cortical+Atoms+for+Multisubject+Naturalistic+fMRI+Encoding%22+OR+ti%3A%22Learning+interpretable+Schur+forms+of+recurrent+weight+matrices%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:50.636604+00:00",
+  "bytes": 6728,
+  "sha256": "b89f33ad78b5e3fe908f26dd799d911908e1d2f0ed1154ff4084e3cbb0cacfe9",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-140f471b62ad3e0da049.gz"
+}

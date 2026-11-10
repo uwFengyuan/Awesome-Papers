@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Advancing+Expert+Specialization+for+Better+MoE%22+OR+ti%3A%22Agnostic+Active+Learning+Is+Always+Better+Than+Passive+Learning%22+OR+ti%3A%22An+Optimized+Franz+Parisi+Criterion+and+its+Equivalence+with+SQ+Lower+Bounds%22+OR+ti%3A%22Analog+In+memory+Training+on+General+Non+ideal+Resistive+Elements+The+Impact+of%22+OR+ti%3A%22Auto+Compressing+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Advancing+Expert+Specialization+for+Better+MoE%22+OR+ti%3A%22Agnostic+Active+Learning+Is+Always+Better+Than+Passive+Learning%22+OR+ti%3A%22An+Optimized+Franz+Parisi+Criterion+and+its+Equivalence+with+SQ+Lower+Bounds%22+OR+ti%3A%22Analog+In+memory+Training+on+General+Non+ideal+Resistive+Elements+The+Impact+of%22+OR+ti%3A%22Auto+Compressing+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:12.399740+00:00",
+  "bytes": 11613,
+  "sha256": "092f2fe0d16fb122f0a1f14650abf26f15c156a6b1e7ac9163aa16b3e0bf5db0",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-11aeb7e14c7f232bc10c.gz"
+}

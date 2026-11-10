@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Let+Features+Decide+Their+Own+Solvers+Hybrid+Feature+Caching+for+Diffusion+Transformers%22+OR+ti%3A%22Locality+aware+Parallel+Decoding+for+Efficient+Autoregressive+Image+Generation%22+OR+ti%3A%22LongWriter+Zero+Mastering+Ultra+Long+Text+Generation+via+Reinforcement+Learning%22+OR+ti%3A%22LoongRL+Reinforcement+Learning+for+Advanced+Reasoning+over+Long+Contexts%22+OR+ti%3A%22MC+Search+Evaluating+and+Enhancing+Multimodal+Agentic+Search+with+Structured+Long+Reasoning+Chains%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Let+Features+Decide+Their+Own+Solvers+Hybrid+Feature+Caching+for+Diffusion+Transformers%22+OR+ti%3A%22Locality+aware+Parallel+Decoding+for+Efficient+Autoregressive+Image+Generation%22+OR+ti%3A%22LongWriter+Zero+Mastering+Ultra+Long+Text+Generation+via+Reinforcement+Learning%22+OR+ti%3A%22LoongRL+Reinforcement+Learning+for+Advanced+Reasoning+over+Long+Contexts%22+OR+ti%3A%22MC+Search+Evaluating+and+Enhancing+Multimodal+Agentic+Search+with+Structured+Long+Reasoning+Chains%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:22:24.752259+00:00",
+  "bytes": 13901,
+  "sha256": "7ca597d815429a1a8a91e9a2af44b9b4659f2569cc7302b4d13f0298d930d125",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-05871b9fccb7a6d64f2e.gz"
+}

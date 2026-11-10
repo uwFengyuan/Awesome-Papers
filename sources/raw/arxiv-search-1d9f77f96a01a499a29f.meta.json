@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Combatting+Dimensional+Collapse+in+LLM+Pre+Training+Data+via+Submodular+File+Selection%22+OR+ti%3A%22Comparing+noisy+neural+population+dynamics+using+optimal+transport+distances%22+OR+ti%3A%22Composing+Unbalanced+Flows+for+Flexible+Docking+and+Relaxation%22+OR+ti%3A%22Compositional+Entailment+Learning+for+Hyperbolic+Vision+Language+Models%22+OR+ti%3A%22Computationally+Efficient+RL+under+Linear+Bellman+Completeness+for+Deterministic+Dynamics%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Combatting+Dimensional+Collapse+in+LLM+Pre+Training+Data+via+Submodular+File+Selection%22+OR+ti%3A%22Comparing+noisy+neural+population+dynamics+using+optimal+transport+distances%22+OR+ti%3A%22Composing+Unbalanced+Flows+for+Flexible+Docking+and+Relaxation%22+OR+ti%3A%22Compositional+Entailment+Learning+for+Hyperbolic+Vision+Language+Models%22+OR+ti%3A%22Computationally+Efficient+RL+under+Linear+Bellman+Completeness+for+Deterministic+Dynamics%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:41.982985+00:00",
+  "bytes": 8250,
+  "sha256": "1409cfa66c43bdc195e2be075e318e945b4a3ebefd597ab3d1d4b410bf9e2001",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-1d9f77f96a01a499a29f.gz"
+}

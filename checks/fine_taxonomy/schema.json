@@ -1,0 +1,394 @@
+{
+  "leaf_rules": [
+    {
+      "parent": "agents",
+      "id": "agent_memory",
+      "label": "Memory / 记忆",
+      "pattern": "agent.{0,40}memor|memor.{0,40}agent"
+    },
+    {
+      "parent": "agents",
+      "id": "multi_agent",
+      "label": "Multi-agent collaboration / 多Agent协作",
+      "pattern": "multi.agent|agent collaboration"
+    },
+    {
+      "parent": "agents",
+      "id": "tool_use",
+      "label": "Tool use / 工具调用",
+      "pattern": "tool.{0,20}(?:call|use)|function.call|computer.use"
+    },
+    {
+      "parent": "agents",
+      "id": "agent_planning",
+      "label": "Planning / Agent规划",
+      "pattern": "planning|workflow|agentic search"
+    },
+    {
+      "parent": "language_models",
+      "id": "pretraining",
+      "label": "Pretraining / 预训练",
+      "pattern": "pre.train|language model pretraining"
+    },
+    {
+      "parent": "language_models",
+      "id": "context_learning",
+      "label": "In-context learning / 上下文学习",
+      "pattern": "in.context learning|few.shot prompting"
+    },
+    {
+      "parent": "language_models",
+      "id": "knowledge_editing",
+      "label": "Knowledge editing / 知识编辑",
+      "pattern": "knowledge edit|model edit|parametric knowledge"
+    },
+    {
+      "parent": "language_models",
+      "id": "fine_tuning",
+      "label": "Fine-tuning / 微调",
+      "pattern": "fine.tun|instruction.tun|low.rank adaptation"
+    },
+    {
+      "parent": "language_models",
+      "id": "scaling",
+      "label": "Scaling / 缩放",
+      "pattern": "scaling law|model scaling|compute.optimal"
+    },
+    {
+      "parent": "language_models",
+      "id": "architecture",
+      "label": "Architectures / 架构",
+      "pattern": "mixture.of.experts|state.space model|transformer architect"
+    },
+    {
+      "parent": "alignment",
+      "id": "preference_optimization",
+      "label": "Preference optimization / 偏好优化",
+      "pattern": "\\bDPO\\b|preference optimi|direct preference"
+    },
+    {
+      "parent": "alignment",
+      "id": "reward_modeling",
+      "label": "Reward modeling / 奖励建模",
+      "pattern": "reward model|reward learning|process reward"
+    },
+    {
+      "parent": "alignment",
+      "id": "rlhf",
+      "label": "RLHF / 人类反馈强化学习",
+      "pattern": "\\bRLHF\\b|reinforcement learning from human"
+    },
+    {
+      "parent": "alignment",
+      "id": "safety_alignment",
+      "label": "Safety alignment / 安全对齐",
+      "pattern": "harmless|constitutional|safety align"
+    },
+    {
+      "parent": "reasoning",
+      "id": "mathematics",
+      "label": "Mathematical reasoning / 数学推理",
+      "pattern": "mathematical reason|math problem|theorem prov"
+    },
+    {
+      "parent": "reasoning",
+      "id": "logical_reasoning",
+      "label": "Logical reasoning / 逻辑推理",
+      "pattern": "logic|deductive|symbolic reason"
+    },
+    {
+      "parent": "reasoning",
+      "id": "search_planning",
+      "label": "Search and planning / 搜索与规划",
+      "pattern": "tree.search|Monte.Carlo.tree|planning|search algorithm"
+    },
+    {
+      "parent": "reasoning",
+      "id": "chain_of_thought",
+      "label": "Chain of thought / 思维链",
+      "pattern": "chain.of.thought|reasoning traject|test.time.scal"
+    },
+    {
+      "parent": "retrieval",
+      "id": "dense_retrieval",
+      "label": "Dense retrieval / 稠密检索",
+      "pattern": "dense retriev|bi.encoder|embedding.{0,20}retriev"
+    },
+    {
+      "parent": "retrieval",
+      "id": "rag",
+      "label": "Retrieval augmented generation / 检索增强生成",
+      "pattern": "retrieval.augmented|\\bRAG\\b"
+    },
+    {
+      "parent": "retrieval",
+      "id": "reranking",
+      "label": "Reranking / 重排",
+      "pattern": "rerank|re.rank|cross.encoder"
+    },
+    {
+      "parent": "translation",
+      "id": "low_resource",
+      "label": "Low-resource translation / 低资源翻译",
+      "pattern": "low.resource|zero.shot|unsupervised.{0,20}translat"
+    },
+    {
+      "parent": "translation",
+      "id": "simultaneous",
+      "label": "Simultaneous translation / 同声翻译",
+      "pattern": "simultaneous|streaming translat"
+    },
+    {
+      "parent": "translation",
+      "id": "multilingual",
+      "label": "Multilingual transfer / 多语言迁移",
+      "pattern": "multilingual|cross.lingual"
+    },
+    {
+      "parent": "translation",
+      "id": "document_translation",
+      "label": "Document translation / 文档翻译",
+      "pattern": "document.level|context.aware translat"
+    },
+    {
+      "parent": "translation",
+      "id": "non_autoregressive",
+      "label": "Non-autoregressive translation / 非自回归翻译",
+      "pattern": "non.autoregress|iterative refin"
+    },
+    {
+      "parent": "linguistics",
+      "id": "dependency_parsing",
+      "label": "Dependency parsing / 依存句法",
+      "pattern": "dependency pars|dependency tree"
+    },
+    {
+      "parent": "linguistics",
+      "id": "constituency_parsing",
+      "label": "Constituency parsing / 成分句法",
+      "pattern": "constituency|constituent pars"
+    },
+    {
+      "parent": "linguistics",
+      "id": "sentiment",
+      "label": "Sentiment and stance / 情感与立场",
+      "pattern": "sentiment|stance detect"
+    },
+    {
+      "parent": "linguistics",
+      "id": "inference",
+      "label": "Semantic inference / 语义推断",
+      "pattern": "natural language inference|textual entail|semantic pars"
+    },
+    {
+      "parent": "linguistics",
+      "id": "morphology",
+      "label": "Morphology and segmentation / 形态与分词",
+      "pattern": "morpholog|word segmentation|lexical segmentation"
+    },
+    {
+      "parent": "linguistics",
+      "id": "discourse",
+      "label": "Discourse and pragmatics / 篇章与语用",
+      "pattern": "discourse|pragmatic|coreference"
+    },
+    {
+      "parent": "text_generation",
+      "id": "summarization",
+      "label": "Summarization / 摘要",
+      "pattern": "summari"
+    },
+    {
+      "parent": "text_generation",
+      "id": "dialogue",
+      "label": "Dialogue / 对话",
+      "pattern": "dialogue|conversation|chatbot"
+    },
+    {
+      "parent": "text_generation",
+      "id": "controlled_generation",
+      "label": "Controlled generation / 可控生成",
+      "pattern": "controll.{0,20}generat|constrained decoding"
+    },
+    {
+      "parent": "information_extraction",
+      "id": "named_entities",
+      "label": "Named entities / 命名实体",
+      "pattern": "named.entity|entity recogn|entity link"
+    },
+    {
+      "parent": "information_extraction",
+      "id": "relations",
+      "label": "Relation extraction / 关系抽取",
+      "pattern": "relation extract|relation classifi"
+    },
+    {
+      "parent": "information_extraction",
+      "id": "events",
+      "label": "Event extraction / 事件抽取",
+      "pattern": "event extract|event detect|event corefer"
+    },
+    {
+      "parent": "reinforcement",
+      "id": "offline_rl",
+      "label": "Offline reinforcement learning / 离线强化学习",
+      "pattern": "offline|batch reinforcement"
+    },
+    {
+      "parent": "reinforcement",
+      "id": "model_based_rl",
+      "label": "Model-based reinforcement learning / 模型式强化学习",
+      "pattern": "model.based|world model"
+    },
+    {
+      "parent": "reinforcement",
+      "id": "policy_optimization",
+      "label": "Policy optimization / 策略优化",
+      "pattern": "policy gradient|policy optimi|actor.critic"
+    },
+    {
+      "parent": "reinforcement",
+      "id": "exploration",
+      "label": "Exploration / 探索",
+      "pattern": "exploration|intrinsic reward"
+    },
+    {
+      "parent": "reinforcement",
+      "id": "multi_agent_rl",
+      "label": "Multi-agent reinforcement learning / 多Agent强化学习",
+      "pattern": "multi.agent|cooperative reinforcement"
+    },
+    {
+      "parent": "optimization",
+      "id": "adaptive_gradient",
+      "label": "Adaptive gradients / 自适应梯度",
+      "pattern": "adaptive gradient|\\bAdam\\b|AdaGrad"
+    },
+    {
+      "parent": "optimization",
+      "id": "variance_reduction",
+      "label": "Variance reduction / 方差缩减",
+      "pattern": "variance.reduc|SVRG|SAGA"
+    },
+    {
+      "parent": "optimization",
+      "id": "distributed_optimization",
+      "label": "Distributed optimization / 分布式优化",
+      "pattern": "distributed|decentralized|communication.efficient"
+    },
+    {
+      "parent": "optimization",
+      "id": "stochastic_optimization",
+      "label": "Stochastic optimization / 随机优化",
+      "pattern": "stochastic|SGD|mini.batch"
+    },
+    {
+      "parent": "optimization",
+      "id": "convex_optimization",
+      "label": "Convex optimization / 凸优化",
+      "pattern": "\\bconvex\\b|proximal|primal.dual"
+    },
+    {
+      "parent": "optimization",
+      "id": "nonconvex_optimization",
+      "label": "Nonconvex optimization / 非凸优化",
+      "pattern": "non.convex|nonconvex|saddle.point"
+    },
+    {
+      "parent": "time_series",
+      "id": "forecasting",
+      "label": "Forecasting / 预测",
+      "pattern": "forecast|time.series predict"
+    },
+    {
+      "parent": "time_series",
+      "id": "foundation_models",
+      "label": "Foundation models / 基础模型",
+      "pattern": "foundation|pre.train|pretrain|representation"
+    },
+    {
+      "parent": "time_series",
+      "id": "generation",
+      "label": "Generation / 生成",
+      "pattern": "generat|synthes|simulat"
+    },
+    {
+      "parent": "time_series",
+      "id": "anomaly_detection",
+      "label": "Anomaly detection / 异常检测",
+      "pattern": "anomal|outlier"
+    },
+    {
+      "parent": "time_series",
+      "id": "imputation",
+      "label": "Imputation / 缺失处理",
+      "pattern": "imput|missing|irregular"
+    },
+    {
+      "parent": "alpha_mining",
+      "id": "llm_factor_discovery",
+      "label": "LLM factor discovery / LLM因子发现",
+      "pattern": "language model|\\bLLM\\b|agent"
+    },
+    {
+      "parent": "alpha_mining",
+      "id": "rl_factor_discovery",
+      "label": "RL factor discovery / 强化学习因子发现",
+      "pattern": "reinforcement|\\bRL\\b"
+    },
+    {
+      "parent": "alpha_mining",
+      "id": "search_factor_discovery",
+      "label": "Factor search / 因子搜索",
+      "pattern": "tree.search|MCTS|symbolic|genetic"
+    },
+    {
+      "parent": "alpha_mining",
+      "id": "factor_evaluation",
+      "label": "Factor evaluation / 因子评价",
+      "pattern": "evaluat|backtest|benchmark"
+    },
+    {
+      "parent": "generative",
+      "id": "diffusion",
+      "label": "Diffusion / 扩散",
+      "pattern": "diffusion|score.match"
+    },
+    {
+      "parent": "generative",
+      "id": "flow_matching",
+      "label": "Flow matching / 流匹配",
+      "pattern": "flow.match|rectified.flow|normalizing.flow"
+    },
+    {
+      "parent": "generative",
+      "id": "variational",
+      "label": "Variational models / 变分模型",
+      "pattern": "variational|autoencoder|\\bVAE"
+    },
+    {
+      "parent": "efficiency_systems",
+      "id": "quantization",
+      "label": "Quantization / 量化",
+      "pattern": "quanti[sz]|low.bit"
+    },
+    {
+      "parent": "efficiency_systems",
+      "id": "distillation",
+      "label": "Distillation / 蒸馏",
+      "pattern": "distill"
+    },
+    {
+      "parent": "efficiency_systems",
+      "id": "pruning",
+      "label": "Pruning / 剪枝",
+      "pattern": "prun|sparsif|sparse network"
+    },
+    {
+      "parent": "efficiency_systems",
+      "id": "efficient_attention",
+      "label": "Efficient attention / 高效注意力",
+      "pattern": "efficient.attention|flash.attention|linear.attention"
+    }
+  ]
+}

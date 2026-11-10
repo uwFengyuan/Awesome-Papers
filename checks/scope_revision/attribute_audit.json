@@ -1,0 +1,25 @@
+{
+  "source_commit": "b1af8187d846491a00d07a7cb50055c758478f8d",
+  "records": 9600,
+  "paper_length_counts": {
+    "long": 2216,
+    "short": 287,
+    "unverified": 7097
+  },
+  "by_venue_and_length": {
+    "ACL/long": 2216,
+    "ACL/short": 284,
+    "ACL/unverified": 8,
+    "EMNLP/unverified": 2367,
+    "EMNLP/short": 3,
+    "ICLR/unverified": 983,
+    "ICML/unverified": 2875,
+    "NeurIPS/unverified": 864
+  },
+  "publication_track_counts": {
+    "main": 9600
+  },
+  "pdf_page_counts_used_to_infer_paper_type": false,
+  "catalog_and_pdfs_modified": false,
+  "note": "Attribute audit only; final collection scope awaits clarification."
+}

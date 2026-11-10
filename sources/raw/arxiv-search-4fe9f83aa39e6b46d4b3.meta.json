@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22High+dimensional+neuronal+activity+from+low+dimensional+latent+dynamics+a+solvable+model%22+OR+ti%3A%22HyperET+Efficient+Training+in+Hyperbolic+Space+for+Multi+modal+Large+Language+Models%22+OR+ti%3A%22Identifiability+of+Deep+Polynomial+Neural+Networks%22+OR+ti%3A%22ImageNet+trained+CNNs+are+not+biased+towards+texture+Revisiting+feature+reliance+through+controlled%22+OR+ti%3A%22Improved+Regret+Bounds+for+Gaussian+Process+Upper+Confidence+Bound+in+Bayesian+Optimization%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22High+dimensional+neuronal+activity+from+low+dimensional+latent+dynamics+a+solvable+model%22+OR+ti%3A%22HyperET+Efficient+Training+in+Hyperbolic+Space+for+Multi+modal+Large+Language+Models%22+OR+ti%3A%22Identifiability+of+Deep+Polynomial+Neural+Networks%22+OR+ti%3A%22ImageNet+trained+CNNs+are+not+biased+towards+texture+Revisiting+feature+reliance+through+controlled%22+OR+ti%3A%22Improved+Regret+Bounds+for+Gaussian+Process+Upper+Confidence+Bound+in+Bayesian+Optimization%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:41.389833+00:00",
+  "bytes": 10143,
+  "sha256": "6ab1174a16cdaaabad2252adb214c6d20b4aad0537ae73f326738bfcdc3bea14",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4fe9f83aa39e6b46d4b3.gz"
+}

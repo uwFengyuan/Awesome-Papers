@@ -1,0 +1,10 @@
+{
+  "url": "https://nips.cc/Conferences/2018/Awards",
+  "final_url": "https://nips.cc/Conferences/2018/Awards",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:44.976466+00:00",
+  "bytes": 45832,
+  "sha256": "4c2b287c28de263017f8452bf987bb4a679d2bee4fb65e88043e5816e0f3174a",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/neurips-2018-awardorigin-0.gz"
+}

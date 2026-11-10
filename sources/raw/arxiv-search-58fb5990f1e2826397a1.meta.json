@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22TTSDS2+Resources+and+Benchmark+for+Evaluating+Human+Quality+Text+to+Speech+Systems%22+OR+ti%3A%22TabStruct+Measuring+Structural+Fidelity+of+Tabular+Data%22+OR+ti%3A%22Taming+Momentum+Rethinking+Optimizer+States+Through+Low+Rank+Approximation%22+OR+ti%3A%22Task+free+Adaptive+Meta+Black+box+Optimization%22+OR+ti%3A%22Temporal+Sparse+Autoencoders+Leveraging+the+Sequential+Nature+of+Language+for+Interpretability%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22TTSDS2+Resources+and+Benchmark+for+Evaluating+Human+Quality+Text+to+Speech+Systems%22+OR+ti%3A%22TabStruct+Measuring+Structural+Fidelity+of+Tabular+Data%22+OR+ti%3A%22Taming+Momentum+Rethinking+Optimizer+States+Through+Low+Rank+Approximation%22+OR+ti%3A%22Task+free+Adaptive+Meta+Black+box+Optimization%22+OR+ti%3A%22Temporal+Sparse+Autoencoders+Leveraging+the+Sequential+Nature+of+Language+for+Interpretability%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:39.783981+00:00",
+  "bytes": 13447,
+  "sha256": "30b35bbda4c0ec1c9266cdf6a81c5a9cf5d9160e6cbb04312c2d11bfdffcf72b",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-58fb5990f1e2826397a1.gz"
+}

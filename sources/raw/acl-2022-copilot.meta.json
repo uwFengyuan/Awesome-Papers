@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/acl/acl2022.json",
+  "final_url": "https://raw.githubusercontent.com/papercopilot/paperlists/main/acl/acl2022.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:41.183613+00:00",
+  "bytes": 3743617,
+  "sha256": "8a6b7204881be1c5121c404ba5d757fcad33020856af019e944c9b994e9b198a",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/acl-2022-copilot.gz"
+}

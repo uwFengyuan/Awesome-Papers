@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Vid+LLM+A+Compact+Video+based+3D+Multimodal+LLM+with+Reconstruction+Reasoning+Synergy%22+OR+ti%3A%22Visual+Planning+Let+s+Think+Only+with+Images%22+OR+ti%3A%22Visual+symbolic+mechanisms+Emergent+symbol+processing+in+Vision+Language+Models%22+OR+ti%3A%22WAFT+Warping+Alone+Field+Transforms+for+Optical+Flow%22+OR+ti%3A%22WAVE+Learning+Unified+Versatile+Audio+Visual+Embeddings+with+Multimodal+LLM%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Vid+LLM+A+Compact+Video+based+3D+Multimodal+LLM+with+Reconstruction+Reasoning+Synergy%22+OR+ti%3A%22Visual+Planning+Let+s+Think+Only+with+Images%22+OR+ti%3A%22Visual+symbolic+mechanisms+Emergent+symbol+processing+in+Vision+Language+Models%22+OR+ti%3A%22WAFT+Warping+Alone+Field+Transforms+for+Optical+Flow%22+OR+ti%3A%22WAVE+Learning+Unified+Versatile+Audio+Visual+Embeddings+with+Multimodal+LLM%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:23:57.435525+00:00",
+  "bytes": 9554,
+  "sha256": "c1b7ac3a1d0caeb5b2c3799427dc204da9d49d0da63788f9f9b937de8416cecf",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-42562edf5a665dafac9a.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22LRM+Large+Reconstruction+Model+for+Single+Image+to+3D%22+OR+ti%3A%22Latent+Trajectory+Learning+for+Limited+Timestamps+under+Distribution+Shift+over+Time%22+OR+ti%3A%22Learning+Energy+Decompositions+for+Partial+Inference+in+GFlowNets%22+OR+ti%3A%22Less+is+More+Fewer+Interpretable+Region+via+Submodular+Subset+Selection%22+OR+ti%3A%22Lipschitz+Singularities+in+Diffusion+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22LRM+Large+Reconstruction+Model+for+Single+Image+to+3D%22+OR+ti%3A%22Latent+Trajectory+Learning+for+Limited+Timestamps+under+Distribution+Shift+over+Time%22+OR+ti%3A%22Learning+Energy+Decompositions+for+Partial+Inference+in+GFlowNets%22+OR+ti%3A%22Less+is+More+Fewer+Interpretable+Region+via+Submodular+Subset+Selection%22+OR+ti%3A%22Lipschitz+Singularities+in+Diffusion+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:49.434999+00:00",
+  "bytes": 11381,
+  "sha256": "e103b8e52ac380d544d61271e74f0d1a808433c9ca2455256b3a10bf2871e3d8",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-135b09094d1f6bb6865f.gz"
+}

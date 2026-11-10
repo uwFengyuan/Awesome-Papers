@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+Convergence+Rate+of+LoRA+Gradient+Descent%22+OR+ti%3A%22On+the+Difficulty+of+Learning+a+Meta+network+for+Training+Data+Selection%22+OR+ti%3A%22On+the+Identifiability+of+Poisson+Branching+Structural+Causal+Model+Under+Latent+Confounding%22+OR+ti%3A%22On+the+Role+of+Computation+in+Reinforcement+Learning%22+OR+ti%3A%22Optimal+Decision+Making+Based+on+Prediction+Sets%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22On+the+Convergence+Rate+of+LoRA+Gradient+Descent%22+OR+ti%3A%22On+the+Difficulty+of+Learning+a+Meta+network+for+Training+Data+Selection%22+OR+ti%3A%22On+the+Identifiability+of+Poisson+Branching+Structural+Causal+Model+Under+Latent+Confounding%22+OR+ti%3A%22On+the+Role+of+Computation+in+Reinforcement+Learning%22+OR+ti%3A%22Optimal+Decision+Making+Based+on+Prediction+Sets%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:23.755216+00:00",
+  "bytes": 9422,
+  "sha256": "7acbea68c7032f63bd04a337f9e8dc171b9dccfd9b4c08646dcd520fe4c69f92",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-51f4a7ee81d97aab6d8f.gz"
+}

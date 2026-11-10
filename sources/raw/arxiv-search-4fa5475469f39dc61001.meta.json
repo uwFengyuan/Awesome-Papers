@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Synthetic+continued+pretraining%22+OR+ti%3A%22TANGO+Co+Speech+Gesture+Video+Reenactment+with+Hierarchical+Audio+Motion+Embedding+and+Diffusion%22+OR+ti%3A%22TetSphere+Splatting+Representing+High+Quality+Geometry+with+Lagrangian+Volumetric+Meshes%22+OR+ti%3A%22The+Complexity+of+Two+Team+Polymatrix+Games+with+Independent+Adversaries%22+OR+ti%3A%22The+Geometry+of+Categorical+and+Hierarchical+Concepts+in+Large+Language+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Synthetic+continued+pretraining%22+OR+ti%3A%22TANGO+Co+Speech+Gesture+Video+Reenactment+with+Hierarchical+Audio+Motion+Embedding+and+Diffusion%22+OR+ti%3A%22TetSphere+Splatting+Representing+High+Quality+Geometry+with+Lagrangian+Volumetric+Meshes%22+OR+ti%3A%22The+Complexity+of+Two+Team+Polymatrix+Games+with+Independent+Adversaries%22+OR+ti%3A%22The+Geometry+of+Categorical+and+Hierarchical+Concepts+in+Large+Language+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:31.267373+00:00",
+  "bytes": 13002,
+  "sha256": "a1c6b8c9b2e57d331136871623bf7d8afefea8a49d98548a351721018f83ce38",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4fa5475469f39dc61001.gz"
+}

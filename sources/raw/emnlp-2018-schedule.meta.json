@@ -1,0 +1,10 @@
+{
+  "url": "https://2018.emnlp.org/schedule/",
+  "final_url": "https://2018.emnlp.org/schedule/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.180156+00:00",
+  "bytes": 498352,
+  "sha256": "6323c30a9f2a906adc9aa88ca53a2777021fcd55912ed84b826d8b93da419f94",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2018-schedule.gz"
+}

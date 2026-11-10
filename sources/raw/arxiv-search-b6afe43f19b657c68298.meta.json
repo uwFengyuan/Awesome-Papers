@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Capturing+the+Temporal+Dependence+of+Training+Data+Influence%22+OR+ti%3A%22ChartMoE+Mixture+of+Diversely+Aligned+Expert+Connector+for+Chart+Understanding%22+OR+ti%3A%22Cheating+Automatic+LLM+Benchmarks+Null+Models+Achieve+High+Win+Rates%22+OR+ti%3A%22Classic+but+Everlasting+Traditional+Gradient+Based+Algorithms+Converge+Fast+Even+in+Time+Varying%22+OR+ti%3A%22Classic+but+Everlasting+Traditional+Gradient+Based+Algorithms+Converges+Fast+Even+in+Time+Varying%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Capturing+the+Temporal+Dependence+of+Training+Data+Influence%22+OR+ti%3A%22ChartMoE+Mixture+of+Diversely+Aligned+Expert+Connector+for+Chart+Understanding%22+OR+ti%3A%22Cheating+Automatic+LLM+Benchmarks+Null+Models+Achieve+High+Win+Rates%22+OR+ti%3A%22Classic+but+Everlasting+Traditional+Gradient+Based+Algorithms+Converge+Fast+Even+in+Time+Varying%22+OR+ti%3A%22Classic+but+Everlasting+Traditional+Gradient+Based+Algorithms+Converges+Fast+Even+in+Time+Varying%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:39.693397+00:00",
+  "bytes": 9424,
+  "sha256": "ba0f2dfe0b1307e0372c8332b4bc352ac8c2afa5c652e5169a63322164b401c3",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b6afe43f19b657c68298.gz"
+}

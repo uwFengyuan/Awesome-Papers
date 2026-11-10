@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/static/virtual/data/iclr-2020-orals-posters.json",
+  "final_url": "https://iclr.cc/static/virtual/data/iclr-2020-orals-posters.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:50.692937+00:00",
+  "bytes": 1925942,
+  "sha256": "df9a4abb1b7e067ec655f7c95757f4feb543038d01944998d121b80d8affa081",
+  "content_type": "application/json",
+  "cache_path": "sources/raw/iclr-2020-events.gz"
+}

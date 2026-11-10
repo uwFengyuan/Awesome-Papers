@@ -1,0 +1,10 @@
+{
+  "url": "https://2019.aclweb.org/",
+  "final_url": "https://2019.aclweb.org/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:48:03.636588+00:00",
+  "bytes": 55,
+  "sha256": "07814e24e71c03738fe879a29e5055ba77cd134bd24fa4897e959235eb9826f2",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2019-root.gz"
+}

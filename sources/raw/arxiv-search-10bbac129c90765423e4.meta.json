@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ECHO+Elastic+Speculative+Decoding+with+Sparse+Gating+for+High+Concurrency+Scenarios%22+OR+ti%3A%22Equilibrium+Pricing+in+Oligopolistic+Data+Markets%22+OR+ti%3A%22Equivalence+of+Context+and+Parameter+Updates+in+Modern+Transformer+Blocks%22+OR+ti%3A%22Error+Propagation+Mechanisms+and+Compensation+Strategies+for+Quantized+Diffusion+Models%22+OR+ti%3A%22Evaluating+Robustness+of+Reasoning+Models+on+Parameterized+Logical+Problems%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ECHO+Elastic+Speculative+Decoding+with+Sparse+Gating+for+High+Concurrency+Scenarios%22+OR+ti%3A%22Equilibrium+Pricing+in+Oligopolistic+Data+Markets%22+OR+ti%3A%22Equivalence+of+Context+and+Parameter+Updates+in+Modern+Transformer+Blocks%22+OR+ti%3A%22Error+Propagation+Mechanisms+and+Compensation+Strategies+for+Quantized+Diffusion+Models%22+OR+ti%3A%22Evaluating+Robustness+of+Reasoning+Models+on+Parameterized+Logical+Problems%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:42.200689+00:00",
+  "bytes": 10222,
+  "sha256": "5290f98c3a6558eb8565133fd61833c692e114b2284abf24fcf24b1b39fad387",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-10bbac129c90765423e4.gz"
+}

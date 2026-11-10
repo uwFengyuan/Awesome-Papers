@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Booster+Tackling+Harmful+Fine+tuning+for+Large+Language+Models+via+Attenuating+Harmful+Perturbation%22+OR+ti%3A%22Brain+Bandit+A+Biologically+Grounded+Neural+Network+for+Efficient+Control+of+Exploration%22+OR+ti%3A%22CAX+Cellular+Automata+Accelerated+in+JAX%22+OR+ti%3A%22Can+Neural+Networks+Achieve+Optimal+Computational+statistical+Tradeoff+An+Analysis+on+Single+Index%22+OR+ti%3A%22Can+a+MISL+Fly+Analysis+and+Ingredients+for+Mutual+Information+Skill+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Booster+Tackling+Harmful+Fine+tuning+for+Large+Language+Models+via+Attenuating+Harmful+Perturbation%22+OR+ti%3A%22Brain+Bandit+A+Biologically+Grounded+Neural+Network+for+Efficient+Control+of+Exploration%22+OR+ti%3A%22CAX+Cellular+Automata+Accelerated+in+JAX%22+OR+ti%3A%22Can+Neural+Networks+Achieve+Optimal+Computational+statistical+Tradeoff+An+Analysis+on+Single+Index%22+OR+ti%3A%22Can+a+MISL+Fly+Analysis+and+Ingredients+for+Mutual+Information+Skill+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:33.506397+00:00",
+  "bytes": 10559,
+  "sha256": "b20fcd7166a58db5132ffbf9fd18ef34211552855a300582c2e96a865d42271f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-edeefa1e074f31fa5a2f.gz"
+}

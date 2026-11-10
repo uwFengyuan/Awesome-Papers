@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Two+Effects+One+Trigger+On+the+Modality+Gap+Object+Bias+and+Information+Imbalance%22+OR+ti%3A%22Unlearning+based+Neural+Interpretations%22+OR+ti%3A%22Unlocking+State+Tracking+in+Linear+RNNs+Through+Negative+Eigenvalues%22+OR+ti%3A%22Unlocking+the+Power+of+Function+Vectors+for+Characterizing+and+Mitigating+Catastrophic+Forgetting+in%22+OR+ti%3A%22Variational+Diffusion+Posterior+Sampling+with+Midpoint+Guidance%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Two+Effects+One+Trigger+On+the+Modality+Gap+Object+Bias+and+Information+Imbalance%22+OR+ti%3A%22Unlearning+based+Neural+Interpretations%22+OR+ti%3A%22Unlocking+State+Tracking+in+Linear+RNNs+Through+Negative+Eigenvalues%22+OR+ti%3A%22Unlocking+the+Power+of+Function+Vectors+for+Characterizing+and+Mitigating+Catastrophic+Forgetting+in%22+OR+ti%3A%22Variational+Diffusion+Posterior+Sampling+with+Midpoint+Guidance%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:03.601824+00:00",
+  "bytes": 14212,
+  "sha256": "613c1782bc40092703ee1edac2946eeb8907f67ba484e38d75fdfb8753623cf4",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-ca6c85d95adc44730a8a.gz"
+}

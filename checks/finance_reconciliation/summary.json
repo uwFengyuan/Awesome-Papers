@@ -1,0 +1,62 @@
+{
+  "status": "reconciled",
+  "reference_papers": 1497,
+  "reference_by_track": {
+    "main": 1310,
+    "findings": 187
+  },
+  "local_finance_papers": 1497,
+  "local_by_track": {
+    "main": 1310,
+    "findings": 187
+  },
+  "matched_records": 1497,
+  "missing_in_library": [],
+  "only_in_library": [],
+  "matched_by_alternate_identity": [],
+  "identity_or_length_metadata_differences": 0,
+  "finance_annotation_differences": 0,
+  "finance_annotation_affected_papers": 0,
+  "pdf_record_differences": [],
+  "equivalent_unavailable_status_label_differences": 50,
+  "matched_available_pdfs": 1447,
+  "both_missing_local_pdfs": 50,
+  "initial_finance_annotation_affected_papers": 121,
+  "initial_topic_label_affected_papers": 119,
+  "physical_finance_pdf_files_hashed": 2894,
+  "pdf_integrity_failures": [],
+  "initial_missing": [
+    "2025.findings-acl.14",
+    "2026.findings-emnlp.1825",
+    "2026.findings-emnlp.341"
+  ],
+  "initial_extra": [
+    "2021.emnlp-main.165",
+    "2021.emnlp-main.557",
+    "2023.emnlp-main.111",
+    "2023.findings-acl.219",
+    "2023.findings-emnlp.138",
+    "2023.findings-emnlp.434",
+    "2025.findings-emnlp.972",
+    "2026.emnlp-main.2572",
+    "2026.findings-emnlp.1767",
+    "2026.findings-emnlp.2448"
+  ],
+  "held_length_unverified": [
+    "2021.emnlp-main.165",
+    "2021.emnlp-main.557",
+    "2023.findings-acl.219",
+    "2023.findings-emnlp.138",
+    "2023.findings-emnlp.434",
+    "2026.findings-emnlp.1767",
+    "2026.findings-emnlp.2448"
+  ],
+  "reference_sources_unchanged": true,
+  "reference_repository_modified": true,
+  "reference_corrected_records": [
+    "2023.emnlp-main.111",
+    "2026.emnlp-main.2572",
+    "2025.findings-emnlp.972"
+  ],
+  "network_downloads": 0
+}

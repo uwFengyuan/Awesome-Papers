@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22EDINET+Bench+Evaluating+LLMs+on+Complex+Financial+Tasks+using+Japanese+Financial+Statements%22+OR+ti%3A%22ExpGuard+LLM+Content+Moderation+in+Specialized+Domains%22+OR+ti%3A%22FinSearchComp+Towards+a+Realistic+Expert+Level+Evaluation+of+Financial+Search+and+Reasoning%22+OR+ti%3A%22GAPrune+Gradient+Alignment+Pruning+for+Domain+Aware+Embeddings%22+OR+ti%3A%22Healthcare+Insurance+Fraud+Detection+via+Continual+Fiedler+Vector+Graph+Model%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22EDINET+Bench+Evaluating+LLMs+on+Complex+Financial+Tasks+using+Japanese+Financial+Statements%22+OR+ti%3A%22ExpGuard+LLM+Content+Moderation+in+Specialized+Domains%22+OR+ti%3A%22FinSearchComp+Towards+a+Realistic+Expert+Level+Evaluation+of+Financial+Search+and+Reasoning%22+OR+ti%3A%22GAPrune+Gradient+Alignment+Pruning+for+Domain+Aware+Embeddings%22+OR+ti%3A%22Healthcare+Insurance+Fraud+Detection+via+Continual+Fiedler+Vector+Graph+Model%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:04.562078+00:00",
+  "bytes": 13436,
+  "sha256": "9b99abc541599b37f228cd6bf0a228f64f2953bcba8b7ceee3545a745284e2f6",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7221edec2a46991ee619.gz"
+}

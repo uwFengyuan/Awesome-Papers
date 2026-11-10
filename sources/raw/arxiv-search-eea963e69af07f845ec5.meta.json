@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Cut+Your+Losses+in+Large+Vocabulary+Language+Models%22+OR+ti%3A%22Cybench+A+Framework+for+Evaluating+Cybersecurity+Capabilities+and+Risks+of+Language+Models%22+OR+ti%3A%22CyberHost+A+One+stage+Diffusion+Framework+for+Audio+driven+Talking+Body+Generation%22+OR+ti%3A%22DEPT+Decoupled+Embeddings+for+Pre+training+Language+Models%22+OR+ti%3A%22DSPO+Direct+Score+Preference+Optimization+for+Diffusion+Model+Alignment%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Cut+Your+Losses+in+Large+Vocabulary+Language+Models%22+OR+ti%3A%22Cybench+A+Framework+for+Evaluating+Cybersecurity+Capabilities+and+Risks+of+Language+Models%22+OR+ti%3A%22CyberHost+A+One+stage+Diffusion+Framework+for+Audio+driven+Talking+Body+Generation%22+OR+ti%3A%22DEPT+Decoupled+Embeddings+for+Pre+training+Language+Models%22+OR+ti%3A%22DSPO+Direct+Score+Preference+Optimization+for+Diffusion+Model+Alignment%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:47.444550+00:00",
+  "bytes": 10903,
+  "sha256": "9e9798fcbe77482af4d54593f7ab2b9d873428a2f78978b69823781312416e6d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-eea963e69af07f845ec5.gz"
+}

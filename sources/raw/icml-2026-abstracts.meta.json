@@ -1,0 +1,10 @@
+{
+  "url": "https://icml.cc/static/virtual/data/icml-2026-abstracts.json",
+  "final_url": "https://icml.cc/static/virtual/data/icml-2026-abstracts.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:46:22.829094+00:00",
+  "bytes": 8776249,
+  "sha256": "05f825de19a74b8a3e97c21784eef057934d4d8829ee555c0f3ecc54fc2d5ad7",
+  "content_type": "application/json",
+  "cache_path": "sources/raw/icml-2026-abstracts.gz"
+}

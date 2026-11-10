@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-2019/master/schedule.acl2019.org/index.html",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-2019/master/schedule.acl2019.org/index.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:04.043413+00:00",
+  "bytes": 1412539,
+  "sha256": "e5c21fb66a6cb8513539d56afeb720b763afd2700635a81186ace1c4d638d4ce",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/acl-2019-fullschedule-github.gz"
+}

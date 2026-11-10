@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22An+Online+Learning+Theory+of+Trading+Volume+Maximization%22+OR+ti%3A%22Feature+Responsiveness+Scores+Model+Agnostic+Explanations+for+Recourse%22+OR+ti%3A%22Has+the+Deep+Neural+Network+learned+the+Stochastic+Process+An+Evaluation+Viewpoint%22+OR+ti%3A%22InsightBench+Evaluating+Business+Analytics+Agents+Through+Multi+Step+Insight+Generation%22+OR+ti%3A%22InvestESG+A+multi+agent+reinforcement+learning+benchmark+for+studying+climate+investment+as+a%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22An+Online+Learning+Theory+of+Trading+Volume+Maximization%22+OR+ti%3A%22Feature+Responsiveness+Scores+Model+Agnostic+Explanations+for+Recourse%22+OR+ti%3A%22Has+the+Deep+Neural+Network+learned+the+Stochastic+Process+An+Evaluation+Viewpoint%22+OR+ti%3A%22InsightBench+Evaluating+Business+Analytics+Agents+Through+Multi+Step+Insight+Generation%22+OR+ti%3A%22InvestESG+A+multi+agent+reinforcement+learning+benchmark+for+studying+climate+investment+as+a%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:12:52.960337+00:00",
+  "bytes": 11711,
+  "sha256": "170d35495a5d0c5d7791dda136f927f038c38f278b7cb4edbfddd4042faaa9be",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7b75047c453dbbe13b59.gz"
+}

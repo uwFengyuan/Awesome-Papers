@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22APS+Bias+Controlled+Adaptive+Prototype+Simulation+for+Population+Scale+LLM+Agents%22+OR+ti%3A%22BEAST3D+animal+behavioral+analysis+and+neural+encoding+from+multi+view+video+via+Gaussian%22+OR+ti%3A%22Behavioral+Geometric+Supervision+Aligns+Video+Foundation+Models+with+Human+Social+Perception%22+OR+ti%3A%22Binding+Multiple+Modalities+via+Multimodal+Wasserstein+Barycenter%22+OR+ti%3A%22BrainWorld+A+Structural+Prior+Conditioned+Generative+Model+for+Whole+Brain+4D+fMRI+Dynamics%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22APS+Bias+Controlled+Adaptive+Prototype+Simulation+for+Population+Scale+LLM+Agents%22+OR+ti%3A%22BEAST3D+animal+behavioral+analysis+and+neural+encoding+from+multi+view+video+via+Gaussian%22+OR+ti%3A%22Behavioral+Geometric+Supervision+Aligns+Video+Foundation+Models+with+Human+Social+Perception%22+OR+ti%3A%22Binding+Multiple+Modalities+via+Multimodal+Wasserstein+Barycenter%22+OR+ti%3A%22BrainWorld+A+Structural+Prior+Conditioned+Generative+Model+for+Whole+Brain+4D+fMRI+Dynamics%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:27.942936+00:00",
+  "bytes": 14825,
+  "sha256": "920cda379f6987cd65529ed76d7904854311e79e85ca0223a533ceeaf90a6cc0",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-ead99040acb4664ed7b3.gz"
+}

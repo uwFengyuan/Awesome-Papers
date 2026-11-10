@@ -1,0 +1,11 @@
+{
+  "retained_features_identical": true,
+  "newly_classified": [
+    "2025.findings-acl.14",
+    "2026.findings-emnlp.341",
+    "2026.findings-emnlp.1825"
+  ],
+  "source_code_sha256": "d269685e5e7d8870604aa19e7048a80d1e9052587fd0497c4d8f25d895f7417b",
+  "old_input_sha256": "8ce1c9da863302db24a296a6e6703acec3117662abbb0e9b9512697625135303",
+  "new_input_sha256": "24eaa729ddb64624d4e0ec28b6cc13afc3162c52b3a7cba36d5ced1e0def8ec3"
+}

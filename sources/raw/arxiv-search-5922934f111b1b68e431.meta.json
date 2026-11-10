@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Strong+Stochastic+Flow+Maps%22+OR+ti%3A%22Surprises+in+Proper+Positive+Only+Learning%22+OR+ti%3A%22SyncWorld+Visual+Calibration+Enables+World+Models+as+Zero+Shot+Simulators%22+OR+ti%3A%22TALK+One+Shot+Batch+Design+for+Protein+Variant+Effect+Prediction%22+OR+ti%3A%22Tessellations+of+Semi+Discrete+Flow+Matching%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Strong+Stochastic+Flow+Maps%22+OR+ti%3A%22Surprises+in+Proper+Positive+Only+Learning%22+OR+ti%3A%22SyncWorld+Visual+Calibration+Enables+World+Models+as+Zero+Shot+Simulators%22+OR+ti%3A%22TALK+One+Shot+Batch+Design+for+Protein+Variant+Effect+Prediction%22+OR+ti%3A%22Tessellations+of+Semi+Discrete+Flow+Matching%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:28:14.994155+00:00",
+  "bytes": 12454,
+  "sha256": "d43709f83a7fc53911c4cc94f86bad548746b9cda13eb33ebedc7a7ac7cd0709",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5922934f111b1b68e431.gz"
+}

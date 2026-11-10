@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Personalized+Safety+in+Federated+Fine+Tuning+of+Large+Language+Models%22+OR+ti%3A%22Retrieval+Augmented+Diffusion+Modeling+for+Stochastic+Discount+Factor+Portfolios%22+OR+ti%3A%22Runtime+Verification+of+Multiple+Natural+Language+Criteria+for+Agent+Governance%22+OR+ti%3A%22TSFM+Meets+LLM+Context+as+Covariate%22+OR+ti%3A%22TimeClaw+A+Time+Series+AI+Agent+with+Exploratory+Execution+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Personalized+Safety+in+Federated+Fine+Tuning+of+Large+Language+Models%22+OR+ti%3A%22Retrieval+Augmented+Diffusion+Modeling+for+Stochastic+Discount+Factor+Portfolios%22+OR+ti%3A%22Runtime+Verification+of+Multiple+Natural+Language+Criteria+for+Agent+Governance%22+OR+ti%3A%22TSFM+Meets+LLM+Context+as+Covariate%22+OR+ti%3A%22TimeClaw+A+Time+Series+AI+Agent+with+Exploratory+Execution+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:40.298090+00:00",
+  "bytes": 6205,
+  "sha256": "ef8b059226e8a73382b2865efd022ceb99a5fa79671e89d1be63e9cbcb66df88",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-024e42ed3494dbebf67b.gz"
+}

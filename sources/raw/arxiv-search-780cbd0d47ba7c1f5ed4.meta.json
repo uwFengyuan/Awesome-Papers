@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Nash+Equilibria+in+Games+with+Playerwise+Concave+Coupling+Constraints+Existence+and+Computation%22+OR+ti%3A%22Non+Euclidean+Gradient+Descent+Operates+at+the+Edge+of+Stability%22+OR+ti%3A%22OMAC+A+Holistic+Optimization+Framework+for+LLM+Based+Multi+Agent+Collaboration%22+OR+ti%3A%22OPUS+Towards+Efficient+and+Principled+Data+Selection+in+Large+Language+Model+Pre+training%22+OR+ti%3A%22On+Minimum+Depth+and+Width+of+Floating+Point+Neural+Networks+for+Representing+Floating%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Nash+Equilibria+in+Games+with+Playerwise+Concave+Coupling+Constraints+Existence+and+Computation%22+OR+ti%3A%22Non+Euclidean+Gradient+Descent+Operates+at+the+Edge+of+Stability%22+OR+ti%3A%22OMAC+A+Holistic+Optimization+Framework+for+LLM+Based+Multi+Agent+Collaboration%22+OR+ti%3A%22OPUS+Towards+Efficient+and+Principled+Data+Selection+in+Large+Language+Model+Pre+training%22+OR+ti%3A%22On+Minimum+Depth+and+Width+of+Floating+Point+Neural+Networks+for+Representing+Floating%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:20.616421+00:00",
+  "bytes": 10641,
+  "sha256": "b410b2ce2249b06c9476509f69c4ba12bb7fbc34498698f780213f71191ba39e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-780cbd0d47ba7c1f5ed4.gz"
+}

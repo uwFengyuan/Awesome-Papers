@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Protein+Autoregressive+Modeling+via+Multiscale+Structure+Generation%22+OR+ti%3A%22Protein+Fold+Classification+at+Scale+Benchmarking+and+Pretraining%22+OR+ti%3A%22Quantifying+Frontier+LLM+Capabilities+for+Container+Sandbox+Escape%22+OR+ti%3A%22Rare+Event+Analysis+of+Large+Language+Models%22+OR+ti%3A%22Rational+Transductors%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Protein+Autoregressive+Modeling+via+Multiscale+Structure+Generation%22+OR+ti%3A%22Protein+Fold+Classification+at+Scale+Benchmarking+and+Pretraining%22+OR+ti%3A%22Quantifying+Frontier+LLM+Capabilities+for+Container+Sandbox+Escape%22+OR+ti%3A%22Rare+Event+Analysis+of+Large+Language+Models%22+OR+ti%3A%22Rational+Transductors%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:33.057709+00:00",
+  "bytes": 12871,
+  "sha256": "1343e84694aba168b28f891ff2a9467d629865236f74d0846f73d138a9008099",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-05c44a7a8a35f3dc50ec.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2024.findings.xml",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/2024.findings.xml",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-10T02:46:50.963545+00:00",
+  "bytes": 5781386,
+  "sha256": "49ab53f0fc319e4a74a562b1b38bd839d71a2fcf33bb06248143263bbec1e388",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/findings-2024-anthology.gz"
+}

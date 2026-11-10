@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Snapshot+of+Influence+A+Local+Data+Attribution+Framework+for+Online+Reinforcement+Learning%22+OR+ti%3A%22A+is+for+Absorption+Studying+Feature+Splitting+and+Absorption+in+Sparse+Autoencoders%22+OR+ti%3A%22A+multiscale+analysis+of+mean+field+transformers+in+the+moderate+interaction+regime%22+OR+ti%3A%22Adaptive+Surrogate+Gradients+for+Sequential+Reinforcement+Learning+in+Spiking+Neural+Networks%22+OR+ti%3A%22Adjoint+Schr+dinger+Bridge+Sampler%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Snapshot+of+Influence+A+Local+Data+Attribution+Framework+for+Online+Reinforcement+Learning%22+OR+ti%3A%22A+is+for+Absorption+Studying+Feature+Splitting+and+Absorption+in+Sparse+Autoencoders%22+OR+ti%3A%22A+multiscale+analysis+of+mean+field+transformers+in+the+moderate+interaction+regime%22+OR+ti%3A%22Adaptive+Surrogate+Gradients+for+Sequential+Reinforcement+Learning+in+Spiking+Neural+Networks%22+OR+ti%3A%22Adjoint+Schr+dinger+Bridge+Sampler%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:10.068237+00:00",
+  "bytes": 11235,
+  "sha256": "6ab18579a148422f9a9ede2f9d4045c0a39440c8f589d687a45433fe4b1c595d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-86f426cc86f175ad348d.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Flat+Reward+in+Policy+Parameter+Space+Implies+Robust+Reinforcement+Learning%22+OR+ti%3A%22FlexPrefill+A+Context+Aware+Sparse+Attention+Mechanism+for+Efficient+Long+Sequence+Inference%22+OR+ti%3A%22Flow+Matching+with+General+Discrete+Paths+A+Kinetic+Optimal+Perspective%22+OR+ti%3A%22From+Exploration+to+Mastery+Enabling+LLMs+to+Master+Tools+via+Self+Driven+Interactions%22+OR+ti%3A%22GeSubNet+Gene+Interaction+Inference+for+Disease+Subtype+Network+Generation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Flat+Reward+in+Policy+Parameter+Space+Implies+Robust+Reinforcement+Learning%22+OR+ti%3A%22FlexPrefill+A+Context+Aware+Sparse+Attention+Mechanism+for+Efficient+Long+Sequence+Inference%22+OR+ti%3A%22Flow+Matching+with+General+Discrete+Paths+A+Kinetic+Optimal+Perspective%22+OR+ti%3A%22From+Exploration+to+Mastery+Enabling+LLMs+to+Master+Tools+via+Self+Driven+Interactions%22+OR+ti%3A%22GeSubNet+Gene+Interaction+Inference+for+Disease+Subtype+Network+Generation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:02.951714+00:00",
+  "bytes": 12309,
+  "sha256": "8536d5cb3255c3289cb63e18b007f5c934f9344b0aa721df27c730135b05f265",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-63da8d8f28eec3eaa206.gz"
+}

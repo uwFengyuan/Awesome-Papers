@@ -1,0 +1,10 @@
+{
+  "url": "https://aclanthology.org/events/emnlp-2025/",
+  "final_url": "https://aclanthology.org/events/emnlp-2025/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:49:45.858786+00:00",
+  "bytes": 11968858,
+  "sha256": "cf4ffe9664a1a9f1195f4dfce67598973010f8859d66078a38d077376d726e86",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2025-anthologyevent.gz"
+}

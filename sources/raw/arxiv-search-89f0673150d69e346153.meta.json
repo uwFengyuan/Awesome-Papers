@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22PhenoBrain+Phenotype+Conditioned+Long+Range+Communication+for+Multi+Modal+Brain+Network+Analysis%22+OR+ti%3A%22PhotoAgent+Exploratory+Visual+Aesthetic+Planning+with+Large+Vision+Models%22+OR+ti%3A%22Prescriptive+Scaling+Reveals+the+Evolution+of+Language+Model+Capabilities%22+OR+ti%3A%22Pretrained+Vision+Language+Action+Models+are+Surprisingly+Resistant+to+Forgetting+in+Continual+Learning%22+OR+ti%3A%22Procedural+Pretraining+Warming+Up+Language+Models+with+Abstract+Data%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22PhenoBrain+Phenotype+Conditioned+Long+Range+Communication+for+Multi+Modal+Brain+Network+Analysis%22+OR+ti%3A%22PhotoAgent+Exploratory+Visual+Aesthetic+Planning+with+Large+Vision+Models%22+OR+ti%3A%22Prescriptive+Scaling+Reveals+the+Evolution+of+Language+Model+Capabilities%22+OR+ti%3A%22Pretrained+Vision+Language+Action+Models+are+Surprisingly+Resistant+to+Forgetting+in+Continual+Learning%22+OR+ti%3A%22Procedural+Pretraining+Warming+Up+Language+Models+with+Abstract+Data%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:29.935713+00:00",
+  "bytes": 12312,
+  "sha256": "61afdbd621eb00dd129917d8a96edeb88d9c678b3d4af560f760803ed748fe1b",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-89f0673150d69e346153.gz"
+}

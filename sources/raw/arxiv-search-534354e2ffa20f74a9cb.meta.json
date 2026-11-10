@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Inadvertent+Context+Leakage+in+Language+Models%22+OR+ti%3A%22Innocuous+Seeming+Data+Latent+Ideology+Ideological+Generalisation+in+Finetuned+LLMs%22+OR+ti%3A%22Leakage+Thresholds+for+Sandwich+Equilibria+Under+Partial+Information%22+OR+ti%3A%22Long+Term+Risks+of+Risk+Based+Allocation%22+OR+ti%3A%22Market+Regime+Council+for+Dynamic+Credit+Assignment+in+Multi+Agent+LLM+Decision+Systems%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Inadvertent+Context+Leakage+in+Language+Models%22+OR+ti%3A%22Innocuous+Seeming+Data+Latent+Ideology+Ideological+Generalisation+in+Finetuned+LLMs%22+OR+ti%3A%22Leakage+Thresholds+for+Sandwich+Equilibria+Under+Partial+Information%22+OR+ti%3A%22Long+Term+Risks+of+Risk+Based+Allocation%22+OR+ti%3A%22Market+Regime+Council+for+Dynamic+Credit+Assignment+in+Multi+Agent+LLM+Decision+Systems%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:34.170166+00:00",
+  "bytes": 8575,
+  "sha256": "d0dd98428328bdf425c89040ce887b016473fcdda37aaba935815a388d77d35e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-534354e2ffa20f74a9cb.gz"
+}

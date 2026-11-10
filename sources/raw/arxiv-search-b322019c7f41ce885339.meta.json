@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Progressive+distillation+induces+an+implicit+curriculum%22+OR+ti%3A%22ProtComposer+Compositional+Protein+Structure+Generation+with+3D+Ellipsoids%22+OR+ti%3A%22Proteina+Scaling+Flow+based+Protein+Structure+Generative+Models%22+OR+ti%3A%22Proxy+Denoising+for+Source+Free+Domain+Adaptation%22+OR+ti%3A%22RB+Modulation+Training+Free+Stylization+using+Reference+Based+Modulation%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Progressive+distillation+induces+an+implicit+curriculum%22+OR+ti%3A%22ProtComposer+Compositional+Protein+Structure+Generation+with+3D+Ellipsoids%22+OR+ti%3A%22Proteina+Scaling+Flow+based+Protein+Structure+Generative+Models%22+OR+ti%3A%22Proxy+Denoising+for+Source+Free+Domain+Adaptation%22+OR+ti%3A%22RB+Modulation+Training+Free+Stylization+using+Reference+Based+Modulation%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:04.735104+00:00",
+  "bytes": 10793,
+  "sha256": "b754ceebe6bab8bb6a8b2df8ae529a796a65d66c8f4d3eacd57da9f55c494718",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b322019c7f41ce885339.gz"
+}

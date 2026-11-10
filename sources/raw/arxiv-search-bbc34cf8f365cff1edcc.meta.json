@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Maximum+Entropy+Flow+Networks%22+OR+ti%3A%22DBA+Distributed+Backdoor+Attacks+against+Federated+Learning%22+OR+ti%3A%22Towards+One+shot+Neural+Combinatorial+Solvers+Theoretical+and+Empirical+Notes+on+the+Cardinality%22+OR+ti%3A%22Adapting+Large+Language+Models+via+Reading+Comprehension%22+OR+ti%3A%22EX+Graph+A+Pioneering+Dataset+Bridging+Ethereum+and+X%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Maximum+Entropy+Flow+Networks%22+OR+ti%3A%22DBA+Distributed+Backdoor+Attacks+against+Federated+Learning%22+OR+ti%3A%22Towards+One+shot+Neural+Combinatorial+Solvers+Theoretical+and+Empirical+Notes+on+the+Cardinality%22+OR+ti%3A%22Adapting+Large+Language+Models+via+Reading+Comprehension%22+OR+ti%3A%22EX+Graph+A+Pioneering+Dataset+Bridging+Ethereum+and+X%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:12:46.712090+00:00",
+  "bytes": 5188,
+  "sha256": "4c43ca6326e84f027302b8d96045f5c3229e98ff0448c0825c3490a86a2a08cc",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-bbc34cf8f365cff1edcc.gz"
+}

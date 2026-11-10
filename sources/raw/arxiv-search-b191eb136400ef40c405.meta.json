@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22DTO+KD+Dynamic+Trade+off+Optimization+for+Effective+Knowledge+Distillation%22+OR+ti%3A%22Decentralized+Attention+Fails+Centralized+Signals+Rethinking+Transformers+for+Medical+Time+Series%22+OR+ti%3A%22Depth+Anything+3+Recovering+the+Visual+Space+from+Any+Views%22+OR+ti%3A%22DepthLM+Metric+Depth+from+Vision+Language+Models%22+OR+ti%3A%22Differentiable+Model+Predictive+Control+on+the+GPU%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22DTO+KD+Dynamic+Trade+off+Optimization+for+Effective+Knowledge+Distillation%22+OR+ti%3A%22Decentralized+Attention+Fails+Centralized+Signals+Rethinking+Transformers+for+Medical+Time+Series%22+OR+ti%3A%22Depth+Anything+3+Recovering+the+Visual+Space+from+Any+Views%22+OR+ti%3A%22DepthLM+Metric+Depth+from+Vision+Language+Models%22+OR+ti%3A%22Differentiable+Model+Predictive+Control+on+the+GPU%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:29.911846+00:00",
+  "bytes": 13641,
+  "sha256": "91027504184213db8d9572f9438fb333cc7ef89bdf1f4399b5d0051bb6083e4f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-b191eb136400ef40c405.gz"
+}

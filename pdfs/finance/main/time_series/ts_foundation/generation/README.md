@@ -1,0 +1,14 @@
+# pdfs/finance/main/time_series/ts_foundation/generation
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2025 | ICLR | main | [SigDiffusions: Score-Based Diffusion Models for Time Series via Log-Signature Embeddings](https://openreview.net/forum?id=Y8KK9kjgIK) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Representation & Foundation Models / 表征与基础模型 / Generation / 生成 | [PDF](2025_ICLR_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__iclr-2025-Y8KK9kjgIK__SigDiffusions_Score_Based_Diffusion_Models_for_Time_Series_via_Log_Signature_Embeddings.pdf) |
+| 2026 | ICML | main | [Towards a Unified Generative Model for Scarce Time Series with Domain Experts](https://openreview.net/forum?id=iXh2dmdt8v) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Representation & Foundation Models / 表征与基础模型 / Generation / 生成 | [PDF](2026_ICML_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__icml-2026-iXh2dmdt8v__Towards_a_Unified_Generative_Model_for_Scarce_Time_Series_with_Domain_Experts.pdf) |
+| 2025 | NeurIPS | main | [A Diffusion Model for Regular Time Series Generation from Irregular Data with Completion and Masking](https://openreview.net/forum?id=M9JmlA6Cgf) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Representation & Foundation Models / 表征与基础模型 / Generation / 生成 | [PDF](2025_NeurIPS_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__neurips-2025-M9JmlA6Cgf__A_Diffusion_Model_for_Regular_Time_Series_Generation_from_Irregular_Data_with_Completion_and_Masking.pdf) |
+| 2025 | NeurIPS | main | [Time Series Generation Under Data Scarcity: A Unified Generative Modeling Approach](https://openreview.net/forum?id=p324ryBKTc) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Representation & Foundation Models / 表征与基础模型 / Generation / 生成 | [PDF](2025_NeurIPS_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__neurips-2025-p324ryBKTc__Time_Series_Generation_Under_Data_Scarcity_A_Unified_Generative_Modeling_Approach.pdf) |
+| 2026 | NeurIPS | main | [Generating Financial Time Series by Matching Random Convolutional Features](https://openreview.net/forum?id=tLVW1Y9hBz) | [Long] [Main] [Finance] | Time Series / 时间序列 / Representation & Foundation Models / 表征与基础模型 / Generation / 生成 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BFinance%5D__neurips-2026-tLVW1Y9hBz__Generating_Financial_Time_Series_by_Matching_Random_Convolutional_Features.pdf) |
+| 2026 | NeurIPS | main | [TimeTok: Granularity-Controllable Time-Series Generation via Hierarchical Tokenization](https://openreview.net/forum?id=P8dX5r550k) | [Long] [Main] [Poster] [Finance] | Time Series / 时间序列 / Representation & Foundation Models / 表征与基础模型 / Generation / 生成 | [PDF](2026_NeurIPS_%5BLong%5D%5BMain%5D%5BPoster%5D%5BFinance%5D__neurips-2026-P8dX5r550k__TimeTok_Granularity_Controllable_Time_Series_Generation_via_Hierarchical_Tokenization.pdf) |

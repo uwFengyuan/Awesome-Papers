@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/D18.xml",
+  "final_url": "https://raw.githubusercontent.com/acl-org/acl-anthology/master/data/xml/D18.xml",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:53.504149+00:00",
+  "bytes": 903191,
+  "sha256": "6deaaa451c07fe9b691e190f67a176d02642384860982b3121e9fe5b5dc2dea9",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2018-anthology.gz"
+}

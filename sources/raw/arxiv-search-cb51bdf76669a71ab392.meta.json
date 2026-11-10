@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Scaling+Laws+for+Precision%22+OR+ti%3A%22Scaling+and+evaluating+sparse+autoencoders%22+OR+ti%3A%22Second+Order+Min+Max+Optimization+with+Lazy+Hessians%22+OR+ti%3A%22Self+Improvement+in+Language+Models+The+Sharpening+Mechanism%22+OR+ti%3A%22ShEPhERD+Diffusing+shape+electrostatics+and+pharmacophores+for+bioisosteric+drug+design%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Scaling+Laws+for+Precision%22+OR+ti%3A%22Scaling+and+evaluating+sparse+autoencoders%22+OR+ti%3A%22Second+Order+Min+Max+Optimization+with+Lazy+Hessians%22+OR+ti%3A%22Self+Improvement+in+Language+Models+The+Sharpening+Mechanism%22+OR+ti%3A%22ShEPhERD+Diffusing+shape+electrostatics+and+pharmacophores+for+bioisosteric+drug+design%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:21.966242+00:00",
+  "bytes": 17249,
+  "sha256": "8b8d87f6527cd08ddf434442494898d8fc0e6c679cd616c0fcba429c2de61702",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-cb51bdf76669a71ab392.gz"
+}

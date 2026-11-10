@@ -1,0 +1,10 @@
+{
+  "url": "https://2022.aclweb.org/conference-programme.html",
+  "final_url": "https://2022.aclweb.org/conference-programme.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.272651+00:00",
+  "bytes": 329845,
+  "sha256": "537d545d15d5cd7d6f41b53a8324f1c8cfee7e531102f0ca43c97583b9bead69",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/acl-2022-root.gz"
+}

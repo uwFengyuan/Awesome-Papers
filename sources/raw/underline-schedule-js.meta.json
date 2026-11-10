@@ -1,0 +1,10 @@
+{
+  "url": "https://underline.io/_next/static/chunks/pages/events/%5BeventId%5D/schedule-080e46352489e394.js",
+  "final_url": "https://underline.io/_next/static/chunks/pages/events/%5BeventId%5D/schedule-080e46352489e394.js",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:42.807989+00:00",
+  "bytes": 140002,
+  "sha256": "b725709b34fe714d0879b8ade379c4ea63574b7a8b3bf5425eabd45b3cca6a25",
+  "content_type": "application/javascript; charset=UTF-8",
+  "cache_path": "sources/raw/underline-schedule-js.gz"
+}

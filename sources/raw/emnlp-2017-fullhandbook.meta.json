@@ -1,0 +1,10 @@
+{
+  "url": "https://aclanthology.org/2017.emnlp.handbook.pdf",
+  "final_url": "https://aclanthology.org/2017.emnlp.handbook.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:50:40.808142+00:00",
+  "bytes": 19569778,
+  "sha256": "a37e02351cfbf5ab1f6aa49109aa50ad56b3dea32f941a59fe63518e440c07dd",
+  "content_type": "application/pdf",
+  "cache_path": "sources/raw/emnlp-2017-fullhandbook.gz"
+}

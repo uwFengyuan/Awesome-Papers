@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AgentTailor+Dual+Gate+LLM+Assisted+Re+ranking+for+Personalized+Long+Tail+Recommendation%22+OR+ti%3A%22Blind+Window+Forecasting+Real+Time+Benchmarking+and+Multimodal+Reconstruction+for+Tropical+Cyclones%22+OR+ti%3A%22AdaST+Adaptive+Coupling+for+Spatial+Temporal+Forecasting%22+OR+ti%3A%22BucpTSF+Breaking+the+Uniform+Computation+Paradigm+in+Time+Series+Forecasting%22+OR+ti%3A%22Otter+Weather+Skillful+and+computationally+efficient+medium+range+weather+forecasting%22&max_results=100",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AgentTailor+Dual+Gate+LLM+Assisted+Re+ranking+for+Personalized+Long+Tail+Recommendation%22+OR+ti%3A%22Blind+Window+Forecasting+Real+Time+Benchmarking+and+Multimodal+Reconstruction+for+Tropical+Cyclones%22+OR+ti%3A%22AdaST+Adaptive+Coupling+for+Spatial+Temporal+Forecasting%22+OR+ti%3A%22BucpTSF+Breaking+the+Uniform+Computation+Paradigm+in+Time+Series+Forecasting%22+OR+ti%3A%22Otter+Weather+Skillful+and+computationally+efficient+medium+range+weather+forecasting%22&max_results=100",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:46:40.928988+00:00",
+  "bytes": 6497,
+  "sha256": "52dc977f0c83fd102c85da57edccc3c220d287546794acb909dc8c0433aa278f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/finance-body-arxiv-901760b04b68f34e905ca521.gz"
+}

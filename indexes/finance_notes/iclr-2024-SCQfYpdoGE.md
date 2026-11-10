@@ -1,0 +1,15 @@
+# Prediction without Preclusion: Recourse Verification with Reachable Sets
+
+ICLR 2024 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：Machine learning models are often used to decide who receives a loan, a job interview, or a public benefit. / As a result, they can assign predictions that are \emph{fixed} -- meaning that individuals who are denied loans and interviews are, in fact, *precluded from access* to credit and employment. / We conduct a comprehensive empirical study on the infeasibility of recourse on datasets from consumer finance.
+
+[Paper](https://openreview.net/forum?id=SCQfYpdoGE)
+
+Classification / 分类：Credit & Financial Risk / 信贷与金融风险 → Lending & Credit Data / 借贷与信贷数据应用 → General / 综合
+
+## Abstract / 摘要
+
+Machine learning models are often used to decide who receives a loan, a job interview, or a public benefit. Models in such settings use features without considering their *actionability*. As a result, they can assign predictions that are \emph{fixed} -- meaning that individuals who are denied loans and interviews are, in fact, *precluded from access* to credit and employment. In this work, we introduce a procedure called *recourse verification* to test if a model assigns fixed predictions to its decision subjects. We propose a model-agnostic approach for verification with *reachable sets* -- i.e., the set of all points that a person can reach through their actions in feature space. We develop methods to construct reachable sets for discrete feature spaces, which can certify the responsiveness of *any model* by simply querying its predictions. We conduct a comprehensive empirical study on the infeasibility of recourse on datasets from consumer finance. Our results highlight how models can inadvertently preclude access by assigning fixed predictions and underscore the need to account for actionability in model development.

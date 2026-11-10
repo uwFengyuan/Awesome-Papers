@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Near+optimal+Coresets+for+Robust+Clustering%22+OR+ti%3A%22Near+optimal+Policy+Identification+in+Active+Reinforcement+Learning%22+OR+ti%3A%22Offline+Q+learning+on+Diverse+Multi+Task+Data+Both+Scales+And+Generalizes%22+OR+ti%3A%22Offline+RL+with+No+OOD+Actions+In+Sample+Learning+via+Implicit+Value+Regularization%22+OR+ti%3A%22On+the+Sensitivity+of+Reward+Inference+to+Misspecified+Human+Models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Near+optimal+Coresets+for+Robust+Clustering%22+OR+ti%3A%22Near+optimal+Policy+Identification+in+Active+Reinforcement+Learning%22+OR+ti%3A%22Offline+Q+learning+on+Diverse+Multi+Task+Data+Both+Scales+And+Generalizes%22+OR+ti%3A%22Offline+RL+with+No+OOD+Actions+In+Sample+Learning+via+Implicit+Value+Regularization%22+OR+ti%3A%22On+the+Sensitivity+of+Reward+Inference+to+Misspecified+Human+Models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:57.949780+00:00",
+  "bytes": 13600,
+  "sha256": "300bb33f156ef6af9a504ea8dc8cd9707926f059a2718a245c20740284cc965e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-227b7ddc165a98bb357e.gz"
+}

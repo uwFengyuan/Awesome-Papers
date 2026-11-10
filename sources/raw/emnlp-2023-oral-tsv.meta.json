@@ -1,0 +1,10 @@
+{
+  "url": "https://raw.githubusercontent.com/acl-org/emnlp-2023-miniconf/main/data/emnlp_2023/data/oral-papers.tsv",
+  "final_url": "https://raw.githubusercontent.com/acl-org/emnlp-2023-miniconf/main/data/emnlp_2023/data/oral-papers.tsv",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.415626+00:00",
+  "bytes": 73765,
+  "sha256": "ff27120998b321e1bb0e4f5500f48112c71c7d26bfe55e2c4376d8f7cabfb689",
+  "content_type": "text/plain; charset=utf-8",
+  "cache_path": "sources/raw/emnlp-2023-oral-tsv.gz"
+}

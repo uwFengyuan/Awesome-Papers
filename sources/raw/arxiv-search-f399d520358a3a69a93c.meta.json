@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Betty+An+Automatic+Differentiation+Library+for+Multilevel+Optimization%22+OR+ti%3A%22Clean+image+Backdoor+Attacking+Multi+label+Models+with+Poisoned+Labels+Only%22+OR+ti%3A%22Compressing+multidimensional+weather+and+climate+data+into+neural+networks%22+OR+ti%3A%22Conditional+Antibody+Design+as+3D+Equivariant+Graph+Translation%22+OR+ti%3A%22Confidence+Conditioned+Value+Functions+for+Offline+Reinforcement+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Betty+An+Automatic+Differentiation+Library+for+Multilevel+Optimization%22+OR+ti%3A%22Clean+image+Backdoor+Attacking+Multi+label+Models+with+Poisoned+Labels+Only%22+OR+ti%3A%22Compressing+multidimensional+weather+and+climate+data+into+neural+networks%22+OR+ti%3A%22Conditional+Antibody+Design+as+3D+Equivariant+Graph+Translation%22+OR+ti%3A%22Confidence+Conditioned+Value+Functions+for+Offline+Reinforcement+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:16:34.863576+00:00",
+  "bytes": 10535,
+  "sha256": "156793ccde509ec2745cf00298697a6c18f892bbf6bdbb949fc4ebdc25d8f66f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f399d520358a3a69a93c.gz"
+}

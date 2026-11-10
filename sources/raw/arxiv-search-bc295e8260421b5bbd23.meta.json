@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Do+as+We+Do+Not+as+You+Think+the+Conformity+of+Large+Language%22+OR+ti%3A%22Dynamic+Multimodal+Evaluation+with+Flexible+Complexity+by+Vision+Language+Bootstrapping%22+OR+ti%3A%22ECD+A+Machine+Learning+Benchmark+for+Predicting+Enhanced+Precision+Electronic+Charge+Density+in%22+OR+ti%3A%22EmbodiedSAM+Online+Segment+Any+3D+Thing+in+Real+Time%22+OR+ti%3A%22Emergence+of+meta+stable+clustering+in+mean+field+transformer+models%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Do+as+We+Do+Not+as+You+Think+the+Conformity+of+Large+Language%22+OR+ti%3A%22Dynamic+Multimodal+Evaluation+with+Flexible+Complexity+by+Vision+Language+Bootstrapping%22+OR+ti%3A%22ECD+A+Machine+Learning+Benchmark+for+Predicting+Enhanced+Precision+Electronic+Charge+Density+in%22+OR+ti%3A%22EmbodiedSAM+Online+Segment+Any+3D+Thing+in+Real+Time%22+OR+ti%3A%22Emergence+of+meta+stable+clustering+in+mean+field+transformer+models%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:56.784753+00:00",
+  "bytes": 11353,
+  "sha256": "369400a8aaa6c0b728e23965ca21bc44ae7ec4dd76c4cdc4b970b9267c4a8c97",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-bc295e8260421b5bbd23.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Linearly+Convergent+Proximal+Subgradient+Algorithm+for+Sparse+Portfolio+Optimization+with+Transaction+Cost%22+OR+ti%3A%22A+Penalty+Approach+For+Differentiation+Through+Black+box+Quadratic+Programming+Solvers%22+OR+ti%3A%22Adversarially+Robust+Control+of+Conditional+Value+at+Risk+via+Rockafellar+Uryasev+Conformal+Inference%22+OR+ti%3A%22Arboreal+Neural+Network%22+OR+ti%3A%22Biases+in+the+Blind+Spot+Detecting+What+LLMs+Fail+to+Mention%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Linearly+Convergent+Proximal+Subgradient+Algorithm+for+Sparse+Portfolio+Optimization+with+Transaction+Cost%22+OR+ti%3A%22A+Penalty+Approach+For+Differentiation+Through+Black+box+Quadratic+Programming+Solvers%22+OR+ti%3A%22Adversarially+Robust+Control+of+Conditional+Value+at+Risk+via+Rockafellar+Uryasev+Conformal+Inference%22+OR+ti%3A%22Arboreal+Neural+Network%22+OR+ti%3A%22Biases+in+the+Blind+Spot+Detecting+What+LLMs+Fail+to+Mention%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:13.544530+00:00",
+  "bytes": 8301,
+  "sha256": "0298a0782344572d782983d8c6ecb72363562370cbedfda1cf3ad0b16d921771",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f52e29ebaca979ef1d71.gz"
+}

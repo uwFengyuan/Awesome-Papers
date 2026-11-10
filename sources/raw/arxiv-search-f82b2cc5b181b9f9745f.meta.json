@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ReQAT+Achieving+Full+Precision+Reasoning+Accuracy+with+4+bit+Floating+Point+Quantization+Aware%22+OR+ti%3A%22ReViT+Rotational+equivariant+Vision+Transformers+for+Neural+PDE+Solvers%22+OR+ti%3A%22Reward+free+Alignment+for+Conflicting+Objectives%22+OR+ti%3A%22Rex+A+Family+of+Reversible+Exponential+Stochastic+Runge+Kutta+Solvers%22+OR+ti%3A%22Riemannian+Metric+Matching+for+Scalable+Geometric+Modeling+of+Distributions%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22ReQAT+Achieving+Full+Precision+Reasoning+Accuracy+with+4+bit+Floating+Point+Quantization+Aware%22+OR+ti%3A%22ReViT+Rotational+equivariant+Vision+Transformers+for+Neural+PDE+Solvers%22+OR+ti%3A%22Reward+free+Alignment+for+Conflicting+Objectives%22+OR+ti%3A%22Rex+A+Family+of+Reversible+Exponential+Stochastic+Runge+Kutta+Solvers%22+OR+ti%3A%22Riemannian+Metric+Matching+for+Scalable+Geometric+Modeling+of+Distributions%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:36.116801+00:00",
+  "bytes": 10500,
+  "sha256": "a1607c7feb7af2bd510a0865150cb02b8eb0434dea8193be9bf589053f5ba4b3",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f82b2cc5b181b9f9745f.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Beyond+Fully+Connected+Layers+with+Quaternions+Parameterization+of+Hypercomplex+Multiplications+with+1+n%22+OR+ti%3A%22Learning+Mesh+Based+Simulation+with+Graph+Networks%22+OR+ti%3A%22A+Closer+Look+at+Deep+Policy+Gradients%22+OR+ti%3A%22A+Generalized+Training+Approach+for+Multiagent+Learning%22+OR+ti%3A%22A+Theory+of+Usable+Information+under+Computational+Constraints%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Beyond+Fully+Connected+Layers+with+Quaternions+Parameterization+of+Hypercomplex+Multiplications+with+1+n%22+OR+ti%3A%22Learning+Mesh+Based+Simulation+with+Graph+Networks%22+OR+ti%3A%22A+Closer+Look+at+Deep+Policy+Gradients%22+OR+ti%3A%22A+Generalized+Training+Approach+for+Multiagent+Learning%22+OR+ti%3A%22A+Theory+of+Usable+Information+under+Computational+Constraints%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:44:10.480654+00:00",
+  "bytes": 13526,
+  "sha256": "425e5b2bf74f3beebd7bddd576e6a6b2ef786e12cd40f36a071ed22d63e29297",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-24ff0de65a329588f061.gz"
+}

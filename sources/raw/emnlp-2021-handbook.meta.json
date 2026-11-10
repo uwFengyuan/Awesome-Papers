@@ -1,0 +1,10 @@
+{
+  "url": "https://2021.emnlp.org/files/handbook-EMNLP2021.pdf",
+  "final_url": "https://2021.emnlp.org/files/handbook-EMNLP2021.pdf",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:08.632002+00:00",
+  "bytes": 4973515,
+  "sha256": "9235979d38ec0177f3658453de86d5c52370b9f3833f437d2ac6f0d2e233e161",
+  "content_type": "application/pdf",
+  "cache_path": "sources/raw/emnlp-2021-handbook.gz"
+}

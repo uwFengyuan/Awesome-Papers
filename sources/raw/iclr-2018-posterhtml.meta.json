@@ -1,0 +1,10 @@
+{
+  "url": "https://iclr.cc/virtual/2018/events/poster",
+  "final_url": "https://iclr.cc/virtual/2018/papers.html",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:39:40.852266+00:00",
+  "bytes": 84029,
+  "sha256": "16ace88d400355328dbf6636af3f771d5d658dcbdb235415eda8c17b83e7df79",
+  "content_type": "text/html; charset=utf-8",
+  "cache_path": "sources/raw/iclr-2018-posterhtml.gz"
+}

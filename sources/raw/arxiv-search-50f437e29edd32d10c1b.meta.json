@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Scalable+Distributed+Framework+for+Multimodal+GigaVoxel+Image+Registration%22+OR+ti%3A%22Actions+Speak+Louder+than+Prompts+A+Large+Scale+Study+of+LLMs+for+Graph%22+OR+ti%3A%22AdAEM+An+Adaptively+and+Automated+Extensible+Measurement+of+LLMs+Value+Difference%22+OR+ti%3A%22Addressing+divergent+representations+from+causal+interventions+on+neural+networks%22+OR+ti%3A%22Agent+Data+Protocol+Unifying+Datasets+for+Diverse+Effective+Fine+tuning+of+LLM+Agents%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22A+Scalable+Distributed+Framework+for+Multimodal+GigaVoxel+Image+Registration%22+OR+ti%3A%22Actions+Speak+Louder+than+Prompts+A+Large+Scale+Study+of+LLMs+for+Graph%22+OR+ti%3A%22AdAEM+An+Adaptively+and+Automated+Extensible+Measurement+of+LLMs+Value+Difference%22+OR+ti%3A%22Addressing+divergent+representations+from+causal+interventions+on+neural+networks%22+OR+ti%3A%22Agent+Data+Protocol+Unifying+Datasets+for+Diverse+Effective+Fine+tuning+of+LLM+Agents%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:13.660829+00:00",
+  "bytes": 14636,
+  "sha256": "afbece149f93affe9edcdaf19bae3706da1a40ee3bec9721605b862f66b8e89b",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-50f437e29edd32d10c1b.gz"
+}

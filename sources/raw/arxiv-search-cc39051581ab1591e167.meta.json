@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Breakeven+complexity+A+new+perspective+on+neural+partial+differential+equation+solvers%22+OR+ti%3A%22Bridging+Compute+and+Data+Optimal+Pretraining%22+OR+ti%3A%22C3P+Contrastive+promoter+protein+pretraining+yields+representations+capturing+bacterial+gene+regulation%22+OR+ti%3A%22CLIOPATRA+Extracting+Private+Information+from+LLM+Insights%22+OR+ti%3A%22CURE+Counterfactual+Unsafe+token+Re+masking+for+Diffusion+Large+Language+Model+Test+time%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Breakeven+complexity+A+new+perspective+on+neural+partial+differential+equation+solvers%22+OR+ti%3A%22Bridging+Compute+and+Data+Optimal+Pretraining%22+OR+ti%3A%22C3P+Contrastive+promoter+protein+pretraining+yields+representations+capturing+bacterial+gene+regulation%22+OR+ti%3A%22CLIOPATRA+Extracting+Private+Information+from+LLM+Insights%22+OR+ti%3A%22CURE+Counterfactual+Unsafe+token+Re+masking+for+Diffusion+Large+Language+Model+Test+time%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:27:32.222740+00:00",
+  "bytes": 11146,
+  "sha256": "4cc92d88d0ef4d92922348c914aef01c3b8ead413cefd75e12c357e004f04899",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-cc39051581ab1591e167.gz"
+}

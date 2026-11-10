@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Optimal+and+Scalable+MAPF+via+Multi+Marginal+Optimal+Transport+and+Schr+dinger+Bridges%22+OR+ti%3A%22Orthogonal+Concept+Erasure+for+Diffusion+Models%22+OR+ti%3A%22POET+X+Memory+efficient+LLM+Training+by+Scaling+Orthogonal+Transformation%22+OR+ti%3A%22PRISM+Gauge+Invariant+Tangent+Space+Differentially+Private+LoRA%22+OR+ti%3A%22Path+dependent+Discrete+Amortized+Inference%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Optimal+and+Scalable+MAPF+via+Multi+Marginal+Optimal+Transport+and+Schr+dinger+Bridges%22+OR+ti%3A%22Orthogonal+Concept+Erasure+for+Diffusion+Models%22+OR+ti%3A%22POET+X+Memory+efficient+LLM+Training+by+Scaling+Orthogonal+Transformation%22+OR+ti%3A%22PRISM+Gauge+Invariant+Tangent+Space+Differentially+Private+LoRA%22+OR+ti%3A%22Path+dependent+Discrete+Amortized+Inference%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:25:26.816091+00:00",
+  "bytes": 10222,
+  "sha256": "7aef80ad3d1dd3ddd0191d5bc5d2f8b5a2a537ef4f8351a58e510df866691e7d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-bdf72270e2546cee5331.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Simplifying+Stabilizing+and+Scaling+Continuous+time+Consistency+Models%22+OR+ti%3A%22Sparse+Feature+Circuits+Discovering+and+Editing+Interpretable+Causal+Graphs+in+Language+Models%22+OR+ti%3A%22Spider+2+0+Evaluating+Language+Models+on+Real+World+Enterprise+Text+to+SQL%22+OR+ti%3A%22Spread+Preference+Annotation+Direct+Preference+Judgment+for+Efficient+LLM+Alignment%22+OR+ti%3A%22Standard+Gaussian+Process+is+All+You+Need+for+High+Dimensional+Bayesian+Optimization%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Simplifying+Stabilizing+and+Scaling+Continuous+time+Consistency+Models%22+OR+ti%3A%22Sparse+Feature+Circuits+Discovering+and+Editing+Interpretable+Causal+Graphs+in+Language+Models%22+OR+ti%3A%22Spider+2+0+Evaluating+Language+Models+on+Real+World+Enterprise+Text+to+SQL%22+OR+ti%3A%22Spread+Preference+Annotation+Direct+Preference+Judgment+for+Efficient+LLM+Alignment%22+OR+ti%3A%22Standard+Gaussian+Process+is+All+You+Need+for+High+Dimensional+Bayesian+Optimization%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:25.107130+00:00",
+  "bytes": 10662,
+  "sha256": "011dfef60d64eb507df9fbab54f547a62e196c9238cb011a218d42c770557b2e",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-7550250590537cbd48aa.gz"
+}

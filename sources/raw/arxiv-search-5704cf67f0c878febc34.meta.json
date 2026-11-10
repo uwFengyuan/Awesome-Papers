@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22From+Feasible+to+Practical+Pareto+Optimal+Synthesis+Planning%22+OR+ti%3A%22From+Pixels+to+Tokens+A+Systematic+Study+of+Latent+Action+Supervision+for+Vision%22+OR+ti%3A%22From+Text+to+Forecasts+Bridging+Modality+Gap+with+Temporal+Evolution+Semantic+Space%22+OR+ti%3A%22Geometric+Flow+Grounding+A+Unified+Manifold+Decoupling+Framework+for+Dynamics+Discovery+and+Verification%22+OR+ti%3A%22GoodDiffusion+Proactive+Copyright+Protection+for+Diffusion+Bridge+Models+via+Learnable+Sample+specific+Signatures%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22From+Feasible+to+Practical+Pareto+Optimal+Synthesis+Planning%22+OR+ti%3A%22From+Pixels+to+Tokens+A+Systematic+Study+of+Latent+Action+Supervision+for+Vision%22+OR+ti%3A%22From+Text+to+Forecasts+Bridging+Modality+Gap+with+Temporal+Evolution+Semantic+Space%22+OR+ti%3A%22Geometric+Flow+Grounding+A+Unified+Manifold+Decoupling+Framework+for+Dynamics+Discovery+and+Verification%22+OR+ti%3A%22GoodDiffusion+Proactive+Copyright+Protection+for+Diffusion+Bridge+Models+via+Learnable+Sample+specific+Signatures%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:24:51.555142+00:00",
+  "bytes": 10604,
+  "sha256": "261a0a70bb635424d6ef8c993ffbe27000d87a6702d7b8cb435b35bfffb5989f",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5704cf67f0c878febc34.gz"
+}

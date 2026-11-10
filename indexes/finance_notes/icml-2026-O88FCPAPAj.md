@@ -1,0 +1,15 @@
+# Ranking Free RAG: Replacing Re-ranking with Selection in RAG for Sensitive Domains
+
+ICML 2026 · main · Long
+
+[Long] [Main] [Poster] [Finance]
+
+Financial evidence / 金融依据：5. Results policies to highly technical merger and acquisition agree- Results from CP and Generation Tasks. Table 3 reports ments (M&A). FinQA provides numerical reasoning chal- performance on the CP task across all datasets; our base- lenges over financial reports with hybrid text-table evidence lines include six traditional re-rankers and t
+
+[Paper](https://openreview.net/forum?id=O88FCPAPAj)
+
+Classification / 分类：Financial QA & Reasoning / 金融问答与数值推理 → Numerical & Table Reasoning / 数值与表格推理 → General / 综合
+
+## Abstract / 摘要
+
+Retrieval-Augmented Generation (RAG) systems deployed in sensitive domains must provide interpretable evidence selection and robust safeguards against data poisoning, yet current approaches rely on opaque similarity-based retrieval with arbitrary top-k cutoffs that offer no explanation for their selections and remain vulnerable to adversarial manipulation. We propose METEORA, a rationale-driven RAG framework that addresses these fundamental limitations through interpretable, adaptive evidence retrieval. Our framework introduces three synergistic contributions. First, we preference-tune a general-purpose LLM to generate explicit rationales that articulate why specific evidence is needed for a given query. These rationales then guide adaptive evidence selection through a two-step process: rationale-chunk pairing for query-specific relevance assessment, followed by dynamic cutoff detection that eliminates the need for arbitrary k heuristics. Finally, the same rationales enable a verification stage that filters poisoned or misleading evidence before generation. Evaluation across six datasets demonstrates substantial improvements on three critical dimensions. For retrieval quality, METEORA achieves **21.05\%** higher precision than the best-performing baseline, while its variant with context expansion achieves **13.41\%** higher recall. In terms of efficiency, the framework reduces the volume of evidence required to reach comparable recall by **80\%**, which directly translates to a **33.34\%** improvement in downstream answer generation accuracy. Most notably for adversarial robustness, METEORA increases the F1 score from **0.10 to 0.44** under poisoning attacks, a 4.4$\times$ improvement that makes RAG systems substantially more resilient to adversarial manipulation. Human evaluation with four experienced annotators confirms genuine interpretability, achieving a mean confidence score of **3.64/5** and demonstrating that humans can reliably reconstruct evidence-level decisions with **86\% accuracy**. These results demonstrate that rationale-driven retrieval can simultaneously enhance interpretability, efficiency, and safety in RAG systems for sensitive domains. The code is available in the anonymous GitHub repository \url{https://anonymous.4open.science/r/METEORA-DC46/README.md}

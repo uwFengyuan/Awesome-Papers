@@ -1,0 +1,46 @@
+{
+  "2020": {
+    "last_main_issue": 7,
+    "volume": 34,
+    "source_url": "https://aaai.org/proceeding/aaai-34-2020/",
+    "excluded": "Issues after the main technical range contain special tracks and other programs."
+  },
+  "2021": {
+    "last_main_issue": 16,
+    "volume": 35,
+    "source_url": "https://aaai.org/proceeding/aaai-35-2021/",
+    "excluded": "Issues after the main technical range contain special tracks and other programs."
+  },
+  "2022": {
+    "last_main_issue": 10,
+    "volume": 36,
+    "source_url": "https://aaai.org/proceeding/aaai-36-2022/",
+    "excluded": "Issues after the main technical range contain special tracks and other programs."
+  },
+  "2023": {
+    "last_main_issue": 11,
+    "volume": 37,
+    "source_url": "https://aaai.org/proceeding/aaai-37-2023/",
+    "excluded": "Issues after the main technical range contain special tracks and other programs."
+  },
+  "2024": {
+    "last_main_issue": 18,
+    "volume": 38,
+    "source_url": "https://aaai.org/proceeding/aaai-38-2024/",
+    "excluded": "Issues after the main technical range contain special tracks and other programs.",
+    "boundary_source": "https://ojs.aaai.org/index.php/AAAI/issue/view/594",
+    "boundary_title": "Issue 19: Special Track Safe, Robust and Responsible AI"
+  },
+  "2025": {
+    "last_main_issue": 25,
+    "volume": 39,
+    "source_url": "https://aaai.org/proceeding/aaai-39-2025/",
+    "excluded": "Issues after the main technical range contain special tracks and other programs."
+  },
+  "2026": {
+    "last_main_issue": 43,
+    "volume": 40,
+    "source_url": "https://aaai.org/proceeding/aaai-40-2026/",
+    "excluded": "Issues after the main technical range contain special tracks and other programs."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22XR+1+Towards+Versatile+Vision+Language+Action+Models+via+Learning+Unified+Vision+Motion%22+OR+ti%3A%22daVinci+Dev+Agent+native+Mid+training+for+Software+Engineering%22+OR+ti%3A%22dnaHNet+A+Scalable+and+Hierarchical+Foundation+Model+for+Genomic+Sequence+Learning%22+OR+ti%3A%22Hogwild+A+Lock+Free+Approach+to+Parallelizing+Stochastic+Gradient+Descent%22+OR+ti%3A%22A+Clean+Slate+for+Offline+Reinforcement+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22XR+1+Towards+Versatile+Vision+Language+Action+Models+via+Learning+Unified+Vision+Motion%22+OR+ti%3A%22daVinci+Dev+Agent+native+Mid+training+for+Software+Engineering%22+OR+ti%3A%22dnaHNet+A+Scalable+and+Hierarchical+Foundation+Model+for+Genomic+Sequence+Learning%22+OR+ti%3A%22Hogwild+A+Lock+Free+Approach+to+Parallelizing+Stochastic+Gradient+Descent%22+OR+ti%3A%22A+Clean+Slate+for+Offline+Reinforcement+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:26:01.726582+00:00",
+  "bytes": 15150,
+  "sha256": "d8a16cc302871f3bf9f9b4ea8c4b40d37246f1051be479b191e28a5fab8a467c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f29dd8a8a1eaef4ad1c0.gz"
+}

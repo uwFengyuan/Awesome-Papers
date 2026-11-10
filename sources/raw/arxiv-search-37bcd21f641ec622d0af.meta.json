@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Sketching+the+Readout+of+Large+Language+Models+for+Scalable+Data+Attribution+and+Valuation%22+OR+ti%3A%22Stable+Alpha+Adversarial+Invariant+Representation+Learning+for+Nonlinear+Asset+Pricing+under+Temporal+Distribution%22+OR+ti%3A%22Test+Time+Scaling+in+the+Wild+Why+Exploitation+Not+Exploration+Is+the+Bottleneck%22+OR+ti%3A%22The+SEC+Filings+Dataset+Reconstructing+U+S+Corporate+and+Financial+Disclosures+into+Layout%22+OR+ti%3A%22Making+Neural+Programming+Architectures+Generalize+via+Recursion%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Sketching+the+Readout+of+Large+Language+Models+for+Scalable+Data+Attribution+and+Valuation%22+OR+ti%3A%22Stable+Alpha+Adversarial+Invariant+Representation+Learning+for+Nonlinear+Asset+Pricing+under+Temporal+Distribution%22+OR+ti%3A%22Test+Time+Scaling+in+the+Wild+Why+Exploitation+Not+Exploration+Is+the+Bottleneck%22+OR+ti%3A%22The+SEC+Filings+Dataset+Reconstructing+U+S+Corporate+and+Financial+Disclosures+into+Layout%22+OR+ti%3A%22Making+Neural+Programming+Architectures+Generalize+via+Recursion%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:53.388603+00:00",
+  "bytes": 8697,
+  "sha256": "75cc50797d9538e6003fee40dce3fe9069b026a40053d5a071efbfa9cab33235",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-37bcd21f641ec622d0af.gz"
+}

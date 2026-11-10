@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Rethinking+the+generalization+of+drug+target+affinity+prediction+algorithms+via+similarity+aware+evaluation%22+OR+ti%3A%22Retrieval+Head+Mechanistically+Explains+Long+Context+Factuality%22+OR+ti%3A%22Robustness+Inspired+Graph+Backdoor+Defense%22+OR+ti%3A%22Root+Cause+Analysis+of+Anomalies+in+Multivariate+Time+Series+through+Granger+Causal+Discovery%22+OR+ti%3A%22SAM+2+Segment+Anything+in+Images+and+Videos%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Rethinking+the+generalization+of+drug+target+affinity+prediction+algorithms+via+similarity+aware+evaluation%22+OR+ti%3A%22Retrieval+Head+Mechanistically+Explains+Long+Context+Factuality%22+OR+ti%3A%22Robustness+Inspired+Graph+Backdoor+Defense%22+OR+ti%3A%22Root+Cause+Analysis+of+Anomalies+in+Multivariate+Time+Series+through+Granger+Causal+Discovery%22+OR+ti%3A%22SAM+2+Segment+Anything+in+Images+and+Videos%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:15.781001+00:00",
+  "bytes": 11687,
+  "sha256": "a6e14d2e41cf315bc11d2b694452aa08f466ab206f4517bce6a09e0976a17f06",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f5f88a476b4c74cf1ff1.gz"
+}

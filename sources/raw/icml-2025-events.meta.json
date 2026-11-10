@@ -1,0 +1,10 @@
+{
+  "url": "https://icml.cc/static/virtual/data/icml-2025-orals-posters.json",
+  "final_url": "https://icml.cc/static/virtual/data/icml-2025-orals-posters.json",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:37:50.609349+00:00",
+  "bytes": 14110788,
+  "sha256": "1e2ff498f2559b2a0e34504e84b5e6d41906dcd4a7fe868122514adaaba06c7b",
+  "content_type": "application/json",
+  "cache_path": "sources/raw/icml-2025-events.gz"
+}

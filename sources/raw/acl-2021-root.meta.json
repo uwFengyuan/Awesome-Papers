@@ -1,0 +1,10 @@
+{
+  "url": "https://2021.aclweb.org/",
+  "final_url": "https://2021.aclweb.org/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T12:45:09.219941+00:00",
+  "bytes": 18753,
+  "sha256": "77a37a36e939c04d061202b09c990181ea096dad7ce4aa081eb4688d5baec50e",
+  "content_type": "text/html",
+  "cache_path": "sources/raw/acl-2021-root.gz"
+}

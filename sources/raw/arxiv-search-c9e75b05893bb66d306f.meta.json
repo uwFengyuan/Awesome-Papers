@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Variance+Reduction+for+Policy+Gradient+with+Action+Dependent+Factorized+Baselines%22+OR+ti%3A%22Wasserstein+Auto+Encoders%22+OR+ti%3A%22Zero+Shot+Visual+Imitation%22+OR+ti%3A%22A+Unified+Theory+of+Early+Visual+Representations+from+Retina+to+Cortex+through+Anatomically%22+OR+ti%3A%22BA+Net+Dense+Bundle+Adjustment+Networks%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Variance+Reduction+for+Policy+Gradient+with+Action+Dependent+Factorized+Baselines%22+OR+ti%3A%22Wasserstein+Auto+Encoders%22+OR+ti%3A%22Zero+Shot+Visual+Imitation%22+OR+ti%3A%22A+Unified+Theory+of+Early+Visual+Representations+from+Retina+to+Cortex+through+Anatomically%22+OR+ti%3A%22BA+Net+Dense+Bundle+Adjustment+Networks%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:14:39.914013+00:00",
+  "bytes": 32517,
+  "sha256": "1be0cbc2dad06312362a02ed9d1065687a9106ebceea72d17e5a1f09b43e680c",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-c9e75b05893bb66d306f.gz"
+}

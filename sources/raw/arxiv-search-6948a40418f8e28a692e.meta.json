@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Teach+LLMs+to+Phish+Stealing+Private+Information+from+Language+Models%22+OR+ti%3A%22UniversalNER+Targeted+Distillation+from+Large+Language+Models+for+Open+Named+Entity+Recognition%22+OR+ti%3A%22AgentHarm+A+Benchmark+for+Measuring+Harmfulness+of+LLM+Agents%22+OR+ti%3A%22AutoBencher+Towards+Declarative+Benchmark+Construction%22+OR+ti%3A%22Efficient+Causal+Decision+Making+with+One+sided+Feedback%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Teach+LLMs+to+Phish+Stealing+Private+Information+from+Language+Models%22+OR+ti%3A%22UniversalNER+Targeted+Distillation+from+Large+Language+Models+for+Open+Named+Entity+Recognition%22+OR+ti%3A%22AgentHarm+A+Benchmark+for+Measuring+Harmfulness+of+LLM+Agents%22+OR+ti%3A%22AutoBencher+Towards+Declarative+Benchmark+Construction%22+OR+ti%3A%22Efficient+Causal+Decision+Making+with+One+sided+Feedback%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:06.056312+00:00",
+  "bytes": 11493,
+  "sha256": "c70cb12c6cd60e4e5399de6f025a1f50ee012f93f0d7b8afe341b61a285c7c9a",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-6948a40418f8e28a692e.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MCP+SafetyBench+A+Benchmark+for+Safety+Evaluation+of+Large+Language+Models+with+Real%22+OR+ti%3A%22Policy+Newton+Algorithm+in+Reproducing+Kernel+Hilbert+Space%22+OR+ti%3A%22ProfBench+Multi+Domain+Rubrics+requiring+Professional+Knowledge+to+Answer+and+Judge%22+OR+ti%3A%22Reasoning+on+Time+Series+for+Financial+Technical+Analysis%22+OR+ti%3A%22STABLE+Shift+Tolerant+Allocation+via+Black+Litterman+Using+Conditional+Diffusion+Estimates%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22MCP+SafetyBench+A+Benchmark+for+Safety+Evaluation+of+Large+Language+Models+with+Real%22+OR+ti%3A%22Policy+Newton+Algorithm+in+Reproducing+Kernel+Hilbert+Space%22+OR+ti%3A%22ProfBench+Multi+Domain+Rubrics+requiring+Professional+Knowledge+to+Answer+and+Judge%22+OR+ti%3A%22Reasoning+on+Time+Series+for+Financial+Technical+Analysis%22+OR+ti%3A%22STABLE+Shift+Tolerant+Allocation+via+Black+Litterman+Using+Conditional+Diffusion+Estimates%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:07.363565+00:00",
+  "bytes": 11298,
+  "sha256": "f3ff9098cce75fbd3b4f0d796974c4fc9753c1436f62ba6f66e2392f8bd03b55",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-81565d3a95a6fdffe531.gz"
+}

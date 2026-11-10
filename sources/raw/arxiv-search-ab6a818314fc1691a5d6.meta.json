@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22TimeSeriesExamAgent+Creating+Time+Series+Reasoning+Benchmarks+at+Scale%22+OR+ti%3A%22Towards+Sustainable+Investment+Policies+Informed+by+Opponent+Shaping%22+OR+ti%3A%22Trade+in+Minutes+Rationality+Driven+Agentic+System+for+Quantitative+Financial+Trading%22+OR+ti%3A%22When+AI+Agents+Collude+Online+Financial+Fraud+Risks+by+Collaborative+LLM+Agents+on%22+OR+ti%3A%22Knowledge+Evaluating+Conversational+Agents+over+Unstructured+Knowledge%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22TimeSeriesExamAgent+Creating+Time+Series+Reasoning+Benchmarks+at+Scale%22+OR+ti%3A%22Towards+Sustainable+Investment+Policies+Informed+by+Opponent+Shaping%22+OR+ti%3A%22Trade+in+Minutes+Rationality+Driven+Agentic+System+for+Quantitative+Financial+Trading%22+OR+ti%3A%22When+AI+Agents+Collude+Online+Financial+Fraud+Risks+by+Collaborative+LLM+Agents+on%22+OR+ti%3A%22Knowledge+Evaluating+Conversational+Agents+over+Unstructured+Knowledge%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:10.448852+00:00",
+  "bytes": 13559,
+  "sha256": "fd54c8c9e05ce7ad446b14d771b0615cdeefc602fec11f529b48c4fe35a9d992",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-ab6a818314fc1691a5d6.gz"
+}

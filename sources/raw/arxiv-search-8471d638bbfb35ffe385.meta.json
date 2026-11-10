@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22DarkBench+Benchmarking+Dark+Patterns+in+Large+Language+Models%22+OR+ti%3A%22Data+Scaling+Laws+in+Imitation+Learning+for+Robotic+Manipulation%22+OR+ti%3A%22Data+Selection+via+Optimal+Control+for+Language+Models%22+OR+ti%3A%22Data+Shapley+in+One+Training+Run%22+OR+ti%3A%22DeepLTL+Learning+to+Efficiently+Satisfy+Complex+LTL+Specifications+for+Multi+Task+RL%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22DarkBench+Benchmarking+Dark+Patterns+in+Large+Language+Models%22+OR+ti%3A%22Data+Scaling+Laws+in+Imitation+Learning+for+Robotic+Manipulation%22+OR+ti%3A%22Data+Selection+via+Optimal+Control+for+Language+Models%22+OR+ti%3A%22Data+Shapley+in+One+Training+Run%22+OR+ti%3A%22DeepLTL+Learning+to+Efficiently+Satisfy+Complex+LTL+Specifications+for+Multi+Task+RL%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:18:50.567967+00:00",
+  "bytes": 12100,
+  "sha256": "747072e3f579294eed033fa2ae2c6ebe3b0670a27b747a3a12598b4ac6ec02ca",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-8471d638bbfb35ffe385.gz"
+}

@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22What+should+a+neuron+aim+for+Designing+local+objective+functions+based+on+information%22+OR+ti%3A%22When+Selection+Meets+Intervention+Additional+Complexities+in+Causal+Discovery%22+OR+ti%3A%22When+is+Task+Vector+Provably+Effective+for+Model+Editing+A+Generalization+Analysis+of%22+OR+ti%3A%22Wide+Neural+Networks+Trained+with+Weight+Decay+Provably+Exhibit+Neural+Collapse%22+OR+ti%3A%22WizardMath+Empowering+Mathematical+Reasoning+for+Large+Language+Models+via+Reinforced+Evol+Instruct%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22What+should+a+neuron+aim+for+Designing+local+objective+functions+based+on+information%22+OR+ti%3A%22When+Selection+Meets+Intervention+Additional+Complexities+in+Causal+Discovery%22+OR+ti%3A%22When+is+Task+Vector+Provably+Effective+for+Model+Editing+A+Generalization+Analysis+of%22+OR+ti%3A%22Wide+Neural+Networks+Trained+with+Weight+Decay+Provably+Exhibit+Neural+Collapse%22+OR+ti%3A%22WizardMath+Empowering+Mathematical+Reasoning+for+Large+Language+Models+via+Reinforced+Evol+Instruct%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:21:07.135330+00:00",
+  "bytes": 14525,
+  "sha256": "e5f4ac07d9f7c64387efe854c6d1622065dd2824a4239004133590ce6a8b1a84",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-5f7382fb6e999129d6a4.gz"
+}

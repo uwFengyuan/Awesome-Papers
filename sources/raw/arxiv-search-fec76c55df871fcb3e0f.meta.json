@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Emergence+of+Biased+Consensus+in+Multi+Agent+LLM+Debates%22+OR+ti%3A%22Error+Propagation+in+Dynamic+Programming+From+Stochastic+Control+to+American+Option+Pricing%22+OR+ti%3A%22Evaluating+Contextual+Illegality+AI+Compliance+in+Corporate+Law+Scenarios%22+OR+ti%3A%22Evolving+Quantitative+Reasoning+through+Self+Play+in+Digital+Twin+Markets%22+OR+ti%3A%22Expanding+the+Chaos+Neural+Operator+for+Stochastic+Partial+Differential+Equations%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Emergence+of+Biased+Consensus+in+Multi+Agent+LLM+Debates%22+OR+ti%3A%22Error+Propagation+in+Dynamic+Programming+From+Stochastic+Control+to+American+Option+Pricing%22+OR+ti%3A%22Evaluating+Contextual+Illegality+AI+Compliance+in+Corporate+Law+Scenarios%22+OR+ti%3A%22Evolving+Quantitative+Reasoning+through+Self+Play+in+Digital+Twin+Markets%22+OR+ti%3A%22Expanding+the+Chaos+Neural+Operator+for+Stochastic+Partial+Differential+Equations%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:19.767143+00:00",
+  "bytes": 7876,
+  "sha256": "73a4d1ac0df77397d7f94130b76fef27a3b107823379cf2fc152abc6853f2877",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-fec76c55df871fcb3e0f.gz"
+}

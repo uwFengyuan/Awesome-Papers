@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Steering+Protein+Family+Design+through+Profile+Bayesian+Flow%22+OR+ti%3A%22Subgraph+Federated+Learning+for+Local+Generalization%22+OR+ti%3A%22SymmetricDiffusers+Learning+Discrete+Diffusion+Models+over+Finite+Symmetric+Groups%22+OR+ti%3A%22SymmetricDiffusers+Learning+Discrete+Diffusion+on+Finite+Symmetric+Groups%22+OR+ti%3A%22Syntactic+and+Semantic+Control+of+Large+Language+Models+via+Sequential+Monte+Carlo%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Steering+Protein+Family+Design+through+Profile+Bayesian+Flow%22+OR+ti%3A%22Subgraph+Federated+Learning+for+Local+Generalization%22+OR+ti%3A%22SymmetricDiffusers+Learning+Discrete+Diffusion+Models+over+Finite+Symmetric+Groups%22+OR+ti%3A%22SymmetricDiffusers+Learning+Discrete+Diffusion+on+Finite+Symmetric+Groups%22+OR+ti%3A%22Syntactic+and+Semantic+Control+of+Large+Language+Models+via+Sequential+Monte+Carlo%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:28.144192+00:00",
+  "bytes": 11364,
+  "sha256": "205c6f50eea14ee02828ffa5501eb71be6f7575b9b37d59ffc5a75b15b019731",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-3ffd65f727333d47b30a.gz"
+}

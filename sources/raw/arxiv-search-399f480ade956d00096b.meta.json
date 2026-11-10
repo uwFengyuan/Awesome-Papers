@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Batched+Low+Rank+Adaptation+of+Foundation+Models%22+OR+ti%3A%22Beyond+Weisfeiler+Lehman+A+Quantitative+Framework+for+GNN+Expressiveness%22+OR+ti%3A%22BooookScore+A+systematic+exploration+of+book+length+summarization+in+the+era+of+LLMs%22+OR+ti%3A%22Cameras+as+Rays+Pose+Estimation+via+Ray+Diffusion%22+OR+ti%3A%22Candidate+Label+Set+Pruning+A+Data+centric+Perspective+for+Deep+Partial+label+Learning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Batched+Low+Rank+Adaptation+of+Foundation+Models%22+OR+ti%3A%22Beyond+Weisfeiler+Lehman+A+Quantitative+Framework+for+GNN+Expressiveness%22+OR+ti%3A%22BooookScore+A+systematic+exploration+of+book+length+summarization+in+the+era+of+LLMs%22+OR+ti%3A%22Cameras+as+Rays+Pose+Estimation+via+Ray+Diffusion%22+OR+ti%3A%22Candidate+Label+Set+Pruning+A+Data+centric+Perspective+for+Deep+Partial+label+Learning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:20.778544+00:00",
+  "bytes": 11207,
+  "sha256": "7bf7cf6c9220ec9e73a603fd09dd151684c788ab2c80fdb6cfa347a68fe9ce8d",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-399f480ade956d00096b.gz"
+}

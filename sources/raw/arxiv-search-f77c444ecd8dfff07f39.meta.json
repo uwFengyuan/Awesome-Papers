@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AutoDiscovery+Open+ended+Scientific+Discovery+via+Bayesian+Surprise%22+OR+ti%3A%22Beyond+the+Average+Distributional+Causal+Inference+under+Imperfect+Compliance%22+OR+ti%3A%22BlockScan+Detecting+Anomalies+in+Blockchain+Transactions%22+OR+ti%3A%22Conservative+classifiers+do+consistently+well+with+improving+agents+characterizing+statistical+and+online+learning%22+OR+ti%3A%22General+Reasoner+Advancing+LLM+Reasoning+Across+All+Domains%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22AutoDiscovery+Open+ended+Scientific+Discovery+via+Bayesian+Surprise%22+OR+ti%3A%22Beyond+the+Average+Distributional+Causal+Inference+under+Imperfect+Compliance%22+OR+ti%3A%22BlockScan+Detecting+Anomalies+in+Blockchain+Transactions%22+OR+ti%3A%22Conservative+classifiers+do+consistently+well+with+improving+agents+characterizing+statistical+and+online+learning%22+OR+ti%3A%22General+Reasoner+Advancing+LLM+Reasoning+Across+All+Domains%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T15:04:24.802171+00:00",
+  "bytes": 14483,
+  "sha256": "db6380f315dbe0a4e067e653f14974e7f47f3a2ee91ce691c19af0e8a9d2afe5",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-f77c444ecd8dfff07f39.gz"
+}

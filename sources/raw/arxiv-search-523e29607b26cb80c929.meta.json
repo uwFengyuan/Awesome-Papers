@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22How+Well+Do+Supervised+3D+Models+Transfer+to+Medical+Imaging+Tasks%22+OR+ti%3A%22Improved+Active+Learning+via+Dependent+Leverage+Score+Sampling%22+OR+ti%3A%22Improved+Techniques+for+Training+Consistency+Models%22+OR+ti%3A%22Improving+Convergence+and+Generalization+Using+Parameter+Symmetries%22+OR+ti%3A%22InfoBatch+Lossless+Training+Speed+Up+by+Unbiased+Dynamic+Data+Pruning%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22How+Well+Do+Supervised+3D+Models+Transfer+to+Medical+Imaging+Tasks%22+OR+ti%3A%22Improved+Active+Learning+via+Dependent+Leverage+Score+Sampling%22+OR+ti%3A%22Improved+Techniques+for+Training+Consistency+Models%22+OR+ti%3A%22Improving+Convergence+and+Generalization+Using+Parameter+Symmetries%22+OR+ti%3A%22InfoBatch+Lossless+Training+Speed+Up+by+Unbiased+Dynamic+Data+Pruning%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:17:42.316761+00:00",
+  "bytes": 12851,
+  "sha256": "ba5f591f46f8bcc584de520452ffbf957f38280ef7c4122ecce15becf29e2ace",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-523e29607b26cb80c929.gz"
+}

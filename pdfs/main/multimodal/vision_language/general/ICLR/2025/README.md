@@ -1,0 +1,14 @@
+# pdfs/main/multimodal/vision_language/general/ICLR/2025
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2025 | ICLR | main | [Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities](https://openreview.net/forum?id=84pDoCD4lH) | [Long] [Main] [Oral] [Poster] | Multimodal & Vision-Language / 多模态与视觉语言 / Vision-Language Models / 视觉语言模型 / General / 综合 | [PDF](2025_ICLR_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__iclr-2025-84pDoCD4lH__Do_Vision_Language_Models_Represent_Space_and_How_Evaluating_Spatial_Frame_of_Reference_under_Ambigu.pdf) |
+| 2025 | ICLR | main | [Dynamic Multimodal Evaluation with Flexible Complexity by Vision-Language Bootstrapping](https://openreview.net/forum?id=2025-Oral--1837-1e3783cb) | [Long] [Main] [Oral] [Poster] | Multimodal & Vision-Language / 多模态与视觉语言 / Vision-Language Models / 视觉语言模型 / General / 综合 | [PDF](2025_ICLR_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__iclr-2025-2025-Oral--1837-1e3783cb__Dynamic_Multimodal_Evaluation_with_Flexible_Complexity_by_Vision_Language_Bootstrapping.pdf) |
+| 2025 | ICLR | main | [Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents](https://openreview.net/forum?id=kxnoqaisCT) | [Long] [Main] [Oral] [Poster] | Multimodal & Vision-Language / 多模态与视觉语言 / Vision-Language Models / 视觉语言模型 / General / 综合 | [PDF](2025_ICLR_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__iclr-2025-kxnoqaisCT__Navigating_the_Digital_World_as_Humans_Do_Universal_Visual_Grounding_for_GUI_Agents.pdf) |
+| 2025 | ICLR | main | [PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://openreview.net/forum?id=2025-Oral--6633-4a104a66) | [Long] [Main] [Oral] [Poster] | Multimodal & Vision-Language / 多模态与视觉语言 / Vision-Language Models / 视觉语言模型 / General / 综合 | [Online](https://openreview.net/pdf?id=2025-Oral--6633-4a104a66) |
+| 2025 | ICLR | main | [SANA: Efficient High-Resolution Text-to-Image Synthesis with Linear Diffusion Transformers](https://openreview.net/forum?id=2025-Oral--1682-bcd7d440) | [Long] [Main] [Oral] [Poster] | Multimodal & Vision-Language / 多模态与视觉语言 / Vision-Language Models / 视觉语言模型 / General / 综合 | [Online](https://openreview.net/pdf?id=2025-Oral--1682-bcd7d440) |
+| 2025 | ICLR | main | [Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models](https://openreview.net/forum?id=2025-Oral--1079-cfac3531) | [Long] [Main] [Oral] [Poster] | Multimodal & Vision-Language / 多模态与视觉语言 / Vision-Language Models / 视觉语言模型 / General / 综合 | [PDF](2025_ICLR_%5BLong%5D%5BMain%5D%5BOral%5D%5BPoster%5D__iclr-2025-2025-Oral--1079-cfac3531__Two_Effects_One_Trigger_On_the_Modality_Gap_Object_Bias_and_Information_Imbalance_in_Contrastive_Vis.pdf) |

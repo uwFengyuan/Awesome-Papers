@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22REEF+Representation+Encoding+Fingerprints+for+Large+Language+Models%22+OR+ti%3A%22REGENT+A+Retrieval+Augmented+Generalist+Agent+That+Can+Act+In+Context+in+New%22+OR+ti%3A%22RM+Bench+Benchmarking+Reward+Models+of+Language+Models+with+Subtlety+and+Style%22+OR+ti%3A%22RMP+SAM+Towards+Real+Time+Multi+Purpose+Segment+Anything%22+OR+ti%3A%22ReGenesis+LLMs+can+Grow+into+Reasoning+Generalists+via+Self+Improvement%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22REEF+Representation+Encoding+Fingerprints+for+Large+Language+Models%22+OR+ti%3A%22REGENT+A+Retrieval+Augmented+Generalist+Agent+That+Can+Act+In+Context+in+New%22+OR+ti%3A%22RM+Bench+Benchmarking+Reward+Models+of+Language+Models+with+Subtlety+and+Style%22+OR+ti%3A%22RMP+SAM+Towards+Real+Time+Multi+Purpose+Segment+Anything%22+OR+ti%3A%22ReGenesis+LLMs+can+Grow+into+Reasoning+Generalists+via+Self+Improvement%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:20:07.852732+00:00",
+  "bytes": 13695,
+  "sha256": "a031873fcd398e8fbed1d0337c1727b5e47cf628bed962051d9db7a050624937",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-33ac7525695b5e1eaab2.gz"
+}

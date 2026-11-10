@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Knowing+Your+Target+Target+Aware+Transformer+Makes+Better+Spatio+Temporal+Video+Grounding%22+OR+ti%3A%22Knowledge+Entropy+Decay+during+Language+Model+Pretraining+Hinders+New+Knowledge+Acquisition%22+OR+ti%3A%22LARP+Tokenizing+Videos+with+a+Learned+Autoregressive+Generative+Prior%22+OR+ti%3A%22LLM+SR+Scientific+Equation+Discovery+via+Programming+with+Large+Language+Models%22+OR+ti%3A%22LVSM+A+Large+View+Synthesis+Model+with+Minimal+3D+Inductive+Bias%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Knowing+Your+Target+Target+Aware+Transformer+Makes+Better+Spatio+Temporal+Video+Grounding%22+OR+ti%3A%22Knowledge+Entropy+Decay+during+Language+Model+Pretraining+Hinders+New+Knowledge+Acquisition%22+OR+ti%3A%22LARP+Tokenizing+Videos+with+a+Learned+Autoregressive+Generative+Prior%22+OR+ti%3A%22LLM+SR+Scientific+Equation+Discovery+via+Programming+with+Large+Language+Models%22+OR+ti%3A%22LVSM+A+Large+View+Synthesis+Model+with+Minimal+3D+Inductive+Bias%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:19:24.069723+00:00",
+  "bytes": 15182,
+  "sha256": "bfc4e5dda748905970dddf43765e27f37f1a3a2955eb5429d25cc24b87868ecc",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-2d3b9fda4e2dd3083d0b.gz"
+}

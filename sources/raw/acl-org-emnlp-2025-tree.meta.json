@@ -1,0 +1,10 @@
+{
+  "url": "https://api.github.com/repos/acl-org/emnlp-2025/git/trees/HEAD?recursive=1",
+  "final_url": "https://api.github.com/repos/acl-org/emnlp-2025/git/trees/HEAD?recursive=1",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:04:24.354250+00:00",
+  "bytes": 635639,
+  "sha256": "8a33594239ef35ff19e0e5deefedcf01df3d81c914d13378a374563f4ac491f6",
+  "content_type": "application/json; charset=utf-8",
+  "cache_path": "sources/raw/acl-org-emnlp-2025-tree.gz"
+}

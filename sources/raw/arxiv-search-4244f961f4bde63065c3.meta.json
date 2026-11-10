@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Human+Level+Performance+in+No+Press+Diplomacy+via+Equilibrium+Search%22+OR+ti%3A%22Image+GANs+meet+Differentiable+Rendering+for+Inverse+Graphics+and+Interpretable+3D+Neural+Rendering%22+OR+ti%3A%22Improved+Autoregressive+Modeling+with+Distribution+Smoothing%22+OR+ti%3A%22Iterated+learning+for+emergent+systematicity+in+VQA%22+OR+ti%3A%22Learning+Cross+Domain+Correspondence+for+Control+with+Dynamics+Cycle+Consistency%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Human+Level+Performance+in+No+Press+Diplomacy+via+Equilibrium+Search%22+OR+ti%3A%22Image+GANs+meet+Differentiable+Rendering+for+Inverse+Graphics+and+Interpretable+3D+Neural+Rendering%22+OR+ti%3A%22Improved+Autoregressive+Modeling+with+Distribution+Smoothing%22+OR+ti%3A%22Iterated+learning+for+emergent+systematicity+in+VQA%22+OR+ti%3A%22Learning+Cross+Domain+Correspondence+for+Control+with+Dynamics+Cycle+Consistency%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:15:08.005662+00:00",
+  "bytes": 12529,
+  "sha256": "4adba1acaf70b78a099044f4b55994799feda66926681330935ccde6586c6495",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-4244f961f4bde63065c3.gz"
+}

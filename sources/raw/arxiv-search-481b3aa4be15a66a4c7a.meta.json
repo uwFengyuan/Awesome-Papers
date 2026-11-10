@@ -1,0 +1,10 @@
+{
+  "url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Adaptive+Test+Case+Discovery+for+LLM+Assisted+Decision+Making+in+High+Stakes+Domains%22+OR+ti%3A%22AlphaPROBE+Alpha+Mining+via+principled+retriveval+and+on+graph+biased+evolution%22+OR+ti%3A%22AlphaPareto+Formulaic+Alpha+Discovery+with+LLM+Guided+Multi+Objective+Reinforcement+Learning%22+OR+ti%3A%22Counterfactual+Online+Conformal+Prediction+Under+Adaptive+Logging%22+OR+ti%3A%22Crowded+in+B+Space+Calibrating+Shared+Directions+for+LoRA+Merging%22&max_results=30",
+  "final_url": "https://export.arxiv.org/api/query?search_query=ti%3A%22Adaptive+Test+Case+Discovery+for+LLM+Assisted+Decision+Making+in+High+Stakes+Domains%22+OR+ti%3A%22AlphaPROBE+Alpha+Mining+via+principled+retriveval+and+on+graph+biased+evolution%22+OR+ti%3A%22AlphaPareto+Formulaic+Alpha+Discovery+with+LLM+Guided+Multi+Objective+Reinforcement+Learning%22+OR+ti%3A%22Counterfactual+Online+Conformal+Prediction+Under+Adaptive+Logging%22+OR+ti%3A%22Crowded+in+B+Space+Calibrating+Shared+Directions+for+LoRA+Merging%22&max_results=30",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-11-01T13:13:47.125351+00:00",
+  "bytes": 7595,
+  "sha256": "5007e1854985b5e902b01c6e0f3123b7b57402756cd0db9e85d75fc9d618e0c1",
+  "content_type": "application/atom+xml; charset=utf-8",
+  "cache_path": "sources/raw/arxiv-search-481b3aa4be15a66a4c7a.gz"
+}

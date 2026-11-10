@@ -1,0 +1,194 @@
+[
+  {
+    "venue": "ICML",
+    "year": 2026,
+    "title": "Asynchronous Methods for Deep Reinforcement Learning",
+    "award": "Test of Time",
+    "url": "https://proceedings.mlr.press/v48/mniha16.html",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICLR",
+    "year": 2026,
+    "title": "Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks",
+    "award": "Test of Time",
+    "url": "https://arxiv.org/abs/1511.06434",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICLR",
+    "year": 2026,
+    "title": "Continuous control with deep reinforcement learning",
+    "award": "Test of Time",
+    "url": "https://arxiv.org/abs/1509.02971",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2025,
+    "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+    "award": "Test of Time",
+    "url": "https://arxiv.org/abs/1506.01497",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2025,
+    "title": "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift",
+    "award": "Test of Time Award",
+    "url": "https://icml.cc/virtual/2025/test-of-time/39855",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2025,
+    "title": "Trust Region Policy Optimization",
+    "award": "Test of Time Honorable Mention",
+    "url": "https://icml.cc/virtual/2025/talk/52802",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2025,
+    "title": "Variational Inference with Normalizing Flows",
+    "award": "Test of Time Honorable Mention",
+    "url": "https://icml.cc/virtual/2025/talk/52803",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2024,
+    "title": "Generative Adversarial Networks",
+    "award": "Test of Time",
+    "url": "https://arxiv.org/abs/1406.2661",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2024,
+    "title": "Sequence to Sequence Learning with Neural Networks",
+    "award": "Test of Time",
+    "url": "https://arxiv.org/abs/1409.3215",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ACL",
+    "year": 2024,
+    "title": "Measures of Distributional Similarities",
+    "award": "Test of Time",
+    "url": "https://aclanthology.org/P99-1004.pdf",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ACL",
+    "year": 2024,
+    "title": "GloVe: Global Vectors for Word Representation",
+    "award": "Test of Time",
+    "url": "https://aclanthology.org/D14-1162/",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2024,
+    "title": "DeCAF: A Deep Convolutional Activation Feature for Generic Visual Recognition",
+    "award": "Test of Time",
+    "url": "https://arxiv.org/abs/1310.1531",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2023,
+    "title": "Distributed Representations of Words and Phrases and their Compositionality",
+    "award": "Test of Time",
+    "url": "https://arxiv.org/abs/1310.4546",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2023,
+    "title": "Learning Fair Representations",
+    "award": "Test of Time",
+    "url": "http://proceedings.mlr.press/v28/zemel13",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2022,
+    "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+    "award": "Test of Time",
+    "url": "https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2022,
+    "title": "Poisoning Attacks Against Support Vector Machines",
+    "award": "Test of Time",
+    "url": "https://arxiv.org/abs/1206.6389",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2021,
+    "title": "Online Learning for Latent Dirichlet Allocation",
+    "award": "Test of Time",
+    "url": "https://proceedings.neurips.cc/paper/2010/file/71f6278d140af599e06ad9bf1ba03cb0-Paper.pdf",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2021,
+    "title": "Bayesian Learning via Stochastic Gradient Langevin Dynamics",
+    "award": "Test of Time",
+    "url": "https://icml.cc/2011/papers/398_icmlpaper.pdf",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2020,
+    "title": "HOGWILD!: A Lock-Free Approach to Parallelizing Stochastic Gradient Descent",
+    "award": "Test of Time",
+    "url": "https://papers.nips.cc/paper/2011/hash/218a0aefd1d1a4be65601cc6ddc1520e-Abstract.html",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2020,
+    "title": "Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design",
+    "award": "Test of Time",
+    "url": "https://icml.cc/Conferences/2010/papers/422.pdf",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2019,
+    "title": "Dual Averaging Method for Regularized Stochastic Learning and Online Optimization",
+    "award": "Test of Time",
+    "url": "https://papers.nips.cc/paper/2009/hash/7cce53cf90577442771720a370c3c723-Abstract.html",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2018,
+    "title": "A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning",
+    "award": "Test of Time",
+    "url": "https://dl.acm.org/doi/abs/10.1145/1390156.1390177",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "NeurIPS",
+    "year": 2017,
+    "title": "Random Features for Large-Scale Kernel Machines",
+    "award": "Test of Time",
+    "url": "https://papers.nips.cc/paper/2007/file/013a006f03dbc5392effeb8f18fda755-Paper.pdf",
+    "discovery_source": "https://aibestpape.rs/"
+  },
+  {
+    "venue": "ICML",
+    "year": 2017,
+    "title": "Combining Online and Offline Knowledge in UCT",
+    "award": "Test of Time",
+    "url": "https://dl.acm.org/doi/abs/10.1145/1273496.1273531",
+    "discovery_source": "https://aibestpape.rs/"
+  }
+]

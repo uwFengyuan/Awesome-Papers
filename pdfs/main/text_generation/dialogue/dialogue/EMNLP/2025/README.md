@@ -1,0 +1,14 @@
+# pdfs/main/text_generation/dialogue/dialogue/EMNLP/2025
+
+
+
+Papers / 论文：**6**
+
+| Year | Venue | Track | Paper | Labels | Topic / task | PDF |
+|---|---|---|---|---|---|---|
+| 2025 | EMNLP | main | [Computational Analysis of Conversation Dynamics through Participant Responsivity](https://aclanthology.org/2025.emnlp-main.1798/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.1798__Computational_Analysis_of_Conversation_Dynamics_through_Participant_Responsivity.pdf) |
+| 2025 | EMNLP | main | [ConsistentChat: Building Skeleton-Guided Consistent Multi-Turn Dialogues for Large Language Models from Scratch](https://aclanthology.org/2025.emnlp-main.424/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.424__ConsistentChat_Building_Skeleton_Guided_Consistent_Multi_Turn_Dialogues_for_Large_Language_Models_fr.pdf) |
+| 2025 | EMNLP | main | [Learning Contextual Retrieval for Robust Conversational Search](https://aclanthology.org/2025.emnlp-main.602/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.602__Learning_Contextual_Retrieval_for_Robust_Conversational_Search.pdf) |
+| 2025 | EMNLP | main | [NormGenesis: Multicultural Dialogue Generation via Exemplar-Guided Social Norm Modeling and Violation Recovery](https://aclanthology.org/2025.emnlp-main.1715/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.1715__NormGenesis_Multicultural_Dialogue_Generation_via_Exemplar_Guided_Social_Norm_Modeling_and_Violation.pdf) |
+| 2025 | EMNLP | main | [Proactive Assistant Dialogue Generation from Streaming Egocentric Videos](https://aclanthology.org/2025.emnlp-main.605/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.605__Proactive_Assistant_Dialogue_Generation_from_Streaming_Egocentric_Videos.pdf) |
+| 2025 | EMNLP | main | [Proactive Hearing Assistants that Isolate Egocentric Conversations](https://aclanthology.org/2025.emnlp-main.1289/) | [Long] [Main] [Oral] | Text Generation, Summarization & Dialogue / 文本生成、摘要与对话 / Dialogue & Conversation / 对话 / Dialogue / 对话 | [PDF](2025_EMNLP_%5BLong%5D%5BMain%5D%5BOral%5D__2025.emnlp-main.1289__Proactive_Hearing_Assistants_that_Isolate_Egocentric_Conversations.pdf) |
